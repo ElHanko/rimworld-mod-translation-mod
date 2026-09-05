@@ -195,7 +195,10 @@ def current_def_xml_files(mod_root):
         ):
             continue
 
-        if "Defs" not in parts:
+        if (
+            "Defs" not in parts
+            and "News" not in parts
+        ):
             continue
 
         old_version = any(
