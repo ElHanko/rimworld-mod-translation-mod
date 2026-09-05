@@ -221,3 +221,11 @@ git status --ignored --short
 
 `validate` prüft die XML-Dateien; Placeholder-Prüfung erfolgt beim Build,
 Laufzeitverifikation nach einem neuen Report mit `refresh` und `verify`.
+
+## Lizenz
+
+Der eigene Code und die in diesem Repository erstellten Übersetzungen stehen
+unter der [MIT-Lizenz](LICENSE).
+
+RimWorld sowie die übersetzten Mods und deren ursprüngliche Inhalte sind nicht
+Bestandteil dieser Lizenz und unterliegen den Rechten ihrer jeweiligen Urheber.
