@@ -1,0 +1,34 @@
+# Local reports, analysis and work data (keep only the empty directory)
+/data/*
+!/data/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Temporary files and local backups
+*.tmp
+*.temp
+*~
+*.bak
+*.backup
+*.orig
+/tmp/
+/temp/
+/backups/
+
+# Editor and operating system files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Local configuration and private environment values
+.env
+.env.*
+*.local
+*.local.*

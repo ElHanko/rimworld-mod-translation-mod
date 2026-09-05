@@ -1,0 +1,2562 @@
+{
+  "package_id": "jaxe.rimhud",
+  "name": "RimHUD",
+  "entries": [
+    {
+      "english": "{0} {1}",
+      "key": "RimHUD.Language.AdjectiveNounOrder",
+      "package_id": "jaxe.rimhud",
+      "source": "Base.xml:6",
+      "type": "keyed",
+      "german": "{0} {1}",
+      "review": false
+    },
+    {
+      "english": "Show HUD",
+      "key": "RimHUD.ToggleHud",
+      "package_id": "jaxe.rimhud",
+      "source": "Base.xml:8",
+      "type": "keyed",
+      "german": "HUD anzeigen",
+      "review": false
+    },
+    {
+      "english": "Rules: {0}",
+      "key": "RimHUD.Integration.PawnRules.RuleNameFormat",
+      "package_id": "jaxe.rimhud",
+      "source": "Integration.xml:4",
+      "type": "keyed",
+      "german": "Regeln: {0}",
+      "review": false
+    },
+    {
+      "english": "RimHUD",
+      "key": "RimHUD.Interface.Dialog_Config.Title",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:11",
+      "type": "keyed",
+      "german": "RimHUD",
+      "review": false
+    },
+    {
+      "english": "Use default",
+      "key": "RimHUD.Interface.Dialog_Config.SetToDefault",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:12",
+      "type": "keyed",
+      "german": "Standard verwenden",
+      "review": false
+    },
+    {
+      "english": "Config folder",
+      "key": "RimHUD.Interface.Dialog_Config.OpenFolder",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:13",
+      "type": "keyed",
+      "german": "Konfigurationsordner",
+      "review": false
+    },
+    {
+      "english": "(Modified)",
+      "key": "RimHUD.Interface.Dialog_Config.Modified",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:14",
+      "type": "keyed",
+      "german": "(Geändert)",
+      "review": false
+    },
+    {
+      "english": "Design",
+      "key": "RimHUD.Interface.Dialog_Config.Tab_Design",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:16",
+      "type": "keyed",
+      "german": "Design",
+      "review": false
+    },
+    {
+      "english": "Colors",
+      "key": "RimHUD.Interface.Dialog_Config.Tab_Colors",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:18",
+      "type": "keyed",
+      "german": "Farben",
+      "review": false
+    },
+    {
+      "english": "Edit color for {0}",
+      "key": "RimHUD.Interface.Dialog_Config.Tab_Colors.Editor",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:19",
+      "type": "keyed",
+      "german": "Farbe für {0} bearbeiten",
+      "review": false
+    },
+    {
+      "english": "Hue",
+      "key": "RimHUD.Interface.Dialog_Config.Tab_Colors.Hue",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:20",
+      "type": "keyed",
+      "german": "Farbton",
+      "review": false
+    },
+    {
+      "english": "Saturation",
+      "key": "RimHUD.Interface.Dialog_Config.Tab_Colors.Saturation",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:21",
+      "type": "keyed",
+      "german": "Sättigung",
+      "review": false
+    },
+    {
+      "english": "Lightness",
+      "key": "RimHUD.Interface.Dialog_Config.Tab_Colors.Lightness",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:22",
+      "type": "keyed",
+      "german": "Helligkeit",
+      "review": false
+    },
+    {
+      "english": "Alpha",
+      "key": "RimHUD.Interface.Dialog_Config.Tab_Colors.Alpha",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:23",
+      "type": "keyed",
+      "german": "Alpha",
+      "review": false
+    },
+    {
+      "english": "RGBA",
+      "key": "RimHUD.Interface.Dialog_Config.Tab_Colors.RGBA",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:24",
+      "type": "keyed",
+      "german": "RGBA",
+      "review": false
+    },
+    {
+      "english": "Content",
+      "key": "RimHUD.Interface.Dialog_Config.Tab_Content",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:26",
+      "type": "keyed",
+      "german": "Inhalt",
+      "review": false
+    },
+    {
+      "english": "Docked layers",
+      "key": "RimHUD.Interface.Dialog_Config.Tab_Content.Layers.Docked",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:28",
+      "type": "keyed",
+      "german": "Angedockte Ebenen",
+      "review": false
+    },
+    {
+      "english": "Floating layers",
+      "key": "RimHUD.Interface.Dialog_Config.Tab_Content.Layers.Floating",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:29",
+      "type": "keyed",
+      "german": "Schwebende Ebenen",
+      "review": false
+    },
+    {
+      "english": "Presets",
+      "key": "RimHUD.Interface.Dialog_Config.Tab_Content.Presets",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:31",
+      "type": "keyed",
+      "german": "Voreinstellungen",
+      "review": false
+    },
+    {
+      "english": "Select preset...",
+      "key": "RimHUD.Interface.Dialog_Config.Tab_Content.Presets.Select",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:32",
+      "type": "keyed",
+      "german": "Voreinstellung auswählen...",
+      "review": false
+    },
+    {
+      "english": "Save preset",
+      "key": "RimHUD.Interface.Dialog_Config.Tab_Content.Presets.Save",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:33",
+      "type": "keyed",
+      "german": "Voreinstellung speichern",
+      "review": false
+    },
+    {
+      "english": "Manage presets",
+      "key": "RimHUD.Interface.Dialog_Config.Tab_Content.Presets.Manage",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:34",
+      "type": "keyed",
+      "german": "Voreinstellungen verwalten",
+      "review": false
+    },
+    {
+      "english": "[Default]",
+      "key": "RimHUD.Interface.Dialog_Config.Tab_Content.Presets.Default",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:35",
+      "type": "keyed",
+      "german": "[Standard]",
+      "review": false
+    },
+    {
+      "english": "Layer",
+      "key": "RimHUD.Interface.Dialog_Config.Tab_Content.Layer",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:37",
+      "type": "keyed",
+      "german": "Ebene",
+      "review": false
+    },
+    {
+      "english": "Move up",
+      "key": "RimHUD.Interface.Dialog_Config.Tab_Content.Layer.MoveUp",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:38",
+      "type": "keyed",
+      "german": "Nach oben",
+      "review": false
+    },
+    {
+      "english": "Move down",
+      "key": "RimHUD.Interface.Dialog_Config.Tab_Content.Layer.MoveDown",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:39",
+      "type": "keyed",
+      "german": "Nach unten",
+      "review": false
+    },
+    {
+      "english": "OK",
+      "key": "RimHUD.Interface.Button.OK",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:4",
+      "type": "keyed",
+      "german": "OK",
+      "review": false
+    },
+    {
+      "english": "Remove",
+      "key": "RimHUD.Interface.Dialog_Config.Tab_Content.Layer.Remove",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:40",
+      "type": "keyed",
+      "german": "Entfernen",
+      "review": false
+    },
+    {
+      "english": "Add stack",
+      "key": "RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddStack",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:41",
+      "type": "keyed",
+      "german": "Stapel hinzufügen",
+      "review": false
+    },
+    {
+      "english": "A stack can contain other stacks or panels. The contents of the stack will be evenly distributed horizontally or vertically depending on the stack type chosen.",
+      "key": "RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddStackDesc",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:42",
+      "type": "keyed",
+      "german": "Ein Stapel kann weitere Stapel oder Panels enthalten. Der Inhalt des Stapels wird je nach gewähltem Stapeltyp gleichmäßig horizontal oder vertikal verteilt.",
+      "review": false
+    },
+    {
+      "english": "Add panel",
+      "key": "RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddPanel",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:43",
+      "type": "keyed",
+      "german": "Panel hinzufügen",
+      "review": false
+    },
+    {
+      "english": "A panel evenly displays rows of elements vertically.",
+      "key": "RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddPanelDesc",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:44",
+      "type": "keyed",
+      "german": "Ein Panel zeigt Zeilen mit Elementen gleichmäßig vertikal an.",
+      "review": false
+    },
+    {
+      "english": "Add row",
+      "key": "RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddRow",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:45",
+      "type": "keyed",
+      "german": "Zeile hinzufügen",
+      "review": false
+    },
+    {
+      "english": "A row holds elements and if contains more than one they will be displayed evenly horizontally.",
+      "key": "RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddRowDesc",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:46",
+      "type": "keyed",
+      "german": "Eine Zeile enthält Elemente. Enthält sie mehr als ein Element, werden diese gleichmäßig horizontal verteilt.",
+      "review": false
+    },
+    {
+      "english": "Add common",
+      "key": "RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddWidget",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:48",
+      "type": "keyed",
+      "german": "Allgemeines hinzufügen",
+      "review": false
+    },
+    {
+      "english": "Add third-party",
+      "key": "RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddThirdParty",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:49",
+      "type": "keyed",
+      "german": "Drittanbieter hinzufügen",
+      "review": false
+    },
+    {
+      "english": "Yes",
+      "key": "RimHUD.Interface.Button.Yes",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:5",
+      "type": "keyed",
+      "german": "Ja",
+      "review": false
+    },
+    {
+      "english": "Add stat",
+      "key": "RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddStat",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:50",
+      "type": "keyed",
+      "german": "Statistik hinzufügen",
+      "review": false
+    },
+    {
+      "english": "Add record",
+      "key": "RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddRecord",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:51",
+      "type": "keyed",
+      "german": "Aufzeichnung hinzufügen",
+      "review": false
+    },
+    {
+      "english": "Add bar",
+      "key": "RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddNeed",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:52",
+      "type": "keyed",
+      "german": "Balken hinzufügen",
+      "review": false
+    },
+    {
+      "english": "Add skill/training",
+      "key": "RimHUD.Interface.Dialog_Config.Tab_Content.Layer.AddSkillOrTraining",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:53",
+      "type": "keyed",
+      "german": "Fähigkeit/Training hinzufügen",
+      "review": false
+    },
+    {
+      "english": "Selected: ",
+      "key": "RimHUD.Interface.Dialog_Config.Tab_Content.Selected",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:55",
+      "type": "keyed",
+      "german": "Ausgewählt: ",
+      "review": false
+    },
+    {
+      "english": "Fill height",
+      "key": "RimHUD.Interface.Dialog_Config.Tab_Content.Selected.Filled",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:56",
+      "type": "keyed",
+      "german": "Höhe ausfüllen",
+      "review": false
+    },
+    {
+      "english": "If checked the panel or stack will stretch to fill the remaining vertical space.\\n\\nIf unchecked it will size the height to its content",
+      "key": "RimHUD.Interface.Dialog_Config.Tab_Content.Selected.FilledDesc",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:57",
+      "type": "keyed",
+      "german": "Wenn aktiviert, wird das Panel oder der Stapel gestreckt, um den verbleibenden vertikalen Platz auszufüllen.\\n\\nWenn deaktiviert, richtet sich die Höhe nach dem Inhalt.",
+      "review": false
+    },
+    {
+      "english": "User presets",
+      "key": "RimHUD.Interface.Dialog_ManagePresets.Title",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:59",
+      "type": "keyed",
+      "german": "Benutzer-Voreinstellungen",
+      "review": false
+    },
+    {
+      "english": "No",
+      "key": "RimHUD.Interface.Button.No",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:6",
+      "type": "keyed",
+      "german": "Nein",
+      "review": false
+    },
+    {
+      "english": "Delete selected",
+      "key": "RimHUD.Interface.Dialog_ManagePresets.Delete",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:60",
+      "type": "keyed",
+      "german": "Auswahl löschen",
+      "review": false
+    },
+    {
+      "english": "Save preset",
+      "key": "RimHUD.Interface.Dialog_SavePreset.Title",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:62",
+      "type": "keyed",
+      "german": "Voreinstellung speichern",
+      "review": false
+    },
+    {
+      "english": "Name",
+      "key": "RimHUD.Interface.Dialog_SavePreset.Name",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:63",
+      "type": "keyed",
+      "german": "Name",
+      "review": false
+    },
+    {
+      "english": "Include docked",
+      "key": "RimHUD.Interface.Dialog_SavePreset.IncludeDocked",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:64",
+      "type": "keyed",
+      "german": "Angedockte einbeziehen",
+      "review": false
+    },
+    {
+      "english": "Include floating",
+      "key": "RimHUD.Interface.Dialog_SavePreset.IncludeFloating",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:65",
+      "type": "keyed",
+      "german": "Schwebende einbeziehen",
+      "review": false
+    },
+    {
+      "english": "Include height",
+      "key": "RimHUD.Interface.Dialog_SavePreset.IncludeHeight",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:66",
+      "type": "keyed",
+      "german": "Höhe einbeziehen",
+      "review": false
+    },
+    {
+      "english": "Include width",
+      "key": "RimHUD.Interface.Dialog_SavePreset.IncludeWidth",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:67",
+      "type": "keyed",
+      "german": "Breite einbeziehen",
+      "review": false
+    },
+    {
+      "english": "Include minimum tabs",
+      "key": "RimHUD.Interface.Dialog_SavePreset.IncludeTabs",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:68",
+      "type": "keyed",
+      "german": "Mindestanzahl Tabs einbeziehen",
+      "review": false
+    },
+    {
+      "english": "Include text sizes",
+      "key": "RimHUD.Interface.Dialog_SavePreset.IncludeTextSizes",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:69",
+      "type": "keyed",
+      "german": "Textgrößen einbeziehen",
+      "review": false
+    },
+    {
+      "english": "Cancel",
+      "key": "RimHUD.Interface.Button.Cancel",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:7",
+      "type": "keyed",
+      "german": "Abbrechen",
+      "review": false
+    },
+    {
+      "english": "RimHUD updated to version {0} and required that its configuration be reset to default.",
+      "key": "RimHUD.Interface.Alert.ConfigReset",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:71",
+      "type": "keyed",
+      "german": "RimHUD wurde auf Version {0} aktualisiert und musste seine Konfiguration auf die Standardwerte zurücksetzen.",
+      "review": false
+    },
+    {
+      "english": "Are you sure you want to revert all settings to default?",
+      "key": "RimHUD.Interface.Alert.SetToDefault",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:72",
+      "type": "keyed",
+      "german": "Möchtest du wirklich alle Einstellungen auf die Standardwerte zurücksetzen?",
+      "review": false
+    },
+    {
+      "english": "This preset contained invalid elements or elements from third-party mods that are no longer active.\\n\\nThe active layout has been reset to default.",
+      "key": "RimHUD.Interface.Alert.InvalidPreset",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:73",
+      "type": "keyed",
+      "german": "Diese Voreinstellung enthielt ungültige Elemente oder Elemente von Drittanbieter-Mods, die nicht mehr aktiv sind.\\n\\nDas aktive Layout wurde auf die Standardwerte zurückgesetzt.",
+      "review": false
+    },
+    {
+      "english": "Preset reset to default.",
+      "key": "RimHUD.Interface.Alert.PresetDefaultLoaded",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:74",
+      "type": "keyed",
+      "german": "Voreinstellung auf Standard zurückgesetzt.",
+      "review": false
+    },
+    {
+      "english": "Preset for '{0}' loaded.",
+      "key": "RimHUD.Interface.Alert.PresetLoaded",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:75",
+      "type": "keyed",
+      "german": "Voreinstellung für '{0}' geladen.",
+      "review": false
+    },
+    {
+      "english": "Preset '{0}' saved.",
+      "key": "RimHUD.Interface.Alert.PresetSaved",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:76",
+      "type": "keyed",
+      "german": "Voreinstellung '{0}' gespeichert.",
+      "review": false
+    },
+    {
+      "english": "Are you sure you want to delete the preset '{0}'?",
+      "key": "RimHUD.Interface.Alert.ConfirmDelete",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:77",
+      "type": "keyed",
+      "german": "Möchtest du die Voreinstellung '{0}' wirklich löschen?",
+      "review": false
+    },
+    {
+      "english": "This feature is not yet implemented",
+      "key": "RimHUD.Interface.Alert.NotImplemented",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:78",
+      "type": "keyed",
+      "german": "Diese Funktion ist noch nicht implementiert",
+      "review": false
+    },
+    {
+      "english": "More features coming soon™",
+      "key": "RimHUD.Interface.Alert.MoreComingSoon",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:79",
+      "type": "keyed",
+      "german": "Weitere Funktionen folgen bald™",
+      "review": false
+    },
+    {
+      "english": "Close",
+      "key": "RimHUD.Interface.Button.Close",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:8",
+      "type": "keyed",
+      "german": "Schließen",
+      "review": false
+    },
+    {
+      "english": "To access RimHUD's configuration, hover over the inspect pane while a character is selected and click the gear button.",
+      "key": "RimHUD.Interface.Settings.Tutorial",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:81",
+      "type": "keyed",
+      "german": "Um die RimHUD-Konfiguration zu öffnen, fahre bei ausgewähltem Charakter mit der Maus über den Inspektionsbereich und klicke auf die Zahnrad-Schaltfläche.",
+      "review": false
+    },
+    {
+      "english": "You should see a short tutorial on how to do this in game as soon as the inspect pane is displayed.",
+      "key": "RimHUD.Interface.Settings.TutorialStart",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:82",
+      "type": "keyed",
+      "german": "Sobald der Inspektionsbereich angezeigt wird, solltest du im Spiel eine kurze Anleitung dazu sehen.",
+      "review": false
+    },
+    {
+      "english": "For a reminder on how to do this, click the button below.",
+      "key": "RimHUD.Interface.Settings.TutorialComplete",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:83",
+      "type": "keyed",
+      "german": "Klicke zur Erinnerung auf die Schaltfläche unten.",
+      "review": false
+    },
+    {
+      "english": "Reset tutorial",
+      "key": "RimHUD.Interface.Settings.ResetTutorial",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:84",
+      "type": "keyed",
+      "german": "Anleitung zurücksetzen",
+      "review": false
+    },
+    {
+      "english": "click this gear icon to access this mod's config",
+      "key": "RimHUD.Interface.Tutorial.InspectPane",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:86",
+      "type": "keyed",
+      "german": "Klicke auf dieses Zahnradsymbol, um die Konfiguration dieser Mod zu öffnen",
+      "review": false
+    },
+    {
+      "english": "hover over this pane to see the config button",
+      "key": "RimHUD.Interface.Tutorial.InspectPaneHover",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:87",
+      "type": "keyed",
+      "german": "Fahre mit der Maus über diesen Bereich, um die Konfigurationsschaltfläche anzuzeigen",
+      "review": false
+    },
+    {
+      "english": "Here are all of RimHUD's settings allowing modification of the style and content displayed.",
+      "key": "RimHUD.Interface.Tutorial.DialogConfig1",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:88",
+      "type": "keyed",
+      "german": "Hier findest du alle RimHUD-Einstellungen, mit denen sich Stil und angezeigte Inhalte anpassen lassen.",
+      "review": false
+    },
+    {
+      "english": "In the content tab, you can save and load layout presets and there may be pre-built presets included for other mods you are using.",
+      "key": "RimHUD.Interface.Tutorial.DialogConfig2",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:89",
+      "type": "keyed",
+      "german": "Im Tab „Inhalt“ kannst du Layout-Voreinstellungen speichern und laden. Für andere von dir verwendete Mods können bereits fertige Voreinstellungen enthalten sein.",
+      "review": false
+    },
+    {
+      "english": "Save",
+      "key": "RimHUD.Interface.Button.Save",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:9",
+      "type": "keyed",
+      "german": "Speichern",
+      "review": false
+    },
+    {
+      "english": "When you are finished here, click here to close the window.",
+      "key": "RimHUD.Interface.Tutorial.DialogConfig3",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:90",
+      "type": "keyed",
+      "german": "Wenn du hier fertig bist, klicke hier, um das Fenster zu schließen.",
+      "review": false
+    },
+    {
+      "english": "Click to continue...",
+      "key": "RimHUD.Interface.Tutorial.DialogConfigContinue",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:91",
+      "type": "keyed",
+      "german": "Zum Fortfahren klicken...",
+      "review": false
+    },
+    {
+      "english": "No more notifications like this will appear to ensure a vanilla-like experience. Enjoy!",
+      "key": "RimHUD.Interface.Tutorial.DialogConfigEnd",
+      "package_id": "jaxe.rimhud",
+      "source": "Interface.xml:92",
+      "type": "keyed",
+      "german": "Es werden keine weiteren Hinweise dieser Art angezeigt, damit das Spielerlebnis möglichst wie im Basisspiel bleibt. Viel Spaß!",
+      "review": false
+    },
+    {
+      "english": "Horizontal stack",
+      "key": "RimHUD.Layout.HStack",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:10",
+      "type": "keyed",
+      "german": "Horizontaler Stapel",
+      "review": false
+    },
+    {
+      "english": "Horizontal stack (filled)",
+      "key": "RimHUD.Layout.HStackFilled",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:11",
+      "type": "keyed",
+      "german": "Horizontaler Stapel (ausgefüllt)",
+      "review": false
+    },
+    {
+      "english": "Panel",
+      "key": "RimHUD.Layout.Panel",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:12",
+      "type": "keyed",
+      "german": "Panel",
+      "review": false
+    },
+    {
+      "english": "Panel (filled)",
+      "key": "RimHUD.Layout.PanelFilled",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:13",
+      "type": "keyed",
+      "german": "Panel (ausgefüllt)",
+      "review": false
+    },
+    {
+      "english": "Row",
+      "key": "RimHUD.Layout.Row",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:14",
+      "type": "keyed",
+      "german": "Zeile",
+      "review": false
+    },
+    {
+      "english": "Filled",
+      "key": "RimHUD.Layout.ContainerFilled",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:15",
+      "type": "keyed",
+      "german": "Ausgefüllt",
+      "review": false
+    },
+    {
+      "english": "Blank",
+      "key": "RimHUD.Layout.Blank",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:17",
+      "type": "keyed",
+      "german": "Leer",
+      "review": false
+    },
+    {
+      "english": "Line separator",
+      "key": "RimHUD.Layout.Separator",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:18",
+      "type": "keyed",
+      "german": "Linientrenner",
+      "review": false
+    },
+    {
+      "english": "Name as header",
+      "key": "RimHUD.Layout.NameHeader",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:19",
+      "type": "keyed",
+      "german": "Name als Überschrift",
+      "review": false
+    },
+    {
+      "english": "Food selector",
+      "key": "RimHUD.Layout.Food",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:20",
+      "type": "keyed",
+      "german": "Nahrungsauswahl",
+      "review": false
+    },
+    {
+      "english": "Outfit selector",
+      "key": "RimHUD.Layout.Outfit",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:21",
+      "type": "keyed",
+      "german": "Kleidungsauswahl",
+      "review": false
+    },
+    {
+      "english": "Rules selector",
+      "key": "RimHUD.Layout.Rules",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:22",
+      "type": "keyed",
+      "german": "Regelauswahl",
+      "review": false
+    },
+    {
+      "english": "Area selector",
+      "key": "RimHUD.Layout.Area",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:23",
+      "type": "keyed",
+      "german": "Bereichsauswahl",
+      "review": false
+    },
+    {
+      "english": "Timetable selector",
+      "key": "RimHUD.Layout.Timetable",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:24",
+      "type": "keyed",
+      "german": "Zeitplanauswahl",
+      "review": false
+    },
+    {
+      "english": "Relation, kind and faction",
+      "key": "RimHUD.Layout.RelationKindAndFaction",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:25",
+      "type": "keyed",
+      "german": "Beziehung, Art und Fraktion",
+      "review": false
+    },
+    {
+      "english": "Gender, race and age",
+      "key": "RimHUD.Layout.GenderRaceAndAge",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:26",
+      "type": "keyed",
+      "german": "Geschlecht, Spezies und Alter",
+      "review": false
+    },
+    {
+      "english": "Health bar",
+      "key": "RimHUD.Layout.Health",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:27",
+      "type": "keyed",
+      "german": "Gesundheitsbalken",
+      "review": false
+    },
+    {
+      "english": "Health condition",
+      "key": "RimHUD.Layout.HealthCondition",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:28",
+      "type": "keyed",
+      "german": "Gesundheitszustand",
+      "review": false
+    },
+    {
+      "english": "Mental condition",
+      "key": "RimHUD.Layout.MentalCondition",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:29",
+      "type": "keyed",
+      "german": "Psychischer Zustand",
+      "review": false
+    },
+    {
+      "english": "{0} bar",
+      "key": "RimHUD.Layout.Need",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:31",
+      "type": "keyed",
+      "german": "{0}-Balken",
+      "review": false
+    },
+    {
+      "english": "Mood bar",
+      "key": "RimHUD.Layout.NeedMood",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:32",
+      "type": "keyed",
+      "german": "Stimmungsbalken",
+      "review": false
+    },
+    {
+      "english": "Food bar",
+      "key": "RimHUD.Layout.NeedFood",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:33",
+      "type": "keyed",
+      "german": "Nahrungsbalken",
+      "review": false
+    },
+    {
+      "english": "Sleep bar",
+      "key": "RimHUD.Layout.NeedSleep",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:34",
+      "type": "keyed",
+      "german": "Schlafbalken",
+      "review": false
+    },
+    {
+      "english": "Energy bar [Biotech DLC]",
+      "key": "RimHUD.Layout.NeedEnergy",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:35",
+      "type": "keyed",
+      "german": "Energiebalken [Biotech-DLC]",
+      "review": false
+    },
+    {
+      "english": "Recreation bar",
+      "key": "RimHUD.Layout.NeedRecreation",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:36",
+      "type": "keyed",
+      "german": "Erholungsbalken",
+      "review": false
+    },
+    {
+      "english": "Suppression bar [Ideology DLC]",
+      "key": "RimHUD.Layout.NeedSuppression",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:37",
+      "type": "keyed",
+      "german": "Unterdrückungsbalken [Ideology-DLC]",
+      "review": false
+    },
+    {
+      "english": "{0} skill",
+      "key": "RimHUD.Layout.Skill",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:39",
+      "type": "keyed",
+      "german": "Fähigkeit {0}",
+      "review": false
+    },
+    {
+      "english": "User",
+      "key": "RimHUD.Layout.UserPreset",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:4",
+      "type": "keyed",
+      "german": "Benutzer",
+      "review": false
+    },
+    {
+      "english": "Shooting skill",
+      "key": "RimHUD.Layout.SkillShooting",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:40",
+      "type": "keyed",
+      "german": "Schießen",
+      "review": false
+    },
+    {
+      "english": "Melee skill",
+      "key": "RimHUD.Layout.SkillMelee",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:41",
+      "type": "keyed",
+      "german": "Nahkampf",
+      "review": false
+    },
+    {
+      "english": "Construction skill",
+      "key": "RimHUD.Layout.SkillConstruction",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:42",
+      "type": "keyed",
+      "german": "Bauen",
+      "review": false
+    },
+    {
+      "english": "Mining skill",
+      "key": "RimHUD.Layout.SkillMining",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:43",
+      "type": "keyed",
+      "german": "Bergbau",
+      "review": false
+    },
+    {
+      "english": "Cooking skill",
+      "key": "RimHUD.Layout.SkillCooking",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:44",
+      "type": "keyed",
+      "german": "Kochen",
+      "review": false
+    },
+    {
+      "english": "Plants skill",
+      "key": "RimHUD.Layout.SkillPlants",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:45",
+      "type": "keyed",
+      "german": "Pflanzen",
+      "review": false
+    },
+    {
+      "english": "Animals skill",
+      "key": "RimHUD.Layout.SkillAnimals",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:46",
+      "type": "keyed",
+      "german": "Tiere",
+      "review": false
+    },
+    {
+      "english": "Crafting skill",
+      "key": "RimHUD.Layout.SkillCrafting",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:47",
+      "type": "keyed",
+      "german": "Herstellen",
+      "review": false
+    },
+    {
+      "english": "Artistic skill",
+      "key": "RimHUD.Layout.SkillArtistic",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:48",
+      "type": "keyed",
+      "german": "Kunst",
+      "review": false
+    },
+    {
+      "english": "Medicine skill",
+      "key": "RimHUD.Layout.SkillMedicine",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:49",
+      "type": "keyed",
+      "german": "Medizin",
+      "review": false
+    },
+    {
+      "english": "Integrated",
+      "key": "RimHUD.Layout.IntegratedPreset",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:5",
+      "type": "keyed",
+      "german": "Integriert",
+      "review": false
+    },
+    {
+      "english": "Social skill",
+      "key": "RimHUD.Layout.SkillSocial",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:50",
+      "type": "keyed",
+      "german": "Sozial",
+      "review": false
+    },
+    {
+      "english": "Intellectual skill",
+      "key": "RimHUD.Layout.SkillIntellectual",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:51",
+      "type": "keyed",
+      "german": "Intellekt",
+      "review": false
+    },
+    {
+      "english": "{0} training",
+      "key": "RimHUD.Layout.Training",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:53",
+      "type": "keyed",
+      "german": "Training: {0}",
+      "review": false
+    },
+    {
+      "english": "Tameness training",
+      "key": "RimHUD.Layout.TrainingTameness",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:54",
+      "type": "keyed",
+      "german": "Zähmtraining",
+      "review": false
+    },
+    {
+      "english": "Obedience training",
+      "key": "RimHUD.Layout.TrainingObedience",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:55",
+      "type": "keyed",
+      "german": "Gehorsamstraining",
+      "review": false
+    },
+    {
+      "english": "Release training",
+      "key": "RimHUD.Layout.TrainingRelease",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:56",
+      "type": "keyed",
+      "german": "Freilass-Training",
+      "review": false
+    },
+    {
+      "english": "Rescue training",
+      "key": "RimHUD.Layout.TrainingRescue",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:57",
+      "type": "keyed",
+      "german": "Rettungstraining",
+      "review": false
+    },
+    {
+      "english": "Haul training",
+      "key": "RimHUD.Layout.TrainingHaul",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:58",
+      "type": "keyed",
+      "german": "Transporttraining",
+      "review": false
+    },
+    {
+      "english": "Attack Target training [Odyssey DLC]",
+      "key": "RimHUD.Layout.TrainingAttackTarget",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:59",
+      "type": "keyed",
+      "german": "Angriffsziel-Training [Odyssey-DLC]",
+      "review": false
+    },
+    {
+      "english": "Comfort training [Odyssey DLC]",
+      "key": "RimHUD.Layout.TrainingComfort",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:60",
+      "type": "keyed",
+      "german": "Komforttraining [Odyssey-DLC]",
+      "review": false
+    },
+    {
+      "english": "Dig training [Odyssey DLC]",
+      "key": "RimHUD.Layout.TrainingDig",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:61",
+      "type": "keyed",
+      "german": "Grabtraining [Odyssey-DLC]",
+      "review": false
+    },
+    {
+      "english": "Egg Spew training [Odyssey DLC]",
+      "key": "RimHUD.Layout.TrainingEggSpew",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:62",
+      "type": "keyed",
+      "german": "Eierspeien-Training [Odyssey-DLC]",
+      "review": false
+    },
+    {
+      "english": "Forage training [Odyssey DLC]",
+      "key": "RimHUD.Layout.TrainingForage",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:63",
+      "type": "keyed",
+      "german": "Nahrungssuche-Training [Odyssey-DLC]",
+      "review": false
+    },
+    {
+      "english": "Sludge Spew training [Odyssey DLC]",
+      "key": "RimHUD.Layout.TrainingSludgeSpew",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:64",
+      "type": "keyed",
+      "german": "Schlammspeien-Training [Odyssey-DLC]",
+      "review": false
+    },
+    {
+      "english": "Terror Roar training [Odyssey DLC]",
+      "key": "RimHUD.Layout.TrainingTerrorRoar",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:65",
+      "type": "keyed",
+      "german": "Schreckensbrüllen-Training [Odyssey-DLC]",
+      "review": false
+    },
+    {
+      "english": "Thrumbo Roar training [Odyssey DLC]",
+      "key": "RimHUD.Layout.TrainingThrumboRoar",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:66",
+      "type": "keyed",
+      "german": "Thrumbo-Brüllen-Training [Odyssey-DLC]",
+      "review": false
+    },
+    {
+      "english": "War Trumpet training [Odyssey DLC]",
+      "key": "RimHUD.Layout.TrainingWarTrumpet",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:67",
+      "type": "keyed",
+      "german": "Kriegstrompeten-Training [Odyssey-DLC]",
+      "review": false
+    },
+    {
+      "english": "{0} stat",
+      "key": "RimHUD.Layout.Stat",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:69",
+      "type": "keyed",
+      "german": "Statistik: {0}",
+      "review": false
+    },
+    {
+      "english": "Root",
+      "key": "RimHUD.Layout.Root",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:7",
+      "type": "keyed",
+      "german": "Wurzel",
+      "review": false
+    },
+    {
+      "english": "{0} record",
+      "key": "RimHUD.Layout.Record",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:70",
+      "type": "keyed",
+      "german": "Aufzeichnung: {0}",
+      "review": false
+    },
+    {
+      "english": "Master",
+      "key": "RimHUD.Layout.Master",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:72",
+      "type": "keyed",
+      "german": "Meister",
+      "review": false
+    },
+    {
+      "english": "Activity",
+      "key": "RimHUD.Layout.Activity",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:73",
+      "type": "keyed",
+      "german": "Aktivität",
+      "review": false
+    },
+    {
+      "english": "Queued",
+      "key": "RimHUD.Layout.Queued",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:74",
+      "type": "keyed",
+      "german": "In Warteschlange",
+      "review": false
+    },
+    {
+      "english": "Equipped",
+      "key": "RimHUD.Layout.Equipped",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:75",
+      "type": "keyed",
+      "german": "Ausgerüstet",
+      "review": false
+    },
+    {
+      "english": "Carrying",
+      "key": "RimHUD.Layout.Carrying",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:76",
+      "type": "keyed",
+      "german": "Trägt",
+      "review": false
+    },
+    {
+      "english": "Traits",
+      "key": "RimHUD.Layout.Traits",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:77",
+      "type": "keyed",
+      "german": "Eigenschaften",
+      "review": false
+    },
+    {
+      "english": "Component information",
+      "key": "RimHUD.Layout.CompInfo",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:78",
+      "type": "keyed",
+      "german": "Komponenteninformationen",
+      "review": false
+    },
+    {
+      "english": "Prisoner information",
+      "key": "RimHUD.Layout.PrisonerInfo",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:79",
+      "type": "keyed",
+      "german": "Gefangeneninformationen",
+      "review": false
+    },
+    {
+      "english": "Vertical stack",
+      "key": "RimHUD.Layout.VStack",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:8",
+      "type": "keyed",
+      "german": "Vertikaler Stapel",
+      "review": false
+    },
+    {
+      "english": "Player Humanlike",
+      "key": "RimHUD.Layout.Target.PlayerHumanlike",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:81",
+      "type": "keyed",
+      "german": "Spieler-Mensch",
+      "review": false
+    },
+    {
+      "english": "Other Humanlike",
+      "key": "RimHUD.Layout.Target.OtherHumanlike",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:82",
+      "type": "keyed",
+      "german": "Anderer Mensch",
+      "review": false
+    },
+    {
+      "english": "Player Creature",
+      "key": "RimHUD.Layout.Target.PlayerCreature",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:83",
+      "type": "keyed",
+      "german": "Spieler-Kreatur",
+      "review": false
+    },
+    {
+      "english": "Other Creature",
+      "key": "RimHUD.Layout.Target.OtherCreature",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:84",
+      "type": "keyed",
+      "german": "Andere Kreatur",
+      "review": false
+    },
+    {
+      "english": "Low to Main color (Default)",
+      "key": "RimHUD.Layout.BarColorStyle.LowToMain",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:86",
+      "type": "keyed",
+      "german": "Niedrige bis Hauptfarbe (Standard)",
+      "review": false
+    },
+    {
+      "english": "Low color only",
+      "key": "RimHUD.Layout.BarColorStyle.LowOnly",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:87",
+      "type": "keyed",
+      "german": "Nur niedrige Farbe",
+      "review": false
+    },
+    {
+      "english": "Main to Low color",
+      "key": "RimHUD.Layout.BarColorStyle.MainToLow",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:88",
+      "type": "keyed",
+      "german": "Haupt- bis niedrige Farbe",
+      "review": false
+    },
+    {
+      "english": "Main color only",
+      "key": "RimHUD.Layout.BarColorStyle.MainOnly",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:89",
+      "type": "keyed",
+      "german": "Nur Hauptfarbe",
+      "review": false
+    },
+    {
+      "english": "Vertical stack (filled)",
+      "key": "RimHUD.Layout.VStackFilled",
+      "package_id": "jaxe.rimhud",
+      "source": "Layout.xml:9",
+      "type": "keyed",
+      "german": "Vertikaler Stapel (ausgefüllt)",
+      "review": false
+    },
+    {
+      "english": "former {0}",
+      "key": "RimHUD.Model.Former",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:10",
+      "type": "keyed",
+      "german": "ehemals {0}",
+      "review": false
+    },
+    {
+      "english": "wild",
+      "key": "RimHUD.Model.Faction.Wild",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:12",
+      "type": "keyed",
+      "german": "wild",
+      "review": false
+    },
+    {
+      "english": "allied",
+      "key": "RimHUD.Model.Faction.Allied",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:13",
+      "type": "keyed",
+      "german": "verbündet",
+      "review": false
+    },
+    {
+      "english": "enemy",
+      "key": "RimHUD.Model.Faction.Enemy",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:14",
+      "type": "keyed",
+      "german": "Feind",
+      "review": false
+    },
+    {
+      "english": "hostile",
+      "key": "RimHUD.Model.Faction.Hostile",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:15",
+      "type": "keyed",
+      "german": "feindlich",
+      "review": false
+    },
+    {
+      "english": "independent",
+      "key": "RimHUD.Model.Faction.Independent",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:16",
+      "type": "keyed",
+      "german": "unabhängig",
+      "review": false
+    },
+    {
+      "english": "captured",
+      "key": "RimHUD.Model.Faction.Prisoner",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:17",
+      "type": "keyed",
+      "german": "gefangen",
+      "review": false
+    },
+    {
+      "english": "enslaved",
+      "key": "RimHUD.Model.Faction.Slave",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:18",
+      "type": "keyed",
+      "german": "versklavt",
+      "review": false
+    },
+    {
+      "english": "creature",
+      "key": "RimHUD.Model.Creature.Wild",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:20",
+      "type": "keyed",
+      "german": "Kreatur",
+      "review": false
+    },
+    {
+      "english": "animal",
+      "key": "RimHUD.Model.Creature.Tame",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:21",
+      "type": "keyed",
+      "german": "Tier",
+      "review": false
+    },
+    {
+      "english": "stray",
+      "key": "RimHUD.Model.Creature.Stray",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:22",
+      "type": "keyed",
+      "german": "streunend",
+      "review": false
+    },
+    {
+      "english": "pet",
+      "key": "RimHUD.Model.Creature.Pet",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:23",
+      "type": "keyed",
+      "german": "Haustier",
+      "review": false
+    },
+    {
+      "english": "exotic pet",
+      "key": "RimHUD.Model.Creature.ExoticPet",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:24",
+      "type": "keyed",
+      "german": "exotisches Haustier",
+      "review": false
+    },
+    {
+      "english": "predator",
+      "key": "RimHUD.Model.Creature.Predator",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:25",
+      "type": "keyed",
+      "german": "Raubtier",
+      "review": false
+    },
+    {
+      "english": "hunting animal",
+      "key": "RimHUD.Model.Creature.Hunt",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:26",
+      "type": "keyed",
+      "german": "Jagdtier",
+      "review": false
+    },
+    {
+      "english": "pack animal",
+      "key": "RimHUD.Model.Creature.Pack",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:27",
+      "type": "keyed",
+      "german": "Lasttier",
+      "review": false
+    },
+    {
+      "english": "farm animal",
+      "key": "RimHUD.Model.Creature.Farm",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:28",
+      "type": "keyed",
+      "german": "Nutztier",
+      "review": false
+    },
+    {
+      "english": "herd animal",
+      "key": "RimHUD.Model.Creature.Herd",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:29",
+      "type": "keyed",
+      "german": "Herdentier",
+      "review": false
+    },
+    {
+      "english": "insect",
+      "key": "RimHUD.Model.Creature.Insect",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:30",
+      "type": "keyed",
+      "german": "Insekt",
+      "review": false
+    },
+    {
+      "english": "mechanoid",
+      "key": "RimHUD.Model.Creature.Mechanoid",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:31",
+      "type": "keyed",
+      "german": "Mechanoid",
+      "review": false
+    },
+    {
+      "english": "unit",
+      "key": "RimHUD.Model.Creature.Unit",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:32",
+      "type": "keyed",
+      "german": "Einheit",
+      "review": false
+    },
+    {
+      "english": "entity",
+      "key": "RimHUD.Model.Creature.Entity",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:33",
+      "type": "keyed",
+      "german": "Entität",
+      "review": false
+    },
+    {
+      "english": "{0}, aged {1}",
+      "key": "RimHUD.Model.GenderRaceAndAge",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:35",
+      "type": "keyed",
+      "german": "{0}, Alter: {1}",
+      "review": false
+    },
+    {
+      "english": "today",
+      "key": "RimHUD.Model.Age.Birthday",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:36",
+      "type": "keyed",
+      "german": "heute",
+      "review": false
+    },
+    {
+      "english": "and one day",
+      "key": "RimHUD.Model.Age.Day",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:37",
+      "type": "keyed",
+      "german": "und ein Tag",
+      "review": false
+    },
+    {
+      "english": "and {0} days",
+      "key": "RimHUD.Model.Age.Days",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:38",
+      "type": "keyed",
+      "german": "und {0} Tage",
+      "review": false
+    },
+    {
+      "english": "Lifestage",
+      "key": "RimHUD.Model.Bio.Lifestage",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:4",
+      "type": "keyed",
+      "german": "Lebensphase",
+      "review": false
+    },
+    {
+      "english": "Bleeding out in {0}",
+      "key": "RimHUD.Model.Health.Bleed",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:40",
+      "type": "keyed",
+      "german": "Verblutet in {0}",
+      "review": false
+    },
+    {
+      "english": "{0} needs tending",
+      "key": "RimHUD.Model.Health.Tend",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:41",
+      "type": "keyed",
+      "german": "{0} muss behandelt werden",
+      "review": false
+    },
+    {
+      "english": "{0} conditions need tending",
+      "key": "RimHUD.Model.Health.TendPlural",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:42",
+      "type": "keyed",
+      "german": "{0} Zustände müssen behandelt werden",
+      "review": false
+    },
+    {
+      "english": "Has life-threatening {0}",
+      "key": "RimHUD.Model.Health.Threat",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:43",
+      "type": "keyed",
+      "german": "Lebensbedrohlicher Zustand: {0}",
+      "review": false
+    },
+    {
+      "english": "Has {0} life-threatening conditions",
+      "key": "RimHUD.Model.Health.ThreatPlural",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:44",
+      "type": "keyed",
+      "german": "{0} lebensbedrohliche Zustände",
+      "review": false
+    },
+    {
+      "english": "Affected by {0}",
+      "key": "RimHUD.Model.Health.Affected",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:45",
+      "type": "keyed",
+      "german": "Beeinträchtigt durch {0}",
+      "review": false
+    },
+    {
+      "english": "Affected by {0} and 1 other condition",
+      "key": "RimHUD.Model.Health.AffectedTwo",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:46",
+      "type": "keyed",
+      "german": "Beeinträchtigt durch {0} und 1 weiteren Zustand",
+      "review": false
+    },
+    {
+      "english": "Affected by {0} and {1} other conditions",
+      "key": "RimHUD.Model.Health.AffectedPlural",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:47",
+      "type": "keyed",
+      "german": "Beeinträchtigt durch {0} und {1} weitere Zustände",
+      "review": false
+    },
+    {
+      "english": "In good condition",
+      "key": "RimHUD.Model.Health.Good",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:49",
+      "type": "keyed",
+      "german": "In gutem Zustand",
+      "review": false
+    },
+    {
+      "english": "Trainability",
+      "key": "RimHUD.Model.Bio.Trainability",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:5",
+      "type": "keyed",
+      "german": "Trainierbarkeit",
+      "review": false
+    },
+    {
+      "english": "In stable condition",
+      "key": "RimHUD.Model.Health.Stable",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:50",
+      "type": "keyed",
+      "german": "In stabilem Zustand",
+      "review": false
+    },
+    {
+      "english": "In poor condition",
+      "key": "RimHUD.Model.Health.Poor",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:51",
+      "type": "keyed",
+      "german": "In schlechtem Zustand",
+      "review": false
+    },
+    {
+      "english": "In critical condition",
+      "key": "RimHUD.Model.Health.Critical",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:52",
+      "type": "keyed",
+      "german": "In kritischem Zustand",
+      "review": false
+    },
+    {
+      "english": "Change the level of medical care given to this {0}.\\n\\nCurrent level: {1}",
+      "key": "RimHUD.Model.Health.MedicalCare",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:54",
+      "type": "keyed",
+      "german": "Ändere die Stufe der medizinischen Versorgung für {0}.\\n\\nAktuelle Stufe: {1}",
+      "review": false
+    },
+    {
+      "english": "Feeling depressed",
+      "key": "RimHUD.Model.Mood.ExtremeBreakImminent",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:56",
+      "type": "keyed",
+      "german": "Fühlt sich deprimiert",
+      "review": false
+    },
+    {
+      "english": "Feeling stressed",
+      "key": "RimHUD.Model.Mood.MajorBreakImminent",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:57",
+      "type": "keyed",
+      "german": "Fühlt sich gestresst",
+      "review": false
+    },
+    {
+      "english": "Feeling anxious",
+      "key": "RimHUD.Model.Mood.MinorBreakImminent",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:58",
+      "type": "keyed",
+      "german": "Fühlt sich ängstlich",
+      "review": false
+    },
+    {
+      "english": "Feeling confident",
+      "key": "RimHUD.Model.Mood.Excellent",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:59",
+      "type": "keyed",
+      "german": "Fühlt sich zuversichtlich",
+      "review": false
+    },
+    {
+      "english": "Petness",
+      "key": "RimHUD.Model.Bio.Petness",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:6",
+      "type": "keyed",
+      "german": "Haustiereignung",
+      "review": false
+    },
+    {
+      "english": "Feeling composed",
+      "key": "RimHUD.Model.Mood.Good",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:60",
+      "type": "keyed",
+      "german": "Fühlt sich gefasst",
+      "review": false
+    },
+    {
+      "english": "Feeling steady",
+      "key": "RimHUD.Model.Mood.Neutral",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:61",
+      "type": "keyed",
+      "german": "Fühlt sich ausgeglichen",
+      "review": false
+    },
+    {
+      "english": "{0} for {1}",
+      "key": "RimHUD.Model.Mood.Inspired",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:63",
+      "type": "keyed",
+      "german": "{0} für {1}",
+      "review": false
+    },
+    {
+      "english": "Stunned for {0}",
+      "key": "RimHUD.Model.Mood.Stunned",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:64",
+      "type": "keyed",
+      "german": "Betäubt für {0}",
+      "review": false
+    },
+    {
+      "english": "Staggered for {0}",
+      "key": "RimHUD.Model.Mood.Staggered",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:65",
+      "type": "keyed",
+      "german": "Taumelt für {0}",
+      "review": false
+    },
+    {
+      "english": "Activity",
+      "key": "RimHUD.Model.Info.Activity",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:67",
+      "type": "keyed",
+      "german": "Aktivität",
+      "review": false
+    },
+    {
+      "english": "{0}\\n\\n{1}\\n\\n{2}",
+      "key": "RimHUD.Model.Info.Activity.Tooltip",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:68",
+      "type": "keyed",
+      "german": "{0}\\n\\n{1}\\n\\n{2}",
+      "review": false
+    },
+    {
+      "english": "Work type",
+      "key": "RimHUD.Model.Info.Activity.WorkType",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:69",
+      "type": "keyed",
+      "german": "Arbeitsart",
+      "review": false
+    },
+    {
+      "english": "Relevant skills",
+      "key": "RimHUD.Model.Info.Activity.RelevantSkills",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:70",
+      "type": "keyed",
+      "german": "Relevante Fähigkeiten",
+      "review": false
+    },
+    {
+      "english": "Attacking {0}",
+      "key": "RimHUD.Model.Info.Attacking",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:71",
+      "type": "keyed",
+      "german": "Greift {0} an",
+      "review": false
+    },
+    {
+      "english": "Food",
+      "key": "RimHUD.Model.Selector.FoodFormat",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:73",
+      "type": "keyed",
+      "german": "Nahrung",
+      "review": false
+    },
+    {
+      "english": "Outfit",
+      "key": "RimHUD.Model.Selector.OutfitFormat",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:74",
+      "type": "keyed",
+      "german": "Kleidung",
+      "review": false
+    },
+    {
+      "english": "Area",
+      "key": "RimHUD.Model.Selector.AreaFormat",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:75",
+      "type": "keyed",
+      "german": "Bereich",
+      "review": false
+    },
+    {
+      "english": "Schedule",
+      "key": "RimHUD.Model.Selector.TimetableFormat",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:76",
+      "type": "keyed",
+      "german": "Zeitplan",
+      "review": false
+    },
+    {
+      "english": "Set hour {0} to {1}",
+      "key": "RimHUD.Model.Selector.SetTimeAssignment",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:77",
+      "type": "keyed",
+      "german": "Stunde {0} auf {1} setzen",
+      "review": false
+    },
+    {
+      "english": "Manage...",
+      "key": "RimHUD.Model.Selector.Manage",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:78",
+      "type": "keyed",
+      "german": "Verwalten...",
+      "review": false
+    },
+    {
+      "english": "{0} {1}",
+      "key": "RimHUD.Model.RelationKindAndFaction",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:8",
+      "type": "keyed",
+      "german": "{0} {1}",
+      "review": false
+    },
+    {
+      "english": "★",
+      "key": "RimHUD.Model.Skill.PassionIndicator",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:80",
+      "type": "keyed",
+      "german": "★",
+      "review": false
+    },
+    {
+      "english": "of {0}",
+      "key": "RimHUD.Model.OfFaction",
+      "package_id": "jaxe.rimhud",
+      "source": "Model.xml:9",
+      "type": "keyed",
+      "german": "von {0}",
+      "review": false
+    },
+    {
+      "english": "Docks the HUD to the Inspect Pane.",
+      "key": "RimHUD.Theme.InspectPaneDockedDesc",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:10",
+      "type": "keyed",
+      "german": "Dockt das HUD an den Inspektionsbereich an.",
+      "review": false
+    },
+    {
+      "english": "Modify",
+      "key": "RimHUD.Theme.InspectPaneModify",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:11",
+      "type": "keyed",
+      "german": "Ändern",
+      "review": false
+    },
+    {
+      "english": "This is required for docked mode.",
+      "key": "RimHUD.Theme.InspectPaneModifyDesc",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:12",
+      "type": "keyed",
+      "german": "Dies ist für den angedockten Modus erforderlich.",
+      "review": false
+    },
+    {
+      "english": "Show character log",
+      "key": "RimHUD.Theme.InspectPaneAddLog",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:13",
+      "type": "keyed",
+      "german": "Charakterprotokoll anzeigen",
+      "review": false
+    },
+    {
+      "english": "Fills the inspect pane with the log for the selected character. Not available for docked mode.",
+      "key": "RimHUD.Theme.InspectPaneAddLogDesc",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:14",
+      "type": "keyed",
+      "german": "Füllt den Inspektionsbereich mit dem Protokoll des ausgewählten Charakters. Im angedockten Modus nicht verfügbar.",
+      "review": false
+    },
+    {
+      "english": "Pane Height",
+      "key": "RimHUD.Theme.InspectPaneHeight",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:15",
+      "type": "keyed",
+      "german": "Bereichshöhe",
+      "review": false
+    },
+    {
+      "english": "Minimum Tabs",
+      "key": "RimHUD.Theme.InspectPaneMinTabs",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:16",
+      "type": "keyed",
+      "german": "Mindestanzahl Tabs",
+      "review": false
+    },
+    {
+      "english": "Tab Width",
+      "key": "RimHUD.Theme.InspectPaneTabWidth",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:17",
+      "type": "keyed",
+      "german": "Tab-Breite",
+      "review": false
+    },
+    {
+      "english": "Floating Mode",
+      "key": "RimHUD.Theme.Floating",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:19",
+      "type": "keyed",
+      "german": "Schwebender Modus",
+      "review": false
+    },
+    {
+      "english": "Anchor",
+      "key": "RimHUD.Theme.FloatingAnchor",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:20",
+      "type": "keyed",
+      "german": "Anker",
+      "review": false
+    },
+    {
+      "english": "Top Left|Top Center|Top Right|Center Left|Center|Center Right|Bottom Left|Bottom Center|Bottom Right",
+      "key": "RimHUD.Theme.FloatingAnchors",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:21",
+      "type": "keyed",
+      "german": "Oben links|Oben Mitte|Oben rechts|Mitte links|Mitte|Mitte rechts|Unten links|Unten Mitte|Unten rechts",
+      "review": false
+    },
+    {
+      "english": "X",
+      "key": "RimHUD.Theme.FloatingOffsetX",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:22",
+      "type": "keyed",
+      "german": "X",
+      "review": false
+    },
+    {
+      "english": "Y",
+      "key": "RimHUD.Theme.FloatingOffsetY",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:23",
+      "type": "keyed",
+      "german": "Y",
+      "review": false
+    },
+    {
+      "english": "Width",
+      "key": "RimHUD.Theme.FloatingWidth",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:24",
+      "type": "keyed",
+      "german": "Breite",
+      "review": false
+    },
+    {
+      "english": "Height",
+      "key": "RimHUD.Theme.FloatingHeight",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:25",
+      "type": "keyed",
+      "german": "Höhe",
+      "review": false
+    },
+    {
+      "english": "Size",
+      "key": "RimHUD.Theme.TextStyle.Size",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:27",
+      "type": "keyed",
+      "german": "Größe",
+      "review": false
+    },
+    {
+      "english": "Line Height",
+      "key": "RimHUD.Theme.TextStyle.Height",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:28",
+      "type": "keyed",
+      "german": "Zeilenhöhe",
+      "review": false
+    },
+    {
+      "english": "Regular Text",
+      "key": "RimHUD.Theme.TextStyleRegular",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:30",
+      "type": "keyed",
+      "german": "Normaler Text",
+      "review": false
+    },
+    {
+      "english": "Header Text",
+      "key": "RimHUD.Theme.TextStyleLarge",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:31",
+      "type": "keyed",
+      "german": "Überschriftentext",
+      "review": false
+    },
+    {
+      "english": "Description Text",
+      "key": "RimHUD.Theme.TextStyleSmall",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:32",
+      "type": "keyed",
+      "german": "Beschreibungstext",
+      "review": false
+    },
+    {
+      "english": "Label Width",
+      "key": "RimHUD.Theme.LabelWidth",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:34",
+      "type": "keyed",
+      "german": "Beschriftungsbreite",
+      "review": false
+    },
+    {
+      "english": "Value Width",
+      "key": "RimHUD.Theme.ValueWidth",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:35",
+      "type": "keyed",
+      "german": "Wertbreite",
+      "review": false
+    },
+    {
+      "english": "Miscellaneous",
+      "key": "RimHUD.Theme.Miscellaneous",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:37",
+      "type": "keyed",
+      "german": "Sonstiges",
+      "review": false
+    },
+    {
+      "english": "Show Faction Icon",
+      "key": "RimHUD.Theme.ShowFactionIcon",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:39",
+      "type": "keyed",
+      "german": "Fraktionssymbol anzeigen",
+      "review": false
+    },
+    {
+      "english": "Refresh rate",
+      "key": "RimHUD.Theme.RefreshRate",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:4",
+      "type": "keyed",
+      "german": "Aktualisierungsintervall",
+      "review": false
+    },
+    {
+      "english": "Show Ideoligion Icon",
+      "key": "RimHUD.Theme.ShowIdeoligionIcon",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:40",
+      "type": "keyed",
+      "german": "Ideoligionssymbol anzeigen",
+      "review": false
+    },
+    {
+      "english": "Show Decimals",
+      "key": "RimHUD.Theme.ShowDecimals",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:41",
+      "type": "keyed",
+      "german": "Dezimalstellen anzeigen",
+      "review": false
+    },
+    {
+      "english": "Letter Padding",
+      "key": "RimHUD.Theme.LetterPadding",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:43",
+      "type": "keyed",
+      "german": "Meldungsabstand",
+      "review": false
+    },
+    {
+      "english": "Changes the distance between the letter notifications that appear on the right side of the screen. Vanilla: 12",
+      "key": "RimHUD.Theme.LetterPaddingDesc",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:44",
+      "type": "keyed",
+      "german": "Ändert den Abstand zwischen den Meldungen, die auf der rechten Bildschirmseite erscheinen. Basisspiel: 12",
+      "review": false
+    },
+    {
+      "english": "Compress Notifications",
+      "key": "RimHUD.Theme.LetterCompress",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:45",
+      "type": "keyed",
+      "german": "Benachrichtigungen komprimieren",
+      "review": false
+    },
+    {
+      "english": "Will compress any letters and alerts on the right side of the screen if they overlap with the HUD.",
+      "key": "RimHUD.Theme.LetterCompressDesc",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:46",
+      "type": "keyed",
+      "german": "Komprimiert Briefe und Warnungen auf der rechten Bildschirmseite, wenn sie sich mit dem HUD überschneiden.",
+      "review": false
+    },
+    {
+      "english": "HUD Colors",
+      "key": "RimHUD.Theme.HudColors",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:48",
+      "type": "keyed",
+      "german": "HUD-Farben",
+      "review": false
+    },
+    {
+      "english": "How often the HUD will refresh. Set this higher if experiencing any frame rate drop.",
+      "key": "RimHUD.Theme.RefreshRateDesc",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:5",
+      "type": "keyed",
+      "german": "Wie oft das HUD aktualisiert wird. Erhöhe diesen Wert, wenn die Bildrate einbricht.",
+      "review": false
+    },
+    {
+      "english": "Main text",
+      "key": "RimHUD.Theme.MainColor",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:50",
+      "type": "keyed",
+      "german": "Haupttext",
+      "review": false
+    },
+    {
+      "english": "Info text",
+      "key": "RimHUD.Theme.InfoColor",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:51",
+      "type": "keyed",
+      "german": "Infotext",
+      "review": false
+    },
+    {
+      "english": "Disabled text",
+      "key": "RimHUD.Theme.DisabledColor",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:52",
+      "type": "keyed",
+      "german": "Deaktivierter Text",
+      "review": false
+    },
+    {
+      "english": "Critical text",
+      "key": "RimHUD.Theme.CriticalColor",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:53",
+      "type": "keyed",
+      "german": "Kritischer Text",
+      "review": false
+    },
+    {
+      "english": "Warning text",
+      "key": "RimHUD.Theme.WarningColor",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:54",
+      "type": "keyed",
+      "german": "Warntext",
+      "review": false
+    },
+    {
+      "english": "Neutral text",
+      "key": "RimHUD.Theme.NeutralColor",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:55",
+      "type": "keyed",
+      "german": "Neutraler Text",
+      "review": false
+    },
+    {
+      "english": "Good text",
+      "key": "RimHUD.Theme.GoodColor",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:56",
+      "type": "keyed",
+      "german": "Guter Text",
+      "review": false
+    },
+    {
+      "english": "Excellent text",
+      "key": "RimHUD.Theme.ExcellentColor",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:57",
+      "type": "keyed",
+      "german": "Ausgezeichneter Text",
+      "review": false
+    },
+    {
+      "english": "Bar background",
+      "key": "RimHUD.Theme.BarBackgroundColor",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:58",
+      "type": "keyed",
+      "german": "Balkenhintergrund",
+      "review": false
+    },
+    {
+      "english": "Bar main",
+      "key": "RimHUD.Theme.BarMainColor",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:59",
+      "type": "keyed",
+      "german": "Balken-Hauptfarbe",
+      "review": false
+    },
+    {
+      "english": "ms",
+      "key": "RimHUD.Theme.RefreshRateUnits",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:6",
+      "type": "keyed",
+      "german": "ms",
+      "review": false
+    },
+    {
+      "english": "Bar low",
+      "key": "RimHUD.Theme.BarLowColor",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:60",
+      "type": "keyed",
+      "german": "Balken-Niedrigfarbe",
+      "review": false
+    },
+    {
+      "english": "Bar threshold",
+      "key": "RimHUD.Theme.BarThresholdColor",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:61",
+      "type": "keyed",
+      "german": "Balken-Schwellenfarbe",
+      "review": false
+    },
+    {
+      "english": "Selector Background",
+      "key": "RimHUD.Theme.SelectorBackgroundColor",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:62",
+      "type": "keyed",
+      "german": "Auswahl-Hintergrund",
+      "review": false
+    },
+    {
+      "english": "Selector Text",
+      "key": "RimHUD.Theme.SelectorTextColor",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:63",
+      "type": "keyed",
+      "german": "Auswahltext",
+      "review": false
+    },
+    {
+      "english": "Line",
+      "key": "RimHUD.Theme.LineColor",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:64",
+      "type": "keyed",
+      "german": "Linie",
+      "review": false
+    },
+    {
+      "english": "Faction Colors",
+      "key": "RimHUD.Theme.FactionColors",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:66",
+      "type": "keyed",
+      "german": "Fraktionsfarben",
+      "review": false
+    },
+    {
+      "english": "Own",
+      "key": "RimHUD.Theme.FactionOwnColor",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:67",
+      "type": "keyed",
+      "german": "Eigene",
+      "review": false
+    },
+    {
+      "english": "Allied",
+      "key": "RimHUD.Theme.FactionAlliedColor",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:68",
+      "type": "keyed",
+      "german": "Verbündet",
+      "review": false
+    },
+    {
+      "english": "Independent",
+      "key": "RimHUD.Theme.FactionIndependentColor",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:69",
+      "type": "keyed",
+      "german": "Unabhängig",
+      "review": false
+    },
+    {
+      "english": "Hostile",
+      "key": "RimHUD.Theme.FactionHostileColor",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:70",
+      "type": "keyed",
+      "german": "Feindlich",
+      "review": false
+    },
+    {
+      "english": "Wild",
+      "key": "RimHUD.Theme.FactionWildColor",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:71",
+      "type": "keyed",
+      "german": "Wild",
+      "review": false
+    },
+    {
+      "english": "Prisoner",
+      "key": "RimHUD.Theme.FactionPrisonerColor",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:72",
+      "type": "keyed",
+      "german": "Gefangener",
+      "review": false
+    },
+    {
+      "english": "Slave",
+      "key": "RimHUD.Theme.FactionSlaveColor",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:73",
+      "type": "keyed",
+      "german": "Sklave",
+      "review": false
+    },
+    {
+      "english": "Skill Colors",
+      "key": "RimHUD.Theme.SkillColors",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:75",
+      "type": "keyed",
+      "german": "Fähigkeitsfarben",
+      "review": false
+    },
+    {
+      "english": "Minor passion",
+      "key": "RimHUD.Theme.SkillMinorPassionColor",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:76",
+      "type": "keyed",
+      "german": "Kleine Leidenschaft",
+      "review": false
+    },
+    {
+      "english": "Major passion",
+      "key": "RimHUD.Theme.SkillMajorPassionColor",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:77",
+      "type": "keyed",
+      "german": "Große Leidenschaft",
+      "review": false
+    },
+    {
+      "english": "Learning saturated",
+      "key": "RimHUD.Theme.SkillSaturatedColor",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:78",
+      "type": "keyed",
+      "german": "Lernlimit erreicht",
+      "review": false
+    },
+    {
+      "english": "Currently active",
+      "key": "RimHUD.Theme.SkillActiveColor",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:79",
+      "type": "keyed",
+      "german": "Derzeit aktiv",
+      "review": false
+    },
+    {
+      "english": "Inspect Pane",
+      "key": "RimHUD.Theme.InspectPane",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:8",
+      "type": "keyed",
+      "german": "Inspektionsbereich",
+      "review": false
+    },
+    {
+      "english": "Docked Mode",
+      "key": "RimHUD.Theme.InspectPaneDocked",
+      "package_id": "jaxe.rimhud",
+      "source": "Theme.xml:9",
+      "type": "keyed",
+      "german": "Angedockter Modus",
+      "review": false
+    }
+  ]
+}

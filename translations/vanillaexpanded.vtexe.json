@@ -1,0 +1,62 @@
+{
+  "package_id": "vanillaexpanded.vtexe",
+  "name": "Vanilla Textures Expanded",
+  "entries": [
+    {
+      "def_name": "VTE_General",
+      "def_type": "ModSettingsFramework.ModOptionCategoryDef",
+      "english": "General",
+      "hint": null,
+      "package_id": "vanillaexpanded.vtexe",
+      "path": "VTE_General.label",
+      "type": "def",
+      "german": "Allgemein",
+      "review": false
+    },
+    {
+      "english": "Vanilla Textures Expanded",
+      "key": "VanillaTexturesExpanded.SettingsCategory",
+      "package_id": "vanillaexpanded.vtexe",
+      "source": "Settings.xml:4",
+      "type": "keyed",
+      "german": "Vanilla Textures Expanded",
+      "review": false
+    },
+    {
+      "english": "Menu button render mode",
+      "key": "VanillaTexturesExpanded.MainButtonRenderMode",
+      "package_id": "vanillaexpanded.vtexe",
+      "source": "Settings.xml:6",
+      "type": "keyed",
+      "german": "Darstellungsmodus der Menüschaltflächen",
+      "review": false
+    },
+    {
+      "english": "Icons and text (new)",
+      "key": "VanillaTexturesExpanded.MainButtonRenderMode_IconsAndText",
+      "package_id": "vanillaexpanded.vtexe",
+      "source": "Settings.xml:7",
+      "type": "keyed",
+      "german": "Symbole und Text (neu)",
+      "review": false
+    },
+    {
+      "english": "Icons where possible (vanilla)",
+      "key": "VanillaTexturesExpanded.MainButtonRenderMode_IconsThenText",
+      "package_id": "vanillaexpanded.vtexe",
+      "source": "Settings.xml:8",
+      "type": "keyed",
+      "german": "Symbole, wenn möglich (Vanilla)",
+      "review": false
+    },
+    {
+      "english": "Text only (classic)",
+      "key": "VanillaTexturesExpanded.MainButtonRenderMode_TextOnly",
+      "package_id": "vanillaexpanded.vtexe",
+      "source": "Settings.xml:9",
+      "type": "keyed",
+      "german": "Nur Text (klassisch)",
+      "review": false
+    }
+  ]
+}
