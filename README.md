@@ -508,6 +508,63 @@ added automatically.
 The resulting directory or ZIP can be used for private distribution, release
 packaging, or as the content basis for a Steam Workshop item.
 
+## Manual installation
+
+The exported mod can be installed without `rwgt`.
+
+First extract `RimWorld-Mod-Translations.zip`. Copy the resulting
+`RimWorld-Mod-Translations` directory into RimWorld's `Mods` directory.
+
+The final layout must contain:
+
+    RimWorld/
+    └── Mods/
+        └── RimWorld-Mod-Translations/
+            ├── About/
+            │   └── About.xml
+            ├── LICENSE
+            ├── SUPPORTED-MODS.txt
+            └── Languages/
+
+Do not create an additional nested `RimWorld-Mod-Translations` directory.
+
+### Linux
+
+For a default Steam installation, RimWorld is commonly located under one of:
+
+    ~/.local/share/Steam/steamapps/common/RimWorld/
+    ~/.steam/steam/steamapps/common/RimWorld/
+
+With a custom Steam library, use that library's
+`steamapps/common/RimWorld/Mods/` directory instead.
+
+The most reliable way to find it is Steam → RimWorld → Properties →
+Installed Files → Browse, then open the `Mods` directory.
+
+### Windows
+
+For a default Steam installation, the mod directory is commonly:
+
+    C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\
+
+With a custom Steam library, use that library's
+`steamapps\common\RimWorld\Mods\` directory instead.
+
+The most reliable way to find it is Steam → RimWorld → Properties →
+Installed Files → Browse, then open the `Mods` directory.
+
+### Enable the mod
+
+Start RimWorld, open the Mods menu and enable `RimWorld Mod Translations`.
+
+Place the translation mod after the supported source mods in the load order.
+Only source mods that are actually installed are relevant; the translation mod
+may contain translations for additional supported mods without requiring those
+mods to be installed.
+
+Select one of the languages included in the export in RimWorld's language
+settings.
+
 ## Duplicate runtime identities
 
 Global duplicate Keyed or DefInjected runtime identities are allowed only when their English source and target translation are identical.
