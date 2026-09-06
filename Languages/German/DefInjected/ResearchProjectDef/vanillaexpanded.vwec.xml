@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VWE_MassDrivers.description>Ermöglicht die Herstellung von Waffen, die Elektromagnete nutzen, um Treibspiegelgeschosse auf Hypergeschwindigkeit zu beschleunigen. Dadurch können sie dicke Panzerung und mehrere Ziele durchschlagen. Für ihre Herstellung werden außerdem fortschrittliche Komponenten benötigt.</VWE_MassDrivers.description>
+  <VWE_MassDrivers.generalRules.rulesStrings.0>subject-&gt;Geschwindigkeit als Waffe</VWE_MassDrivers.generalRules.rulesStrings.0>
+  <VWE_MassDrivers.generalRules.rulesStrings.1>subject_story-&gt;beherrschte die Physik elektromagnetischer Beschleunigung und erschuf Waffen, die Geschosse mit gewaltiger Geschwindigkeit abfeuern</VWE_MassDrivers.generalRules.rulesStrings.1>
+  <VWE_MassDrivers.generalRules.rulesStrings.2>subject_story-&gt;entwickelte Massenbeschleuniger, die selbst stärkste Panzerungen durchbrechen können und damit die Grundsätze von Kriegführung und Verteidigung neu definierten</VWE_MassDrivers.generalRules.rulesStrings.2>
+  <VWE_MassDrivers.generalRules.rulesStrings.3>subject_story-&gt;leitete eine neue Ära ein, in der kinetische Energie die Spitze militärischer Technologie bestimmt</VWE_MassDrivers.generalRules.rulesStrings.3>
+  <VWE_MassDrivers.generalRules.rulesStrings.4>subject_gerund-&gt;die unaufhaltsame Kraft der Hypergeschwindigkeit für unerreichte offensive Schlagkraft nutzend</VWE_MassDrivers.generalRules.rulesStrings.4>
+  <VWE_MassDrivers.label>Massenbeschleuniger</VWE_MassDrivers.label>
+</LanguageData>

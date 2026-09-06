@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <SpacerElectronics.description>Ermöglicht den Bau fortschrittlicher Elektronik, wie sie normalerweise nur in hochentwickelten Kolonien und Gebäuden auf Glitterwelten zu finden ist.</SpacerElectronics.description>
+  <SpacerElectronics.generalRules.rulesStrings.0>subject-&gt;Schaltkreise des Kosmos</SpacerElectronics.generalRules.rulesStrings.0>
+  <SpacerElectronics.generalRules.rulesStrings.1>subject_story-&gt;entwickelte Elektronik, die die Grenzen des Möglichen erweitert und Geräte antreibt, die einst nur der Science-Fiction vorbehalten waren</SpacerElectronics.generalRules.rulesStrings.1>
+  <SpacerElectronics.generalRules.rulesStrings.2>subject_story-&gt;brachte Technologien der Glitterwelten in die Hände der Kolonisten und bereicherte den Alltag mit unerreichter Effizienz und Einfachheit</SpacerElectronics.generalRules.rulesStrings.2>
+  <SpacerElectronics.generalRules.rulesStrings.3>subject_gerund-&gt;das volle Potenzial elektronischer Innovation erschließend</SpacerElectronics.generalRules.rulesStrings.3>
+  <SpacerElectronics.label>Raumfahrtelektronik</SpacerElectronics.label>
+  <SpacerFurniture.description>Ermöglicht den Bau fortschrittlicher Möbel, wie sie normalerweise nur in hochentwickelten Kolonien und Gebäuden auf Glitterwelten zu finden sind.</SpacerFurniture.description>
+  <SpacerFurniture.generalRules.rulesStrings.0>subject-&gt;die Zukunft einrichten</SpacerFurniture.generalRules.rulesStrings.0>
+  <SpacerFurniture.generalRules.rulesStrings.1>subject_story-&gt;enthüllte Möbeldesigns, die Eleganz mit fortschrittlicher Funktionalität verbinden und selbst den anspruchsvollsten Kolonien gerecht werden</SpacerFurniture.generalRules.rulesStrings.1>
+  <SpacerFurniture.generalRules.rulesStrings.2>subject_story-&gt;führte Wohnlösungen ein, die sich ihren Nutzern anpassen und Komfort mit modernster Technologie verbinden</SpacerFurniture.generalRules.rulesStrings.2>
+  <SpacerFurniture.generalRules.rulesStrings.3>subject_gerund-&gt;Wohnräume mit Möbeln neu definierend, die ebenso intelligent wie stilvoll sind</SpacerFurniture.generalRules.rulesStrings.3>
+  <SpacerFurniture.label>Raumfahrtmöbel</SpacerFurniture.label>
+</LanguageData>

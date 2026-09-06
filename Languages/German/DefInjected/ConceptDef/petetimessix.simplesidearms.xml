@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Concept_CEOverride.helpText>Combat Extended ist geladen. Die Inventarverwaltung von Simple Sidearms ist deaktiviert.</Concept_CEOverride.helpText>
+  <Concept_CEOverride.label>SS: CE-Patch</Concept_CEOverride.label>
+  <Concept_SidearmsDropping.helpText>Seitenwaffen mit grauem Hintergrund befinden sich derzeit im Inventar eines Kolonisten und können verwendet werden. Mit Rechtsklick ablegen.</Concept_SidearmsDropping.helpText>
+  <Concept_SidearmsDropping.label>SS: Seitenwaffen ablegen</Concept_SidearmsDropping.label>
+  <Concept_SidearmsMissing.helpText>Seitenwaffen mit dunkelviolettem Hintergrund fehlen derzeit in der Ausrüstung eines Kolonisten. Der Kolonist wird versuchen, sie bei der nächsten Gelegenheit zu ersetzen, sofern eine entsprechende Waffe gefunden werden kann. Mit Rechtsklick die Seitenwaffe vergessen.</Concept_SidearmsMissing.helpText>
+  <Concept_SidearmsMissing.label>SS: Fehlende Seitenwaffen</Concept_SidearmsMissing.label>
+  <Concept_SimpleSidearmsAdvancedDrafted.helpText>Klicke mit der linken Maustaste auf eine mitgeführte Waffe, während der Kolonist eingezogen ist, um ihre Verwendung bis zum Ende des Kampfes zu erzwingen.
+
+Beachte, dass für die meisten Änderungen an der Seitenwaffenausrüstung der Kolonist nicht eingezogen sein darf.</Concept_SimpleSidearmsAdvancedDrafted.helpText>
+  <Concept_SimpleSidearmsAdvancedDrafted.label>SS: Erweiterte Steuerung (eingezogen)</Concept_SimpleSidearmsAdvancedDrafted.label>
+  <Concept_SimpleSidearmsAdvancedMelee.helpText>Klicke mit der linken Maustaste auf eine mitgeführte Nahkampfwaffe, um sie als bevorzugte Nahkampfwaffe festzulegen. Der Kolonist verwendet diese Waffe immer dann, wenn die Waffenpräferenz auf Nahkampf eingestellt ist (oder auf Fähigkeit bei einem Kolonisten, der besser im Nahkampf ist) und wenn er in den Nahkampf gezwungen wird.
+
+Klicke erneut auf eine bevorzugte Nahkampfwaffe, um ihre Verwendung jederzeit zu erzwingen.
+
+Mit Rechtsklick die erzwungene Verwendung bzw. Bevorzugung aufheben.</Concept_SimpleSidearmsAdvancedMelee.helpText>
+  <Concept_SimpleSidearmsAdvancedMelee.label>SS: Erweiterte Steuerung (Nahkampf)</Concept_SimpleSidearmsAdvancedMelee.label>
+  <Concept_SimpleSidearmsAdvancedRanged.helpText>Klicke mit der linken Maustaste auf eine mitgeführte Fernkampfwaffe, um sie als Standard-Fernkampfwaffe festzulegen. Wenn die Waffenpräferenz des Kolonisten auf Fernkampf eingestellt ist (oder auf Fähigkeit bei einem Kolonisten, der besser im Fernkampf ist), rüstet der Kolonist diese Waffe außerhalb eines aktiven Kampfes aus. Sie wird außerdem bei der Jagd verwendet.
+
+Klicke erneut auf eine Standard-Fernkampfwaffe, um ihre Verwendung unabhängig von Reichweite oder DPS zu erzwingen.
+
+Mit Rechtsklick die erzwungene Verwendung bzw. den Standardstatus aufheben.</Concept_SimpleSidearmsAdvancedRanged.helpText>
+  <Concept_SimpleSidearmsAdvancedRanged.label>SS: Erweiterte Steuerung (Fernkampf)</Concept_SimpleSidearmsAdvancedRanged.label>
+  <Concept_SimpleSidearmsBasic.helpText>Simple Sidearms
+
+Um Waffen als Seitenwaffen auszurüsten, klicke mit der rechten Maustaste auf sie und wähle die Option „Als Seitenwaffe ausrüsten“.
+
+Standardmäßig verwenden Kolonisten die Waffenart, mit der sie am besten umgehen können oder für die sie eine Leidenschaft besitzen. Fernkämpfer wechseln außerdem zu einer Nahkampfwaffe, wenn sie in einen Nahkampf verwickelt werden. Dieses Verhalten kann in den Mod-Einstellungen geändert werden.</Concept_SimpleSidearmsBasic.helpText>
+  <Concept_SimpleSidearmsBasic.label>SS: Seitenwaffen</Concept_SimpleSidearmsBasic.label>
+  <Concept_SimpleSidearmsLosingWeapons.helpText>Abhängig von den Einstellungen kann Simple Sidearms dazu führen, dass Kolonisten ihre Waffen in verschiedenen Situationen fallen lassen (standardmäßig bei Angriffen im Nahkampf). Keine Sorge – deine Kolonisten holen ihre Waffen nach dem Kampf wieder.
+
+Diese Funktion kann angepasst werden. Weitere Informationen findest du in den Mod-Einstellungen.</Concept_SimpleSidearmsLosingWeapons.helpText>
+  <Concept_SimpleSidearmsLosingWeapons.label>SS: Waffen verlieren</Concept_SimpleSidearmsLosingWeapons.label>
+  <Concept_SimpleSidearmsPreference.helpText>Die Verwendung von Seitenwaffen kann für jeden Kolonisten individuell eingestellt werden. Folgende Optionen stehen zur Verfügung:
+Fernkampfwaffen verwenden
+Waffen verwenden, für die der Kolonist eine Leidenschaft oder hohe Fähigkeit besitzt
+Nahkampfwaffen verwenden</Concept_SimpleSidearmsPreference.helpText>
+  <Concept_SimpleSidearmsPreference.label>SS: Waffenpräferenz</Concept_SimpleSidearmsPreference.label>
+</LanguageData>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VAE_HazardProtection.description>Entwickelt Schutzanzüge, die hoher Giftbelastung und Strahlung widerstehen.</VAE_HazardProtection.description>
+  <VAE_HazardProtection.generalRules.rulesStrings.0>subject-&gt;Schutz vor Umweltgefahren</VAE_HazardProtection.generalRules.rulesStrings.0>
+  <VAE_HazardProtection.generalRules.rulesStrings.1>subject_story-&gt;entwickelte Schutzanzüge, die selbst giftige Ödlande sicher begehbar machen</VAE_HazardProtection.generalRules.rulesStrings.1>
+  <VAE_HazardProtection.generalRules.rulesStrings.2>subject_story-&gt;entwickelte Strahlenschutzschichten, die direkt in Uniformstoffe eingewebt werden</VAE_HazardProtection.generalRules.rulesStrings.2>
+  <VAE_HazardProtection.generalRules.rulesStrings.3>subject_story-&gt;schuf Schutzkleidung, die sichere Forschung selbst in tödlichen Umgebungen ermöglicht</VAE_HazardProtection.generalRules.rulesStrings.3>
+  <VAE_HazardProtection.generalRules.rulesStrings.4>subject_gerund-&gt;den Schutz vor Umweltgefahren verbessernd</VAE_HazardProtection.generalRules.rulesStrings.4>
+  <VAE_HazardProtection.label>Gefahrenschutz</VAE_HazardProtection.label>
+  <VAE_LeatherTanning.description>Erlernt das Gerben von Leder, um dickere und widerstandsfähigere Rüstungen herzustellen.</VAE_LeatherTanning.description>
+  <VAE_LeatherTanning.generalRules.rulesStrings.0>subject-&gt;die Kunst der Lederverarbeitung</VAE_LeatherTanning.generalRules.rulesStrings.0>
+  <VAE_LeatherTanning.generalRules.rulesStrings.1>subject_story-&gt;entdeckte alte Gerbrezepte wieder, die Leder außergewöhnlich widerstandsfähig machen</VAE_LeatherTanning.generalRules.rulesStrings.1>
+  <VAE_LeatherTanning.generalRules.rulesStrings.2>subject_story-&gt;führte Imprägnierungstechniken ein, die selbst widrigem Wetter standhalten</VAE_LeatherTanning.generalRules.rulesStrings.2>
+  <VAE_LeatherTanning.generalRules.rulesStrings.3>subject_story-&gt;fertigte Rüstungen, die Tradition mit den Anforderungen des Schlachtfelds verbinden</VAE_LeatherTanning.generalRules.rulesStrings.3>
+  <VAE_LeatherTanning.generalRules.rulesStrings.4>subject_gerund-&gt;die Ledergerbung meisternd</VAE_LeatherTanning.generalRules.rulesStrings.4>
+  <VAE_LeatherTanning.label>Ledergerbung</VAE_LeatherTanning.label>
+  <VAE_MlitaryCamouflage.description>Ermöglicht die Herstellung spezieller Militärkleidung, mit der sich Träger an ihre Umgebung, etwa die Vegetation, anpassen und tarnen können.</VAE_MlitaryCamouflage.description>
+  <VAE_MlitaryCamouflage.generalRules.rulesStrings.0>subject-&gt;Tarnung und Nachahmung</VAE_MlitaryCamouflage.generalRules.rulesStrings.0>
+  <VAE_MlitaryCamouflage.generalRules.rulesStrings.1>subject_story-&gt;entwickelte Ausrüstung, die ihre Umgebung nachahmt und Soldaten nahezu unsichtbar macht</VAE_MlitaryCamouflage.generalRules.rulesStrings.1>
+  <VAE_MlitaryCamouflage.generalRules.rulesStrings.2>subject_story-&gt;untersuchte die Tarnung von Tieren, um deren Muster auf militärische Kleidung zu übertragen</VAE_MlitaryCamouflage.generalRules.rulesStrings.2>
+  <VAE_MlitaryCamouflage.generalRules.rulesStrings.3>subject_story-&gt;stattete Späher mit Kleidung aus, die nahtlos mit der Umgebung verschmilzt</VAE_MlitaryCamouflage.generalRules.rulesStrings.3>
+  <VAE_MlitaryCamouflage.generalRules.rulesStrings.4>subject_gerund-&gt;die Truppen tarnend</VAE_MlitaryCamouflage.generalRules.rulesStrings.4>
+  <VAE_MlitaryCamouflage.label>Militärtarnung</VAE_MlitaryCamouflage.label>
+  <VAE_SiegebreakerArmor.description>Ermöglicht die Herstellung von Belagerungsbrecher-Rüstungen, schweren Powerrüstungen, die ihren Träger deutlich verlangsamen, dafür aber hervorragenden Schutz gegen Fernkampfangriffe bieten. Für ihre Herstellung werden außerdem fortschrittliche Komponenten benötigt.</VAE_SiegebreakerArmor.description>
+  <VAE_SiegebreakerArmor.generalRules.rulesStrings.0>subject-&gt;gepanzert voranschreiten</VAE_SiegebreakerArmor.generalRules.rulesStrings.0>
+  <VAE_SiegebreakerArmor.generalRules.rulesStrings.1>subject_story-&gt;schmiedete Rüstungen, die Artilleriebeschuss standhalten und Soldaten in wandelnde Panzer verwandeln</VAE_SiegebreakerArmor.generalRules.rulesStrings.1>
+  <VAE_SiegebreakerArmor.generalRules.rulesStrings.2>subject_story-&gt;integrierte fortschrittliche Technologie für beispiellose Widerstandsfähigkeit auf dem Schlachtfeld</VAE_SiegebreakerArmor.generalRules.rulesStrings.2>
+  <VAE_SiegebreakerArmor.generalRules.rulesStrings.3>subject_story-&gt;entwickelte Exoskelette, die die Hauptlast von Treffern aufnehmen und ihren Träger schützen</VAE_SiegebreakerArmor.generalRules.rulesStrings.3>
+  <VAE_SiegebreakerArmor.generalRules.rulesStrings.4>subject_gerund-&gt;Belagerungsbrecher-Verteidigung errichtend</VAE_SiegebreakerArmor.generalRules.rulesStrings.4>
+  <VAE_SiegebreakerArmor.label>Belagerungsbrecher-Rüstung</VAE_SiegebreakerArmor.label>
+  <VAE_TrooperArmor.description>Ermöglicht die Herstellung von Truppenrüstungen, leichten teilunterstützten Rüstungen, die wenig wiegen und kostengünstig herzustellen sind. Für ihre Herstellung werden außerdem fortschrittliche Komponenten benötigt.</VAE_TrooperArmor.description>
+  <VAE_TrooperArmor.generalRules.rulesStrings.0>subject-&gt;beweglicher Schutz</VAE_TrooperArmor.generalRules.rulesStrings.0>
+  <VAE_TrooperArmor.generalRules.rulesStrings.1>subject_story-&gt;entwickelte leichte Materialien für den schnellen Einsatz von Truppen</VAE_TrooperArmor.generalRules.rulesStrings.1>
+  <VAE_TrooperArmor.generalRules.rulesStrings.2>subject_story-&gt;brachte Schutz und Beweglichkeit in Einklang und setzte damit neue Maßstäbe für Kampfausrüstung</VAE_TrooperArmor.generalRules.rulesStrings.2>
+  <VAE_TrooperArmor.generalRules.rulesStrings.3>subject_story-&gt;leistete Pionierarbeit beim Einsatz teilunterstützter Rüstungen in Gefechten</VAE_TrooperArmor.generalRules.rulesStrings.3>
+  <VAE_TrooperArmor.generalRules.rulesStrings.4>subject_gerund-&gt;Schnelleinsatzkräfte ausrüstend</VAE_TrooperArmor.generalRules.rulesStrings.4>
+  <VAE_TrooperArmor.label>Truppenrüstung</VAE_TrooperArmor.label>
+</LanguageData>

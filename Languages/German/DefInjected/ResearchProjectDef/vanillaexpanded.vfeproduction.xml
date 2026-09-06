@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFE_Manufacturing.description>Ermöglicht den Bau von Fertigungswerkbänken und einem effizienten Arbeitszentrum.</VFE_Manufacturing.description>
+  <VFE_Manufacturing.generalRules.rulesStrings.0>subject-&gt;der Beginn der Industrialisierung</VFE_Manufacturing.generalRules.rulesStrings.0>
+  <VFE_Manufacturing.generalRules.rulesStrings.1>subject_story-&gt;führte komplexe Maschinen in die Massenproduktion ein und läutete damit eine neue Ära der Effizienz ein</VFE_Manufacturing.generalRules.rulesStrings.1>
+  <VFE_Manufacturing.generalRules.rulesStrings.2>subject_story-&gt;verwandelte Rohstoffe in nützliche technische Errungenschaften und trieb damit die Ausbreitung der Zivilisation voran</VFE_Manufacturing.generalRules.rulesStrings.2>
+  <VFE_Manufacturing.generalRules.rulesStrings.3>subject_story-&gt;entwickelte Fertigungssysteme, die zum Herzstück der wirtschaftlichen Leistungsfähigkeit der Gemeinschaft wurden</VFE_Manufacturing.generalRules.rulesStrings.3>
+  <VFE_Manufacturing.generalRules.rulesStrings.4>subject_story-&gt;förderte eine Kultur der Innovation, in der jedes Werkzeug und jede Maschine einen weiteren Schritt in Richtung Zukunft darstellt</VFE_Manufacturing.generalRules.rulesStrings.4>
+  <VFE_Manufacturing.generalRules.rulesStrings.5>subject_story-&gt;legte die Grundlagen moderner Fertigung, indem handwerkliches Können mit der Präzision moderner Technik verbunden wurde</VFE_Manufacturing.generalRules.rulesStrings.5>
+  <VFE_Manufacturing.generalRules.rulesStrings.6>subject_gerund-&gt;mit der Kraft industrieller Fertigung den Weg zu einer selbstversorgenden Gesellschaft ebnend</VFE_Manufacturing.generalRules.rulesStrings.6>
+  <VFE_Manufacturing.label>Fertigung</VFE_Manufacturing.label>
+</LanguageData>

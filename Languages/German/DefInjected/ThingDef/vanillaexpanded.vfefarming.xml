@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFEF_Mote_SprinklerWater.label>Wasserpartikel</VFEF_Mote_SprinklerWater.label>
+  <VFE_Ecosystem.description>Lässt Pflanzen in einem künstlichen, abgeschlossenen Ökosystem schnell wachsen. Benötigt für den Betrieb viel Strom; bei einem Stromausfall sterben die Pflanzen.
+
+Enthält eine integrierte Sonnenlampe, die die Pflanzen mit Licht versorgt.</VFE_Ecosystem.description>
+  <VFE_Ecosystem.label>künstliches Ökosystem</VFE_Ecosystem.label>
+  <VFE_Ecosystem_Tilable.description>Lässt Pflanzen in einem künstlichen, abgeschlossenen Ökosystem schnell wachsen, das so konfiguriert werden kann, dass selbst anspruchsvolle Pflanzen effektiv gedeihen. Benötigt für den Betrieb viel Strom; bei einem Stromausfall sterben die Pflanzen. Enthält eine integrierte Sonnenlampe, die die Pflanzen mit Licht versorgt.
+
+Diese Version ist modular und kann in jeder benötigten Form aufgebaut werden.</VFE_Ecosystem_Tilable.description>
+  <VFE_Ecosystem_Tilable.label>modulares künstliches Ökosystem</VFE_Ecosystem_Tilable.label>
+  <VFE_Hydroponics_Tilable.description>Ein künstliches Nährstoffbad für den Pflanzenanbau. Die Nährstoffpumpen müssen durchgehend laufen; bei einem Stromausfall sterben die Pflanzen.
+
+Diese Version ist modular und kann in jeder benötigten Form aufgebaut werden.</VFE_Hydroponics_Tilable.description>
+  <VFE_Hydroponics_Tilable.label>modulares Hydroponikbecken</VFE_Hydroponics_Tilable.label>
+  <VFE_PlanterBox.description>Lässt Pflanzen in einem mit Erde gefüllten Pflanzkasten wachsen. Benötigt keinen Strom.</VFE_PlanterBox.description>
+  <VFE_PlanterBox.label>Pflanzkasten</VFE_PlanterBox.label>
+  <VFE_PlanterBox_Tilable.description>Lässt Pflanzen in einem mit Erde gefüllten Pflanzkasten wachsen. Benötigt keinen Strom.
+
+Kann in jeder gewünschten Form gebaut werden.</VFE_PlanterBox_Tilable.description>
+  <VFE_PlanterBox_Tilable.label>modularer Pflanzkasten</VFE_PlanterBox_Tilable.label>
+  <VFE_Scarecrow.description>Eine menschenähnliche Figur aus Heu, die mit alter Kleidung bekleidet ist und Tiere in einem großen Umkreis abschreckt. Kleine Tiere haben zu viel Angst, um sich ihr zu nähern.</VFE_Scarecrow.description>
+  <VFE_Scarecrow.label>Vogelscheuche</VFE_Scarecrow.label>
+  <VFE_Sprinkler.description>Ein Wassersprinkler, der den Bereich um sich herum bewässert. Fördert das Wachstum der umliegenden Pflanzen.</VFE_Sprinkler.description>
+  <VFE_Sprinkler.label>Sprinkler</VFE_Sprinkler.label>
+</LanguageData>

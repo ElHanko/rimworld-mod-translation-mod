@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <CommandLowerLightIntDesc>Verringert die aktuelle Intensität.</CommandLowerLightIntDesc>
+  <CommandLowerLightRDesc>Verringert den aktuellen Radius.</CommandLowerLightRDesc>
+  <CommandRaiseLightIntDesc>Erhöht die aktuelle Intensität.</CommandRaiseLightIntDesc>
+  <CommandRaiseLightRDesc>Erhöht den aktuellen Radius.</CommandRaiseLightRDesc>
+  <CurrentLightOpacity>Aktuelle Intensität</CurrentLightOpacity>
+  <EnableAutoForbid>Automatisches Verbieten aktivieren</EnableAutoForbid>
+  <EnableAutoForbidExplanation>Hier gelagerte Waffen und Kleidung werden automatisch verboten, bis sie wieder ihre vollen Trefferpunkte erreicht haben.</EnableAutoForbidExplanation>
+  <LightColourBlue>Blau</LightColourBlue>
+  <LightColourGreen>Grün</LightColourGreen>
+  <LightColourRed>Rot</LightColourRed>
+  <LightColourWhite>Weiß</LightColourWhite>
+  <LightIntensityPercent>% Intensität.</LightIntensityPercent>
+  <LightRadiusCells> Zellen Radius.</LightRadiusCells>
+  <SwitchedColourDesc>Lichtfarbe wechseln zu </SwitchedColourDesc>
+  <TargetLightRadius>Aktueller Lichtradius</TargetLightRadius>
+</LanguageData>

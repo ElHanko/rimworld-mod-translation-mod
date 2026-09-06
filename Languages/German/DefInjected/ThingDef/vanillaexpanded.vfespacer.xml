@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Bed_AdvBed.description>Ein hochmodernes, voll motorisiertes Bett mit druckregulierenden Liegeflächen, biometrischer Überwachung und technikgestützter Schlafanalyse. Es bietet unübertroffenen Komfort, besonders erholsamen Schlaf und optimale Unterstützung bei medizinischen Eingriffen.</Bed_AdvBed.description>
+  <Bed_AdvBed.label>fortschrittliches Bett</Bed_AdvBed.label>
+  <Bed_AdvDoubleBed.description>Ein hochmodernes, voll motorisiertes Bett für zwei Personen mit druckregulierenden Liegeflächen, biometrischer Überwachung und technikgestützter Schlafanalyse. Es bietet unübertroffenen Komfort, besonders erholsamen Schlaf und optimale Unterstützung bei medizinischen Eingriffen.</Bed_AdvDoubleBed.description>
+  <Bed_AdvDoubleBed.label>fortschrittliches Doppelbett</Bed_AdvDoubleBed.label>
+  <Seat_AdvChair.description>Ein hochwertiger Stuhl aus dem Raumfahrtzeitalter mit adaptiver Polsterung, automatischer Haltungseinstellung und atmungsaktiven intelligenten Textilien. Entwickelt für höchsten Langzeitkomfort und moderne Innenräume.</Seat_AdvChair.description>
+  <Seat_AdvChair.label>fortschrittlicher Stuhl</Seat_AdvChair.label>
+  <Shelf_RepairRack.description>Ein Hightech-Regal zur Aufbewahrung von Kleidung oder Waffen. Darauf gelagerte Gegenstände werden von Nanoschwärmen aus Mechaniten langsam repariert und von Verschleißschäden befreit. Der Vorgang benötigt viel Strom und nimmt beträchtliche Zeit in Anspruch.</Shelf_RepairRack.description>
+  <Shelf_RepairRack.label>Mechaniten-Reparaturregal</Shelf_RepairRack.label>
+  <Spacer_OutdoorLamp.comps.CompScheduleExtended.disabledDueToRoofMessage>Ausgeschaltet, da sie unter einem Dach steht.</Spacer_OutdoorLamp.comps.CompScheduleExtended.disabledDueToRoofMessage>
+  <Spacer_OutdoorLamp.comps.CompScheduleExtended.offMessage>Ausgeschaltet, da ausreichend Sonnenlicht vorhanden ist.</Spacer_OutdoorLamp.comps.CompScheduleExtended.offMessage>
+  <Spacer_OutdoorLamp.description>Eine elektrische Stehlampe zur Beleuchtung großer Außenbereiche mit einem kleinen Solarpanel auf der Oberseite. Tagsüber speichert sie im ausgeschalteten Zustand elektrische Energie und schaltet sich nachts automatisch ein.</Spacer_OutdoorLamp.description>
+  <Spacer_OutdoorLamp.label>Solar-Außenlampe</Spacer_OutdoorLamp.label>
+  <Table_IlluminatedDresser.description>Eine elegante, moderne Kommode mit integrierter Lampe, die ein sanftes Licht abgibt. Gewährt allen Betten in der Nähe einen kleinen Komfortbonus. Mehrere Kommoden in der Nähe desselben Bettes haben keinen zusätzlichen Effekt.</Table_IlluminatedDresser.description>
+  <Table_IlluminatedDresser.label>beleuchtete Kommode</Table_IlluminatedDresser.label>
+  <Table_IlluminatedEndTable.description>Ein eleganter Nachttisch mit integrierter Lampe, die ein sanftes Licht abgibt. Muss direkt neben dem Kopfende eines Bettes aufgestellt werden. Mehrere Nachttische am selben Bett haben keinen zusätzlichen Effekt.</Table_IlluminatedEndTable.description>
+  <Table_IlluminatedEndTable.label>beleuchteter Nachttisch</Table_IlluminatedEndTable.label>
+  <Table_interactive_1x1c.description>Ein eleganter Tisch aus dem Raumfahrtzeitalter mit integriertem Smart-Display. Kolonisten, die an diesem Tisch sitzen, erhalten beim Essen oder Arbeiten zusätzlich passive Unterhaltung ähnlich dem Fernsehen. Kolonisten essen an Tischen, wenn Stühle auf diese ausgerichtet sind.</Table_interactive_1x1c.description>
+  <Table_interactive_1x1c.label>interaktiver Tisch (1x1)</Table_interactive_1x1c.label>
+  <Table_interactive_2x2c.description>Ein eleganter Tisch aus dem Raumfahrtzeitalter mit integriertem Smart-Display. Kolonisten, die an diesem Tisch sitzen, erhalten beim Essen oder Arbeiten zusätzlich passive Unterhaltung ähnlich dem Fernsehen. Kolonisten essen an Tischen, wenn Stühle auf diese ausgerichtet sind.</Table_interactive_2x2c.description>
+  <Table_interactive_2x2c.label>interaktiver Tisch (2x2)</Table_interactive_2x2c.label>
+  <UltrascreenTV.description>Eine kolossale Unterhaltungswand in Ultra-HD, die sich über mehrere Bildschirme erstreckt. Für luxuriöse Kolonien entwickelt, bietet sie ein überwältigendes audiovisuelles Erlebnis mit sattem Klang und brillanter Bildschärfe. Sie streamt archivierte Ultranet-Übertragungen von längst verstummten Satelliten und lokalen Datenspeichern.</UltrascreenTV.description>
+  <UltrascreenTV.label>Hyperscreen-Fernseher</UltrascreenTV.label>
+  <VFES_AirPurifier.description>Ein kompakter, hocheffizienter Luftreiniger, der Staub, Allergene, Rauch und andere unerwünschte Partikel herausfiltert und zugleich saubere, angenehm duftende Luft umwälzt. Verbessert die Sauberkeit des Raums, hebt leicht die Stimmung und verbessert das Raumklima insgesamt.</VFES_AirPurifier.description>
+  <VFES_AirPurifier.label>Luftreiniger</VFES_AirPurifier.label>
+  <VFES_ModernArmchair.description>Ein eleganter Sessel aus dem Raumfahrtzeitalter. Memory-Schaum, intelligente Stoffbezüge und ergonomisches Design sorgen für hohen Komfort und eine moderne Optik.</VFES_ModernArmchair.description>
+  <VFES_ModernArmchair.label>moderner Sessel</VFES_ModernArmchair.label>
+  <VFES_ModernCouch.description>Ein elegantes, doppelt breites Sofa aus dem Raumfahrtzeitalter. Memory-Schaum, ergonomisches Design und intelligente Stoffbezüge sorgen für maximalen Komfort.</VFES_ModernCouch.description>
+  <VFES_ModernCouch.label>modernes Sofa</VFES_ModernCouch.label>
+  <VFES_Table_IlluminatedWardrobe.description>Ein eleganter, moderner Kleiderschrank mit integrierter Lampe, die ein sanftes Licht abgibt. Gewährt allen Betten in der Nähe einen kleinen Bonus auf Komfort und Erholungseffektivität. Mehrere Kleiderschränke am selben Bett haben keinen zusätzlichen Effekt.</VFES_Table_IlluminatedWardrobe.description>
+  <VFES_Table_IlluminatedWardrobe.label>beleuchteter Kleiderschrank</VFES_Table_IlluminatedWardrobe.label>
+  <VFES_TelevisionSpeaker.description>Ein hochwertiges Audiosystem, das das Fernseherlebnis verbessert. Wird es in der Nähe eines Fernsehers aufgestellt, verbindet es sich mit dem Bildschirm und erzeugt raumfüllenden Klang, wodurch Kolonisten beim Fernsehen mehr Erholung erhalten.</VFES_TelevisionSpeaker.description>
+  <VFES_TelevisionSpeaker.label>Fernsehlautsprecher</VFES_TelevisionSpeaker.label>
+  <VFES_WallMountedTelevision.description>Ein eleganter Hightech-Flachbildfernseher. Sein schlankes Profil spart Bodenfläche und bietet dennoch dieselben satten Farben und die gleiche Bildschärfe wie herkömmliche Flachbildfernseher. Der Sichtbereich ist nicht besonders groß, dafür kann er an einer Wand montiert werden.</VFES_WallMountedTelevision.description>
+  <VFES_WallMountedTelevision.label>Wandfernseher</VFES_WallMountedTelevision.label>
+</LanguageData>

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <EquipSecondary.reportString>rüstet TargetA als Seitenwaffe aus.</EquipSecondary.reportString>
+  <ReequipSecondary.reportString>rüstet TargetA erneut als Seitenwaffe aus.</ReequipSecondary.reportString>
+  <ReequipSecondaryCombat.reportString>rüstet TargetA erneut als Seitenwaffe aus.</ReequipSecondaryCombat.reportString>
+</LanguageData>

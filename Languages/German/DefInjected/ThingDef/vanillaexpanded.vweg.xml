@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VWE_Apparel_GrenadeEMPBelt.comps.CompApparelReloadable.chargeNoun>EMP</VWE_Apparel_GrenadeEMPBelt.comps.CompApparelReloadable.chargeNoun>
+  <VWE_Apparel_GrenadeEMPBelt.comps.CompApparelReloadable.cooldownGerund>Abklingzeit aktiv</VWE_Apparel_GrenadeEMPBelt.comps.CompApparelReloadable.cooldownGerund>
+  <VWE_Apparel_GrenadeEMPBelt.description>Elektromagnetische Impulsgranaten, die elektronische Geräte beschädigen, an einem Gürtel befestigt. Sie können über eine kurze Distanz geworfen werden und explodieren beim Aufprall, wodurch Elektronik für kurze Zeit außer Gefecht gesetzt wird.</VWE_Apparel_GrenadeEMPBelt.description>
+  <VWE_Apparel_GrenadeEMPBelt.label>EMP-Granatengürtel</VWE_Apparel_GrenadeEMPBelt.label>
+  <VWE_Apparel_GrenadeEMPBelt.verbs.throw_EMP_grenade.label>EMP-Granate werfen</VWE_Apparel_GrenadeEMPBelt.verbs.throw_EMP_grenade.label>
+  <VWE_Apparel_GrenadeFlashBelt.comps.CompApparelReloadable.chargeNoun>Blendgranate</VWE_Apparel_GrenadeFlashBelt.comps.CompApparelReloadable.chargeNoun>
+  <VWE_Apparel_GrenadeFlashBelt.comps.CompApparelReloadable.cooldownGerund>Abklingzeit aktiv</VWE_Apparel_GrenadeFlashBelt.comps.CompApparelReloadable.cooldownGerund>
+  <VWE_Apparel_GrenadeFlashBelt.description>Ein Gürtel mit Blendgranaten. Sie betäuben organische Gegner vorübergehend und ermöglichen es dem Träger, die Distanz zu überbrücken. Kann mit Blendgranaten nachgeladen werden.</VWE_Apparel_GrenadeFlashBelt.description>
+  <VWE_Apparel_GrenadeFlashBelt.label>Blendgranatengürtel</VWE_Apparel_GrenadeFlashBelt.label>
+  <VWE_Apparel_GrenadeFlashBelt.verbs.throw_flash_grenade.label>Blendgranate werfen</VWE_Apparel_GrenadeFlashBelt.verbs.throw_flash_grenade.label>
+  <VWE_Apparel_GrenadeFragBelt.comps.CompApparelReloadable.chargeNoun>Splittergranate</VWE_Apparel_GrenadeFragBelt.comps.CompApparelReloadable.chargeNoun>
+  <VWE_Apparel_GrenadeFragBelt.comps.CompApparelReloadable.cooldownGerund>Abklingzeit aktiv</VWE_Apparel_GrenadeFragBelt.comps.CompApparelReloadable.cooldownGerund>
+  <VWE_Apparel_GrenadeFragBelt.description>Klassische Splittergranaten, die an einem Gürtel befestigt sind. Sie können über eine kurze Distanz geworfen werden und explodieren beim Aufprall, wobei sie alles und jeden in der Nähe verletzen. Kann mit Splittergranaten nachgeladen werden.</VWE_Apparel_GrenadeFragBelt.description>
+  <VWE_Apparel_GrenadeFragBelt.label>Splittergranatengürtel</VWE_Apparel_GrenadeFragBelt.label>
+  <VWE_Apparel_GrenadeFragBelt.verbs.throw_frag_grenade.label>Splittergranate werfen</VWE_Apparel_GrenadeFragBelt.verbs.throw_frag_grenade.label>
+  <VWE_Apparel_GrenadeMolotovBelt.comps.CompApparelReloadable.chargeNoun>Molotowcocktail</VWE_Apparel_GrenadeMolotovBelt.comps.CompApparelReloadable.chargeNoun>
+  <VWE_Apparel_GrenadeMolotovBelt.comps.CompApparelReloadable.cooldownGerund>Abklingzeit aktiv</VWE_Apparel_GrenadeMolotovBelt.comps.CompApparelReloadable.cooldownGerund>
+  <VWE_Apparel_GrenadeMolotovBelt.description>Mit brennbarer Flüssigkeit gefüllte Glasflaschen, aus deren Hals ein brennender Stofffetzen ragt, an einem Gürtel befestigt. Eine beliebte Waffe von Randalierern und verzweifelten Kämpfern auf Welten im ganzen Randgebiet. Sie können über eine kurze Distanz geworfen werden und zerbersten beim Aufprall, verletzen alles und jeden in der Nähe und setzen Chemietreibstoff in Brand. Kann mit Molotowcocktails nachgeladen werden.</VWE_Apparel_GrenadeMolotovBelt.description>
+  <VWE_Apparel_GrenadeMolotovBelt.label>Molotowgürtel</VWE_Apparel_GrenadeMolotovBelt.label>
+  <VWE_Apparel_GrenadeMolotovBelt.verbs.throw_molotov.label>Molotowcocktail werfen</VWE_Apparel_GrenadeMolotovBelt.verbs.throw_molotov.label>
+  <VWE_Apparel_GrenadeSmokeBelt.comps.CompApparelReloadable.chargeNoun>Rauchgranate</VWE_Apparel_GrenadeSmokeBelt.comps.CompApparelReloadable.chargeNoun>
+  <VWE_Apparel_GrenadeSmokeBelt.comps.CompApparelReloadable.cooldownGerund>Abklingzeit aktiv</VWE_Apparel_GrenadeSmokeBelt.comps.CompApparelReloadable.cooldownGerund>
+  <VWE_Apparel_GrenadeSmokeBelt.description>Klassische Behälter mit verdichtetem Rauch, die an einem Gürtel befestigt sind und beim Aufprall zu einer Rauchwand explodieren. Kann mit Rauchgranaten nachgeladen werden.</VWE_Apparel_GrenadeSmokeBelt.description>
+  <VWE_Apparel_GrenadeSmokeBelt.label>Rauchgranatengürtel</VWE_Apparel_GrenadeSmokeBelt.label>
+  <VWE_Apparel_GrenadeSmokeBelt.verbs.throw_smoke_grenade.label>Rauchgranate werfen</VWE_Apparel_GrenadeSmokeBelt.verbs.throw_smoke_grenade.label>
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFEF_CommandMakeCompAreaDesc>Legt automatisch den angegebenen Bereich um dieses {0} fest.</VFEF_CommandMakeCompAreaDesc>
+  <VFEF_CommandMakeCompAreaLabel>Fütterungsbereich festlegen</VFEF_CommandMakeCompAreaLabel>
+  <VFEF_ScarecrowGizmo>Tiere vertreiben</VFEF_ScarecrowGizmo>
+  <VFEF_ScarecrowGizmoText>Legt fest, ob diese Vogelscheuche Tiere in die Flucht schlagen soll.</VFEF_ScarecrowGizmoText>
+</LanguageData>

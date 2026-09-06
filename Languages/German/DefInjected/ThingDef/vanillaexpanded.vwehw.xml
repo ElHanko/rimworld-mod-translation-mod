@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VWE_Apparel_Exoframe.description>Ein tragbarer Rahmen, der durch ein System aus Hydraulik, Elektromotoren, Hebeln und Pneumatik angetrieben wird und schnelle Bewegungen ermöglicht. Er bietet zwar keinerlei Schutz, erlaubt dem Träger jedoch, schneller zu gehen, schwerere Gegenstände zu heben und leichter das Gleichgewicht zu halten.</VWE_Apparel_Exoframe.description>
+  <VWE_Apparel_Exoframe.label>Exoskelett-Rahmen</VWE_Apparel_Exoframe.label>
+  <VWE_Bullet_SwarmRocket.label>Schwarmrakete</VWE_Bullet_SwarmRocket.label>
+  <VWE_Gun_Autocannon.description>Eine selbstladende großkalibrige Kanone. Ihre großkalibrigen Geschosse verursachen auf beträchtliche Entfernung schweren Schaden. Das Zielen dauert lange und Ziele in unmittelbarer Nähe können nicht beschossen werden.
+
+Da es sich um eine extrem schwere Waffe handelt, ist für ihren effektiven Einsatz eine Powerrüstung erforderlich.
+
+Diese Waffe kann nur begrenzt oft eingesetzt werden.</VWE_Gun_Autocannon.description>
+  <VWE_Gun_Autocannon.label>Autokanone</VWE_Gun_Autocannon.label>
+  <VWE_Gun_Autocannon.tools.barrel.label>Lauf</VWE_Gun_Autocannon.tools.barrel.label>
+  <VWE_Gun_Autocannon.tools.grip.label>Griff</VWE_Gun_Autocannon.tools.grip.label>
+  <VWE_Gun_Autocannon.verbs.Verb_Shoot.label>Autokanone</VWE_Gun_Autocannon.verbs.Verb_Shoot.label>
+  <VWE_Gun_HandheldMortar.description>Ein tragbarer Mörserwerfer. Verschießt Granaten in hohem Bogen über Mauern hinweg. Sehr ungenau, besitzt dafür aber eine hohe Reichweite. Das Zielen dauert lange und Ziele in unmittelbarer Nähe können nicht beschossen werden.
+
+Da es sich um eine extrem schwere Waffe handelt, ist für ihren effektiven Einsatz eine Powerrüstung erforderlich.
+
+Diese Waffe kann nur begrenzt oft eingesetzt werden.</VWE_Gun_HandheldMortar.description>
+  <VWE_Gun_HandheldMortar.label>tragbarer Mörser</VWE_Gun_HandheldMortar.label>
+  <VWE_Gun_HandheldMortar.tools.barrel.label>Lauf</VWE_Gun_HandheldMortar.tools.barrel.label>
+  <VWE_Gun_HandheldMortar.tools.grip.label>Griff</VWE_Gun_HandheldMortar.tools.grip.label>
+  <VWE_Gun_HandheldMortar.verbs.Verb_Shoot.label>tragbarer Mörser</VWE_Gun_HandheldMortar.verbs.Verb_Shoot.label>
+  <VWE_Gun_HeavyFlamer.description>Ein leistungsstarker militärischer Flammenwerfer, der auf den Inferno-Speiern der Mechanoiden basiert. Er kann den gesamten Bereich vor dem Träger in Flammen hüllen.
+
+Da es sich um eine extrem schwere Waffe handelt, ist für ihren effektiven Einsatz eine Powerrüstung erforderlich.
+
+Diese Waffe kann nur begrenzt oft eingesetzt werden.</VWE_Gun_HeavyFlamer.description>
+  <VWE_Gun_HeavyFlamer.label>schwerer Flammenwerfer</VWE_Gun_HeavyFlamer.label>
+  <VWE_Gun_HeavyFlamer.tools.barrel.label>Lauf</VWE_Gun_HeavyFlamer.tools.barrel.label>
+  <VWE_Gun_HeavyFlamer.tools.grip.label>Griff</VWE_Gun_HeavyFlamer.tools.grip.label>
+  <VWE_Gun_HeavyFlamer.verbs.Verb_Shoot.label>schwerer Flammenwerfer</VWE_Gun_HeavyFlamer.verbs.Verb_Shoot.label>
+  <VWE_Gun_SwarmMissileLauncher.description>Ein Raketenwerfer, der acht kleinkalibrige explosive Raketen abfeuert, die unterschiedliche Ziele verfolgen.
+
+Da es sich um eine extrem schwere Waffe handelt, ist für ihren effektiven Einsatz eine Powerrüstung erforderlich.
+
+Diese Waffe kann nur begrenzt oft eingesetzt werden.</VWE_Gun_SwarmMissileLauncher.description>
+  <VWE_Gun_SwarmMissileLauncher.label>Schwarmraketenwerfer</VWE_Gun_SwarmMissileLauncher.label>
+  <VWE_Gun_SwarmMissileLauncher.tools.barrel.label>Lauf</VWE_Gun_SwarmMissileLauncher.tools.barrel.label>
+  <VWE_Gun_SwarmMissileLauncher.tools.grip.label>Griff</VWE_Gun_SwarmMissileLauncher.tools.grip.label>
+  <VWE_Gun_SwarmMissileLauncher.verbs.Verb_Shoot.label>Schwarmraketenwerfer</VWE_Gun_SwarmMissileLauncher.verbs.Verb_Shoot.label>
+  <VWE_Gun_UraniumSlugRifle.description>Eine selbstladende Uranprojektilkanone. Ihre ultradichten Urangeschosse können selbst schwere Panzerung durchschlagen. Auf größere Entfernungen ist sie präziser, kann jedoch Ziele in unmittelbarer Nähe überhaupt nicht beschießen.
+
+Da es sich um eine extrem schwere Waffe handelt, ist für ihren effektiven Einsatz eine Powerrüstung erforderlich.
+
+Diese Waffe kann nur begrenzt oft eingesetzt werden.</VWE_Gun_UraniumSlugRifle.description>
+  <VWE_Gun_UraniumSlugRifle.label>Uranprojektilgewehr</VWE_Gun_UraniumSlugRifle.label>
+  <VWE_Gun_UraniumSlugRifle.tools.barrel.label>Lauf</VWE_Gun_UraniumSlugRifle.tools.barrel.label>
+  <VWE_Gun_UraniumSlugRifle.tools.grip.label>Griff</VWE_Gun_UraniumSlugRifle.tools.grip.label>
+  <VWE_Gun_UraniumSlugRifle.verbs.Verb_Shoot.label>Uranprojektilgewehr</VWE_Gun_UraniumSlugRifle.verbs.Verb_Shoot.label>
+</LanguageData>

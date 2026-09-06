@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AllowBlockedWeaponUse_desc>Erlaubt die Verwendung von Waffen, die normalerweise gesperrt sind (z. B. Personawaffen, biocodierte Waffen und durch Ideologie-Rollen eingeschränkte Waffen) – siehe XKCD #1172</AllowBlockedWeaponUse_desc>
+  <AllowBlockedWeaponUse_title>Gesperrte Waffen erlauben</AllowBlockedWeaponUse_title>
+  <AsTool> als Werkzeug</AsTool>
+  <DrawSidearm_blocked>Waffe nicht verwendbar</DrawSidearm_blocked>
+  <FirstTimeSettingsWarning>Verwendest du Simple Sidearms zum ersten Mal?
+
+Dieses Symbol zeigt an, dass die Mod-Einstellungen noch nicht konfiguriert wurden. Es verschwindet, sobald das Einstellungsmenü zum ersten Mal geöffnet wurde.
+
+Klicke hier, um jetzt die Einstellungen zu öffnen.</FirstTimeSettingsWarning>
+  <FumbleRecoveryChance_hint>Vertikale Achse: Chance, einen Waffenpatzer zu vermeiden
+Horizontale Achse: Nahkampf- oder Fernkampffähigkeit, je nachdem, welche höher ist</FumbleRecoveryChance_hint>
+  <FumbleRecoveryChance_title>Chance, einen Waffenpatzer zu vermeiden</FumbleRecoveryChance_title>
+  <Fumbled>Patzer!</Fumbled>
+  <Fumbled_dev>Patzer! ({0})</Fumbled_dev>
+  <HideSidearmsInCaravanDialogs_desc>Blendet Seitenwaffen in Karawanendialogen aus, damit sie nicht versehentlich verkauft werden. (Experimentell, implementiert von XT-0xFF @GitHub)</HideSidearmsInCaravanDialogs_desc>
+  <HideSidearmsInCaravanDialogs_title>Seitenwaffen in Karawanendialogen ausblenden</HideSidearmsInCaravanDialogs_title>
+  <MaximumMassAmountRelative_hint>Die Auflistung geht von einer normalen Tragfähigkeit von 35 kg aus</MaximumMassAmountRelative_hint>
+  <PreserveInventoryInCaravans_desc>Behält Seitenwaffen bei der Rückkehr von Karawanen im richtigen Inventar. (Experimentell, implementiert von XT-0xFF @GitHub)</PreserveInventoryInCaravans_desc>
+  <PreserveInventoryInCaravans_title>Seitenwaffen bei Karawanen beibehalten</PreserveInventoryInCaravans_title>
+  <ReEquipInCombat_desc>Rüstet Waffen auch während eines Kampfes automatisch wieder aus, solange der Kolonist gerade nicht aktiv kämpft.</ReEquipInCombat_desc>
+  <ReEquipInCombat_title>Während des Kampfes wieder ausrüsten</ReEquipInCombat_title>
+  <ReEquipOutOfCombat_desc>Rüstet eine zuvor abgelegte Waffe nach dem Kampf automatisch wieder aus, sobald keine unmittelbare Gefahr mehr besteht.</ReEquipOutOfCombat_desc>
+  <ReEquipOutOfCombat_title>Abgelegte Waffen wieder ausrüsten</ReEquipOutOfCombat_title>
+  <SS_CanEquipAsOffand>Klicke mit der linken Maustaste auf das Nebenhandsymbol, um {0} als Nebenhandwaffe auszurüsten.</SS_CanEquipAsOffand>
+  <SS_EquipAsOffand>Klicke mit der linken Maustaste auf das Nebenhandsymbol, um {0} als Nebenhandwaffe auszurüsten.</SS_EquipAsOffand>
+  <SS_EquipOffandFail_AlreadyHoldingShield>{0} kann nicht als Nebenhandwaffe ausgerüstet werden – {1} wird bereits gehalten.</SS_EquipOffandFail_AlreadyHoldingShield>
+  <SS_EquipOffandFail_NoPrimary>{0} kann nicht als Nebenhandwaffe ausgerüstet werden – zuerst wird eine passende Hauptwaffe benötigt.</SS_EquipOffandFail_NoPrimary>
+  <SS_EquipOffandFail_PrimaryTwoHanded>{0} kann nicht als Nebenhandwaffe ausgerüstet werden – {1} ist eine Zweihandwaffe.</SS_EquipOffandFail_PrimaryTwoHanded>
+  <SS_EquipWarning_CannotUseWithShield>Die Verwendung von {0} verhindert die Verwendung von {1}.</SS_EquipWarning_CannotUseWithShield>
+  <SS_EquipWarning_WillUnequipOffhand>Beim Ausrüsten von {0} wird die Nebenhandwaffe {1} abgelegt.</SS_EquipWarning_WillUnequipOffhand>
+  <ShowAlertsMissingSidearm_desc>Zeigt Warnungen für Kolonisten an, die sich an eine Seitenwaffe erinnern, die sie nicht mehr besitzen und für die sie keinen Ersatz finden können.</ShowAlertsMissingSidearm_desc>
+  <ShowAlertsMissingSidearm_title>Warnungen bei fehlenden Seitenwaffen anzeigen</ShowAlertsMissingSidearm_title>
+  <ShowBrainscope_desc>Zeigt ein Entwickler-Gizmo an, das den internen Zustand des ausgewählten Kolonisten offenlegt.</ShowBrainscope_desc>
+  <ShowBrainscope_title>Brainscope anzeigen</ShowBrainscope_title>
+  <SidearmPickupFail_NotAToolForPacifist>Kein Werkzeug. {0} ist zu Gewalt nicht fähig.</SidearmPickupFail_NotAToolForPacifist>
+  <SidearmPickupFail_NotYetBladelinkBonded>Noch nicht gebunden</SidearmPickupFail_NotYetBladelinkBonded>
+  <SidearmsPlaySounds_desc>Spielt beim Wechseln von Waffen Geräusche ab.</SidearmsPlaySounds_desc>
+  <SidearmsPlaySounds_title>Geräusche abspielen</SidearmsPlaySounds_title>
+  <SkipDangerousWeapons_desc>Verhindert das automatische Ausrüsten gefährlicher Waffen (Molotowcocktails, Splittergranaten, Raketenwerfer usw.).</SkipDangerousWeapons_desc>
+  <SkipDangerousWeapons_title>Gefährliche Waffen überspringen</SkipDangerousWeapons_title>
+  <SkipEMPWeapons_desc>Verhindert das automatische Ausrüsten von EMP-Waffen (Kolonisten ziehen diese ohnehin nur im Kampf gegen Mechanoiden in Betracht).</SkipEMPWeapons_desc>
+  <SkipEMPWeapons_title>EMP-Waffen überspringen</SkipEMPWeapons_title>
+  <ToolAutoSwitch_desc>Sollen Kolonisten für ihre aktuelle Arbeit automatisch zu Werkzeugen oder Waffen wechseln, die dafür relevante Werte verbessern?</ToolAutoSwitch_desc>
+  <ToolAutoSwitch_title>Werkzeuge automatisch wechseln</ToolAutoSwitch_title>
+</LanguageData>

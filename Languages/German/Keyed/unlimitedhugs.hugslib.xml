@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <HugsLib_logs_github_token>GitHub-Zugriffstoken</HugsLib_logs_github_token>
+  <HugsLib_logs_github_token_tip>Veröffentlicht Logs in deinem eigenen GitHub-Konto, wenn ein Token eingetragen ist. Füge ein Token aus GitHub &gt; Settings &gt; Developer settings &gt; Personal access tokens ein. Leer lassen, um über das öffentliche HugsLib-Konto zu veröffentlichen.
+
+Logs, die in deinem Konto veröffentlicht wurden, können von anderen nur über einen Link aufgerufen werden.</HugsLib_logs_github_token_tip>
+</LanguageData>

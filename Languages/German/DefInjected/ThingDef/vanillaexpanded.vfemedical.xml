@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Bed_CryptoBed.description>Ein medizinisches Bett, das partiellen Kryptoschlaf nutzt, um die Verschlechterung von Wunden zu verlangsamen und die Heilung des Körpers zu unterstützen. Dabei treten dieselben Nebenwirkungen wie beim Kryptoschlaf auf, allerdings in abgeschwächter Form.</Bed_CryptoBed.description>
+  <Bed_CryptoBed.label>Kryptoschlaf-Stasebett</Bed_CryptoBed.label>
+  <Bed_OperatingTable.description>Ein einfacher Tisch voller Instrumente, die Operationen angeblich erleichtern sollen. Die Sauberkeit des Tisches lässt allerdings zu wünschen übrig. Verbessert medizinische Ergebnisse geringfügig gegenüber normalen Betten.</Bed_OperatingTable.description>
+  <Bed_OperatingTable.label>Operationstisch</Bed_OperatingTable.label>
+  <Facility_IVDrip.description>Ein Infusionsständer zur schnellen Zufuhr verlorener Flüssigkeit. Er unterstützt das Immunsystem und die Erholung von Blutverlust, wenn er direkt neben einem Krankenhausbett oder Operationstisch aufgestellt wird. Funktioniert nur bei Krankenhausbetten oder Operationstischen – normale Betten profitieren nicht davon. Mehr als ein Infusionsständer am selben Bett hat keinen zusätzlichen Effekt.</Facility_IVDrip.description>
+  <Facility_IVDrip.label>Infusionsständer</Facility_IVDrip.label>
+  <Facility_ResearchCounter.description>Eine hüfthohe, sterilisierte Arbeitsfläche für empfindliche Forschungsarbeiten. Sie verbessert nahe gelegene Forschungstische geringfügig und hilft dabei, den Bereich sauber zu halten. Der Effekt ist bis zu 20-mal stapelbar.</Facility_ResearchCounter.description>
+  <Facility_ResearchCounter.label>Forschungsarbeitsfläche</Facility_ResearchCounter.label>
+  <Facility_VitalsCentre.description>Eine große Zentrale zur Überwachung der Vitalwerte mehrerer Patienten gleichzeitig. Sie erhöht die Behandlungsqualität, die Erfolgschance von Operationen und die Geschwindigkeit des Immunitätsgewinns, wenn sie in der Nähe eines Krankenhausbetts oder Operationstischs aufgestellt wird. Funktioniert nur bei Krankenhausbetten oder Operationstischen – normale Betten profitieren nicht davon.</Facility_VitalsCentre.description>
+  <Facility_VitalsCentre.label>Vitaldatenzentrale</Facility_VitalsCentre.label>
+  <VFEM_Wall_Sterile.description>Eine unpassierbare Wand, die ein Dach tragen kann. Sie verfügt über besondere sauberkeitsfördernde Eigenschaften, um eine sterile Umgebung zu schaffen.</VFEM_Wall_Sterile.description>
+  <VFEM_Wall_Sterile.label>Sterile Wand</VFEM_Wall_Sterile.label>
+</LanguageData>

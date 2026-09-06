@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VWE_Bullet_GaussLance_LowPower.label>Gausslanzen-Treibspiegelgeschoss</VWE_Bullet_GaussLance_LowPower.label>
+  <VWE_Bullet_GaussMagnum_LowPower.label>Gaussrevolver-Treibspiegelgeschoss</VWE_Bullet_GaussMagnum_LowPower.label>
+  <VWE_Bullet_GaussRifle_LowPower.label>Gaussgewehr-Treibspiegelgeschoss</VWE_Bullet_GaussRifle_LowPower.label>
+  <VWE_Filth_BulletHole.label>Einschussloch</VWE_Filth_BulletHole.label>
+  <VWE_Gun_GaussLance.comps.CompMultiVerbWeapon.gizmoDescription>Der Hochleistungsmodus verbessert die Durchschlagskraft der Schüsse und ermöglicht es ihnen, mehrere Ziele zu durchdringen, erhöht jedoch die Vorbereitungszeit der Waffe. Der Schaden nimmt mit jedem getroffenen Ziel ab.</VWE_Gun_GaussLance.comps.CompMultiVerbWeapon.gizmoDescription>
+  <VWE_Gun_GaussLance.comps.CompMultiVerbWeapon.gizmoLabel>Hochleistungsmodus</VWE_Gun_GaussLance.comps.CompMultiVerbWeapon.gizmoLabel>
+  <VWE_Gun_GaussLance.description>Eine leistungsstarke Massenbeschleuniger-Lanze mit hoher Reichweite, die ferromagnetische Treibspiegelgeschosse magnetisch beschleunigt. Die enorme Geschwindigkeit und die Spezialmunition machen die meisten Arten herkömmlicher Panzerung praktisch wirkungslos.</VWE_Gun_GaussLance.description>
+  <VWE_Gun_GaussLance.label>Gausslanze</VWE_Gun_GaussLance.label>
+  <VWE_Gun_GaussLance.tools.barrel.label>Lauf</VWE_Gun_GaussLance.tools.barrel.label>
+  <VWE_Gun_GaussLance.verbs.high_power_shot.label>Hochleistungsschuss</VWE_Gun_GaussLance.verbs.high_power_shot.label>
+  <VWE_Gun_GaussLance.verbs.low_power_shot.label>Niedrigleistungsschuss</VWE_Gun_GaussLance.verbs.low_power_shot.label>
+  <VWE_Gun_GaussMagnum.comps.CompMultiVerbWeapon.gizmoDescription>Der Hochleistungsmodus verbessert die Durchschlagskraft der Schüsse und ermöglicht es ihnen, mehrere Ziele zu durchdringen, erhöht jedoch die Vorbereitungszeit der Waffe. Der Schaden nimmt mit jedem getroffenen Ziel ab.</VWE_Gun_GaussMagnum.comps.CompMultiVerbWeapon.gizmoDescription>
+  <VWE_Gun_GaussMagnum.comps.CompMultiVerbWeapon.gizmoLabel>Hochleistungsmodus</VWE_Gun_GaussMagnum.comps.CompMultiVerbWeapon.gizmoLabel>
+  <VWE_Gun_GaussMagnum.description>Eine leistungsstarke Massenbeschleuniger-Pistole, die ferromagnetische Treibspiegelgeschosse magnetisch beschleunigt. Die enorme Geschwindigkeit und die Spezialmunition machen die meisten Arten herkömmlicher Panzerung praktisch wirkungslos.</VWE_Gun_GaussMagnum.description>
+  <VWE_Gun_GaussMagnum.label>Gaussrevolver</VWE_Gun_GaussMagnum.label>
+  <VWE_Gun_GaussMagnum.tools.barrel.label>Lauf</VWE_Gun_GaussMagnum.tools.barrel.label>
+  <VWE_Gun_GaussMagnum.tools.grip.label>Griff</VWE_Gun_GaussMagnum.tools.grip.label>
+  <VWE_Gun_GaussMagnum.verbs.high_power_shot.label>Hochleistungsschuss</VWE_Gun_GaussMagnum.verbs.high_power_shot.label>
+  <VWE_Gun_GaussMagnum.verbs.low_power_shot.label>Niedrigleistungsschuss</VWE_Gun_GaussMagnum.verbs.low_power_shot.label>
+  <VWE_Gun_GaussRifle.comps.CompMultiVerbWeapon.gizmoDescription>Der Hochleistungsmodus verbessert die Durchschlagskraft der Schüsse und ermöglicht es ihnen, mehrere Ziele zu durchdringen, erhöht jedoch die Vorbereitungszeit der Waffe. Der Schaden nimmt mit jedem getroffenen Ziel ab.</VWE_Gun_GaussRifle.comps.CompMultiVerbWeapon.gizmoDescription>
+  <VWE_Gun_GaussRifle.comps.CompMultiVerbWeapon.gizmoLabel>Hochleistungsmodus</VWE_Gun_GaussRifle.comps.CompMultiVerbWeapon.gizmoLabel>
+  <VWE_Gun_GaussRifle.description>Ein leistungsstarkes Massenbeschleuniger-Gewehr, das ferromagnetische Treibspiegelgeschosse magnetisch beschleunigt. Die enorme Geschwindigkeit und die Spezialmunition machen die meisten Arten herkömmlicher Panzerung praktisch wirkungslos.</VWE_Gun_GaussRifle.description>
+  <VWE_Gun_GaussRifle.label>Gaussgewehr</VWE_Gun_GaussRifle.label>
+  <VWE_Gun_GaussRifle.tools.barrel.label>Lauf</VWE_Gun_GaussRifle.tools.barrel.label>
+  <VWE_Gun_GaussRifle.tools.stock.label>Schaft</VWE_Gun_GaussRifle.tools.stock.label>
+  <VWE_Gun_GaussRifle.verbs.high_power_shot.label>Hochleistungsschuss</VWE_Gun_GaussRifle.verbs.high_power_shot.label>
+  <VWE_Gun_GaussRifle.verbs.low_power_shot.label>Niedrigleistungsschuss</VWE_Gun_GaussRifle.verbs.low_power_shot.label>
+</LanguageData>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFE_ComponentFabricationBench.description>Eine Werkbank mit fortschrittlichen Werkzeugen zur Herstellung von Komponenten.</VFE_ComponentFabricationBench.description>
+  <VFE_ComponentFabricationBench.label>Montagewerkbank</VFE_ComponentFabricationBench.label>
+  <VFE_DrugCabinet.description>Erhöht die Arbeitsgeschwindigkeit, wenn der Schrank in der Nähe eines Drogenlabors aufgestellt wird. Mit einer Werkbank können bis zu zwei Drogenschränke verbunden werden.</VFE_DrugCabinet.description>
+  <VFE_DrugCabinet.label>Drogenschrank</VFE_DrugCabinet.label>
+  <VFE_FabricationCabinet.description>Erhöht die Arbeitsgeschwindigkeit, wenn der Schrank in der Nähe einer Fertigungsbank aufgestellt wird. Mit einer Werkbank können bis zu zwei Fertigungsschränke verbunden werden.</VFE_FabricationCabinet.description>
+  <VFE_FabricationCabinet.label>Fertigungsschrank</VFE_FabricationCabinet.label>
+  <VFE_FueledSmelter.description>Eine mit Holz befeuerte Schmelzstation. Gewinnt nutzbares Metall aus Schlackebrocken und anderen Gegenständen aus gemischten Metallen.</VFE_FueledSmelter.description>
+  <VFE_FueledSmelter.label>befeuerter Schmelzofen</VFE_FueledSmelter.label>
+  <VFE_KitchenSinkCabinet.description>Erhöht die Arbeitsgeschwindigkeit, wenn der Schrank in der Nähe eines Herds aufgestellt wird.</VFE_KitchenSinkCabinet.description>
+  <VFE_KitchenSinkCabinet.label>Spülenschrank</VFE_KitchenSinkCabinet.label>
+  <VFE_MachiningCabinet.description>Erhöht die Arbeitsgeschwindigkeit, wenn der Schrank in der Nähe eines Maschinentischs aufgestellt wird. Mit einer Werkbank können bis zu zwei Maschinenschränke verbunden werden.</VFE_MachiningCabinet.description>
+  <VFE_MachiningCabinet.label>Maschinenschrank</VFE_MachiningCabinet.label>
+  <VFE_SmithyCabinet.description>Erhöht die Arbeitsgeschwindigkeit, wenn der Schrank in der Nähe einer Schmiede aufgestellt wird. Mit einer Werkbank können bis zu zwei Schmiedeschränke verbunden werden.</VFE_SmithyCabinet.description>
+  <VFE_SmithyCabinet.label>Schmiedeschrank</VFE_SmithyCabinet.label>
+  <VFE_TableButcherElectric.description>Ein motorisierter Tisch mit rotierendem Sägeblatt, mit dem tote Kreaturen schneller und präziser in rohes Fleisch zerlegt werden können. Verbraucht viel Strom.</VFE_TableButcherElectric.description>
+  <VFE_TableButcherElectric.label>elektrischer Schlachttisch</VFE_TableButcherElectric.label>
+  <VFE_TableDrugLabElectric.description>Eine fortschrittliche Werkbank mit Behältern, Heizgeräten und Messinstrumenten, mit denen verschiedene Drogen effizienter hergestellt werden können. Verbraucht viel Strom.</VFE_TableDrugLabElectric.description>
+  <VFE_TableDrugLabElectric.label>elektrisches Drogenlabor</VFE_TableDrugLabElectric.label>
+  <VFE_TableMachiningLarge.description>Eine Werkbank mit fortschrittlichen Werkzeugen und ausreichend Platz, um technische Erzeugnisse aus einfacheren Materialien in kürzerer Zeit herzustellen. Verbraucht Strom.</VFE_TableMachiningLarge.description>
+  <VFE_TableMachiningLarge.label>großer Maschinentisch</VFE_TableMachiningLarge.label>
+  <VFE_TableSmithyLarge.description>Ein elektrisch betriebenes Arbeitszentrum zum Schmieden nichtmechanischer Waffen und Werkzeuge. Verbraucht viel Strom.</VFE_TableSmithyLarge.description>
+  <VFE_TableSmithyLarge.label>große elektrische Schmiede</VFE_TableSmithyLarge.label>
+  <VFE_TableStonecutterElectric.description>Ein fortschrittlicher Arbeitstisch mit elektrischen Sägen und Halterungen, mit dem Steinbrocken in einer Art Fließbandfertigung schneller zu nutzbaren Steinblöcken verarbeitet werden können. Verbraucht viel Strom.</VFE_TableStonecutterElectric.description>
+  <VFE_TableStonecutterElectric.label>elektrischer Steinmetztisch</VFE_TableStonecutterElectric.label>
+  <VFE_TableStoveLarge.description>Ein großer Produktionsherd mit mehreren Öfen, mit dem Mahlzeiten deutlich schneller zubereitet und gekocht werden können.</VFE_TableStoveLarge.description>
+  <VFE_TableStoveLarge.label>großer Herd</VFE_TableStoveLarge.label>
+  <VFE_TableTailorLarge.description>Eine große Fertigungswerkbank mit mehreren Werkzeugen für Schneider und einer Nähmaschine zur schnellen Herstellung von Kleidung. Kann ohne Strom mit 33 % der normalen Geschwindigkeit betrieben werden.</VFE_TableTailorLarge.description>
+  <VFE_TableTailorLarge.label>großer Schneidertisch</VFE_TableTailorLarge.label>
+  <VFE_TailorCabinet.description>Erhöht die Arbeitsgeschwindigkeit, wenn der Schrank in der Nähe eines Schneidertischs aufgestellt wird. Mit einer Werkbank können bis zu zwei Schneiderschränke verbunden werden.</VFE_TailorCabinet.description>
+  <VFE_TailorCabinet.label>Schneiderschrank</VFE_TailorCabinet.label>
+</LanguageData>

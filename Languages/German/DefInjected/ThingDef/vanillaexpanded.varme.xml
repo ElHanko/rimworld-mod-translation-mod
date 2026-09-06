@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VAE_Apparel_Chainmail.description>Eine Rüstung aus kleinen, miteinander verbundenen Metallringen, die ein Geflecht bilden und durch eine Stoffpolsterung vom Körper getrennt sind.
+
+Da diese Rüstung recht schwer ist, verlangsamt sie ihren Träger.</VAE_Apparel_Chainmail.description>
+  <VAE_Apparel_Chainmail.label>Kettenhemd</VAE_Apparel_Chainmail.label>
+  <VAE_Apparel_Chestplate.description>Eine Brustplatte aus Metall, die hohen Schutz gegen die meisten Schadensarten bietet, die Bewegungsfreiheit jedoch erheblich einschränkt.</VAE_Apparel_Chestplate.description>
+  <VAE_Apparel_Chestplate.label>Brustplatte</VAE_Apparel_Chestplate.label>
+  <VAE_Apparel_Gambeson.description>Eine gepolsterte Schutzjacke, die mittleren Schutz gegen Kälte bietet.</VAE_Apparel_Gambeson.description>
+  <VAE_Apparel_Gambeson.label>Gambeson</VAE_Apparel_Gambeson.label>
+  <VAE_Apparel_GhillieSuit.description>Eine Tarnbekleidung, die so gestaltet ist, dass sie mit der Umgebung verschmilzt. Sie ermöglicht ihrem Träger präziseres Zielen, bietet jedoch nur wenig bis gar keinen Schutz.</VAE_Apparel_GhillieSuit.description>
+  <VAE_Apparel_GhillieSuit.label>Ghillie-Anzug</VAE_Apparel_GhillieSuit.label>
+  <VAE_Apparel_HAZMATSuit.description>Ein undurchlässiger Ganzkörper-Schutzanzug, der vollständigen Schutz vor psychischen und toxischen Effekten bietet.
+
+Er schränkt sowohl die Bewegung als auch die Manipulationsfähigkeit des Trägers ein und bietet keinerlei Schutz gegen Angriffe.</VAE_Apparel_HAZMATSuit.description>
+  <VAE_Apparel_HAZMATSuit.label>Gefahrstoffanzug</VAE_Apparel_HAZMATSuit.label>
+  <VAE_Apparel_HeavyMarineArmor.description>Eine schwere Powerrüstung, die für erhöhten Schutz bei weiterhin guter Beweglichkeit entwickelt wurde. Schwere, mehrschichtige Platten aus Plasteelgewebe in Verbindung mit einem integrierten Energieschild-Emitter halten die meisten Angriffe auf. Neuro-memetische Assistenzsysteme ermöglichen es einem Menschen, diese Rüstung zu tragen, ohne dabei nahezu bewegungsunfähig zu werden.
+
+Rüstungen dieser Art werden häufig von imperialen Sturmtruppen und Friedenswächtern auf Glitterwelten eingesetzt.</VAE_Apparel_HeavyMarineArmor.description>
+  <VAE_Apparel_HeavyMarineArmor.label>Belagerungsbrecher-Rüstung</VAE_Apparel_HeavyMarineArmor.label>
+  <VAE_Apparel_LightPlateArmor.description>Überlappende massive Panzerplatten, die Brust und Schultern bedecken.</VAE_Apparel_LightPlateArmor.description>
+  <VAE_Apparel_LightPlateArmor.label>leichte Plattenrüstung</VAE_Apparel_LightPlateArmor.label>
+  <VAE_Apparel_PlateHelmet.description>Ein Plattenhelm, der mäßigen Schutz gegen scharfe Angriffe bietet.</VAE_Apparel_PlateHelmet.description>
+  <VAE_Apparel_PlateHelmet.label>Plattenhelm</VAE_Apparel_PlateHelmet.label>
+  <VAE_Apparel_PlateShoulderpads.description>Ein Paar einfacher Schulterplatten aus Metall.</VAE_Apparel_PlateShoulderpads.description>
+  <VAE_Apparel_PlateShoulderpads.label>Plattenschulterstücke</VAE_Apparel_PlateShoulderpads.label>
+  <VAE_Apparel_QuiltedVest.description>Eine gesteppte Schutzweste, die unter einer Rüstung getragen wird und zusätzlichen Schutz bietet.</VAE_Apparel_QuiltedVest.description>
+  <VAE_Apparel_QuiltedVest.label>Steppweste</VAE_Apparel_QuiltedVest.label>
+  <VAE_Apparel_RiotArmor.description>Eine dicke Jacke mit eingearbeiteten Panzerplatten an Brust, Armen, Beinen und Rücken. Sie schützt besonders wirksam gegen stumpfe Gewalteinwirkung und wird daher sowohl von Einheiten zur Aufstandsbekämpfung als auch von schwerer Infanterie eingesetzt.</VAE_Apparel_RiotArmor.description>
+  <VAE_Apparel_RiotArmor.label>Aufstandsbekämpfungsrüstung</VAE_Apparel_RiotArmor.label>
+  <VAE_Apparel_RiotHelmet.description>Ein schwerer Kampfhelm mit schützender Gesichtsplatte. Wegen seines guten Schutzes gegen stumpfe Gewalteinwirkung wird er häufig von Einheiten zur Aufstandsbekämpfung verwendet.</VAE_Apparel_RiotHelmet.description>
+  <VAE_Apparel_RiotHelmet.label>Aufstandshelm</VAE_Apparel_RiotHelmet.label>
+  <VAE_Apparel_Shield_Riot.description>Ein schwerer Industrieschild aus verstärktem Stahl. Er bietet hohen Schutz gegen stumpfen Schaden und eignet sich dadurch besonders für Einheiten zur Aufstandsbekämpfung auf Urbwelten.</VAE_Apparel_Shield_Riot.description>
+  <VAE_Apparel_Shield_Riot.label>Aufstandsschild</VAE_Apparel_Shield_Riot.label>
+  <VAE_Apparel_Shield_Riot.tools.centre.label>Mitte</VAE_Apparel_Shield_Riot.tools.centre.label>
+  <VAE_Apparel_TrooperArmor.description>Eine leichte, minimal unterstützte Powerrüstung. Leichte Platten aus Plasteelgewebe halten Angriffe ab, während neuro-memetische Assistenzsysteme im Unterkörper das vom Träger transportierte Gewicht besser verteilen. Sie ist schlanker als andere Powerrüstungen und kann unter Kleidung getragen werden.
+
+Rüstungen dieser Art werden häufig von imperialen Rekruten und Streitkräften fortgeschrittener Mittelwelten eingesetzt.</VAE_Apparel_TrooperArmor.description>
+  <VAE_Apparel_TrooperArmor.label>Truppenrüstung</VAE_Apparel_TrooperArmor.label>
+  <VAE_Apparel_WoodenArmor.description>Eine Weste, deren Vorder- und Rückseite mit Holzscheiten und Brettern bedeckt ist. Sie schützt recht gut gegen Schüsse kleinen Kalibers und scharfe Nahkampfwaffen, ist jedoch gegen stumpfe Treffer und Gewehrschüsse praktisch nutzlos.</VAE_Apparel_WoodenArmor.description>
+  <VAE_Apparel_WoodenArmor.label>Holzrüstung</VAE_Apparel_WoodenArmor.label>
+  <VAE_Footwear_MarineBoots.description>Ein Paar Marinestiefel mit mehrschichtigen Plasteelplatten und verbesserten Servomotoren.</VAE_Footwear_MarineBoots.description>
+  <VAE_Footwear_MarineBoots.label>Marinestiefel</VAE_Footwear_MarineBoots.label>
+  <VAE_Footwear_PlateBoots.description>Ein Paar einfache Plattenstiefel. Aufgrund ihres Gewichts verlangsamen sie den Träger.</VAE_Footwear_PlateBoots.description>
+  <VAE_Footwear_PlateBoots.label>Plattenstiefel</VAE_Footwear_PlateBoots.label>
+  <VAE_Handwear_MarineGloves.description>Ein Paar Marinehandschuhe mit verstärkter Griffunterstützung und integrierten Rückstoßstabilisatoren.</VAE_Handwear_MarineGloves.description>
+  <VAE_Handwear_MarineGloves.label>Marinehandschuhe</VAE_Handwear_MarineGloves.label>
+  <VAE_Handwear_PlateGloves.description>Ein Paar einfache Metallhandschuhe. Aufgrund der Materialstärke verringern sie die allgemeine Arbeitsgeschwindigkeit des Trägers.</VAE_Handwear_PlateGloves.description>
+  <VAE_Handwear_PlateGloves.label>Plattenhandschuhe</VAE_Handwear_PlateGloves.label>
+  <VAE_Headgear_Balaclava.description>Eine textile Vollgesichtsmaske. Sie verbirgt die Identität des Trägers und hält zugleich warm.</VAE_Headgear_Balaclava.description>
+  <VAE_Headgear_Balaclava.label>Sturmhaube</VAE_Headgear_Balaclava.label>
+  <VAE_Headgear_GhillieHood.description>Eine Tarnkapuze, die so gestaltet ist, dass sie mit der Umgebung verschmilzt. Sie ermöglicht ihrem Träger präziseres Zielen, bietet jedoch nur wenig bis gar keinen Schutz.</VAE_Headgear_GhillieHood.description>
+  <VAE_Headgear_GhillieHood.label>Ghillie-Kapuze</VAE_Headgear_GhillieHood.label>
+  <VAE_Headgear_HAZMATMask.description>Eine Vollkopf-Gasmaske, die zusammen mit dem Gefahrstoffanzug vollständigen Schutz vor toxischen und psychischen Effekten bietet.</VAE_Headgear_HAZMATMask.description>
+  <VAE_Headgear_HAZMATMask.label>Gefahrstoffhaube</VAE_Headgear_HAZMATMask.label>
+  <VAE_Headgear_HeavyMarineHelmet.description>Ein schwer gepanzerter Hightech-Helm mit einer robusten Hülle aus Plasteelgewebe und einer Omni-Spektrum-Kamera.
+
+Rüstungen dieser Art werden häufig von imperialen Sturmtruppen und Friedenswächtern auf Glitterwelten eingesetzt.</VAE_Headgear_HeavyMarineHelmet.description>
+  <VAE_Headgear_HeavyMarineHelmet.label>Belagerungsbrecher-Helm</VAE_Headgear_HeavyMarineHelmet.label>
+  <VAE_Headgear_StoneWarMask.description>Eine kunstvoll gestaltete und furchteinflößende Kriegsmaske. Sie verbirgt das Gesicht des Trägers und stärkt sein Selbstvertrauen. Da sie aus Stein besteht, ist sie sehr widerstandsfähig, aber auch außerordentlich schwer.</VAE_Headgear_StoneWarMask.description>
+  <VAE_Headgear_StoneWarMask.label>Stein-Kriegsmaske</VAE_Headgear_StoneWarMask.label>
+  <VAE_Headgear_TrooperHelmet.description>Ein leichter Hightech-Panzerhelm mit einer schützenden Platte aus Plasteelgewebe.
+
+Rüstungen dieser Art werden häufig von imperialen Rekruten und Streitkräften fortgeschrittener Mittelwelten eingesetzt.</VAE_Headgear_TrooperHelmet.description>
+  <VAE_Headgear_TrooperHelmet.label>Truppenhelm</VAE_Headgear_TrooperHelmet.label>
+</LanguageData>

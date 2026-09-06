@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RPG_Inventory_Awful>Furchtbar</RPG_Inventory_Awful>
+  <RPG_Inventory_Color_Selector>Auswählen</RPG_Inventory_Color_Selector>
+  <RPG_Inventory_Color_Setting>QUALITÄTSFARBEN</RPG_Inventory_Color_Setting>
+  <RPG_Inventory_Excellent>Ausgezeichnet</RPG_Inventory_Excellent>
+  <RPG_Inventory_Good>Gut</RPG_Inventory_Good>
+  <RPG_Inventory_Height>Ausrüstungsreiter – Höhe</RPG_Inventory_Height>
+  <RPG_Inventory_Legendary>Legendär</RPG_Inventory_Legendary>
+  <RPG_Inventory_Masterwork>Meisterwerk</RPG_Inventory_Masterwork>
+  <RPG_Inventory_Normal>Normal</RPG_Inventory_Normal>
+  <RPG_Inventory_Poor>Schlecht</RPG_Inventory_Poor>
+  <RPG_Inventory_Width>Ausrüstungsreiter – Breite</RPG_Inventory_Width>
+  <RPG_Style_Inventory_Title>RPG Style Inventory</RPG_Style_Inventory_Title>
+  <RWoM_ArmorHarmony>Magische Verteidigung</RWoM_ArmorHarmony>
+  <SandyMassCarried>Getragene Masse</SandyMassCarried>
+  <SandyMassValue> {0} / {1} kg</SandyMassValue>
+  <Sandy_Belt>Gürtel</Sandy_Belt>
+  <Sandy_Head>Kopf – Kopfbedeckung</Sandy_Head>
+  <Sandy_Pants>Beine – Hautschicht</Sandy_Pants>
+  <Sandy_TorsoMiddle>Rumpf – Mittlere Schicht</Sandy_TorsoMiddle>
+  <Sandy_TorsoOnSkin>Rumpf – Hautschicht</Sandy_TorsoOnSkin>
+  <Sandy_TorsoShell>Rumpf – Außenschicht</Sandy_TorsoShell>
+  <Sandy_ViewList>Liste anzeigen</Sandy_ViewList>
+</LanguageData>

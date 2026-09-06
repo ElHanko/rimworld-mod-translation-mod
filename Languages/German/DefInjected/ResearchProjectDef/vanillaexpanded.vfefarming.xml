@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFE_Res_AdvancedHydroponics.description>Ermöglicht den Bau künstlicher Ökosysteme, hochentwickelter Terrarien, die die Möglichkeiten der Hydroponik erheblich erweitern.</VFE_Res_AdvancedHydroponics.description>
+  <VFE_Res_AdvancedHydroponics.generalRules.rulesStrings.0>subject-&gt;wegweisende Biosphären</VFE_Res_AdvancedHydroponics.generalRules.rulesStrings.0>
+  <VFE_Res_AdvancedHydroponics.generalRules.rulesStrings.1>subject_story-&gt;entwarf und erschuf sich selbst erhaltende Lebensräume und meisterte dabei das Gleichgewicht zwischen Natur und Technologie</VFE_Res_AdvancedHydroponics.generalRules.rulesStrings.1>
+  <VFE_Res_AdvancedHydroponics.generalRules.rulesStrings.2>subject_story-&gt;leitete mit Ökosystemen, die die natürlichen Grenzen von Klima und Geografie überwinden, ein neues Zeitalter der Ernährungssicherheit ein</VFE_Res_AdvancedHydroponics.generalRules.rulesStrings.2>
+  <VFE_Res_AdvancedHydroponics.generalRules.rulesStrings.3>subject_story-&gt;nutzte die Prinzipien ökologischer Harmonie und verband fortschrittliche Hydroponik mit artenreichen Terrarien</VFE_Res_AdvancedHydroponics.generalRules.rulesStrings.3>
+  <VFE_Res_AdvancedHydroponics.generalRules.rulesStrings.4>subject_story-&gt;ermöglichte die Kultivierung exotischer Flora und Fauna in einem zuvor unerreichten Maßstab</VFE_Res_AdvancedHydroponics.generalRules.rulesStrings.4>
+  <VFE_Res_AdvancedHydroponics.generalRules.rulesStrings.5>subject_story-&gt;entwickelte geschlossene Wasser- und Nährstoffkreisläufe weiter, wodurch Abfälle reduziert und die Effizienz gesteigert wurden</VFE_Res_AdvancedHydroponics.generalRules.rulesStrings.5>
+  <VFE_Res_AdvancedHydroponics.generalRules.rulesStrings.6>subject_gerund-&gt;die Landwirtschaft durch die Erschaffung künstlicher Ökosysteme revolutionierend</VFE_Res_AdvancedHydroponics.generalRules.rulesStrings.6>
+  <VFE_Res_AdvancedHydroponics.label>künstliche Ökosysteme</VFE_Res_AdvancedHydroponics.label>
+  <VFE_Res_FarmingTechniques.description>Entwickelt die theoretischen Grundlagen für großflächigere Landwirtschaft, einschließlich zentralisierter Fütterung und spezieller Vogelscheuchen, die verhindern, dass die Ernte gefressen wird.</VFE_Res_FarmingTechniques.description>
+  <VFE_Res_FarmingTechniques.generalRules.rulesStrings.0>subject-&gt;Überfluss kultivieren</VFE_Res_FarmingTechniques.generalRules.rulesStrings.0>
+  <VFE_Res_FarmingTechniques.generalRules.rulesStrings.1>subject_story-&gt;entdeckte alte Methoden für moderne großflächige Landwirtschaft wieder und verfeinerte sie</VFE_Res_FarmingTechniques.generalRules.rulesStrings.1>
+  <VFE_Res_FarmingTechniques.generalRules.rulesStrings.2>subject_story-&gt;führte zentralisierte Fütterungsstrategien ein und optimierte damit Ernährung und Ertrag</VFE_Res_FarmingTechniques.generalRules.rulesStrings.2>
+  <VFE_Res_FarmingTechniques.generalRules.rulesStrings.3>subject_story-&gt;fertigte Vogelscheuchen auf Grundlage eines tiefen Verständnisses der örtlichen Tierwelt und schützte damit die Ernte wirkungsvoll</VFE_Res_FarmingTechniques.generalRules.rulesStrings.3>
+  <VFE_Res_FarmingTechniques.generalRules.rulesStrings.4>subject_story-&gt;legte die grundlegenden Verfahren für eine nachhaltige und effiziente Nahrungsmittelproduktion fest</VFE_Res_FarmingTechniques.generalRules.rulesStrings.4>
+  <VFE_Res_FarmingTechniques.generalRules.rulesStrings.5>subject_story-&gt;inspirierte eine Generation von Landwirten dazu, innovative Ansätze in der Landwirtschaft zu übernehmen</VFE_Res_FarmingTechniques.generalRules.rulesStrings.5>
+  <VFE_Res_FarmingTechniques.generalRules.rulesStrings.6>subject_gerund-&gt;die Kunst und Wissenschaft der Landwirtschaft mit modernsten Techniken voranbringend</VFE_Res_FarmingTechniques.generalRules.rulesStrings.6>
+  <VFE_Res_FarmingTechniques.label>Landwirtschaftstechniken</VFE_Res_FarmingTechniques.label>
+  <VFE_Res_Sprinkler.description>Entwickelt Baupläne für ein Gerät, das Felder automatisch bewässert und dadurch das Wachstum der Nutzpflanzen beschleunigt.</VFE_Res_Sprinkler.description>
+  <VFE_Res_Sprinkler.generalRules.rulesStrings.0>subject-&gt;die Entwicklung der Bewässerung</VFE_Res_Sprinkler.generalRules.rulesStrings.0>
+  <VFE_Res_Sprinkler.generalRules.rulesStrings.1>subject_story-&gt;entwickelte automatische Bewässerungssysteme und gewährleistete damit eine optimale Wasserversorgung der Nutzpflanzen auf ausgedehnten Feldern</VFE_Res_Sprinkler.generalRules.rulesStrings.1>
+  <VFE_Res_Sprinkler.generalRules.rulesStrings.2>subject_story-&gt;steigerte die landwirtschaftliche Produktivität durch präzise Bewässerung und verringerte dabei die Wasserverschwendung</VFE_Res_Sprinkler.generalRules.rulesStrings.2>
+  <VFE_Res_Sprinkler.generalRules.rulesStrings.3>subject_story-&gt;führte den Einsatz von Sprinklern ein und vollzog damit einen großen Fortschritt gegenüber traditionellen Bewässerungsmethoden</VFE_Res_Sprinkler.generalRules.rulesStrings.3>
+  <VFE_Res_Sprinkler.generalRules.rulesStrings.4>subject_story-&gt;ermöglichte Landwirten, mit dem Drehen eines Ventils über das entscheidende Element des Wachstums zu verfügen – Wasser</VFE_Res_Sprinkler.generalRules.rulesStrings.4>
+  <VFE_Res_Sprinkler.generalRules.rulesStrings.5>subject_story-&gt;ermöglichte grünere Felder und reiche Ernten selbst in Gebieten, die zuvor als unfruchtbar galten</VFE_Res_Sprinkler.generalRules.rulesStrings.5>
+  <VFE_Res_Sprinkler.generalRules.rulesStrings.6>subject_gerund-&gt;das Pflanzenwachstum durch die Einfachheit und Effizienz von Sprinklern optimierend</VFE_Res_Sprinkler.generalRules.rulesStrings.6>
+  <VFE_Res_Sprinkler.label>Sprinkler</VFE_Res_Sprinkler.label>
+</LanguageData>
