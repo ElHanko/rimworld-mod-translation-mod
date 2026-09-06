@@ -35,6 +35,11 @@ def main(argv=None):
     progress = commands.add_parser('progress')
     progress.add_argument('package', nargs='?')
     progress.add_argument('--language')
+
+    export_command = commands.add_parser('export')
+    export_command.add_argument('--language')
+    export_command.add_argument('--zip', action='store_true', dest='make_zip')
+
     work = commands.add_parser('work')
     work.add_argument('package', nargs='?')
     work.add_argument('--next', action='store_true')
@@ -63,6 +68,8 @@ def main(argv=None):
                 module.run(args.package, args.limit, args.offset, args.language)
             elif args.command == 'apply':
                 module.run(args.file)
+            elif args.command == 'export':
+                module.run(args.language, args.make_zip)
             else:
                 module.run(args.language)
     except (OSError, ValueError, ET.ParseError) as exc:

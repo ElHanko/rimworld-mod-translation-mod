@@ -18,6 +18,7 @@ import build
 import common
 import config
 import draft
+import export as export_mod
 import progress
 import refresh
 import sources
@@ -1004,6 +1005,109 @@ class BuildTests(unittest.TestCase):
     def test_invalid_xml_does_not_replace_output(self):
         with self.assertRaises(ET.ParseError):
             build.collect_expected([pair([keyed('bad key', text='Hallo {name}')])])
+
+
+class ExportTests(unittest.TestCase):
+    def test_exports_current_build_and_zip(self):
+        drafts = [
+            pair(
+                [keyed(text='Hallo {name}')],
+                'test.mod',
+            )
+        ]
+
+        with tempfile.TemporaryDirectory() as directory, \
+                patch.object(config, 'ROOT', Path(directory)), \
+                patch.object(config, 'LANG_ROOT', Path(directory) / 'Languages'), \
+                patch.object(config, 'LANGUAGES', ['German']), \
+                patch.object(export_mod, 'load_drafts', return_value=drafts):
+            root = Path(directory)
+
+            (root / 'About').mkdir()
+            (root / 'About/About.xml').write_text(
+                '<ModMetaData>'
+                '<name>RimWorld Mod Translations</name>'
+                '<packageId>elhanko.rimworld.modtranslations</packageId>'
+                '</ModMetaData>'
+            )
+            (root / 'LICENSE').write_text('test license')
+
+            expected, _, _ = build.collect_expected(
+                drafts,
+                'German',
+            )
+            build.replace_runtime(
+                expected,
+                config.language_dir('German'),
+            )
+
+            with redirect_stdout(StringIO()):
+                export_mod.run(make_zip=True)
+
+            target = root / 'dist/RimWorld-Mod-Translations'
+
+            self.assertEqual(
+                {p.name for p in target.iterdir()},
+                {'About', 'LICENSE', 'Languages'},
+            )
+            self.assertEqual(
+                len(
+                    common.runtime_records(
+                        target / 'Languages/German'
+                    )
+                ),
+                1,
+            )
+            self.assertEqual(
+                (target / 'About/About.xml').read_bytes(),
+                (root / 'About/About.xml').read_bytes(),
+            )
+            self.assertEqual(
+                (target / 'LICENSE').read_bytes(),
+                (root / 'LICENSE').read_bytes(),
+            )
+
+            archive = root / 'dist/RimWorld-Mod-Translations.zip'
+            self.assertTrue(archive.is_file())
+            self.assertGreater(archive.stat().st_size, 0)
+
+    def test_rejects_stale_runtime_build(self):
+        drafts = [
+            pair(
+                [keyed(text='Hallo {name}')],
+                'test.mod',
+            )
+        ]
+
+        with tempfile.TemporaryDirectory() as directory, \
+                patch.object(config, 'LANG_ROOT', Path(directory) / 'Languages'):
+            expected, _, _ = build.collect_expected(
+                drafts,
+                'German',
+            )
+            build.replace_runtime(
+                expected,
+                config.language_dir('German'),
+            )
+
+            runtime = next(
+                config.language_dir('German').rglob('*.xml')
+            )
+            runtime.write_text(
+                runtime.read_text().replace(
+                    'Hallo {name}',
+                    'Veraltet {name}',
+                )
+            )
+
+            with self.assertRaisesRegex(
+                ValueError,
+                'nicht exportierbar',
+            ):
+                export_mod.validate_build(
+                    drafts,
+                    'German',
+                )
 
 
 class VerifyTests(unittest.TestCase):

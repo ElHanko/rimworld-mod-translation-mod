@@ -23,6 +23,7 @@ The current tooling targets RimWorld 1.6. It requires a POSIX shell and Python 3
 | `data/`                 | Reproducible local reports and analysis data                                                       | Only selected placeholders/files |
 | `rwgt.local.json`       | Private local configuration                                                                        | No                               |
 | `rwgt.example.json`     | Public configuration example                                                                       | Yes                              |
+| `dist/`                 | Local distribution exports and optional ZIP archives                                                | No                               |
 
 Do not manually maintain generated XML files in `Languages/`. Translation changes belong in the durable drafts or in temporary work packages and are then applied back to the drafts.
 
@@ -218,6 +219,7 @@ The same applies to verification:
 | `./rwgt work --next ...`                                                  | Select the smallest currently open draft                                      |
 | `./rwgt apply WORK-FILE`                                                  | Validate and atomically apply work back to a durable draft                    |
 | `./rwgt build [--language LANGUAGE]`                                      | Regenerate runtime XML for one or all configured languages                    |
+| `./rwgt export [--language LANGUAGE] [--zip]`                             | Package a current build as a distributable RimWorld mod                       |
 | `./rwgt verify [--language LANGUAGE]`                                     | Verify drafts, generated output, source synchronization, and runtime evidence |
 | `./rwgt validate [--language LANGUAGE]`                                   | Validate generated XML and runtime identities                                 |
 | `./rwgt install`                                                          | Safely install the repository as a local RimWorld mod                         |
@@ -453,6 +455,51 @@ A failed directory exchange attempts to restore the previous output.
 Stale generated files therefore do not survive a successful rebuild.
 
 Byte-identical output is not rewritten unnecessarily.
+
+## Distribution export
+
+A current deterministic build can be packaged as a standalone RimWorld mod:
+
+    ./rwgt export
+
+The export is written to:
+
+    dist/RimWorld-Mod-Translations/
+    ├── About/
+    │   └── About.xml
+    ├── LICENSE
+    └── Languages/
+        └── <Language>/
+
+Only distribution files are included. Development data such as `scripts/`,
+`translations/`, `data/`, local configuration, work files, and Git metadata
+are not copied.
+
+Export only one configured language:
+
+    ./rwgt export --language German
+
+Create the directory export plus a ZIP archive:
+
+    ./rwgt export --zip
+
+The archive is written to:
+
+    dist/RimWorld-Mod-Translations.zip
+
+`export` does not modify drafts or rebuild `Languages/`. It recomputes the
+deterministic expected output from the durable drafts and requires the existing
+runtime tree to match it exactly. Missing, stale, unexpected, or changed
+runtime files abort the export; run `./rwgt build` first in that case.
+
+A current TranslationReport or runtime confirmation is deliberately not
+required for export. Supported mods therefore do not need to be installed or
+active when a distribution package is created. Known build-ready translations
+remain part of the translation mod, while unrelated or unknown mods are not
+added automatically.
+
+The resulting directory or ZIP can be used for private distribution, release
+packaging, or as the content basis for a Steam Workshop item.
 
 ## Duplicate runtime identities
 

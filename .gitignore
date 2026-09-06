@@ -33,3 +33,6 @@ Thumbs.db
 *.local
 *.local.*
 /rwgt.local.json
+
+# Distribution artifacts
+/dist/
