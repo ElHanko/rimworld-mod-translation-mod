@@ -4,18 +4,17 @@ from pathlib import Path
 import os
 import xml.etree.ElementTree as ET
 
-CONFIG = (
-    Path.home()
-    / ".config/unity3d/Ludeon Studios/RimWorld by Ludeon Studios/Config/ModsConfig.xml"
-)
+import config
 
-WORKSHOP = Path(
-    "/mnt/OBS-Archive-DISK/steam/steamapps/workshop/content/294100"
-)
+try:
+    config.configure()
+except ValueError as exc:
+    raise SystemExit(f"FEHLER: {exc}")
 
-LOCAL_MODS = Path(
-    "/mnt/OBS-Archive-DISK/steam/steamapps/common/RimWorld/Mods"
-)
+CONFIG = config.MODS_CONFIG
+WORKSHOP = config.WORKSHOP
+LOCAL_MODS = config.LOCAL_MODS
+
 
 
 def read_about(path):

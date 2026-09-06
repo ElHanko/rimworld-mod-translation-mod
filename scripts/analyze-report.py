@@ -1,30 +1,26 @@
 #!/usr/bin/env python3
 
 from collections import Counter, defaultdict
-from pathlib import Path
 import json
 import re
 import xml.etree.ElementTree as ET
 
-CONFIG = (
-    Path.home()
-    / ".config/unity3d/Ludeon Studios/RimWorld by Ludeon Studios/Config/ModsConfig.xml"
-)
+import config
 
-WORKSHOP = Path(
-    "/mnt/OBS-Archive-DISK/steam/steamapps/workshop/content/294100"
-)
+try:
+    config.configure()
+except ValueError as exc:
+    raise SystemExit(f"FEHLER: {exc}")
 
-LOCAL_MODS = Path(
-    "/mnt/OBS-Archive-DISK/steam/steamapps/common/RimWorld/Mods"
-)
+CONFIG = config.MODS_CONFIG
+WORKSHOP = config.WORKSHOP
+LOCAL_MODS = config.LOCAL_MODS
 
-REPORT = Path("data/TranslationReport.txt")
-
-OUT_SUMMARY = Path("data/report-summary.txt")
-OUT_UNMAPPED = Path("data/report-unmapped.txt")
-OUT_AMBIGUOUS = Path("data/report-ambiguous.txt")
-OUT_MAPPED = Path("data/report-mapped.jsonl")
+REPORT = config.DATA / "TranslationReport.txt"
+OUT_SUMMARY = config.DATA / "report-summary.txt"
+OUT_UNMAPPED = config.DATA / "report-unmapped.txt"
+OUT_AMBIGUOUS = config.DATA / "report-ambiguous.txt"
+OUT_MAPPED = config.DATA / "report-mapped.jsonl"
 
 
 def parse_about(modroot):
@@ -468,6 +464,10 @@ def main():
 
     print()
     print("\n".join(out))
+
+    return {"active": active, "mods": mods, "mapped": mapped,
+            "keyed": keyed, "defs": definjected,
+            "ambiguous": ambiguous, "unmapped": unmapped}
 
 
 if __name__ == "__main__":

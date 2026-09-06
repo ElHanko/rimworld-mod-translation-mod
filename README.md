@@ -1,231 +1,282 @@
 # Deutsche Übersetzungen für RimWorld-Mods
 
-Dieses Projekt ergänzt fehlende deutsche Übersetzungen aktiver RimWorld-Mods,
-ohne Steam-Workshop-Dateien direkt zu verändern. Die Übersetzungen liegen in
-einem separaten lokalen Mod mit der Package-ID
-`elhanko.rimworld.germantranslations`. Dieser muss nach den Quellmods geladen
-werden.
+Dieses Projekt ergänzt fehlende deutsche Übersetzungen aktiver RimWorld-Mods
+in einem separaten Mod (`elhanko.rimworld.germantranslations`). Er muss **nach
+den Quellmods** geladen werden. Unterstützt und bisher getestet ist RimWorld 1.6.
+Workshop-Dateien bleiben unverändert. Die Werkzeuge benötigen eine POSIX-Shell
+und Python ab 3.9; sie verwenden ausschließlich die Standardbibliothek.
 
-Der aktuelle Stand unterstützt **RimWorld 1.6**. Andere Versionen sind nicht als
-getestet dokumentiert.
+## Aufbau
 
-## Aufbau und Git-Bestand
-
-Der Übersetzungsworkflow hat drei Ebenen:
-
-| Pfad | Aufgabe | In Git |
+| Pfad | Bedeutung | Versioniert |
 | --- | --- | --- |
-| `translations/*.json` | Dauerhafter, bearbeitbarer Übersetzungsbestand mit Englisch, Deutsch, Translation Key bzw. Def-Pfad und Review-Status | Ja |
-| `Languages/German/` | Von `./rwgt build PACKAGE-ID` erzeugte RimWorld-XML-Dateien unter `Keyed/` und `DefInjected/` | Ja |
-| `data/` | Lokale Reports, Analysen und Arbeitsdateien aus der Installation und dem aktuellen RimWorld-Report | Nur die leere `data/.gitkeep` |
+| `translations/*.json` | Dauerhafte Wahrheit: Englisch, Deutsch, Identitäten und Bearbeitungszustand | Ja |
+| `Languages/German/` | Vollständig und deterministisch aus Drafts generierter Runtime-Bestand | Ja |
+| `data/status.json` | Letzte Analyse einschließlich Report-Metadaten, aktiver Mods, Resolver und Runtime-Nachweis | Nein |
+| `data/work/*.work.json` | Temporäre Arbeitspakete | Nein |
+| `data/` | Reproduzierbare lokale Reports, Analysen und Arbeitsdaten | Nur `.gitkeep` |
+| `rwgt.local.json` | Private lokale Pfade | Nein |
+| `rwgt.example.json` | Öffentliche Konfigurationsvorlage | Ja |
 
-Die JSON-Drafts sind Quellbestand und bleiben auch nach erfolgreicher
-Übersetzung erhalten. Aktuell gibt es Drafts für `jaxe.rimhud`,
-`vanillaexpanded.vtexe` und `m00nl1ght.worldtechlevel`. Für
-`andromeda.niceplantsmenu` liegt derzeit nur die fertige Keyed-XML-Datei vor.
+XML-Dateien nicht von Hand übersetzen. Änderungen gehören in Drafts oder
+Arbeitspakete. Ein Build benötigt keine Analyseartefakte: Der Runtime-Bestand
+ist allein aus den versionierten Drafts reproduzierbar.
 
-Die XML-Dateien werden ebenfalls versioniert, weil RimWorld sie direkt lädt.
-Damit lässt sich ein funktionierender Übersetzungsstand aus Git wiederherstellen,
-ohne zunächst die lokale Analyse oder einen Build auszuführen. Vollständig
-qualifizierte Def-Typen bleiben als Verzeichnisnamen erhalten, etwa
-`Languages/German/DefInjected/ModSettingsFramework.ModOptionCategoryDef/`.
-
-Zum versionierten Projekt gehören außerdem `About/` mit den Mod-Metadaten,
-`scripts/` mit den Python-Werkzeugen, der Shell-Starter `rwgt`, diese README
-und `.gitignore`.
-
-`data/TranslationReport.txt` ist lokal ein Symlink auf einen von RimWorld
-erzeugten Bericht. `data/report-summary.txt`, `data/report-mapped.jsonl`,
-`data/report-unmapped.txt` und `data/report-ambiguous.txt` sind daraus erzeugte
-Analysen. `data/language-inventory.txt` enthält die lokale Sprachinventur;
-`data/work/*.json` sind reproduzierbare Arbeitsdateien. Diese Inhalte können
-Installationspfade, die aktive Modliste und andere Rechnerdaten enthalten und
-werden ignoriert. Vorhandene lokale Dateien bleiben dabei erhalten.
-
-Auch Python-Caches, virtuelle Umgebungen, temporäre Dateien, Editorreste und
-lokale Backups werden ignoriert. Private Konfigurationen gehören beispielsweise
-in `.env`, `.env.*`, `*.local` oder `*.local.*`; weitere lokale Arbeitsdaten
-gehören unter `data/`.
-
-## Installation und Voraussetzungen
-
-Zum Verwenden der fertigen Übersetzungen werden RimWorld 1.6 und die jeweiligen
-Quellmods benötigt. Für die Werkzeuge werden eine POSIX-Shell und Python 3 mit
-`xml.etree.ElementTree.indent` (ab Python 3.9) benötigt; externe Python-Pakete
-werden nicht verwendet.
-
-Das Repository wird über einen Symlink im lokalen RimWorld-Mod-Verzeichnis
-eingebunden. Die folgenden Platzhalter müssen durch die eigenen Pfade ersetzt
-werden:
+## Setup
 
 ```bash
-ln -s /pfad/zum/rimworld-german-translations \
-  /pfad/zu/RimWorld/Mods/ElHanko-German-Translations
+cp rwgt.example.json rwgt.local.json
+# Die vier Pfade in rwgt.local.json an die eigene Installation anpassen.
 ```
 
-Danach den Übersetzungsmod in RimWorld aktivieren, **nach den Quellmods** laden
-und Deutsch als Sprache verwenden. Die Workshop-Mods bleiben unverändert.
+Die Konfiguration enthält genau vier absolute Pfade:
 
-Die Analysewerkzeuge sind aktuell auf die bestehende lokale Linux-Installation
-zugeschnitten: Steam- und Workshop-Verzeichnisse stehen als Konstanten in
-`scripts/rwgt.py`, `scripts/analyze-report.py` und
-`scripts/inventory-languages.py`. Die aktive Modliste wird aus der
-Linux-Benutzerkonfiguration `ModsConfig.xml` gelesen. `refresh` sucht Berichte
-unter `~/Desktop`. Diese Annahmen müssen bei einer anderen Installation geprüft
-werden; eine allgemeine Pfadkonfiguration gibt es derzeit nicht.
+- `game`: RimWorld-Installationsverzeichnis.
+- `workshop`: Workshop-Verzeichnis für App-ID `294100`.
+- `rimworld_home`: RimWorld-Benutzerdaten mit `Config/ModsConfig.xml`.
+- `report_dir`: Verzeichnis, in dem RimWorld-TranslationReports abgelegt werden.
 
-Der vorhandene Befehl `./rwgt install` legt den Mod-Symlink am im Skript
-festgelegten lokalen Steam-Pfad an. Das obige manuelle Beispiel erlaubt es,
-den Zielpfad für die eigene Installation ausdrücklich zu wählen.
+`game/Mods` und `rimworld_home/Config/ModsConfig.xml` werden abgeleitet.
+Fehlende oder ungültige Konfiguration führt bei allen Workflow-Befehlen zu
+einem Fehler mit Hinweis auf die Vorlage. Es gibt keine privaten Standardpfade.
+Die gemeinsame Logik liegt in `scripts/config.py`.
+
+Optional bindet dieser Befehl das Repository als lokalen Mod ein:
+
+```bash
+./rwgt install
+```
+
+Ziel ist `game/Mods/ElHanko-German-Translations`. Ein bereits korrekter Symlink
+bleibt bestehen. Ein falscher Symlink oder eine echte Datei/ein Verzeichnis am
+Ziel führt zum Abbruch. Nur `install` schreibt in das lokale Mods-Verzeichnis.
+Anschließend den Mod in RimWorld aktivieren und Deutsch auswählen.
+
+## Standardworkflow
+
+Zunächst einen deutschen TranslationReport in RimWorld erzeugen und unter
+`report_dir` ablegen.
+
+```bash
+./rwgt refresh
+./rwgt status
+./rwgt draft --all
+./rwgt progress
+./rwgt work --next
+# In der ausgegebenen Work-Datei german übersetzen und Reviews prüfen.
+./rwgt apply data/work/PACKAGE-ID.work.json
+./rwgt build
+./rwgt verify
+```
+
+`refresh` liest die zuletzt geänderte Datei namens `TranslationReport*.txt`
+(ohne Beachtung der Groß-/Kleinschreibung). Es ersetzt lokal
+`data/TranslationReport.txt` durch eine Kopie, analysiert aktive Package-IDs,
+ordnet Report-Einträge zu und löst Def-Typen anhand der Quellmods auf.
+`status` stellt anschließend nur den gespeicherten Status dar; es scannt nichts.
+`UNSERE` bezeichnet dabei den Bestand zum Zeitpunkt des letzten Refresh.
+
+Der vorhandene Analyzer bleibt erhalten. Zusätzliche Details stehen in
+`data/report-summary.txt`, `report-mapped.jsonl`, `report-ambiguous.txt`,
+`report-unmapped.txt` und `analyzer.log`. Die Sprachinventur ist weiterhin mit
+`python3 scripts/inventory-languages.py` verfügbar. Externe Quellen werden nur gelesen.
 
 ## Befehle
 
-Alle Beispiele werden im Repository ausgeführt. `PACKAGE-ID` steht für die
-Package-ID des Quellmods, beispielsweise `jaxe.rimhud`.
-
-| Befehl | Rolle |
+| Befehl | Wirkung |
 | --- | --- |
-| `./rwgt refresh` | Aktuellen RimWorld-Report einlesen, aktive Mods analysieren, fehlende Übersetzungen zuordnen und Def-Typen anhand echter Quell-Defs auflösen; anschließend Status und XML-Validierung ausgeben |
-| `./rwgt status` | Fehlende Einträge laut letzter Analyse und bereits vorhandene eigene Übersetzungen je Paket anzeigen |
-| `./rwgt validate` | Alle deutschen XML-Dateien auf gültiges XML, den Wurzelknoten `LanguageData` und doppelte Keyed-Schlüssel prüfen |
-| `./rwgt work PACKAGE-ID` | Reproduzierbare Arbeitsdatei unter `data/work/` aus den aktuell zugeordneten fehlenden Einträgen erstellen |
-| `./rwgt draft PACKAGE-ID` | Arbeitsdatei erneuern und persistenten Übersetzungs-Draft erstellen oder aktualisieren |
-| `./rwgt progress PACKAGE-ID` | Anzahl übersetzter, offener und als Review markierter Draft-Einträge anzeigen |
-| `./rwgt build PACKAGE-ID` | Vollständig übersetzten, geprüften Draft als RimWorld-XML bauen und XML validieren |
-| `./rwgt verify PACKAGE-ID` | Gebauten Bestand und gegebenenfalls Draft-Anzahl mit der letzten Analyse des Runtime-Reports vergleichen |
+| `./rwgt refresh` | Report und kanonischen Status erneuern |
+| `./rwgt status` | Letzten Status anzeigen |
+| `./rwgt draft PACKAGE-ID` | Einen dauerhaften Draft aktualisieren |
+| `./rwgt draft --all` | Neue Drafts für eindeutig zugeordnete offene Einträge anlegen, alle vorhandenen aktualisieren |
+| `./rwgt progress [PACKAGE-ID]` | Benötigt, übersetzt, offen, Review und nicht mehr benötigt anzeigen |
+| `./rwgt work [PACKAGE-ID] [--limit N] [--offset N]` | Arbeitspaket erstellen; Standardlimit 25 |
+| `./rwgt work --next` | Kleinsten noch offenen/reviewpflichtigen Draft auswählen |
+| `./rwgt apply WORK-DATEI` | Vollständig prüfen und Änderungen atomar in den Draft übernehmen |
+| `./rwgt build` | Gesamten Runtime-Bestand aus vollständigen Drafts neu erzeugen |
+| `./rwgt verify` | Gesamtes Repository und gespeicherte Runtime-Bestätigung prüfen |
+| `./rwgt validate` | XML-Struktur und doppelte Runtime-Identitäten prüfen |
+| `./rwgt install` | Lokalen Mod-Symlink sicher einrichten |
 
-`refresh` wählt die zuletzt geänderte Datei unter `~/Desktop`, deren Name
-`TranslationReport*.txt` oder `translationreport*.txt` entspricht. Es erneuert
-den Symlink `data/TranslationReport.txt` und die Report-Analysen. Den Report
-selbst muss RimWorld erzeugen. Die Def-Typ-Auflösung liest die statischen
-Quell-Defs für den aktuellen 1.6-Stand.
+`work` ohne Auswahl entspricht `work --next`. Gleichstände werden nach Package-ID
+aufgelöst. `--offset` zählt innerhalb der aktuell offenen/reviewpflichtigen
+Einträge. Nach einem Apply verschiebt sich diese Liste; gewöhnlich beginnt das
+nächste Paket wieder bei Offset 0. `build PACKAGE-ID` und `verify PACKAGE-ID`
+werden durch die globalen Befehle ersetzt.
 
-`draft` bewahrt vorhandene deutsche Texte und bereits bearbeitete Einträge,
-auch wenn sie nicht mehr als fehlend im Report erscheinen. Wird bei einem
-erneut gemeldeten Eintrag ein geänderter englischer Ausgangstext erkannt,
-setzt es `review: true` und merkt den vorherigen Text als `previous_english`.
-Vollständig qualifizierte Def-Typen werden anhand der Quellmods normalisiert.
-Nach inhaltlicher Prüfung wird der deutsche Text angepasst und `review`
-wieder auf `false` gesetzt.
+## Draft-Zustand und Identitäten
 
-`build` erzeugt nur einen vollständig übersetzten und nicht mehr als Review
-markierten Paketbestand. Bei leeren deutschen Texten, offenen Reviews,
-Placeholder-Abweichungen oder nicht eindeutig auflösbaren Def-Typen bricht
-der Befehl ab; es gibt keinen Teilbuild. Er schreibt Keyed-XML und je Def-Typ
-eine DefInjected-XML unter `Languages/German/` und führt anschließend
-`validate` aus.
+Jeder Eintrag enthält `english`, `german`, `needed` und `review`
+sowie `type`, `key` beziehungsweise `path`, Package-/Quellmetadaten und bei
+DefInjected `def_name`, `def_type` und `def_resolution`.
 
-`verify` verwendet die durch `refresh` erzeugte Auswertung des aktuellen
-RimWorld Translation Reports zur tatsächlichen Laufzeitverifikation. Dazu
-müssen Quellmods und Übersetzungsmod aktiv sein und der Report nach dem Laden
-des neuen Builds erzeugt worden sein. Der Befehl startet RimWorld nicht und
-erneuert den Report nicht selbst. Er prüft offene Zuordnungen je Paket und
-die Anzahl gebauter Einträge gegenüber dem Draft; ohne Draft meldet er
-„im Report vollständig, aber kein Draft vorhanden“. Ein alter Report oder
-eine veränderte aktive Modliste ist keine Bestätigung für einen neuen Build.
+- `needed=true`: Dieser Eintrag gehört weiterhin zu unserem deutschen Runtime-Mod.
+- `needed=false`: Dieser Eintrag ist stillgelegt. Er bleibt samt deutscher Fassung erhalten.
+- `review=true`: Der gemeldete englische Text hat sich geändert. Deutsch bleibt
+  erhalten; `previous_english` hält den Text vor dem noch offenen Review fest,
+  auch über mehrere Refresh-/Merge-Zyklen hinweg.
 
-Das zusätzliche Skript `scripts/inventory-languages.py` listet die aktiven
-Mods und ihre Sprachverzeichnisse auf. Seine Ausgabe kann lokal mit
-`python3 scripts/inventory-languages.py > data/language-inventory.txt`
-gespeichert werden.
+**RimWorld-Besonderheit:** Der Report sieht unsere eigenen Übersetzungen. Nach
+einem erfolgreichen Build verschwinden diese aus der Fehlstellenliste.
+Beim Merge bleibt ein zuvor benötigter Eintrag mit nichtleerem Deutsch daher
+`needed=true`, auch bei offenem Review. Ein bisher benötigter, noch unübersetzter
+Eintrag wird beim Verschwinden dagegen `needed=false`. Bereits stillgelegte
+Einträge bleiben stillgelegt. Erscheint ein Eintrag erneut im Report, erhält er
+wieder `needed=true`; vorhandenes Deutsch und offene Reviews bleiben erhalten.
 
-## Typischer Ablauf
+Runtime-Bestätigung ist ausschließlich lokale Evidenz in `data/status.json`
+und kein Zustandsfeld im Draft.
 
-Zunächst in RimWorld einen aktuellen Translation Report erzeugen und unter
-dem vom Werkzeug erwarteten Desktop-Verzeichnis bereitstellen. Dann:
+Der Report allein unterscheidet nicht sicher zwischen eigener erfolgreicher
+Übersetzung, neuer Upstream-Übersetzung und entferntem Quell-Key. Eine bewusst
+stillgelegte Übersetzung erhält im Draft `needed=false`. Der deutsche Text
+bleibt archiviert; der Build schließt nicht mehr benötigte Einträge aus.
+
+Keyed-Identitäten bestehen aus dem Key. DefInjected verwendet den Def-Pfad;
+der vollständige Typ ist korrigierbares Metadatum. Bei tatsächlich mehrfach
+verwendeten Pfaden in verschiedenen Def-Klassen ergänzt der Status
+`identity_scope` aus dem kurzen Klassennamen. Diese Kennung bleibt im Draft
+stabil. Eine nicht eindeutig mögliche Zuordnung alter Übersetzungen bricht ab.
+
+## Arbeitspakete und Apply
+
+Ein Arbeitspaket enthält nur benötigte Einträge mit leerem Deutsch oder offenem
+Review, dazu Package-ID, Draft-Dateiname, Offset und Identitätsschutz.
+`original_german` schützt zwischenzeitliche deutsche Änderungen. Identitäts-
+und Quellfelder einschließlich dieses Schutzfeldes nicht bearbeiten.
+
+Nach dem Übersetzen oder bewussten Bestätigen einer bestehenden Review-Fassung:
+
+```bash
+./rwgt apply data/work/PACKAGE-ID.work.json
+```
+
+Apply prüft alle Einträge vor dem ersten Schreibzugriff: Draft-Zuordnung,
+Package-ID, eindeutige vorhandene Identität, weiterhin `needed=true`, exakt
+passendes Englisch und ursprüngliches Deutsch, String-Typ und Placeholder.
+Unbekannte oder doppelte Einträge führen zum Abbruch ohne Teilübernahme.
+Leeres Deutsch wird übersprungen. Übernommene Einträge erhalten `review=false`;
+`previous_english` entfällt und `needed=true` bleibt bestehen.
+
+Ein bestehendes Arbeitspaket wird nicht überschrieben. Nach erfolgreicher
+Übernahme kann es lokal entfernt oder umbenannt werden, bevor für denselben
+Mod ein neues Paket erzeugt wird. Apply selbst lässt das Paket zur Kontrolle stehen.
+
+## Globaler Build und Verify
+
+Ein Draft ist vollständig, wenn alle benötigten Einträge übersetzt, ohne Review,
+mit passenden Placeholdern und eindeutig aufgelösten Def-Typen vorliegen.
+Unvollständige Drafts werden als Ganzes ausgeschlossen. Vollständige Drafts
+liefern ausschließlich benötigte, technisch gültige und fertige Einträge.
+
+Der Build berechnet zuerst den gesamten erwarteten Bestand, validiert XML und
+Text-Roundtrips und schreibt ein temporäres Verzeichnis unter `Languages/`.
+Erst anschließend ersetzt er `Languages/German/`, mit Rücknahme bei einem
+fehlgeschlagenen Austausch. Veraltete Dateien bleiben nicht liegen.
+Ein byteidentischer Bestand wird nicht neu geschrieben. Bei einem Prozess- oder
+Stromausfall während des Verzeichnistauschs kann der Sicherungsordner
+`Languages/.rwgt-build-*/previous` zur Wiederherstellung erforderlich sein.
+
+Ausgabeziele sind `Keyed/PACKAGE-ID.xml` und
+`DefInjected/FULL.DEF.TYPE/PACKAGE-ID.xml`. Namespaces wie
+`HugsLib.UpdateFeatureDef` und `ModSettingsFramework.ModOptionCategoryDef`
+bleiben exakt erhalten. Def-Quellen unter **`Defs/` und `News/`** werden weiterhin
+berücksichtigt; alte Versionsordner, Sprachdateien und Patches werden nicht für
+die statische Typauflösung verwendet.
+
+Globale doppelte Keyed-Keys beziehungsweise DefInjected-Identitäten werden nur
+bei exakt gleichem Englisch und Deutsch dedupliziert. Widersprüche brechen den
+Build vor Änderungen ab. Innerhalb eines Drafts sind doppelte Identitäten Fehler.
+Die vorhandene Placeholder-Prüfung zählt `{0}`, `{1}`, `{name}` usw. einschließlich
+Mehrfachvorkommen. Sie ist keine vollständige RimWorld-Grammatikprüfung.
+
+`verify` prüft Draft-Struktur, Pflichtfelder, Duplikate und Placeholder, vergleicht
+Drafts mit `data/status.json` und berechnet denselben erwarteten XML-Bestand wie
+Build. Fehlende, unerwartete, veränderte und falsch einsortierte Dateien werden
+als Fehler gemeldet. Unvollständige Drafts allein sind kein Fehler.
+
+## Update- und Übersetzungszyklus
+
+Nach Workshop-/RimWorld-Updates:
 
 ```bash
 ./rwgt refresh
-./rwgt draft PACKAGE-ID
-
-# translations/PACKAGE-ID.json übersetzen und offene Reviews bearbeiten
-
-./rwgt progress PACKAGE-ID
-./rwgt build PACKAGE-ID
+./rwgt draft --all
+./rwgt progress
+./rwgt verify
 ```
 
-Danach **RimWorld neu starten und einen neuen Translation Report erzeugen**.
-Anschließend:
+Wenn sich der erwartete Runtime-Bestand geändert hat, anschließend `build` und
+`verify` ausführen. Neue oder geänderte Texte bearbeiten:
 
 ```bash
-./rwgt refresh
-./rwgt verify PACKAGE-ID
+./rwgt work --next --limit 25
+# german ausfüllen, Reviews prüfen
+./rwgt apply data/work/PACKAGE-ID.work.json
+./rwgt progress
+./rwgt build
+./rwgt verify
 ```
 
-Die bearbeiteten JSON-Drafts und die erzeugten XML-Dateien gehören gemeinsam
-in den versionierten Bestand. Die Reports und Arbeitsdateien bleiben lokal.
+## Runtime-Test mit RimWorld
 
-## Keyed, DefInjected und Platzhalter
+Lokale Konsistenz und Runtime-Bestätigung sind getrennte Aussagen. Ein neuer
+Build kann lokal korrekt sein und trotzdem `Runtime: ausstehend` anzeigen.
 
-**Keyed** übersetzt explizite Translation Keys. **DefInjected** übersetzt
-Felder in RimWorld-Defs, beispielsweise `VTE_General.label`. Bei
-benutzerdefinierten Def-Klassen muss der vollständige Typname erhalten
-bleiben: `ModSettingsFramework.ModOptionCategoryDef` darf im
-DefInjected-Verzeichnis nicht auf `ModOptionCategoryDef` verkürzt werden.
+1. RimWorld mit Quellmods und Übersetzungsmod neu starten.
+2. Einen neuen deutschen TranslationReport erzeugen.
+3. `./rwgt refresh` ausführen.
+4. `./rwgt verify` ausführen.
 
-Platzhalter wie `{0}`, `{1}` und `{name}` dürfen nicht verändert oder entfernt
-werden. Ihre Schreibweise und jeweilige Anzahl müssen mit dem englischen
-Text übereinstimmen. Der Build prüft diese einfachen numerischen und benannten
-Platzhalter vor der XML-Erzeugung; ihre Position im Satz darf sich ändern.
+Erfolgreich übersetzte Einträge bleiben nach verschwundenen Fehlstellen benötigt;
+dies allein verursacht keinen Synchronitätsfehler. Neue oder geänderte
+Fehlstellen weiterhin mit `./rwgt draft --all` synchronisieren.
 
-## Verifizierter Stand als Momentaufnahme
+Refresh speichert je Runtime-Paket einen semantischen Fingerabdruck im Status.
+Eine Bestätigung setzt voraus, dass der Report keine entsprechenden Fehlstellen
+oder zuordenbaren Ladefehler nennt, beide Mods in passender Reihenfolge aktiv
+sind und der Report mindestens so neu wie XMLs und Modkonfiguration ist.
+Ein bereits bestätigter, semantisch unveränderter Bestand behält seine Bestätigung
+bei reinem Neuformatieren mit demselben Report. Geänderte Texte, Keys oder
+Def-Ordner passen nicht mehr zum Fingerabdruck und sind zunächst ausstehend.
 
-Die folgende Tabelle dokumentiert den zuletzt in RimWorld verifizierten
-Stand. Modupdates und Änderungen an der aktiven Modliste können die Zahlen
-und die Wirksamkeit verändern.
+Die Bestätigung gilt für den gespeicherten Report. RimWorld wird nicht automatisch
+gestartet. Der Report dokumentiert nicht vollständig die beim Spielstart geladene
+Modkonfiguration; die Reihenfolge wird gegen die lokale `ModsConfig.xml` geprüft.
+Nach verlorenen lokalen Analyseartefakten und neu geschriebenen XMLs kann der
+Nachweis erneut ausstehen. Übersetzungs- und Build-Daten bleiben reproduzierbar.
 
-| Package-ID | Keyed | DefInjected | Laufzeitstand |
-| --- | ---: | ---: | --- |
-| `andromeda.niceplantsmenu` | 59 | 0 | vollständig wirksam |
-| `jaxe.rimhud` | 284 | 0 | vollständig wirksam |
-| `vanillaexpanded.vtexe` | 5 | 1 | vollständig wirksam |
-| `m00nl1ght.worldtechlevel` | 100 | 1 | vollständig wirksam |
-| **Gesamt** | **448** | **2** | **450 Übersetzungseinträge** |
+## Grenzen und Tests
 
-Für Nice Plants Menu fehlt aktuell der JSON-Draft; deshalb kann `verify`
-dort nur den vollständigen Report-Stand ohne Draft-Abgleich melden.
-
-Der zuletzt geprüfte RimWorld-Report enthielt insgesamt **1584 fehlende
-Keyed-Übersetzungen** und **7853 fehlende DefInjected-Übersetzungen**. Auch
-diese Werte sind eine Momentaufnahme der lokalen Modliste, keine feste
-Projektkennzahl.
-
-Im bisherigen Workflow wurden Keyed und DefInjected vom Übersetzungsbestand
-bis zur Wirksamkeit in RimWorld validiert, einschließlich benutzerdefinierter
-Def-Klassen mit Namespace. Ebenso wurde das Erhalten bestehender
-Übersetzungen beim Aktualisieren eines Drafts geprüft. Der Runtime-Report
-dient zur tatsächlichen Verifikation; reine XML-Validierung bestätigt nur
-die technische Dateistruktur.
-
-## Grenzen
-
-- Steam-Workshop-Mods werden nicht verändert.
-- Laufzeitgenerierte Defs lassen sich nicht immer direkt einer statischen
-  Quelldatei zuordnen.
-- Mehrdeutige Zuordnungen müssen gegebenenfalls separat geprüft werden;
-  die Analyse hält sie unter `data/report-ambiguous.txt` fest.
-- Hardcodierte C#-Strings ohne Translation Key sind mit diesem
-  Übersetzungsmod nicht automatisch übersetzbar.
-- Vorhandene fehlerhafte Übersetzungen aus anderen Mods gehören nicht
-  automatisch zum Umfang dieses Projekts.
-
-## Lokale Validierung
+- Runtime-generierte Defs sowie mehrdeutige Zuordnungen lassen sich nicht immer
+  statisch auflösen. Der Status unterscheidet `resolved`, `ambiguous`, `missing`.
+- Die statische Analyse ist auf 1.6 zugeschnitten und bildet keine vollständige
+  RimWorld-LoadFolders-/Patch-/Vererbungsengine nach.
+- Englisch-Reviews beziehen sich auf die im Report gemeldeten Quelltexte.
+  Nicht mehr gemeldete Texte lassen sich anhand dieses Reports nicht auf
+  englische Upstream-Änderungen prüfen.
+- Ein Report ohne Fehlstelle beweist nicht für sich allein, warum sie fehlt.
+  Entfernte Keys und offizielle deutsche Ergänzungen benötigen gegebenenfalls
+  eine bewusste Stilllegung der alten Runtime-Fassung.
+- Hardcodierte C#-Strings ohne Translation Key werden nicht übersetzt.
+- Gleichzeitige schreibende CLI-Aufrufe werden nicht unterstützt.
 
 ```bash
+python3 -m unittest discover -s scripts -p 'test_*.py' -v
 python3 -m py_compile scripts/*.py
-./rwgt validate
 git diff --check
-git status --short
-git status --ignored --short
+./rwgt status
+./rwgt progress
+./rwgt build
+./rwgt verify
 ```
 
-`validate` prüft die XML-Dateien; Placeholder-Prüfung erfolgt beim Build,
-Laufzeitverifikation nach einem neuen Report mit `refresh` und `verify`.
+Die Tests verwenden temporäre Verzeichnisse und verändern keine Steam- oder
+RimWorld-Dateien. Sie prüfen Config, Merge, Identitäten, Work-Auswahl, Apply,
+Placeholder, globalen Build samt Rollback, Verify und Runtime-Nachweise.
 
 ## Lizenz
 
-Der eigene Code und die in diesem Repository erstellten Übersetzungen stehen
-unter der [MIT-Lizenz](LICENSE).
-
-RimWorld sowie die übersetzten Mods und deren ursprüngliche Inhalte sind nicht
-Bestandteil dieser Lizenz und unterliegen den Rechten ihrer jeweiligen Urheber.
+Eigener Code und eigene Übersetzungen stehen unter der [MIT-Lizenz](LICENSE).
+RimWorld sowie die übersetzten Mods und deren ursprüngliche Inhalte unterliegen
+den Rechten ihrer jeweiligen Urheber.
