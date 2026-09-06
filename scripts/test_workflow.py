@@ -195,14 +195,22 @@ class WorkTests(unittest.TestCase):
             with self.subTest(limit=limit, offset=offset), self.assertRaises(ValueError):
                 work.make_work([pair()], limit=limit, offset=offset)
 
-    def test_existing_work_is_protected(self):
-        with tempfile.TemporaryDirectory() as directory, patch.object(config, 'DATA', Path(directory)), patch.object(work, 'load_drafts', return_value=[pair()]), redirect_stdout(StringIO()):
+    def test_existing_work_is_replaced(self):
+        drafts = [
+            [pair([keyed('First')])],
+            [pair([keyed('Second')])],
+        ]
+        with tempfile.TemporaryDirectory() as directory, \
+                patch.object(config, 'DATA', Path(directory)), \
+                patch.object(work, 'load_drafts', side_effect=drafts), \
+                redirect_stdout(StringIO()):
             work.run()
             path = Path(directory) / 'work/test.mod.work.json'
-            before = path.read_bytes()
-            with self.assertRaisesRegex(ValueError, 'existiert'):
-                work.run()
-            self.assertEqual(path.read_bytes(), before)
+            self.assertEqual(common.load_json(path)['entries'][0]['key'], 'First')
+
+            work.run()
+
+            self.assertEqual(common.load_json(path)['entries'][0]['key'], 'Second')
 
 
 class ApplyTests(unittest.TestCase):

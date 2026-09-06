@@ -34,8 +34,6 @@ def make_work(drafts, selector=None, limit=25, offset=0):
 def run(selector=None, limit=25, offset=0):
     work = make_work(load_drafts(), selector, limit, offset)
     out = config.DATA / 'work' / (work['package_id'] + '.work.json')
-    if out.exists():
-        raise ValueError(f'Arbeitspaket existiert bereits: {out}. Erst anwenden oder lokal umbenennen/entfernen.')
     write_json(out, work)
     print(f"{work['name']}: {len(work['entries'])} von {work['open_total']} offenen Einträgen (Offset {offset})")
     print(f'Arbeitsdatei: {out}')

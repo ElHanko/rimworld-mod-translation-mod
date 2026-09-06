@@ -158,9 +158,10 @@ Unbekannte oder doppelte Einträge führen zum Abbruch ohne Teilübernahme.
 Leeres Deutsch wird übersprungen. Übernommene Einträge erhalten `review=false`;
 `previous_english` entfällt und `needed=true` bleibt bestehen.
 
-Ein bestehendes Arbeitspaket wird nicht überschrieben. Nach erfolgreicher
-Übernahme kann es lokal entfernt oder umbenannt werden, bevor für denselben
-Mod ein neues Paket erzeugt wird. Apply selbst lässt das Paket zur Kontrolle stehen.
+Arbeitspakete sind vollständig temporär. `work` überschreibt eine bereits
+vorhandene Work-Datei für dasselbe Paket deterministisch mit dem aktuellen
+Stand des Drafts. Nicht angewendete Änderungen in einer Work-Datei gehen dabei
+bewusst verloren. `apply` selbst lässt das Arbeitspaket unverändert bestehen.
 
 ## Globaler Build und Verify
 
