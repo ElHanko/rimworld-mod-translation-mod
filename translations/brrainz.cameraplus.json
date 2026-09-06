@@ -1,0 +1,46 @@
+{
+  "package_id": "brrainz.cameraplus",
+  "name": "Camera+",
+  "entries": [
+    {
+      "english": "Hides general map floating text outside RimWorld's closest zoom level. This includes transient feedback such as damage and event text, not only static labels.\\n\\nThe Mouse reveals labels option also reveals nearby floating text while suppression is enabled. Turn this off to keep all floating feedback visible.",
+      "key": "SettingsHelp_SuppressFloatingText",
+      "package_id": "brrainz.cameraplus",
+      "source": "Text.xml:130",
+      "type": "keyed",
+      "german": "Blendet allgemeine schwebende Kartentexte außerhalb von RimWorlds nächster Zoomstufe aus. Dazu gehören vorübergehende Rückmeldungen wie Schadens- und Ereignistexte, nicht nur statische Beschriftungen.\\n\\nDie Option „Maus enthüllt Schilder“ zeigt bei aktivierter Unterdrückung auch schwebende Texte in der Nähe der Maus wieder an. Deaktiviere diese Einstellung, um alle schwebenden Rückmeldungen sichtbar zu lassen.",
+      "review": false,
+      "needed": true
+    },
+    {
+      "english": "Suppress floating text when zoomed out",
+      "key": "SuppressFloatingText",
+      "package_id": "brrainz.cameraplus",
+      "source": "Text.xml:37",
+      "type": "keyed",
+      "german": "Schwebenden Text beim Herauszoomen ausblenden",
+      "review": false,
+      "needed": true
+    },
+    {
+      "english": "Disabled: choose at least one modifier.",
+      "key": "SettingsNote_ShortcutDisabled",
+      "package_id": "brrainz.cameraplus",
+      "source": "Text.xml:76",
+      "type": "keyed",
+      "german": "Deaktiviert: Wähle mindestens eine Modifikatortaste.",
+      "review": false,
+      "needed": true
+    },
+    {
+      "english": "Load and save use the same modifiers.",
+      "key": "SettingsNote_LoadSaveShortcutConflict",
+      "package_id": "brrainz.cameraplus",
+      "source": "Text.xml:77",
+      "type": "keyed",
+      "german": "Laden und Speichern verwenden dieselben Modifikatortasten.",
+      "review": false,
+      "needed": true
+    }
+  ]
+}

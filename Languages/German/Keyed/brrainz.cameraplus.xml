@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <SettingsHelp_SuppressFloatingText>Blendet allgemeine schwebende Kartentexte außerhalb von RimWorlds nächster Zoomstufe aus. Dazu gehören vorübergehende Rückmeldungen wie Schadens- und Ereignistexte, nicht nur statische Beschriftungen.\n\nDie Option „Maus enthüllt Schilder“ zeigt bei aktivierter Unterdrückung auch schwebende Texte in der Nähe der Maus wieder an. Deaktiviere diese Einstellung, um alle schwebenden Rückmeldungen sichtbar zu lassen.</SettingsHelp_SuppressFloatingText>
+  <SettingsNote_LoadSaveShortcutConflict>Laden und Speichern verwenden dieselben Modifikatortasten.</SettingsNote_LoadSaveShortcutConflict>
+  <SettingsNote_ShortcutDisabled>Deaktiviert: Wähle mindestens eine Modifikatortaste.</SettingsNote_ShortcutDisabled>
+  <SuppressFloatingText>Schwebenden Text beim Herauszoomen ausblenden</SuppressFloatingText>
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <WhatsMissing.BillWindow.Pin>Dieses Auftragsfenster an seiner aktuellen Position und Größe fixieren</WhatsMissing.BillWindow.Pin>
+  <WhatsMissing.BillWindow.PinLabel>Fenster fixieren</WhatsMissing.BillWindow.PinLabel>
+  <WhatsMissing.BillWindow.Unpin>Fixierung dieses Auftragsfensters aufheben</WhatsMissing.BillWindow.Unpin>
+  <WhatsMissing.BillWindow.UnpinLabel>Fensterfixierung aufheben</WhatsMissing.BillWindow.UnpinLabel>
+  <WhatsMissing.HaveNeeded>Vorhanden / benötigt:</WhatsMissing.HaveNeeded>
+  <WhatsMissing.MixingPossible>(Zutaten können gemischt werden)</WhatsMissing.MixingPossible>
+  <WhatsMissing.NotAllowed>Nicht erlaubt:</WhatsMissing.NotAllowed>
+  <WhatsMissing.Nutrition>Nährwert</WhatsMissing.Nutrition>
+  <WhatsMissing.Requires>Benötigt (siehe Tooltips, Zutaten können angeklickt werden):</WhatsMissing.Requires>
+  <WhatsMissing.Settings.HideZeroCountIngredients>Nicht vorhandene Zutaten ausblenden</WhatsMissing.Settings.HideZeroCountIngredients>
+  <WhatsMissing.Settings.MaxTooltipsWidth>Maximale Tooltip-Breite</WhatsMissing.Settings.MaxTooltipsWidth>
+  <WhatsMissing.WorkAmount>Arbeit</WhatsMissing.WorkAmount>
+</LanguageData>

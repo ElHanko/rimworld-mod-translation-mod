@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <TD.ReplacementAlreadyInProgess>Ersetzung läuft bereits.</TD.ReplacementAlreadyInProgess>
+  <TD.SettingsBridgeResources>(Erste Priorität haben Brücken, für die du die benötigten Ressourcen hast; zweite Priorität ist die Reihenfolge dieser Liste – zum Ändern per Drag-and-drop verschieben)</TD.SettingsBridgeResources>
+  <TD.SettingsPreferredBridge>Bevorzugte Reihenfolge der bei Bedarf zu platzierenden Brücken:</TD.SettingsPreferredBridge>
+</LanguageData>

@@ -1,0 +1,32 @@
+{
+  "package_id": "avilmask.commonsense",
+  "name": "Common Sense",
+  "entries": [
+    {
+      "def_name": "CooledStoreroom",
+      "def_type": "RoomRoleDef",
+      "english": "fridge room",
+      "hint": null,
+      "package_id": "avilmask.commonsense",
+      "path": "CooledStoreroom.label",
+      "type": "def",
+      "german": "Kühlraum",
+      "review": false,
+      "needed": true,
+      "def_resolution": "resolved"
+    },
+    {
+      "def_name": "SocialRelaxCommonSense",
+      "def_type": "JobDef",
+      "english": "relaxing socially.",
+      "hint": null,
+      "package_id": "avilmask.commonsense",
+      "path": "SocialRelaxCommonSense.reportString",
+      "type": "def",
+      "german": "entspannt sich in Gesellschaft.",
+      "review": false,
+      "needed": true,
+      "def_resolution": "resolved"
+    }
+  ]
+}

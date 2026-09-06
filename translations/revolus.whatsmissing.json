@@ -1,0 +1,126 @@
+{
+  "package_id": "revolus.whatsmissing",
+  "name": "What's Missing?",
+  "entries": [
+    {
+      "english": "Requires (see tooltips, ingredients can be clicked):",
+      "key": "WhatsMissing.Requires",
+      "package_id": "revolus.whatsmissing",
+      "source": "Keyed.xml:11",
+      "type": "keyed",
+      "german": "Benötigt (siehe Tooltips, Zutaten können angeklickt werden):",
+      "review": false,
+      "needed": true
+    },
+    {
+      "english": "work",
+      "key": "WhatsMissing.WorkAmount",
+      "package_id": "revolus.whatsmissing",
+      "source": "Keyed.xml:12",
+      "type": "keyed",
+      "german": "Arbeit",
+      "review": false,
+      "needed": true
+    },
+    {
+      "english": "You have / needed:",
+      "key": "WhatsMissing.HaveNeeded",
+      "package_id": "revolus.whatsmissing",
+      "source": "Keyed.xml:13",
+      "type": "keyed",
+      "german": "Vorhanden / benötigt:",
+      "review": false,
+      "needed": true
+    },
+    {
+      "english": "(mixing ingredients is possible)",
+      "key": "WhatsMissing.MixingPossible",
+      "package_id": "revolus.whatsmissing",
+      "source": "Keyed.xml:14",
+      "type": "keyed",
+      "german": "(Zutaten können gemischt werden)",
+      "review": false,
+      "needed": true
+    },
+    {
+      "english": "Not allowed:",
+      "key": "WhatsMissing.NotAllowed",
+      "package_id": "revolus.whatsmissing",
+      "source": "Keyed.xml:15",
+      "type": "keyed",
+      "german": "Nicht erlaubt:",
+      "review": false,
+      "needed": true
+    },
+    {
+      "english": "nutrition",
+      "key": "WhatsMissing.Nutrition",
+      "package_id": "revolus.whatsmissing",
+      "source": "Keyed.xml:16",
+      "type": "keyed",
+      "german": "Nährwert",
+      "review": false,
+      "needed": true
+    },
+    {
+      "english": "Hide zero count ingredients",
+      "key": "WhatsMissing.Settings.HideZeroCountIngredients",
+      "package_id": "revolus.whatsmissing",
+      "source": "Keyed.xml:4",
+      "type": "keyed",
+      "german": "Nicht vorhandene Zutaten ausblenden",
+      "review": false,
+      "needed": true
+    },
+    {
+      "english": "Max tooltips width",
+      "key": "WhatsMissing.Settings.MaxTooltipsWidth",
+      "package_id": "revolus.whatsmissing",
+      "source": "Keyed.xml:5",
+      "type": "keyed",
+      "german": "Maximale Tooltip-Breite",
+      "review": false,
+      "needed": true
+    },
+    {
+      "english": "Fix this bill window at its current position and size",
+      "key": "WhatsMissing.BillWindow.Pin",
+      "package_id": "revolus.whatsmissing",
+      "source": "Keyed.xml:6",
+      "type": "keyed",
+      "german": "Dieses Auftragsfenster an seiner aktuellen Position und Größe fixieren",
+      "review": false,
+      "needed": true
+    },
+    {
+      "english": "Unfix this bill window",
+      "key": "WhatsMissing.BillWindow.Unpin",
+      "package_id": "revolus.whatsmissing",
+      "source": "Keyed.xml:7",
+      "type": "keyed",
+      "german": "Fixierung dieses Auftragsfensters aufheben",
+      "review": false,
+      "needed": true
+    },
+    {
+      "english": "Pin window",
+      "key": "WhatsMissing.BillWindow.PinLabel",
+      "package_id": "revolus.whatsmissing",
+      "source": "Keyed.xml:8",
+      "type": "keyed",
+      "german": "Fenster fixieren",
+      "review": false,
+      "needed": true
+    },
+    {
+      "english": "Unpin window",
+      "key": "WhatsMissing.BillWindow.UnpinLabel",
+      "package_id": "revolus.whatsmissing",
+      "source": "Keyed.xml:9",
+      "type": "keyed",
+      "german": "Fensterfixierung aufheben",
+      "review": false,
+      "needed": true
+    }
+  ]
+}

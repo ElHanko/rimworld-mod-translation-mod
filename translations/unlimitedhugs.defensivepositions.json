@@ -1,0 +1,123 @@
+{
+  "package_id": "unlimitedhugs.defensivepositions",
+  "name": "Defensive Positions",
+  "entries": [
+    {
+      "def_name": "DPPositionMote",
+      "def_type": "ThingDef",
+      "english": "Mote",
+      "hint": null,
+      "package_id": "unlimitedhugs.defensivepositions",
+      "path": "DPPositionMote.label",
+      "type": "def",
+      "german": "Partikel",
+      "review": false,
+      "needed": true,
+      "def_resolution": "resolved"
+    },
+    {
+      "def_name": "DefensivePositions_1_13_1",
+      "def_type": "HugsLib.UpdateFeatureDef",
+      "english": "\\nPlayer-controlled ghouls and mechanoids can now be assigned and sent to their defensive positions.\\n\t\t",
+      "hint": null,
+      "package_id": "unlimitedhugs.defensivepositions",
+      "path": "DefensivePositions_1_13_1.content",
+      "type": "def",
+      "german": "\\nSpielergesteuerten Ghulen und Mechanoiden können jetzt Defensivpositionen zugewiesen werden, und sie können dorthin geschickt werden.\\n\t\t",
+      "review": false,
+      "needed": true,
+      "def_resolution": "resolved"
+    },
+    {
+      "def_name": "DefensivePositions_1_13_1",
+      "def_type": "HugsLib.UpdateFeatureDef",
+      "english": "Defensive Positions",
+      "hint": null,
+      "package_id": "unlimitedhugs.defensivepositions",
+      "path": "DefensivePositions_1_13_1.modNameReadable",
+      "type": "def",
+      "german": "Defensive Positions",
+      "review": false,
+      "needed": true,
+      "def_resolution": "resolved"
+    },
+    {
+      "def_name": "DefensivePositions_1_2_0",
+      "def_type": "HugsLib.UpdateFeatureDef",
+      "english": "img:images/keypad|caption: Colonists can now be assigned to squads for quick selection using the numeric keys. Additionally, there are now hotkeys for handling all colonists- selecting everyone, undrafting everyone, and sending everyone off to their defensive position. Keys can be reassigned in Options > Keyboard configuration.|img:images/assign_squad|caption:Assign a new squad by selecting your colonists, holding Control and pressing a keypad number from 1 to 9.|img:images/select_squad|caption:Select all colonists belonging to a squad by pressing the key you assigned.|img:images/send_everyone|caption:By pressing 0 on the keypad you can send all your colonists to their assigned defensive positions without selecting them.|img:images/select_everyone|caption:The keypad period key allows you to select all colonists with one keystroke.|img:images/undraft_everyone|caption:Press keypad divide (slash) to release all drafted colonists.|Finally, colonists will now automatically man turrets and mortars if you set their defensive position on the interaction circle of the gun. Happy defending!",
+      "hint": null,
+      "package_id": "unlimitedhugs.defensivepositions",
+      "path": "DefensivePositions_1_2_0.content",
+      "type": "def",
+      "german": "img:images/keypad|caption: Kolonisten können jetzt Gruppen zugewiesen werden, um sie schnell über die Zifferntasten auszuwählen. Zusätzlich gibt es jetzt Tastenkürzel für alle Kolonisten: alle auswählen, bei allen den Kampfmodus beenden und alle zu ihrer Defensivposition schicken. Die Tasten können unter Optionen > Tastenbelegungen konfigurieren neu zugewiesen werden.|img:images/assign_squad|caption:Weise eine neue Gruppe zu, indem du deine Kolonisten auswählst, Strg gedrückt hältst und eine Zifferntaste von 1 bis 9 drückst.|img:images/select_squad|caption:Wähle alle Kolonisten einer Gruppe aus, indem du die zugewiesene Taste drückst.|img:images/send_everyone|caption:Mit 0 auf dem Ziffernblock kannst du alle Kolonisten zu ihren zugewiesenen Defensivpositionen schicken, ohne sie vorher auszuwählen.|img:images/select_everyone|caption:Mit der Dezimaltaste auf dem Ziffernblock kannst du alle Kolonisten mit einem Tastendruck auswählen.|img:images/undraft_everyone|caption:Drücke die Dividieren-Taste (Schrägstrich) auf dem Ziffernblock, um bei allen Kolonisten den Kampfmodus zu beenden.|Außerdem bemannen Kolonisten jetzt automatisch Geschütze und Mörser, wenn du ihre Defensivposition auf dem Interaktionsfeld der Waffe festlegst. Viel Erfolg bei der Verteidigung!",
+      "review": false,
+      "needed": true,
+      "def_resolution": "resolved"
+    },
+    {
+      "def_name": "DefensivePositions_1_2_0",
+      "def_type": "HugsLib.UpdateFeatureDef",
+      "english": "Defensive Positions",
+      "hint": null,
+      "package_id": "unlimitedhugs.defensivepositions",
+      "path": "DefensivePositions_1_2_0.modNameReadable",
+      "type": "def",
+      "german": "Defensive Positions",
+      "review": false,
+      "needed": true,
+      "def_resolution": "resolved"
+    },
+    {
+      "def_name": "DefensivePositions_1_8_0",
+      "def_type": "HugsLib.UpdateFeatureDef",
+      "english": "- Defensive Positions is now compatible with Zetrith's Multiplayer mod.|- The shift key can now be used to queue movement orders. This can be enabled via a setting in Options > Mod Options.",
+      "hint": null,
+      "package_id": "unlimitedhugs.defensivepositions",
+      "path": "DefensivePositions_1_8_0.content",
+      "type": "def",
+      "german": "- Defensive Positions ist jetzt mit Zetriths Multiplayer-Mod kompatibel.|- Mit der Umschalttaste können Bewegungsbefehle jetzt in eine Warteschlange eingereiht werden. Dies kann unter Optionen > Mod-Einstellungen aktiviert werden.",
+      "review": false,
+      "needed": true,
+      "def_resolution": "resolved"
+    },
+    {
+      "def_name": "DefensivePositions_1_8_0",
+      "def_type": "HugsLib.UpdateFeatureDef",
+      "english": "Defensive Positions",
+      "hint": null,
+      "package_id": "unlimitedhugs.defensivepositions",
+      "path": "DefensivePositions_1_8_0.modNameReadable",
+      "type": "def",
+      "german": "Defensive Positions",
+      "review": false,
+      "needed": true,
+      "def_resolution": "resolved"
+    },
+    {
+      "def_name": "DefensivePositions_1_9_1",
+      "def_type": "HugsLib.UpdateFeatureDef",
+      "english": "\\n- Caravans can now be assigned to squads from the world map.|\\n- Pressing a squad key repeatedly will cycle through all places its members are found in. Also works for caravans and on multiple maps.\\n\t\t",
+      "hint": null,
+      "package_id": "unlimitedhugs.defensivepositions",
+      "path": "DefensivePositions_1_9_1.content",
+      "type": "def",
+      "german": "\\n- Karawanen können jetzt auf der Weltkarte Gruppen zugewiesen werden.|\\n- Durch wiederholtes Drücken einer Gruppentaste wird zwischen allen Orten gewechselt, an denen sich Mitglieder der Gruppe befinden. Funktioniert auch mit Karawanen und auf mehreren Karten.\\n\t\t",
+      "review": false,
+      "needed": true,
+      "def_resolution": "resolved"
+    },
+    {
+      "def_name": "DefensivePositions_1_9_1",
+      "def_type": "HugsLib.UpdateFeatureDef",
+      "english": "Defensive Positions",
+      "hint": null,
+      "package_id": "unlimitedhugs.defensivepositions",
+      "path": "DefensivePositions_1_9_1.modNameReadable",
+      "type": "def",
+      "german": "Defensive Positions",
+      "review": false,
+      "needed": true,
+      "def_resolution": "resolved"
+    }
+  ]
+}
