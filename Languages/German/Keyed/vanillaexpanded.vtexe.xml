@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <VanillaTexturesExpanded.SettingsCategory>Vanilla Textures Expanded</VanillaTexturesExpanded.SettingsCategory>
   <VanillaTexturesExpanded.MainButtonRenderMode>Darstellungsmodus der Menüschaltflächen</VanillaTexturesExpanded.MainButtonRenderMode>
   <VanillaTexturesExpanded.MainButtonRenderMode_IconsAndText>Symbole und Text (neu)</VanillaTexturesExpanded.MainButtonRenderMode_IconsAndText>
   <VanillaTexturesExpanded.MainButtonRenderMode_IconsThenText>Symbole, wenn möglich (Vanilla)</VanillaTexturesExpanded.MainButtonRenderMode_IconsThenText>
   <VanillaTexturesExpanded.MainButtonRenderMode_TextOnly>Nur Text (klassisch)</VanillaTexturesExpanded.MainButtonRenderMode_TextOnly>
+  <VanillaTexturesExpanded.SettingsCategory>Vanilla Textures Expanded</VanillaTexturesExpanded.SettingsCategory>
 </LanguageData>

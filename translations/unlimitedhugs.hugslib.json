@@ -1,0 +1,26 @@
+{
+  "package_id": "unlimitedhugs.hugslib",
+  "name": "HugsLib",
+  "entries": [
+    {
+      "type": "keyed",
+      "package_id": "unlimitedhugs.hugslib",
+      "key": "HugsLib_logs_github_token",
+      "english": "GitHub access token",
+      "source": "English.xml:66",
+      "needed": true,
+      "german": "",
+      "review": false
+    },
+    {
+      "type": "keyed",
+      "package_id": "unlimitedhugs.hugslib",
+      "key": "HugsLib_logs_github_token_tip",
+      "english": "Publishes logs to your own GitHub account when set. Paste a token from GitHub > Settings > Developer Settings > Personal access tokens. Leave blank to publish to the public HugsLib account.\\n\\nLogs published to your account can only be viewed by others using a link.",
+      "source": "English.xml:67",
+      "needed": true,
+      "german": "",
+      "review": false
+    }
+  ]
+}

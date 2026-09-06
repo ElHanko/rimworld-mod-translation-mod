@@ -9,7 +9,8 @@
       "source": "Base.xml:6",
       "type": "keyed",
       "german": "{0} {1}",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Show HUD",
@@ -18,7 +19,8 @@
       "source": "Base.xml:8",
       "type": "keyed",
       "german": "HUD anzeigen",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Rules: {0}",
@@ -27,7 +29,8 @@
       "source": "Integration.xml:4",
       "type": "keyed",
       "german": "Regeln: {0}",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "RimHUD",
@@ -36,7 +39,8 @@
       "source": "Interface.xml:11",
       "type": "keyed",
       "german": "RimHUD",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Use default",
@@ -45,7 +49,8 @@
       "source": "Interface.xml:12",
       "type": "keyed",
       "german": "Standard verwenden",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Config folder",
@@ -54,7 +59,8 @@
       "source": "Interface.xml:13",
       "type": "keyed",
       "german": "Konfigurationsordner",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "(Modified)",
@@ -63,7 +69,8 @@
       "source": "Interface.xml:14",
       "type": "keyed",
       "german": "(Geändert)",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Design",
@@ -72,7 +79,8 @@
       "source": "Interface.xml:16",
       "type": "keyed",
       "german": "Design",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Colors",
@@ -81,7 +89,8 @@
       "source": "Interface.xml:18",
       "type": "keyed",
       "german": "Farben",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Edit color for {0}",
@@ -90,7 +99,8 @@
       "source": "Interface.xml:19",
       "type": "keyed",
       "german": "Farbe für {0} bearbeiten",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Hue",
@@ -99,7 +109,8 @@
       "source": "Interface.xml:20",
       "type": "keyed",
       "german": "Farbton",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Saturation",
@@ -108,7 +119,8 @@
       "source": "Interface.xml:21",
       "type": "keyed",
       "german": "Sättigung",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Lightness",
@@ -117,7 +129,8 @@
       "source": "Interface.xml:22",
       "type": "keyed",
       "german": "Helligkeit",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Alpha",
@@ -126,7 +139,8 @@
       "source": "Interface.xml:23",
       "type": "keyed",
       "german": "Alpha",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "RGBA",
@@ -135,7 +149,8 @@
       "source": "Interface.xml:24",
       "type": "keyed",
       "german": "RGBA",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Content",
@@ -144,7 +159,8 @@
       "source": "Interface.xml:26",
       "type": "keyed",
       "german": "Inhalt",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Docked layers",
@@ -153,7 +169,8 @@
       "source": "Interface.xml:28",
       "type": "keyed",
       "german": "Angedockte Ebenen",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Floating layers",
@@ -162,7 +179,8 @@
       "source": "Interface.xml:29",
       "type": "keyed",
       "german": "Schwebende Ebenen",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Presets",
@@ -171,7 +189,8 @@
       "source": "Interface.xml:31",
       "type": "keyed",
       "german": "Voreinstellungen",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Select preset...",
@@ -180,7 +199,8 @@
       "source": "Interface.xml:32",
       "type": "keyed",
       "german": "Voreinstellung auswählen...",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Save preset",
@@ -189,7 +209,8 @@
       "source": "Interface.xml:33",
       "type": "keyed",
       "german": "Voreinstellung speichern",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Manage presets",
@@ -198,7 +219,8 @@
       "source": "Interface.xml:34",
       "type": "keyed",
       "german": "Voreinstellungen verwalten",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "[Default]",
@@ -207,7 +229,8 @@
       "source": "Interface.xml:35",
       "type": "keyed",
       "german": "[Standard]",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Layer",
@@ -216,7 +239,8 @@
       "source": "Interface.xml:37",
       "type": "keyed",
       "german": "Ebene",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Move up",
@@ -225,7 +249,8 @@
       "source": "Interface.xml:38",
       "type": "keyed",
       "german": "Nach oben",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Move down",
@@ -234,7 +259,8 @@
       "source": "Interface.xml:39",
       "type": "keyed",
       "german": "Nach unten",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "OK",
@@ -243,7 +269,8 @@
       "source": "Interface.xml:4",
       "type": "keyed",
       "german": "OK",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Remove",
@@ -252,7 +279,8 @@
       "source": "Interface.xml:40",
       "type": "keyed",
       "german": "Entfernen",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Add stack",
@@ -261,7 +289,8 @@
       "source": "Interface.xml:41",
       "type": "keyed",
       "german": "Stapel hinzufügen",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "A stack can contain other stacks or panels. The contents of the stack will be evenly distributed horizontally or vertically depending on the stack type chosen.",
@@ -270,7 +299,8 @@
       "source": "Interface.xml:42",
       "type": "keyed",
       "german": "Ein Stapel kann weitere Stapel oder Panels enthalten. Der Inhalt des Stapels wird je nach gewähltem Stapeltyp gleichmäßig horizontal oder vertikal verteilt.",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Add panel",
@@ -279,7 +309,8 @@
       "source": "Interface.xml:43",
       "type": "keyed",
       "german": "Panel hinzufügen",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "A panel evenly displays rows of elements vertically.",
@@ -288,7 +319,8 @@
       "source": "Interface.xml:44",
       "type": "keyed",
       "german": "Ein Panel zeigt Zeilen mit Elementen gleichmäßig vertikal an.",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Add row",
@@ -297,7 +329,8 @@
       "source": "Interface.xml:45",
       "type": "keyed",
       "german": "Zeile hinzufügen",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "A row holds elements and if contains more than one they will be displayed evenly horizontally.",
@@ -306,7 +339,8 @@
       "source": "Interface.xml:46",
       "type": "keyed",
       "german": "Eine Zeile enthält Elemente. Enthält sie mehr als ein Element, werden diese gleichmäßig horizontal verteilt.",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Add common",
@@ -315,7 +349,8 @@
       "source": "Interface.xml:48",
       "type": "keyed",
       "german": "Allgemeines hinzufügen",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Add third-party",
@@ -324,7 +359,8 @@
       "source": "Interface.xml:49",
       "type": "keyed",
       "german": "Drittanbieter hinzufügen",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Yes",
@@ -333,7 +369,8 @@
       "source": "Interface.xml:5",
       "type": "keyed",
       "german": "Ja",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Add stat",
@@ -342,7 +379,8 @@
       "source": "Interface.xml:50",
       "type": "keyed",
       "german": "Statistik hinzufügen",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Add record",
@@ -351,7 +389,8 @@
       "source": "Interface.xml:51",
       "type": "keyed",
       "german": "Aufzeichnung hinzufügen",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Add bar",
@@ -360,7 +399,8 @@
       "source": "Interface.xml:52",
       "type": "keyed",
       "german": "Balken hinzufügen",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Add skill/training",
@@ -369,7 +409,8 @@
       "source": "Interface.xml:53",
       "type": "keyed",
       "german": "Fähigkeit/Training hinzufügen",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Selected: ",
@@ -378,7 +419,8 @@
       "source": "Interface.xml:55",
       "type": "keyed",
       "german": "Ausgewählt: ",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Fill height",
@@ -387,7 +429,8 @@
       "source": "Interface.xml:56",
       "type": "keyed",
       "german": "Höhe ausfüllen",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "If checked the panel or stack will stretch to fill the remaining vertical space.\\n\\nIf unchecked it will size the height to its content",
@@ -396,7 +439,8 @@
       "source": "Interface.xml:57",
       "type": "keyed",
       "german": "Wenn aktiviert, wird das Panel oder der Stapel gestreckt, um den verbleibenden vertikalen Platz auszufüllen.\\n\\nWenn deaktiviert, richtet sich die Höhe nach dem Inhalt.",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "User presets",
@@ -405,7 +449,8 @@
       "source": "Interface.xml:59",
       "type": "keyed",
       "german": "Benutzer-Voreinstellungen",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "No",
@@ -414,7 +459,8 @@
       "source": "Interface.xml:6",
       "type": "keyed",
       "german": "Nein",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Delete selected",
@@ -423,7 +469,8 @@
       "source": "Interface.xml:60",
       "type": "keyed",
       "german": "Auswahl löschen",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Save preset",
@@ -432,7 +479,8 @@
       "source": "Interface.xml:62",
       "type": "keyed",
       "german": "Voreinstellung speichern",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Name",
@@ -441,7 +489,8 @@
       "source": "Interface.xml:63",
       "type": "keyed",
       "german": "Name",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Include docked",
@@ -450,7 +499,8 @@
       "source": "Interface.xml:64",
       "type": "keyed",
       "german": "Angedockte einbeziehen",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Include floating",
@@ -459,7 +509,8 @@
       "source": "Interface.xml:65",
       "type": "keyed",
       "german": "Schwebende einbeziehen",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Include height",
@@ -468,7 +519,8 @@
       "source": "Interface.xml:66",
       "type": "keyed",
       "german": "Höhe einbeziehen",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Include width",
@@ -477,7 +529,8 @@
       "source": "Interface.xml:67",
       "type": "keyed",
       "german": "Breite einbeziehen",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Include minimum tabs",
@@ -486,7 +539,8 @@
       "source": "Interface.xml:68",
       "type": "keyed",
       "german": "Mindestanzahl Tabs einbeziehen",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Include text sizes",
@@ -495,7 +549,8 @@
       "source": "Interface.xml:69",
       "type": "keyed",
       "german": "Textgrößen einbeziehen",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Cancel",
@@ -504,7 +559,8 @@
       "source": "Interface.xml:7",
       "type": "keyed",
       "german": "Abbrechen",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "RimHUD updated to version {0} and required that its configuration be reset to default.",
@@ -513,7 +569,8 @@
       "source": "Interface.xml:71",
       "type": "keyed",
       "german": "RimHUD wurde auf Version {0} aktualisiert und musste seine Konfiguration auf die Standardwerte zurücksetzen.",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Are you sure you want to revert all settings to default?",
@@ -522,7 +579,8 @@
       "source": "Interface.xml:72",
       "type": "keyed",
       "german": "Möchtest du wirklich alle Einstellungen auf die Standardwerte zurücksetzen?",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "This preset contained invalid elements or elements from third-party mods that are no longer active.\\n\\nThe active layout has been reset to default.",
@@ -531,7 +589,8 @@
       "source": "Interface.xml:73",
       "type": "keyed",
       "german": "Diese Voreinstellung enthielt ungültige Elemente oder Elemente von Drittanbieter-Mods, die nicht mehr aktiv sind.\\n\\nDas aktive Layout wurde auf die Standardwerte zurückgesetzt.",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Preset reset to default.",
@@ -540,7 +599,8 @@
       "source": "Interface.xml:74",
       "type": "keyed",
       "german": "Voreinstellung auf Standard zurückgesetzt.",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Preset for '{0}' loaded.",
@@ -549,7 +609,8 @@
       "source": "Interface.xml:75",
       "type": "keyed",
       "german": "Voreinstellung für '{0}' geladen.",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Preset '{0}' saved.",
@@ -558,7 +619,8 @@
       "source": "Interface.xml:76",
       "type": "keyed",
       "german": "Voreinstellung '{0}' gespeichert.",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Are you sure you want to delete the preset '{0}'?",
@@ -567,7 +629,8 @@
       "source": "Interface.xml:77",
       "type": "keyed",
       "german": "Möchtest du die Voreinstellung '{0}' wirklich löschen?",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "This feature is not yet implemented",
@@ -576,7 +639,8 @@
       "source": "Interface.xml:78",
       "type": "keyed",
       "german": "Diese Funktion ist noch nicht implementiert",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "More features coming soon™",
@@ -585,7 +649,8 @@
       "source": "Interface.xml:79",
       "type": "keyed",
       "german": "Weitere Funktionen folgen bald™",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Close",
@@ -594,7 +659,8 @@
       "source": "Interface.xml:8",
       "type": "keyed",
       "german": "Schließen",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "To access RimHUD's configuration, hover over the inspect pane while a character is selected and click the gear button.",
@@ -603,7 +669,8 @@
       "source": "Interface.xml:81",
       "type": "keyed",
       "german": "Um die RimHUD-Konfiguration zu öffnen, fahre bei ausgewähltem Charakter mit der Maus über den Inspektionsbereich und klicke auf die Zahnrad-Schaltfläche.",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "You should see a short tutorial on how to do this in game as soon as the inspect pane is displayed.",
@@ -612,7 +679,8 @@
       "source": "Interface.xml:82",
       "type": "keyed",
       "german": "Sobald der Inspektionsbereich angezeigt wird, solltest du im Spiel eine kurze Anleitung dazu sehen.",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "For a reminder on how to do this, click the button below.",
@@ -621,7 +689,8 @@
       "source": "Interface.xml:83",
       "type": "keyed",
       "german": "Klicke zur Erinnerung auf die Schaltfläche unten.",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Reset tutorial",
@@ -630,7 +699,8 @@
       "source": "Interface.xml:84",
       "type": "keyed",
       "german": "Anleitung zurücksetzen",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "click this gear icon to access this mod's config",
@@ -639,7 +709,8 @@
       "source": "Interface.xml:86",
       "type": "keyed",
       "german": "Klicke auf dieses Zahnradsymbol, um die Konfiguration dieser Mod zu öffnen",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "hover over this pane to see the config button",
@@ -648,7 +719,8 @@
       "source": "Interface.xml:87",
       "type": "keyed",
       "german": "Fahre mit der Maus über diesen Bereich, um die Konfigurationsschaltfläche anzuzeigen",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Here are all of RimHUD's settings allowing modification of the style and content displayed.",
@@ -657,7 +729,8 @@
       "source": "Interface.xml:88",
       "type": "keyed",
       "german": "Hier findest du alle RimHUD-Einstellungen, mit denen sich Stil und angezeigte Inhalte anpassen lassen.",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "In the content tab, you can save and load layout presets and there may be pre-built presets included for other mods you are using.",
@@ -666,7 +739,8 @@
       "source": "Interface.xml:89",
       "type": "keyed",
       "german": "Im Tab „Inhalt“ kannst du Layout-Voreinstellungen speichern und laden. Für andere von dir verwendete Mods können bereits fertige Voreinstellungen enthalten sein.",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Save",
@@ -675,7 +749,8 @@
       "source": "Interface.xml:9",
       "type": "keyed",
       "german": "Speichern",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "When you are finished here, click here to close the window.",
@@ -684,7 +759,8 @@
       "source": "Interface.xml:90",
       "type": "keyed",
       "german": "Wenn du hier fertig bist, klicke hier, um das Fenster zu schließen.",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Click to continue...",
@@ -693,7 +769,8 @@
       "source": "Interface.xml:91",
       "type": "keyed",
       "german": "Zum Fortfahren klicken...",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "No more notifications like this will appear to ensure a vanilla-like experience. Enjoy!",
@@ -702,7 +779,8 @@
       "source": "Interface.xml:92",
       "type": "keyed",
       "german": "Es werden keine weiteren Hinweise dieser Art angezeigt, damit das Spielerlebnis möglichst wie im Basisspiel bleibt. Viel Spaß!",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Horizontal stack",
@@ -711,7 +789,8 @@
       "source": "Layout.xml:10",
       "type": "keyed",
       "german": "Horizontaler Stapel",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Horizontal stack (filled)",
@@ -720,7 +799,8 @@
       "source": "Layout.xml:11",
       "type": "keyed",
       "german": "Horizontaler Stapel (ausgefüllt)",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Panel",
@@ -729,7 +809,8 @@
       "source": "Layout.xml:12",
       "type": "keyed",
       "german": "Panel",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Panel (filled)",
@@ -738,7 +819,8 @@
       "source": "Layout.xml:13",
       "type": "keyed",
       "german": "Panel (ausgefüllt)",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Row",
@@ -747,7 +829,8 @@
       "source": "Layout.xml:14",
       "type": "keyed",
       "german": "Zeile",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Filled",
@@ -756,7 +839,8 @@
       "source": "Layout.xml:15",
       "type": "keyed",
       "german": "Ausgefüllt",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Blank",
@@ -765,7 +849,8 @@
       "source": "Layout.xml:17",
       "type": "keyed",
       "german": "Leer",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Line separator",
@@ -774,7 +859,8 @@
       "source": "Layout.xml:18",
       "type": "keyed",
       "german": "Linientrenner",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Name as header",
@@ -783,7 +869,8 @@
       "source": "Layout.xml:19",
       "type": "keyed",
       "german": "Name als Überschrift",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Food selector",
@@ -792,7 +879,8 @@
       "source": "Layout.xml:20",
       "type": "keyed",
       "german": "Nahrungsauswahl",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Outfit selector",
@@ -801,7 +889,8 @@
       "source": "Layout.xml:21",
       "type": "keyed",
       "german": "Kleidungsauswahl",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Rules selector",
@@ -810,7 +899,8 @@
       "source": "Layout.xml:22",
       "type": "keyed",
       "german": "Regelauswahl",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Area selector",
@@ -819,7 +909,8 @@
       "source": "Layout.xml:23",
       "type": "keyed",
       "german": "Bereichsauswahl",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Timetable selector",
@@ -828,7 +919,8 @@
       "source": "Layout.xml:24",
       "type": "keyed",
       "german": "Zeitplanauswahl",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Relation, kind and faction",
@@ -837,7 +929,8 @@
       "source": "Layout.xml:25",
       "type": "keyed",
       "german": "Beziehung, Art und Fraktion",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Gender, race and age",
@@ -846,7 +939,8 @@
       "source": "Layout.xml:26",
       "type": "keyed",
       "german": "Geschlecht, Spezies und Alter",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Health bar",
@@ -855,7 +949,8 @@
       "source": "Layout.xml:27",
       "type": "keyed",
       "german": "Gesundheitsbalken",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Health condition",
@@ -864,7 +959,8 @@
       "source": "Layout.xml:28",
       "type": "keyed",
       "german": "Gesundheitszustand",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Mental condition",
@@ -873,7 +969,8 @@
       "source": "Layout.xml:29",
       "type": "keyed",
       "german": "Psychischer Zustand",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "{0} bar",
@@ -882,7 +979,8 @@
       "source": "Layout.xml:31",
       "type": "keyed",
       "german": "{0}-Balken",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Mood bar",
@@ -891,7 +989,8 @@
       "source": "Layout.xml:32",
       "type": "keyed",
       "german": "Stimmungsbalken",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Food bar",
@@ -900,7 +999,8 @@
       "source": "Layout.xml:33",
       "type": "keyed",
       "german": "Nahrungsbalken",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Sleep bar",
@@ -909,7 +1009,8 @@
       "source": "Layout.xml:34",
       "type": "keyed",
       "german": "Schlafbalken",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Energy bar [Biotech DLC]",
@@ -918,7 +1019,8 @@
       "source": "Layout.xml:35",
       "type": "keyed",
       "german": "Energiebalken [Biotech-DLC]",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Recreation bar",
@@ -927,7 +1029,8 @@
       "source": "Layout.xml:36",
       "type": "keyed",
       "german": "Erholungsbalken",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Suppression bar [Ideology DLC]",
@@ -936,7 +1039,8 @@
       "source": "Layout.xml:37",
       "type": "keyed",
       "german": "Unterdrückungsbalken [Ideology-DLC]",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "{0} skill",
@@ -945,7 +1049,8 @@
       "source": "Layout.xml:39",
       "type": "keyed",
       "german": "Fähigkeit {0}",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "User",
@@ -954,7 +1059,8 @@
       "source": "Layout.xml:4",
       "type": "keyed",
       "german": "Benutzer",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Shooting skill",
@@ -963,7 +1069,8 @@
       "source": "Layout.xml:40",
       "type": "keyed",
       "german": "Schießen",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Melee skill",
@@ -972,7 +1079,8 @@
       "source": "Layout.xml:41",
       "type": "keyed",
       "german": "Nahkampf",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Construction skill",
@@ -981,7 +1089,8 @@
       "source": "Layout.xml:42",
       "type": "keyed",
       "german": "Bauen",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Mining skill",
@@ -990,7 +1099,8 @@
       "source": "Layout.xml:43",
       "type": "keyed",
       "german": "Bergbau",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Cooking skill",
@@ -999,7 +1109,8 @@
       "source": "Layout.xml:44",
       "type": "keyed",
       "german": "Kochen",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Plants skill",
@@ -1008,7 +1119,8 @@
       "source": "Layout.xml:45",
       "type": "keyed",
       "german": "Pflanzen",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Animals skill",
@@ -1017,7 +1129,8 @@
       "source": "Layout.xml:46",
       "type": "keyed",
       "german": "Tiere",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Crafting skill",
@@ -1026,7 +1139,8 @@
       "source": "Layout.xml:47",
       "type": "keyed",
       "german": "Herstellen",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Artistic skill",
@@ -1035,7 +1149,8 @@
       "source": "Layout.xml:48",
       "type": "keyed",
       "german": "Kunst",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Medicine skill",
@@ -1044,7 +1159,8 @@
       "source": "Layout.xml:49",
       "type": "keyed",
       "german": "Medizin",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Integrated",
@@ -1053,7 +1169,8 @@
       "source": "Layout.xml:5",
       "type": "keyed",
       "german": "Integriert",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Social skill",
@@ -1062,7 +1179,8 @@
       "source": "Layout.xml:50",
       "type": "keyed",
       "german": "Sozial",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Intellectual skill",
@@ -1071,7 +1189,8 @@
       "source": "Layout.xml:51",
       "type": "keyed",
       "german": "Intellekt",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "{0} training",
@@ -1080,7 +1199,8 @@
       "source": "Layout.xml:53",
       "type": "keyed",
       "german": "Training: {0}",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Tameness training",
@@ -1089,7 +1209,8 @@
       "source": "Layout.xml:54",
       "type": "keyed",
       "german": "Zähmtraining",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Obedience training",
@@ -1098,7 +1219,8 @@
       "source": "Layout.xml:55",
       "type": "keyed",
       "german": "Gehorsamstraining",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Release training",
@@ -1107,7 +1229,8 @@
       "source": "Layout.xml:56",
       "type": "keyed",
       "german": "Freilass-Training",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Rescue training",
@@ -1116,7 +1239,8 @@
       "source": "Layout.xml:57",
       "type": "keyed",
       "german": "Rettungstraining",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Haul training",
@@ -1125,7 +1249,8 @@
       "source": "Layout.xml:58",
       "type": "keyed",
       "german": "Transporttraining",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Attack Target training [Odyssey DLC]",
@@ -1134,7 +1259,8 @@
       "source": "Layout.xml:59",
       "type": "keyed",
       "german": "Angriffsziel-Training [Odyssey-DLC]",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Comfort training [Odyssey DLC]",
@@ -1143,7 +1269,8 @@
       "source": "Layout.xml:60",
       "type": "keyed",
       "german": "Komforttraining [Odyssey-DLC]",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Dig training [Odyssey DLC]",
@@ -1152,7 +1279,8 @@
       "source": "Layout.xml:61",
       "type": "keyed",
       "german": "Grabtraining [Odyssey-DLC]",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Egg Spew training [Odyssey DLC]",
@@ -1161,7 +1289,8 @@
       "source": "Layout.xml:62",
       "type": "keyed",
       "german": "Eierspeien-Training [Odyssey-DLC]",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Forage training [Odyssey DLC]",
@@ -1170,7 +1299,8 @@
       "source": "Layout.xml:63",
       "type": "keyed",
       "german": "Nahrungssuche-Training [Odyssey-DLC]",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Sludge Spew training [Odyssey DLC]",
@@ -1179,7 +1309,8 @@
       "source": "Layout.xml:64",
       "type": "keyed",
       "german": "Schlammspeien-Training [Odyssey-DLC]",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Terror Roar training [Odyssey DLC]",
@@ -1188,7 +1319,8 @@
       "source": "Layout.xml:65",
       "type": "keyed",
       "german": "Schreckensbrüllen-Training [Odyssey-DLC]",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Thrumbo Roar training [Odyssey DLC]",
@@ -1197,7 +1329,8 @@
       "source": "Layout.xml:66",
       "type": "keyed",
       "german": "Thrumbo-Brüllen-Training [Odyssey-DLC]",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "War Trumpet training [Odyssey DLC]",
@@ -1206,7 +1339,8 @@
       "source": "Layout.xml:67",
       "type": "keyed",
       "german": "Kriegstrompeten-Training [Odyssey-DLC]",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "{0} stat",
@@ -1215,7 +1349,8 @@
       "source": "Layout.xml:69",
       "type": "keyed",
       "german": "Statistik: {0}",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Root",
@@ -1224,7 +1359,8 @@
       "source": "Layout.xml:7",
       "type": "keyed",
       "german": "Wurzel",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "{0} record",
@@ -1233,7 +1369,8 @@
       "source": "Layout.xml:70",
       "type": "keyed",
       "german": "Aufzeichnung: {0}",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Master",
@@ -1242,7 +1379,8 @@
       "source": "Layout.xml:72",
       "type": "keyed",
       "german": "Meister",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Activity",
@@ -1251,7 +1389,8 @@
       "source": "Layout.xml:73",
       "type": "keyed",
       "german": "Aktivität",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Queued",
@@ -1260,7 +1399,8 @@
       "source": "Layout.xml:74",
       "type": "keyed",
       "german": "In Warteschlange",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Equipped",
@@ -1269,7 +1409,8 @@
       "source": "Layout.xml:75",
       "type": "keyed",
       "german": "Ausgerüstet",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Carrying",
@@ -1278,7 +1419,8 @@
       "source": "Layout.xml:76",
       "type": "keyed",
       "german": "Trägt",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Traits",
@@ -1287,7 +1429,8 @@
       "source": "Layout.xml:77",
       "type": "keyed",
       "german": "Eigenschaften",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Component information",
@@ -1296,7 +1439,8 @@
       "source": "Layout.xml:78",
       "type": "keyed",
       "german": "Komponenteninformationen",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Prisoner information",
@@ -1305,7 +1449,8 @@
       "source": "Layout.xml:79",
       "type": "keyed",
       "german": "Gefangeneninformationen",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Vertical stack",
@@ -1314,7 +1459,8 @@
       "source": "Layout.xml:8",
       "type": "keyed",
       "german": "Vertikaler Stapel",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Player Humanlike",
@@ -1323,7 +1469,8 @@
       "source": "Layout.xml:81",
       "type": "keyed",
       "german": "Spieler-Mensch",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Other Humanlike",
@@ -1332,7 +1479,8 @@
       "source": "Layout.xml:82",
       "type": "keyed",
       "german": "Anderer Mensch",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Player Creature",
@@ -1341,7 +1489,8 @@
       "source": "Layout.xml:83",
       "type": "keyed",
       "german": "Spieler-Kreatur",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Other Creature",
@@ -1350,7 +1499,8 @@
       "source": "Layout.xml:84",
       "type": "keyed",
       "german": "Andere Kreatur",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Low to Main color (Default)",
@@ -1359,7 +1509,8 @@
       "source": "Layout.xml:86",
       "type": "keyed",
       "german": "Niedrige bis Hauptfarbe (Standard)",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Low color only",
@@ -1368,7 +1519,8 @@
       "source": "Layout.xml:87",
       "type": "keyed",
       "german": "Nur niedrige Farbe",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Main to Low color",
@@ -1377,7 +1529,8 @@
       "source": "Layout.xml:88",
       "type": "keyed",
       "german": "Haupt- bis niedrige Farbe",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Main color only",
@@ -1386,7 +1539,8 @@
       "source": "Layout.xml:89",
       "type": "keyed",
       "german": "Nur Hauptfarbe",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Vertical stack (filled)",
@@ -1395,7 +1549,8 @@
       "source": "Layout.xml:9",
       "type": "keyed",
       "german": "Vertikaler Stapel (ausgefüllt)",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "former {0}",
@@ -1404,7 +1559,8 @@
       "source": "Model.xml:10",
       "type": "keyed",
       "german": "ehemals {0}",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "wild",
@@ -1413,7 +1569,8 @@
       "source": "Model.xml:12",
       "type": "keyed",
       "german": "wild",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "allied",
@@ -1422,7 +1579,8 @@
       "source": "Model.xml:13",
       "type": "keyed",
       "german": "verbündet",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "enemy",
@@ -1431,7 +1589,8 @@
       "source": "Model.xml:14",
       "type": "keyed",
       "german": "Feind",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "hostile",
@@ -1440,7 +1599,8 @@
       "source": "Model.xml:15",
       "type": "keyed",
       "german": "feindlich",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "independent",
@@ -1449,7 +1609,8 @@
       "source": "Model.xml:16",
       "type": "keyed",
       "german": "unabhängig",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "captured",
@@ -1458,7 +1619,8 @@
       "source": "Model.xml:17",
       "type": "keyed",
       "german": "gefangen",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "enslaved",
@@ -1467,7 +1629,8 @@
       "source": "Model.xml:18",
       "type": "keyed",
       "german": "versklavt",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "creature",
@@ -1476,7 +1639,8 @@
       "source": "Model.xml:20",
       "type": "keyed",
       "german": "Kreatur",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "animal",
@@ -1485,7 +1649,8 @@
       "source": "Model.xml:21",
       "type": "keyed",
       "german": "Tier",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "stray",
@@ -1494,7 +1659,8 @@
       "source": "Model.xml:22",
       "type": "keyed",
       "german": "streunend",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "pet",
@@ -1503,7 +1669,8 @@
       "source": "Model.xml:23",
       "type": "keyed",
       "german": "Haustier",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "exotic pet",
@@ -1512,7 +1679,8 @@
       "source": "Model.xml:24",
       "type": "keyed",
       "german": "exotisches Haustier",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "predator",
@@ -1521,7 +1689,8 @@
       "source": "Model.xml:25",
       "type": "keyed",
       "german": "Raubtier",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "hunting animal",
@@ -1530,7 +1699,8 @@
       "source": "Model.xml:26",
       "type": "keyed",
       "german": "Jagdtier",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "pack animal",
@@ -1539,7 +1709,8 @@
       "source": "Model.xml:27",
       "type": "keyed",
       "german": "Lasttier",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "farm animal",
@@ -1548,7 +1719,8 @@
       "source": "Model.xml:28",
       "type": "keyed",
       "german": "Nutztier",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "herd animal",
@@ -1557,7 +1729,8 @@
       "source": "Model.xml:29",
       "type": "keyed",
       "german": "Herdentier",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "insect",
@@ -1566,7 +1739,8 @@
       "source": "Model.xml:30",
       "type": "keyed",
       "german": "Insekt",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "mechanoid",
@@ -1575,7 +1749,8 @@
       "source": "Model.xml:31",
       "type": "keyed",
       "german": "Mechanoid",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "unit",
@@ -1584,7 +1759,8 @@
       "source": "Model.xml:32",
       "type": "keyed",
       "german": "Einheit",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "entity",
@@ -1593,7 +1769,8 @@
       "source": "Model.xml:33",
       "type": "keyed",
       "german": "Entität",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "{0}, aged {1}",
@@ -1602,7 +1779,8 @@
       "source": "Model.xml:35",
       "type": "keyed",
       "german": "{0}, Alter: {1}",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "today",
@@ -1611,7 +1789,8 @@
       "source": "Model.xml:36",
       "type": "keyed",
       "german": "heute",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "and one day",
@@ -1620,7 +1799,8 @@
       "source": "Model.xml:37",
       "type": "keyed",
       "german": "und ein Tag",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "and {0} days",
@@ -1629,7 +1809,8 @@
       "source": "Model.xml:38",
       "type": "keyed",
       "german": "und {0} Tage",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Lifestage",
@@ -1638,7 +1819,8 @@
       "source": "Model.xml:4",
       "type": "keyed",
       "german": "Lebensphase",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Bleeding out in {0}",
@@ -1647,7 +1829,8 @@
       "source": "Model.xml:40",
       "type": "keyed",
       "german": "Verblutet in {0}",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "{0} needs tending",
@@ -1656,7 +1839,8 @@
       "source": "Model.xml:41",
       "type": "keyed",
       "german": "{0} muss behandelt werden",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "{0} conditions need tending",
@@ -1665,7 +1849,8 @@
       "source": "Model.xml:42",
       "type": "keyed",
       "german": "{0} Zustände müssen behandelt werden",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Has life-threatening {0}",
@@ -1674,7 +1859,8 @@
       "source": "Model.xml:43",
       "type": "keyed",
       "german": "Lebensbedrohlicher Zustand: {0}",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Has {0} life-threatening conditions",
@@ -1683,7 +1869,8 @@
       "source": "Model.xml:44",
       "type": "keyed",
       "german": "{0} lebensbedrohliche Zustände",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Affected by {0}",
@@ -1692,7 +1879,8 @@
       "source": "Model.xml:45",
       "type": "keyed",
       "german": "Beeinträchtigt durch {0}",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Affected by {0} and 1 other condition",
@@ -1701,7 +1889,8 @@
       "source": "Model.xml:46",
       "type": "keyed",
       "german": "Beeinträchtigt durch {0} und 1 weiteren Zustand",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Affected by {0} and {1} other conditions",
@@ -1710,7 +1899,8 @@
       "source": "Model.xml:47",
       "type": "keyed",
       "german": "Beeinträchtigt durch {0} und {1} weitere Zustände",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "In good condition",
@@ -1719,7 +1909,8 @@
       "source": "Model.xml:49",
       "type": "keyed",
       "german": "In gutem Zustand",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Trainability",
@@ -1728,7 +1919,8 @@
       "source": "Model.xml:5",
       "type": "keyed",
       "german": "Trainierbarkeit",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "In stable condition",
@@ -1737,7 +1929,8 @@
       "source": "Model.xml:50",
       "type": "keyed",
       "german": "In stabilem Zustand",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "In poor condition",
@@ -1746,7 +1939,8 @@
       "source": "Model.xml:51",
       "type": "keyed",
       "german": "In schlechtem Zustand",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "In critical condition",
@@ -1755,7 +1949,8 @@
       "source": "Model.xml:52",
       "type": "keyed",
       "german": "In kritischem Zustand",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Change the level of medical care given to this {0}.\\n\\nCurrent level: {1}",
@@ -1764,7 +1959,8 @@
       "source": "Model.xml:54",
       "type": "keyed",
       "german": "Ändere die Stufe der medizinischen Versorgung für {0}.\\n\\nAktuelle Stufe: {1}",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Feeling depressed",
@@ -1773,7 +1969,8 @@
       "source": "Model.xml:56",
       "type": "keyed",
       "german": "Fühlt sich deprimiert",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Feeling stressed",
@@ -1782,7 +1979,8 @@
       "source": "Model.xml:57",
       "type": "keyed",
       "german": "Fühlt sich gestresst",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Feeling anxious",
@@ -1791,7 +1989,8 @@
       "source": "Model.xml:58",
       "type": "keyed",
       "german": "Fühlt sich ängstlich",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Feeling confident",
@@ -1800,7 +1999,8 @@
       "source": "Model.xml:59",
       "type": "keyed",
       "german": "Fühlt sich zuversichtlich",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Petness",
@@ -1809,7 +2009,8 @@
       "source": "Model.xml:6",
       "type": "keyed",
       "german": "Haustiereignung",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Feeling composed",
@@ -1818,7 +2019,8 @@
       "source": "Model.xml:60",
       "type": "keyed",
       "german": "Fühlt sich gefasst",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Feeling steady",
@@ -1827,7 +2029,8 @@
       "source": "Model.xml:61",
       "type": "keyed",
       "german": "Fühlt sich ausgeglichen",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "{0} for {1}",
@@ -1836,7 +2039,8 @@
       "source": "Model.xml:63",
       "type": "keyed",
       "german": "{0} für {1}",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Stunned for {0}",
@@ -1845,7 +2049,8 @@
       "source": "Model.xml:64",
       "type": "keyed",
       "german": "Betäubt für {0}",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Staggered for {0}",
@@ -1854,7 +2059,8 @@
       "source": "Model.xml:65",
       "type": "keyed",
       "german": "Taumelt für {0}",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Activity",
@@ -1863,7 +2069,8 @@
       "source": "Model.xml:67",
       "type": "keyed",
       "german": "Aktivität",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "{0}\\n\\n{1}\\n\\n{2}",
@@ -1872,7 +2079,8 @@
       "source": "Model.xml:68",
       "type": "keyed",
       "german": "{0}\\n\\n{1}\\n\\n{2}",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Work type",
@@ -1881,7 +2089,8 @@
       "source": "Model.xml:69",
       "type": "keyed",
       "german": "Arbeitsart",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Relevant skills",
@@ -1890,7 +2099,8 @@
       "source": "Model.xml:70",
       "type": "keyed",
       "german": "Relevante Fähigkeiten",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Attacking {0}",
@@ -1899,7 +2109,8 @@
       "source": "Model.xml:71",
       "type": "keyed",
       "german": "Greift {0} an",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Food",
@@ -1908,7 +2119,8 @@
       "source": "Model.xml:73",
       "type": "keyed",
       "german": "Nahrung",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Outfit",
@@ -1917,7 +2129,8 @@
       "source": "Model.xml:74",
       "type": "keyed",
       "german": "Kleidung",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Area",
@@ -1926,7 +2139,8 @@
       "source": "Model.xml:75",
       "type": "keyed",
       "german": "Bereich",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Schedule",
@@ -1935,7 +2149,8 @@
       "source": "Model.xml:76",
       "type": "keyed",
       "german": "Zeitplan",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Set hour {0} to {1}",
@@ -1944,7 +2159,8 @@
       "source": "Model.xml:77",
       "type": "keyed",
       "german": "Stunde {0} auf {1} setzen",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Manage...",
@@ -1953,7 +2169,8 @@
       "source": "Model.xml:78",
       "type": "keyed",
       "german": "Verwalten...",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "{0} {1}",
@@ -1962,7 +2179,8 @@
       "source": "Model.xml:8",
       "type": "keyed",
       "german": "{0} {1}",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "★",
@@ -1971,7 +2189,8 @@
       "source": "Model.xml:80",
       "type": "keyed",
       "german": "★",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "of {0}",
@@ -1980,7 +2199,8 @@
       "source": "Model.xml:9",
       "type": "keyed",
       "german": "von {0}",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Docks the HUD to the Inspect Pane.",
@@ -1989,7 +2209,8 @@
       "source": "Theme.xml:10",
       "type": "keyed",
       "german": "Dockt das HUD an den Inspektionsbereich an.",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Modify",
@@ -1998,7 +2219,8 @@
       "source": "Theme.xml:11",
       "type": "keyed",
       "german": "Ändern",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "This is required for docked mode.",
@@ -2007,7 +2229,8 @@
       "source": "Theme.xml:12",
       "type": "keyed",
       "german": "Dies ist für den angedockten Modus erforderlich.",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Show character log",
@@ -2016,7 +2239,8 @@
       "source": "Theme.xml:13",
       "type": "keyed",
       "german": "Charakterprotokoll anzeigen",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Fills the inspect pane with the log for the selected character. Not available for docked mode.",
@@ -2025,7 +2249,8 @@
       "source": "Theme.xml:14",
       "type": "keyed",
       "german": "Füllt den Inspektionsbereich mit dem Protokoll des ausgewählten Charakters. Im angedockten Modus nicht verfügbar.",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Pane Height",
@@ -2034,7 +2259,8 @@
       "source": "Theme.xml:15",
       "type": "keyed",
       "german": "Bereichshöhe",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Minimum Tabs",
@@ -2043,7 +2269,8 @@
       "source": "Theme.xml:16",
       "type": "keyed",
       "german": "Mindestanzahl Tabs",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Tab Width",
@@ -2052,7 +2279,8 @@
       "source": "Theme.xml:17",
       "type": "keyed",
       "german": "Tab-Breite",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Floating Mode",
@@ -2061,7 +2289,8 @@
       "source": "Theme.xml:19",
       "type": "keyed",
       "german": "Schwebender Modus",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Anchor",
@@ -2070,7 +2299,8 @@
       "source": "Theme.xml:20",
       "type": "keyed",
       "german": "Anker",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Top Left|Top Center|Top Right|Center Left|Center|Center Right|Bottom Left|Bottom Center|Bottom Right",
@@ -2079,7 +2309,8 @@
       "source": "Theme.xml:21",
       "type": "keyed",
       "german": "Oben links|Oben Mitte|Oben rechts|Mitte links|Mitte|Mitte rechts|Unten links|Unten Mitte|Unten rechts",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "X",
@@ -2088,7 +2319,8 @@
       "source": "Theme.xml:22",
       "type": "keyed",
       "german": "X",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Y",
@@ -2097,7 +2329,8 @@
       "source": "Theme.xml:23",
       "type": "keyed",
       "german": "Y",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Width",
@@ -2106,7 +2339,8 @@
       "source": "Theme.xml:24",
       "type": "keyed",
       "german": "Breite",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Height",
@@ -2115,7 +2349,8 @@
       "source": "Theme.xml:25",
       "type": "keyed",
       "german": "Höhe",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Size",
@@ -2124,7 +2359,8 @@
       "source": "Theme.xml:27",
       "type": "keyed",
       "german": "Größe",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Line Height",
@@ -2133,7 +2369,8 @@
       "source": "Theme.xml:28",
       "type": "keyed",
       "german": "Zeilenhöhe",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Regular Text",
@@ -2142,7 +2379,8 @@
       "source": "Theme.xml:30",
       "type": "keyed",
       "german": "Normaler Text",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Header Text",
@@ -2151,7 +2389,8 @@
       "source": "Theme.xml:31",
       "type": "keyed",
       "german": "Überschriftentext",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Description Text",
@@ -2160,7 +2399,8 @@
       "source": "Theme.xml:32",
       "type": "keyed",
       "german": "Beschreibungstext",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Label Width",
@@ -2169,7 +2409,8 @@
       "source": "Theme.xml:34",
       "type": "keyed",
       "german": "Beschriftungsbreite",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Value Width",
@@ -2178,7 +2419,8 @@
       "source": "Theme.xml:35",
       "type": "keyed",
       "german": "Wertbreite",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Miscellaneous",
@@ -2187,7 +2429,8 @@
       "source": "Theme.xml:37",
       "type": "keyed",
       "german": "Sonstiges",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Show Faction Icon",
@@ -2196,7 +2439,8 @@
       "source": "Theme.xml:39",
       "type": "keyed",
       "german": "Fraktionssymbol anzeigen",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Refresh rate",
@@ -2205,7 +2449,8 @@
       "source": "Theme.xml:4",
       "type": "keyed",
       "german": "Aktualisierungsintervall",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Show Ideoligion Icon",
@@ -2214,7 +2459,8 @@
       "source": "Theme.xml:40",
       "type": "keyed",
       "german": "Ideoligionssymbol anzeigen",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Show Decimals",
@@ -2223,7 +2469,8 @@
       "source": "Theme.xml:41",
       "type": "keyed",
       "german": "Dezimalstellen anzeigen",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Letter Padding",
@@ -2232,7 +2479,8 @@
       "source": "Theme.xml:43",
       "type": "keyed",
       "german": "Meldungsabstand",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Changes the distance between the letter notifications that appear on the right side of the screen. Vanilla: 12",
@@ -2241,7 +2489,8 @@
       "source": "Theme.xml:44",
       "type": "keyed",
       "german": "Ändert den Abstand zwischen den Meldungen, die auf der rechten Bildschirmseite erscheinen. Basisspiel: 12",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Compress Notifications",
@@ -2250,7 +2499,8 @@
       "source": "Theme.xml:45",
       "type": "keyed",
       "german": "Benachrichtigungen komprimieren",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Will compress any letters and alerts on the right side of the screen if they overlap with the HUD.",
@@ -2259,7 +2509,8 @@
       "source": "Theme.xml:46",
       "type": "keyed",
       "german": "Komprimiert Briefe und Warnungen auf der rechten Bildschirmseite, wenn sie sich mit dem HUD überschneiden.",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "HUD Colors",
@@ -2268,7 +2519,8 @@
       "source": "Theme.xml:48",
       "type": "keyed",
       "german": "HUD-Farben",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "How often the HUD will refresh. Set this higher if experiencing any frame rate drop.",
@@ -2277,7 +2529,8 @@
       "source": "Theme.xml:5",
       "type": "keyed",
       "german": "Wie oft das HUD aktualisiert wird. Erhöhe diesen Wert, wenn die Bildrate einbricht.",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Main text",
@@ -2286,7 +2539,8 @@
       "source": "Theme.xml:50",
       "type": "keyed",
       "german": "Haupttext",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Info text",
@@ -2295,7 +2549,8 @@
       "source": "Theme.xml:51",
       "type": "keyed",
       "german": "Infotext",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Disabled text",
@@ -2304,7 +2559,8 @@
       "source": "Theme.xml:52",
       "type": "keyed",
       "german": "Deaktivierter Text",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Critical text",
@@ -2313,7 +2569,8 @@
       "source": "Theme.xml:53",
       "type": "keyed",
       "german": "Kritischer Text",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Warning text",
@@ -2322,7 +2579,8 @@
       "source": "Theme.xml:54",
       "type": "keyed",
       "german": "Warntext",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Neutral text",
@@ -2331,7 +2589,8 @@
       "source": "Theme.xml:55",
       "type": "keyed",
       "german": "Neutraler Text",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Good text",
@@ -2340,7 +2599,8 @@
       "source": "Theme.xml:56",
       "type": "keyed",
       "german": "Guter Text",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Excellent text",
@@ -2349,7 +2609,8 @@
       "source": "Theme.xml:57",
       "type": "keyed",
       "german": "Ausgezeichneter Text",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Bar background",
@@ -2358,7 +2619,8 @@
       "source": "Theme.xml:58",
       "type": "keyed",
       "german": "Balkenhintergrund",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Bar main",
@@ -2367,7 +2629,8 @@
       "source": "Theme.xml:59",
       "type": "keyed",
       "german": "Balken-Hauptfarbe",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "ms",
@@ -2376,7 +2639,8 @@
       "source": "Theme.xml:6",
       "type": "keyed",
       "german": "ms",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Bar low",
@@ -2385,7 +2649,8 @@
       "source": "Theme.xml:60",
       "type": "keyed",
       "german": "Balken-Niedrigfarbe",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Bar threshold",
@@ -2394,7 +2659,8 @@
       "source": "Theme.xml:61",
       "type": "keyed",
       "german": "Balken-Schwellenfarbe",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Selector Background",
@@ -2403,7 +2669,8 @@
       "source": "Theme.xml:62",
       "type": "keyed",
       "german": "Auswahl-Hintergrund",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Selector Text",
@@ -2412,7 +2679,8 @@
       "source": "Theme.xml:63",
       "type": "keyed",
       "german": "Auswahltext",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Line",
@@ -2421,7 +2689,8 @@
       "source": "Theme.xml:64",
       "type": "keyed",
       "german": "Linie",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Faction Colors",
@@ -2430,7 +2699,8 @@
       "source": "Theme.xml:66",
       "type": "keyed",
       "german": "Fraktionsfarben",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Own",
@@ -2439,7 +2709,8 @@
       "source": "Theme.xml:67",
       "type": "keyed",
       "german": "Eigene",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Allied",
@@ -2448,7 +2719,8 @@
       "source": "Theme.xml:68",
       "type": "keyed",
       "german": "Verbündet",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Independent",
@@ -2457,7 +2729,8 @@
       "source": "Theme.xml:69",
       "type": "keyed",
       "german": "Unabhängig",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Hostile",
@@ -2466,7 +2739,8 @@
       "source": "Theme.xml:70",
       "type": "keyed",
       "german": "Feindlich",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Wild",
@@ -2475,7 +2749,8 @@
       "source": "Theme.xml:71",
       "type": "keyed",
       "german": "Wild",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Prisoner",
@@ -2484,7 +2759,8 @@
       "source": "Theme.xml:72",
       "type": "keyed",
       "german": "Gefangener",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Slave",
@@ -2493,7 +2769,8 @@
       "source": "Theme.xml:73",
       "type": "keyed",
       "german": "Sklave",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Skill Colors",
@@ -2502,7 +2779,8 @@
       "source": "Theme.xml:75",
       "type": "keyed",
       "german": "Fähigkeitsfarben",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Minor passion",
@@ -2511,7 +2789,8 @@
       "source": "Theme.xml:76",
       "type": "keyed",
       "german": "Kleine Leidenschaft",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Major passion",
@@ -2520,7 +2799,8 @@
       "source": "Theme.xml:77",
       "type": "keyed",
       "german": "Große Leidenschaft",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Learning saturated",
@@ -2529,7 +2809,8 @@
       "source": "Theme.xml:78",
       "type": "keyed",
       "german": "Lernlimit erreicht",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Currently active",
@@ -2538,7 +2819,8 @@
       "source": "Theme.xml:79",
       "type": "keyed",
       "german": "Derzeit aktiv",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Inspect Pane",
@@ -2547,7 +2829,8 @@
       "source": "Theme.xml:8",
       "type": "keyed",
       "german": "Inspektionsbereich",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Docked Mode",
@@ -2556,7 +2839,8 @@
       "source": "Theme.xml:9",
       "type": "keyed",
       "german": "Angedockter Modus",
-      "review": false
+      "review": false,
+      "needed": true
     }
   ]
 }

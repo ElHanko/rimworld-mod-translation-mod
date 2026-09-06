@@ -1,62 +1,62 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <NPM_Plants>Pflanzen</NPM_Plants>
-  <NPM_Description>Beschreibung</NPM_Description>
-  <NPM_PlantsNotMature>Die Pflanzen werden wahrscheinlich vor Ende der Saison nicht ausgewachsen sein.</NPM_PlantsNotMature>
-  <NPM_SkillNotSatisfied>Zum Säen ist Pflanzen-Fähigkeit {0} erforderlich.</NPM_SkillNotSatisfied>
-  <NPM_ExpectedDateHarvest>Voraussichtliches Erntedatum</NPM_ExpectedDateHarvest>
-  <NPM_FormatDays>{0}\n{1} Tage</NPM_FormatDays>
-  <NPM_GrowthTemperature>Wachstumstemperatur</NPM_GrowthTemperature>
-  <NPM_FoodFor>Nahrung für</NPM_FoodFor>
-  <NPM_Human>Menschen</NPM_Human>
-  <NPM_Animal>Tiere</NPM_Animal>
-  <NPM_RequiresFertility>Bodenfruchtbarkeit zu gering ({0})</NPM_RequiresFertility>
-  <NPM_CanGrowIn>Kann wachsen</NPM_CanGrowIn>
-  <NPM_Indoors>drinnen</NPM_Indoors>
-  <NPM_Caves>Höhlen</NPM_Caves>
-  <NPM_Amount>Menge</NPM_Amount>
-  <NPM_Cells>{0} Felder</NPM_Cells>
-  <NPM_EnoughToFeed>Ausreichend für</NPM_EnoughToFeed>
-  <NPM_HumanCount>{0} Kolonisten</NPM_HumanCount>
   <NPM_AllColonyPets>Kolonietiere</NPM_AllColonyPets>
+  <NPM_Amount>Menge</NPM_Amount>
+  <NPM_Animal>Tiere</NPM_Animal>
   <NPM_AnimalsInPen>Tiere im Gehege</NPM_AnimalsInPen>
-  <NPM_MoreCells>Benötigt {0} weitere Felder</NPM_MoreCells>
-  <NPM_DiesInLight>Stirbt bei Licht</NPM_DiesInLight>
-  <NPM_RelatedRecipes>Zugehörige Rezepte</NPM_RelatedRecipes>
-  <NPM_Product>Produkt</NPM_Product>
-  <NPM_PerYear>{0}/Jahr</NPM_PerYear>
-  <NPM_Pollution>Umweltverschmutzung</NPM_Pollution>
-  <NPM_Required>Erforderlich</NPM_Required>
-  <NPM_May>Kann wachsen</NPM_May>
-  <NPM_NoCells>Es gibt keine geeigneten Felder für diese Pflanze.</NPM_NoCells>
-  <NPM_ShouldBeRoofed>Nicht alle Felder sind vor Sonnenlicht geschützt.</NPM_ShouldBeRoofed>
-  <NPM_MarketValueShort>Marktwert</NPM_MarketValueShort>
-  <NPM_OptimalTemperature>Optimal</NPM_OptimalTemperature>
-  <NPM_TotalNutrition>Gesamtnährwert</NPM_TotalNutrition>
-  <NPM_None>Keine</NPM_None>
-  <NPM_Sensitivity>Bodenempfindlichkeit</NPM_Sensitivity>
-  <NPM_SkillRequirements>Fähigkeitsanforderungen</NPM_SkillRequirements>
-  <NPM_FeedHumanTip>Wenn die gesamte Ernte verarbeitet wird, reicht dieses Feld für</NPM_FeedHumanTip>
   <NPM_CalculatedForAnimals>Berechnet für Tiere:</NPM_CalculatedForAnimals>
+  <NPM_CanGrowIn>Kann wachsen</NPM_CanGrowIn>
+  <NPM_Caves>Höhlen</NPM_Caves>
+  <NPM_Cells>{0} Felder</NPM_Cells>
   <NPM_DateCalcTip>Voraussichtlich {0} Tage Wachstumszeit\n\nDurchschnittlicher Boden {1}\nTageslicht {2}</NPM_DateCalcTip>
   <NPM_DateCalcTipWarning>Wachstumszeit bei idealer Temperatur berechnet</NPM_DateCalcTipWarning>
-  <NPM_DateCalcTip_Sun>Sonne</NPM_DateCalcTip_Sun>
-  <NPM_DateCalcTip_Lamp>Lampe</NPM_DateCalcTip_Lamp>
   <NPM_DateCalcTip_Darkness>Dunkelheit</NPM_DateCalcTip_Darkness>
-  <NPM_Filter_Category_Food>Nahrung</NPM_Filter_Category_Food>
+  <NPM_DateCalcTip_Lamp>Lampe</NPM_DateCalcTip_Lamp>
+  <NPM_DateCalcTip_Sun>Sonne</NPM_DateCalcTip_Sun>
+  <NPM_Description>Beschreibung</NPM_Description>
+  <NPM_DiesInLight>Stirbt bei Licht</NPM_DiesInLight>
+  <NPM_EnoughToFeed>Ausreichend für</NPM_EnoughToFeed>
+  <NPM_ExpectedDateHarvest>Voraussichtliches Erntedatum</NPM_ExpectedDateHarvest>
+  <NPM_FeedHumanTip>Wenn die gesamte Ernte verarbeitet wird, reicht dieses Feld für</NPM_FeedHumanTip>
   <NPM_Filter_Category_Animals>Tiere</NPM_Filter_Category_Animals>
-  <NPM_Filter_Category_Medicine>Medizin</NPM_Filter_Category_Medicine>
-  <NPM_Filter_Category_Drug>Drogen</NPM_Filter_Category_Drug>
-  <NPM_Filter_Category_Misc>Sonstiges</NPM_Filter_Category_Misc>
-  <NPM_Filter_Category_Tree>Bäume</NPM_Filter_Category_Tree>
-  <NPM_Filter_Category_Pollution>Umweltverschmutzung</NPM_Filter_Category_Pollution>
   <NPM_Filter_Category_Cave>Höhlen</NPM_Filter_Category_Cave>
+  <NPM_Filter_Category_Drug>Drogen</NPM_Filter_Category_Drug>
+  <NPM_Filter_Category_Food>Nahrung</NPM_Filter_Category_Food>
   <NPM_Filter_Category_Houseplant>Innenbereich</NPM_Filter_Category_Houseplant>
+  <NPM_Filter_Category_Medicine>Medizin</NPM_Filter_Category_Medicine>
+  <NPM_Filter_Category_Misc>Sonstiges</NPM_Filter_Category_Misc>
+  <NPM_Filter_Category_Pollution>Umweltverschmutzung</NPM_Filter_Category_Pollution>
+  <NPM_Filter_Category_Tree>Bäume</NPM_Filter_Category_Tree>
   <NPM_Filter_Mod_Any>Aus Mods</NPM_Filter_Mod_Any>
-  <NPM_Settings_CountInRow>Pflanzen in der Reihe zählen</NPM_Settings_CountInRow>
-  <NPM_Settings_SplitByCategories>Pflanzen nach Kategorien aufteilen</NPM_Settings_SplitByCategories>
-  <NPM_Settings_ShowCategoryIcons>Kategoriesymbole anzeigen</NPM_Settings_ShowCategoryIcons>
-  <NPM_Settings_AlwaysShowAllInfo>Immer alle Informationen anzeigen</NPM_Settings_AlwaysShowAllInfo>
+  <NPM_FoodFor>Nahrung für</NPM_FoodFor>
+  <NPM_FormatDays>{0}\n{1} Tage</NPM_FormatDays>
+  <NPM_GrowthTemperature>Wachstumstemperatur</NPM_GrowthTemperature>
+  <NPM_Human>Menschen</NPM_Human>
+  <NPM_HumanCount>{0} Kolonisten</NPM_HumanCount>
+  <NPM_Indoors>drinnen</NPM_Indoors>
+  <NPM_MarketValueShort>Marktwert</NPM_MarketValueShort>
+  <NPM_May>Kann wachsen</NPM_May>
+  <NPM_MoreCells>Benötigt {0} weitere Felder</NPM_MoreCells>
+  <NPM_NoCells>Es gibt keine geeigneten Felder für diese Pflanze.</NPM_NoCells>
+  <NPM_None>Keine</NPM_None>
+  <NPM_OptimalTemperature>Optimal</NPM_OptimalTemperature>
+  <NPM_PerYear>{0}/Jahr</NPM_PerYear>
+  <NPM_Plants>Pflanzen</NPM_Plants>
+  <NPM_PlantsNotMature>Die Pflanzen werden wahrscheinlich vor Ende der Saison nicht ausgewachsen sein.</NPM_PlantsNotMature>
+  <NPM_Pollution>Umweltverschmutzung</NPM_Pollution>
+  <NPM_Product>Produkt</NPM_Product>
+  <NPM_RelatedRecipes>Zugehörige Rezepte</NPM_RelatedRecipes>
+  <NPM_Required>Erforderlich</NPM_Required>
+  <NPM_RequiresFertility>Bodenfruchtbarkeit zu gering ({0})</NPM_RequiresFertility>
+  <NPM_Sensitivity>Bodenempfindlichkeit</NPM_Sensitivity>
   <NPM_Settings_AllowResizeWindow>Größenänderung des Fensters erlauben</NPM_Settings_AllowResizeWindow>
+  <NPM_Settings_AlwaysShowAllInfo>Immer alle Informationen anzeigen</NPM_Settings_AlwaysShowAllInfo>
+  <NPM_Settings_CountInRow>Pflanzen in der Reihe zählen</NPM_Settings_CountInRow>
   <NPM_Settings_ReopenWindow>Fenster für Änderungen erneut öffnen</NPM_Settings_ReopenWindow>
+  <NPM_Settings_ShowCategoryIcons>Kategoriesymbole anzeigen</NPM_Settings_ShowCategoryIcons>
+  <NPM_Settings_SplitByCategories>Pflanzen nach Kategorien aufteilen</NPM_Settings_SplitByCategories>
+  <NPM_ShouldBeRoofed>Nicht alle Felder sind vor Sonnenlicht geschützt.</NPM_ShouldBeRoofed>
+  <NPM_SkillNotSatisfied>Zum Säen ist Pflanzen-Fähigkeit {0} erforderlich.</NPM_SkillNotSatisfied>
+  <NPM_SkillRequirements>Fähigkeitsanforderungen</NPM_SkillRequirements>
+  <NPM_TotalNutrition>Gesamtnährwert</NPM_TotalNutrition>
 </LanguageData>

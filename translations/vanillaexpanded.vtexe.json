@@ -11,7 +11,9 @@
       "path": "VTE_General.label",
       "type": "def",
       "german": "Allgemein",
-      "review": false
+      "review": false,
+      "needed": true,
+      "def_resolution": "resolved"
     },
     {
       "english": "Vanilla Textures Expanded",
@@ -20,7 +22,8 @@
       "source": "Settings.xml:4",
       "type": "keyed",
       "german": "Vanilla Textures Expanded",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Menu button render mode",
@@ -29,7 +32,8 @@
       "source": "Settings.xml:6",
       "type": "keyed",
       "german": "Darstellungsmodus der Menüschaltflächen",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Icons and text (new)",
@@ -38,7 +42,8 @@
       "source": "Settings.xml:7",
       "type": "keyed",
       "german": "Symbole und Text (neu)",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Icons where possible (vanilla)",
@@ -47,7 +52,8 @@
       "source": "Settings.xml:8",
       "type": "keyed",
       "german": "Symbole, wenn möglich (Vanilla)",
-      "review": false
+      "review": false,
+      "needed": true
     },
     {
       "english": "Text only (classic)",
@@ -56,7 +62,8 @@
       "source": "Settings.xml:9",
       "type": "keyed",
       "german": "Nur Text (klassisch)",
-      "review": false
+      "review": false,
+      "needed": true
     }
   ]
 }
