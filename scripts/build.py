@@ -6,10 +6,11 @@ import tempfile
 import xml.etree.ElementTree as ET
 
 import config
-from common import entry_ready, load_drafts, runtime_identity, runtime_records, validate_draft
+from common import entry_ready, load_drafts, runtime_identity, runtime_records, validate_draft, translation_state
 
 
-def collect_expected(drafts):
+def collect_expected(drafts, language=None):
+    language = config.select_language(language)
     files = defaultdict(list)
     shared = {}
     included = []
@@ -17,16 +18,38 @@ def collect_expected(drafts):
     for path, draft in sorted(drafts, key=lambda item: item[0].name):
         validate_draft(path, draft)
         entries = draft['entries']
-        if any(e['needed'] and not entry_ready(e) for e in entries):
+        states = [
+            (entry, translation_state(entry, language))
+            for entry in entries
+        ]
+
+        if any(state['needed'] is None for _, state in states):
+            raise ValueError(
+                f"{draft['package_id']} ({language}): Übersetzungsbedarf unbekannt; "
+                f"refresh --language {language} und danach draft --all ausführen"
+            )
+
+        needed = [
+            entry
+            for entry, state in states
+            if state['needed'] is True
+        ]
+
+        if any(not entry_ready(entry, language) for entry in needed):
             excluded.append(draft['package_id'])
             continue
-        selected = [e for e in entries if e['needed'] and entry_ready(e)]
+
+        selected = [
+            entry
+            for entry in needed
+            if entry_ready(entry, language)
+        ]
         if not selected:
             continue
         included.append(draft['package_id'])
         for e in sorted(selected, key=runtime_identity):
             ident = runtime_identity(e)
-            texts = e['english'], e['german']
+            texts = e['english'], translation_state(e, language)['text']
             if ident in shared:
                 previous, owner = shared[ident]
                 if previous != texts:
@@ -39,12 +62,12 @@ def collect_expected(drafts):
     for rel, entries in sorted(files.items()):
         root = ET.Element('LanguageData')
         for e in entries:
-            ET.SubElement(root, runtime_identity(e)[2]).text = e['german']
+            ET.SubElement(root, runtime_identity(e)[2]).text = translation_state(e, language)['text']
         ET.indent(root, space='  ')
         content = ET.tostring(root, encoding='utf-8', xml_declaration=True, short_empty_elements=False)
         # Validate XML names, characters and exact text roundtripping before touching output.
         parsed = ET.fromstring(content)
-        if [(n.tag, n.text) for n in parsed] != [(runtime_identity(e)[2], e['german']) for e in entries]:
+        if [(n.tag, n.text) for n in parsed] != [(runtime_identity(e)[2], translation_state(e, language)['text']) for e in entries]:
             raise ValueError(f'XML verändert Übersetzungstext: {rel}')
         expected[rel] = content
     return expected, included, excluded
@@ -60,7 +83,7 @@ def replace_runtime(expected, directory):
         return
     stage = Path(tempfile.mkdtemp(prefix='.rwgt-build-', dir=directory.parent))
     backup = stage / 'previous'
-    output = stage / 'German'
+    output = stage / directory.name
     output.mkdir()
     try:
         for rel, content in expected.items():
@@ -82,8 +105,13 @@ def replace_runtime(expected, directory):
             shutil.rmtree(stage)
 
 
-def run():
-    expected, included, excluded = collect_expected(load_drafts())
-    replace_runtime(expected, config.LANG)
-    records = runtime_records(config.LANG)
-    print(f'Build: ✓ | {len(included)} Drafts | {len(records)} Einträge | {len(expected)} XML-Dateien | {len(excluded)} unvollständige Drafts ausgeschlossen')
+def run(language=None):
+    drafts = load_drafts()
+    # Validate every selected language before any output is replaced.
+    plans = [(language, collect_expected(drafts, language))
+             for language in config.selected_languages(language)]
+    for language, (expected, included, excluded) in plans:
+        directory = config.language_dir(language)
+        replace_runtime(expected, directory)
+        records = runtime_records(directory)
+        print(f'Build {language}: ✓ | {len(included)} Drafts | {len(records)} Einträge | {len(expected)} XML-Dateien | {len(excluded)} unvollständige Drafts ausgeschlossen')

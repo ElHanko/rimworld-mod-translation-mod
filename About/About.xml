@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>German Translations - Mathias</name>
+  <name>RimWorld Mod Translations</name>
   <author>ElHanko</author>
-  <packageId>elhanko.rimworld.germantranslations</packageId>
+  <packageId>elhanko.rimworld.modtranslations</packageId>
   <supportedVersions>
     <li>1.6</li>
   </supportedVersions>
   <description>
-German translations for RimWorld mods used in the local mod setup.
+Translations for RimWorld mods, generated and maintained with the bundled translation workflow.
   </description>
 </ModMetaData>

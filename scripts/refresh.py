@@ -15,13 +15,94 @@ from sources import source_def_types
 def report_metadata(path):
     content = path.read_bytes()
     text = content.decode('utf-8-sig')
-    if not text.startswith('Translation report for German'):
-        raise ValueError('Kein deutscher RimWorld TranslationReport')
+    heading = re.fullmatch(r'Translation report for (.+)', text.splitlines()[0] if text else '')
+    if not heading:
+        raise ValueError('Report-Sprache nicht eindeutig angegeben')
+    language = heading[1]
+    config.validate_languages([language])
     for title in ('Missing keyed translations', 'Def-injected translations missing'):
         if not re.search(r'^========== ' + title + r' \(\d+\)', text, re.M):
             raise ValueError(f'Report-Abschnitt fehlt: {title}')
-    return content, {'source': str(path), 'mtime_ns': path.stat().st_mtime_ns,
+    return content, {'language': language, 'source': str(path), 'mtime_ns': path.stat().st_mtime_ns,
                      'sha256': hashlib.sha256(content).hexdigest()}
+
+
+def dedupe_resolved_def_entries(entries):
+    """Collapse identical Def report entries after concrete type resolution.
+
+    RimWorld can report the same DefInjected path both through a base Def type
+    and through its concrete Def type.  Once source resolution maps both to the
+    same concrete type they represent one translation identity.
+
+    Conflicting records for the same resolved identity remain a hard error.
+    """
+    result = []
+    seen = {}
+
+    for entry in entries:
+        if entry['type'] != 'def':
+            result.append(entry)
+            continue
+
+        ident = (entry['def_type'], entry['path'])
+        previous = seen.get(ident)
+
+        if previous is None:
+            seen[ident] = entry
+            result.append(entry)
+            continue
+
+        if previous != entry:
+            raise ValueError(
+                f'Widersprüchliche aufgelöste Def-Einträge: {ident}'
+            )
+
+    return result
+
+
+def mark_runtime_echoes(entries, package_id, records):
+    for entry in entries:
+        if entry['type'] == 'keyed':
+            ident = ('keyed', '', entry['key'])
+        elif entry.get('def_resolution') == 'resolved':
+            ident = ('def', entry['def_type'], entry['path'])
+        else:
+            continue
+
+        runtime = records.get(ident)
+        if (
+            runtime
+            and runtime['package_id'] == package_id
+            and runtime['text'] == entry['english']
+        ):
+            entry['runtime_echo'] = True
+
+
+def canonical_missing(rows):
+    result = {}
+
+    for row in rows:
+        identities = []
+        def_paths = set()
+
+        for entry in row['entries']:
+            if entry.get('runtime_echo'):
+                continue
+
+            if entry['type'] == 'keyed':
+                identities.append(['keyed', '', entry['key']])
+            else:
+                identities.append(
+                    ['def', entry['def_type'], entry['path']]
+                )
+                def_paths.add(entry['path'])
+
+        result[row['package_id']] = {
+            'identities': identities,
+            'def_paths': sorted(def_paths),
+        }
+
+    return result
 
 
 def runtime_snapshot(records, report, active, config_hash, config_mtime, previous, errors):
@@ -31,16 +112,49 @@ def runtime_snapshot(records, report, active, config_hash, config_mtime, previou
     for package in sorted({v['package_id'] for v in records.values()}):
         subset = {k: v for k, v in records.items() if v['package_id'] == package}
         digest = semantic_hash(subset)
-        files = [p for p in config.LANG.rglob('*.xml') if p.stem == package]
+        files = [p for p in config.language_dir(report['language']).rglob('*.xml') if p.stem == package]
         last_write = max(p.stat().st_mtime_ns for p in files)
         old = previous.get('runtime', {}).get(package, {})
-        same_evidence = (old.get('confirmed') and old.get('sha256') == digest
+        # An untagged old snapshot can be bound to this language only through
+        # the identical report bytes (SHA256), whose header we just validated.
+        same_evidence = (previous.get('report', {}).get('language') in (None, report['language'])
+                         and old.get('confirmed') and old.get('sha256') == digest
                          and previous.get('report', {}).get('sha256') == report['sha256']
                          and previous.get('mods_config_sha256') == config_hash)
         fresh = report['mtime_ns'] >= max(last_write, config_mtime) or bool(same_evidence)
-        absent = not any(list(k) in report['missing_identities'] for k in subset)
-        # Report Def types can be short; compare paths as well.
-        absent = absent and not any(k[0] == 'def' and k[2] in report['missing_def_paths'] for k in subset)
+        canonical = report.get('canonical_missing')
+
+        if canonical is None:
+            # Compatibility with older status/report structures.
+            absent = not any(
+                list(k) in report['missing_identities']
+                for k in subset
+            )
+            # Report Def types can be short; compare paths as well.
+            absent = absent and not any(
+                k[0] == 'def'
+                and k[2] in report['missing_def_paths']
+                for k in subset
+            )
+        else:
+            missing = canonical.get(
+                package,
+                {'identities': [], 'def_paths': []},
+            )
+            identities = {
+                tuple(value)
+                for value in missing['identities']
+            }
+            def_paths = set(missing['def_paths'])
+
+            absent = not any(
+                key in identities
+                or (
+                    key[0] == 'def'
+                    and key[2] in def_paths
+                )
+                for key in subset
+            )
         no_errors = not any(k[2] in line for k in subset for line in errors)
         enabled = order_ok and package in active and active.index(package) < own_position
         result[package] = {'sha256': digest, 'confirmed': bool(fresh and absent and enabled and no_errors),
@@ -49,12 +163,21 @@ def runtime_snapshot(records, report, active, config_hash, config_mtime, previou
     return result
 
 
-def run():
+def run(language=None):
+    language = config.select_language(language)
     reports = [p for p in config.REPORT_DIR.iterdir()
                if p.is_file() and re.fullmatch(r'translationreport.*\.txt', p.name, re.I)]
     if not reports:
         raise ValueError(f'Kein TranslationReport unter {config.REPORT_DIR}')
-    latest = max(reports, key=lambda p: (p.stat().st_mtime_ns, p.name))
+    matching = []
+    for path in reports:
+        with path.open(encoding='utf-8-sig') as stream:
+            heading = stream.readline().rstrip('\r\n')
+        if heading == f'Translation report for {language}':
+            matching.append(path)
+    if not matching:
+        raise ValueError(f'Kein Report mit expliziter Sprache {language!r} unter {config.REPORT_DIR}')
+    latest = max(matching, key=lambda p: (p.stat().st_mtime_ns, p.name))
     content, report = report_metadata(latest)
     previous_path = config.DATA / 'status.json'
     previous = load_json(previous_path) if previous_path.exists() else {}
@@ -79,6 +202,7 @@ def run():
         if mod['package_id'] in by_package:
             raise ValueError(f'Mehrere Installationen derselben Package-ID: {mod["package_id"]}; Status nicht ersetzt')
         by_package[mod['package_id']] = mod
+    records = runtime_records(config.language_dir(language))
     rows = []
     resolver = Counter()
     for package in active:
@@ -92,9 +216,17 @@ def run():
             matching = [t for t in candidates if t == e['def_type'] or t.endswith('.' + e['def_type'])]
             full = next(iter(candidates)) if len(candidates) == 1 else matching[0] if len(matching) == 1 else None
             e['def_resolution'] = 'resolved' if full else 'ambiguous' if candidates else 'missing'
-            resolver[e['def_resolution']] += 1
             if full:
                 e['def_type'] = full
+
+        entries = dedupe_resolved_def_entries(entries)
+        resolver.update(
+            e['def_resolution']
+            for e in entries
+            if e['type'] == 'def'
+        )
+        mark_runtime_echoes(entries, package, records)
+
         paths = defaultdict(list)
         for e in entries:
             if e['type'] == 'def':
@@ -111,14 +243,15 @@ def run():
     report['missing_identities'] = [['keyed', '', e[0]] for e in analysis['keyed']]
     report['missing_identities'] += [['def', e[0], e[2]] for e in analysis['defs']]
     report['missing_def_paths'] = sorted({e[2] for e in analysis['defs']})
+    report['canonical_missing'] = canonical_missing(rows)
     errors = analyzer.extract_section(text.splitlines(), 'Def-injected translations load errors')
     errors += analyzer.extract_section(text.splitlines(), 'General load errors')
-    records = runtime_records(config.LANG)
     runtime = runtime_snapshot(records, report, active, config_hash,
                                config.MODS_CONFIG.stat().st_mtime_ns, previous, errors)
+    mapped_count = sum(len(row['entries']) for row in rows)
     status = {'schema': 1, 'report': report, 'mods_config_sha256': config_hash,
               'counts': {'keyed': len(analysis['keyed']), 'def': len(analysis['defs']),
-                         'mapped': len(analysis['mapped']), 'ambiguous': len(analysis['ambiguous']),
+                         'mapped': mapped_count, 'ambiguous': len(analysis['ambiguous']),
                          'unmapped': len(analysis['unmapped'])},
               'resolver': dict(resolver), 'active_mods': active, 'mods': rows, 'runtime': runtime}
     write_json(previous_path, status)
@@ -126,6 +259,6 @@ def run():
     atomic_write(config.DATA / 'report-mapped.jsonl', ''.join(
         json.dumps(e, ensure_ascii=False, sort_keys=True) + '\n'
         for m in rows for e in m['entries']).encode())
-    print(f'Report: {latest.name} | Keyed: {len(analysis["keyed"])} | DefInjected: {len(analysis["defs"])}')
-    print(f'Aktiv: {len(active)} | Zugeordnet: {len(analysis["mapped"])} | Mehrdeutig: {len(analysis["ambiguous"])} | Unmapped: {len(analysis["unmapped"])}')
+    print(f'Report {language}: {latest.name} | Keyed: {len(analysis["keyed"])} | DefInjected: {len(analysis["defs"])}')
+    print(f'Aktiv: {len(active)} | Zugeordnet: {mapped_count} | Mehrdeutig: {len(analysis["ambiguous"])} | Unmapped: {len(analysis["unmapped"])}')
     print(f'Def-Resolver: {dict(resolver)} | Status: {previous_path}')

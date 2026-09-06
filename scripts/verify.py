@@ -5,11 +5,12 @@ import xml.etree.ElementTree as ET
 import config
 from build import collect_expected
 from common import (entry_identity, load_drafts, load_status, placeholders,
-                    runtime_records, semantic_hash)
+                    runtime_records, semantic_hash, translation_state)
 from draft import updated_draft
 
 
-def source_errors(drafts, status):
+def source_errors(drafts, status, languages=None):
+    languages = config.LANGUAGES if languages is None else languages
     errors = []
     mods = {m['package_id']: m for m in status['mods']}
     by_package = {d['package_id']: d for _, d in drafts}
@@ -17,12 +18,18 @@ def source_errors(drafts, status):
         if mod['entries'] and package not in by_package:
             errors.append(f'{package}: neue offene Einträge ohne Draft; draft --all ausführen')
     for path, draft in drafts:
-        expected = updated_draft(draft, mods.get(draft['package_id']))
+        expected = updated_draft(
+            draft,
+            mods.get(draft['package_id']),
+            status['report']['language'],
+        )
         if expected != draft:
             errors.append(f'{path.name}: Draft/Status nicht synchron (needed, Englisch oder Def-Auflösung); draft --all ausführen')
         for e in draft['entries']:
-            if e['german'].strip() and placeholders(e['english']) != placeholders(e['german']):
-                errors.append(f'{path.name}: Placeholder-Abweichung: {entry_identity(e)}')
+            for language in languages:
+                text = translation_state(e, language)['text']
+                if text.strip() and placeholders(e['english']) != placeholders(text):
+                    errors.append(f'{path.name} ({language}): Placeholder-Abweichung: {entry_identity(e)}')
     return errors
 
 
@@ -40,32 +47,38 @@ def runtime_errors(expected, directory):
     return errors
 
 
-def runtime_confirmed(package, records, status):
+def runtime_confirmed(package, records, status, language=None):
+    language = config.select_language(language)
+    if status.get('report', {}).get('language') != language:
+        return False
     subset = {k: v for k, v in records.items() if v['package_id'] == package}
     snapshot = status['runtime'].get(package, {})
     return bool(subset and snapshot.get('confirmed') and snapshot.get('sha256') == semantic_hash(subset))
 
 
-def run():
+def run(language=None):
     status = load_status()
     drafts = load_drafts()
-    errors = source_errors(drafts, status)
-    expected, included, excluded = collect_expected(drafts)
-    output_errors = runtime_errors(expected, config.LANG)
-    errors.extend(output_errors)
+    languages = config.selected_languages(language)
+    errors = source_errors(drafts, status, languages)
     current_config = hashlib.sha256(config.MODS_CONFIG.read_bytes()).hexdigest()
     config_matches = current_config == status['mods_config_sha256']
     if not config_matches:
         errors.append('Aktive Mods seit refresh geändert; refresh ausführen')
-    print(f'Build-Bestand: {len(included)} enthaltene, {len(excluded)} unvollständige Drafts')
+    for language in languages:
+        expected, included, excluded = collect_expected(drafts, language)
+        directory = config.language_dir(language)
+        output_errors = runtime_errors(expected, directory)
+        errors.extend(f'{language}: {error}' for error in output_errors)
+        print(f'Build-Bestand {language}: {len(included)} enthaltene, {len(excluded)} unvollständige Drafts')
+        if not output_errors:
+            records = runtime_records(directory)
+            for package in included:
+                confirmed = config_matches and runtime_confirmed(package, records, status, language)
+                print(f"Runtime: {'✓' if confirmed else 'ausstehend'} {language} / {package}")
     print('Lokale Verifikation: ' + ('✗' if errors else '✓ lokal konsistent'))
     for message in errors:
         print(f'FEHLER: {message}')
-    if not output_errors:
-        records = runtime_records(config.LANG)
-        for package in included:
-            confirmed = config_matches and runtime_confirmed(package, records, status)
-            print(f"Runtime: {'✓' if confirmed else 'ausstehend'} {package}")
-    print('Runtime-Aussage bezieht sich auf den gespeicherten Report und die aktive Modkonfiguration.')
+    print(f"Runtime-Evidenz: gespeicherter Report für {status['report']['language']} und aktive Modkonfiguration.")
     if errors:
         raise ValueError(f'Verifikation fehlgeschlagen: {len(errors)} Fehler')

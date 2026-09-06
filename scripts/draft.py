@@ -3,48 +3,123 @@ from copy import deepcopy
 from collections import Counter
 
 import config
-from common import entry_identity, index_entries, load_drafts, load_status, write_json
+from common import entry_identity, index_entries, load_drafts, load_status, validate_draft, write_json
 
 
-def merge_entries(current, previous):
+def merge_entries(current, previous, language=None):
+    language = config.select_language(language)
     old = index_entries(previous)
     index_entries(current)
     result = []
     path_counts = Counter(entry_identity(e)[:2] for e in current)
+
     for source in current:
         before = old.pop(entry_identity(source), None)
+
         if before is None and source['type'] == 'def':
-            candidates = [(key, e) for key, e in old.items()
-                          if key[:2] == entry_identity(source)[:2]]
-            matching = [(key, e) for key, e in candidates
-                        if e['def_type'].rsplit('.', 1)[-1] == source['def_type'].rsplit('.', 1)[-1]]
+            candidates = [
+                (key, e)
+                for key, e in old.items()
+                if key[:2] == entry_identity(source)[:2]
+            ]
+            matching = [
+                (key, e)
+                for key, e in candidates
+                if e['def_type'].rsplit('.', 1)[-1]
+                == source['def_type'].rsplit('.', 1)[-1]
+            ]
+
             if len(matching) == 1:
                 before = old.pop(matching[0][0])
-            elif len(candidates) == 1 and path_counts[entry_identity(source)[:2]] == 1:
+            elif (
+                len(candidates) == 1
+                and path_counts[entry_identity(source)[:2]] == 1
+            ):
                 before = old.pop(candidates[0][0])
             elif candidates:
-                raise ValueError(f'Def-Identität nicht eindeutig migrierbar: {source["path"]}')
-        entry = dict(before or {})
-        entry.update(source)
-        entry.update(needed=True, german=before['german'] if before else '',
-                     review=before.get('review', False) if before else False)
-        if before and before['english'] != source['english']:
-            entry['review'] = True
-            entry['previous_english'] = before.get('previous_english', before['english'])
+                raise ValueError(
+                    f'Def-Identität nicht eindeutig migrierbar: {source["path"]}'
+                )
+
+        entry = deepcopy(before or {})
+        source_values = {
+            k: v
+            for k, v in source.items()
+            if k not in ('translations', 'needed', 'runtime_echo')
+        }
+        runtime_echo = bool(before and source.get('runtime_echo'))
+        if runtime_echo:
+            source_values.pop('english', None)
+
+        entry.update(source_values)
+        entry['translations'] = deepcopy(before['translations']) if before else {}
+
+        if (
+            before
+            and not runtime_echo
+            and before['english'] != source['english']
+        ):
+            for state in entry['translations'].values():
+                state['review'] = True
+                state.setdefault('previous_english', before['english'])
+
+        for target_language in config.LANGUAGES:
+            entry['translations'].setdefault(
+                target_language,
+                {'text': '', 'review': False, 'needed': None},
+            )
+
+        # Nur der aktuell eingelesene TranslationReport kann für seine
+        # Sprache belastbar sagen, dass dieser Eintrag benötigt wird.
+        entry['translations'][language]['needed'] = True
         result.append(entry)
+
     for before in old.values():
         entry = deepcopy(before)
-        # A disappearing requirement may mean our own translation now works.
-        entry['needed'] = before['needed'] and bool(before['german'].strip())
+
+        for target_language in config.LANGUAGES:
+            entry['translations'].setdefault(
+                target_language,
+                {'text': '', 'review': False, 'needed': None},
+            )
+
+        state = entry['translations'][language]
+
+        # Alte Semantik pro Sprache:
+        # War ein Eintrag benötigt und verschwindet aus dem Report, behalten
+        # wir ihn nur dann als benötigt, wenn bereits eine eigene Übersetzung
+        # existiert. Diese könnte das Verschwinden aus dem Report verursacht
+        # haben. Ohne Übersetzung bestätigt der Report dagegen: nicht benötigt.
+        state['needed'] = bool(
+            state['needed'] is True
+            and state['text'].strip()
+        )
+
         result.append(entry)
-    order = {entry_identity(e): i for i, e in enumerate(previous)}
-    return sorted(result, key=lambda e: (order.get(entry_identity(e), len(order)), entry_identity(e)))
+
+    order = {
+        entry_identity(e): i
+        for i, e in enumerate(previous)
+    }
+
+    return sorted(
+        result,
+        key=lambda e: (
+            order.get(entry_identity(e), len(order)),
+            entry_identity(e),
+        ),
+    )
 
 
-def updated_draft(draft, mod):
+def updated_draft(draft, mod, language=None):
+    language = config.select_language(language)
     result = deepcopy(draft)
     result['name'] = mod['name'] if mod else draft['name']
-    result['entries'] = merge_entries(mod['entries'] if mod else [], draft['entries'])
+    result['entries'] = merge_entries(
+        mod['entries'] if mod else [],
+        draft['entries'],
+        language,
+    )
     # Re-resolve preserved Defs too, without changing their stable identities.
     if mod:
         for entry in result['entries']:
@@ -64,7 +139,8 @@ def updated_draft(draft, mod):
 
 def run(selector):
     status = load_status()
-    existing = {d['package_id']: (p, d) for p, d in load_drafts()}
+    language = config.select_language(status['report']['language'])
+    existing = {d['package_id']: (p, d) for p, d in load_drafts(migrate=True)}
     mods = {m['package_id']: m for m in status['mods']}
     if selector == '--all':
         packages = set(existing) | {p for p, m in mods.items() if m['entries']}
@@ -80,7 +156,9 @@ def run(selector):
         else:
             path = config.TRANSLATIONS / (package + '.json')
             draft = {'package_id': package, 'name': mods[package]['name'], 'entries': []}
-        pending.append((path, updated_draft(draft, mods.get(package))))
+        updated = updated_draft(draft, mods.get(package), language)
+        validate_draft(path, updated)
+        pending.append((path, updated))
     for path, draft in pending:
         write_json(path, draft)
     print(f'Drafts aktualisiert: {len(pending)}')

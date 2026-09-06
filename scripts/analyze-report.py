@@ -94,7 +94,7 @@ def discover_mods(active):
     for package_id in active:
         if (
             package_id.startswith("ludeon.")
-            or package_id == "elhanko.rimworld.germantranslations"
+            or package_id == "elhanko.rimworld.modtranslations"
         ):
             continue
 

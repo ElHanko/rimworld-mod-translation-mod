@@ -2,5 +2,8 @@
   "game": "/path/to/steam/steamapps/common/RimWorld",
   "workshop": "/path/to/steam/steamapps/workshop/content/294100",
   "rimworld_home": "/path/to/user/config/RimWorld",
-  "report_dir": "/path/to/translation-reports"
+  "report_dir": "/path/to/translation-reports",
+  "languages": [
+    "German"
+  ]
 }
