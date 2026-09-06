@@ -8,9 +8,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "Colony pets",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Kolonietiere",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Kolonietiere",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -18,9 +22,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "Amount",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Menge",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Menge",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -28,9 +36,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "animals",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Tiere",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Tiere",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -38,9 +50,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "Animals in pen",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Tiere im Gehege",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Tiere im Gehege",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -48,9 +64,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "Calculated for animals:",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Berechnet für Tiere:",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Berechnet für Tiere:",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -58,9 +78,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "Can grow",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Kann wachsen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Kann wachsen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -68,9 +92,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "caves",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Höhlen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Höhlen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -78,9 +106,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "{0} cells",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "{0} Felder",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "{0} Felder",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -88,9 +120,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "Expected {0} days to grow\\n\\nAverage soil {1}\\nDaylight {2}",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Voraussichtlich {0} Tage Wachstumszeit\\n\\nDurchschnittlicher Boden {1}\\nTageslicht {2}",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Voraussichtlich {0} Tage Wachstumszeit\\n\\nDurchschnittlicher Boden {1}\\nTageslicht {2}",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -98,9 +134,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "Growth time calculated at ideal temperature",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Wachstumszeit bei idealer Temperatur berechnet",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Wachstumszeit bei idealer Temperatur berechnet",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -108,9 +148,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "darkness",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Dunkelheit",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Dunkelheit",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -118,9 +162,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "lamp",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Lampe",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Lampe",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -128,9 +176,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "sun",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Sonne",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Sonne",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -138,9 +190,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "Description",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Beschreibung",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Beschreibung",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -148,9 +204,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "Dies in light",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Stirbt bei Licht",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Stirbt bei Licht",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -158,9 +218,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "Enough to feed",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Ausreichend für",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Ausreichend für",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -168,9 +232,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "Expected harvest date",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Voraussichtliches Erntedatum",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Voraussichtliches Erntedatum",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -178,9 +246,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "If all harvest is processed, this field will feed",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Wenn die gesamte Ernte verarbeitet wird, reicht dieses Feld für",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Wenn die gesamte Ernte verarbeitet wird, reicht dieses Feld für",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -188,9 +260,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "Animals",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Tiere",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Tiere",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -198,9 +274,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "Caves",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Höhlen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Höhlen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -208,9 +288,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "Drugs",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Drogen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Drogen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -218,9 +302,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "Food",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Nahrung",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Nahrung",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -228,9 +316,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "Indoors",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Innenbereich",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Innenbereich",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -238,9 +330,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "Medicine",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Medizin",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Medizin",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -248,9 +344,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "Other",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Sonstiges",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Sonstiges",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -258,9 +358,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "Pollution",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Umweltverschmutzung",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Umweltverschmutzung",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -268,9 +372,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "Trees",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Bäume",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Bäume",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -278,9 +386,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "From mods",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Aus Mods",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Aus Mods",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -288,9 +400,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "Food for",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Nahrung für",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Nahrung für",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -298,9 +414,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "{0}\\n{1} days",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "{0}\\n{1} Tage",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "{0}\\n{1} Tage",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -308,9 +428,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "Growth temperature",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Wachstumstemperatur",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Wachstumstemperatur",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -318,9 +442,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "humans",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Menschen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Menschen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -328,9 +456,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "{0} colonists",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "{0} Kolonisten",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "{0} Kolonisten",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -338,9 +470,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "indoors",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "drinnen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "drinnen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -348,9 +484,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "Market value",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Marktwert",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Marktwert",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -358,9 +498,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "May grow",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Kann wachsen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Kann wachsen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -368,9 +512,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "Need more ({0}) cells",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Benötigt {0} weitere Felder",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Benötigt {0} weitere Felder",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -378,9 +526,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "There are no suitable cells for this plant",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Es gibt keine geeigneten Felder für diese Pflanze.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Es gibt keine geeigneten Felder für diese Pflanze.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -388,9 +540,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "None",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Keine",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Keine",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -398,9 +554,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "Optimal",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Optimal",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Optimal",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -408,9 +568,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "{0}/year",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "{0}/Jahr",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "{0}/Jahr",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -418,9 +582,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "Plants",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Pflanzen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Pflanzen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -428,9 +596,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "Plants will likely not mature before seasons end",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Die Pflanzen werden wahrscheinlich vor Ende der Saison nicht ausgewachsen sein.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Die Pflanzen werden wahrscheinlich vor Ende der Saison nicht ausgewachsen sein.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -438,9 +610,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "Pollution",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Umweltverschmutzung",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Umweltverschmutzung",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -448,9 +624,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "Product",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Produkt",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Produkt",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -458,9 +638,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "Related recipes",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Zugehörige Rezepte",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Zugehörige Rezepte",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -468,9 +652,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "Required",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Erforderlich",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Erforderlich",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -478,9 +666,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "Insufficient soil fertility ({0})",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Bodenfruchtbarkeit zu gering ({0})",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Bodenfruchtbarkeit zu gering ({0})",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -488,9 +680,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "Soil sensitivity",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Bodenempfindlichkeit",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Bodenempfindlichkeit",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -498,9 +694,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "Allow resizing window",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Größenänderung des Fensters erlauben",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Größenänderung des Fensters erlauben",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -508,9 +708,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "Always show all info",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Immer alle Informationen anzeigen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Immer alle Informationen anzeigen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -518,9 +722,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "Count plants in row",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Pflanzen in der Reihe zählen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Pflanzen in der Reihe zählen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -528,9 +736,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "Reopen window for changes",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Fenster für Änderungen erneut öffnen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Fenster für Änderungen erneut öffnen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -538,9 +750,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "Show category icons",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Kategoriesymbole anzeigen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Kategoriesymbole anzeigen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -548,9 +764,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "Split plants by categories",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Pflanzen nach Kategorien aufteilen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Pflanzen nach Kategorien aufteilen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -558,9 +778,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "Not all cells are protected from sunlight",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Nicht alle Felder sind vor Sonnenlicht geschützt.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Nicht alle Felder sind vor Sonnenlicht geschützt.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -568,9 +792,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "Requires {0} skill in Growing to sow",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Zum Säen ist Pflanzen-Fähigkeit {0} erforderlich.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Zum Säen ist Pflanzen-Fähigkeit {0} erforderlich.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -578,9 +806,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "Skill requirements",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Fähigkeitsanforderungen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Fähigkeitsanforderungen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -588,9 +820,13 @@
       "package_id": "andromeda.niceplantsmenu",
       "english": "Total nutrition",
       "source": "Languages/English/Keyed/Misc.xml",
-      "german": "Gesamtnährwert",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Gesamtnährwert",
+          "review": false,
+          "needed": true
+        }
+      }
     }
   ]
 }

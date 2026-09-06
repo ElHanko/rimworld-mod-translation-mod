@@ -11,9 +11,13 @@
       "english": "A modern, adjustable bed designed for maximum comfort and proper spinal support. Fits two people.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -24,9 +28,13 @@
       "english": "ergonomic double bed",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -37,9 +45,13 @@
       "english": "A modern, adjustable bed designed for maximum comfort and proper spinal support.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -50,9 +62,13 @@
       "english": "ergonomic bed",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -63,9 +79,13 @@
       "english": "An extravagant four-poster bed fit for nobility, adorned with intricate carvings. Extremely comfy and luxurious, its imposing frame and detailed craftsmanship make it a work of art. Fits two.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -76,9 +96,13 @@
       "english": "royal poster bed",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -89,9 +113,13 @@
       "english": "A somewhat comfy net and pillow rested on a sturdy frame. Due to the simple construction, quality is not a factor in this bed.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -102,9 +130,13 @@
       "english": "simple bed",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -115,9 +147,13 @@
       "english": "A simple yet beautiful stone slab used for sleeping. It offers minimal comfort but is durable and fireproof.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -128,9 +164,13 @@
       "english": "chiseled bed",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -141,9 +181,13 @@
       "english": "A spacious waste disposal unit that efficiently keeps the surrounding area clean. Slowly removes trash and filth in a 15-cell radius.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -154,9 +198,13 @@
       "english": "large bin",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -167,9 +215,13 @@
       "english": "A small bin to help keep the surrounding area somewhat clean. Slowly removes trash and filth in a 10-cell radius.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -180,9 +232,13 @@
       "english": "small bin",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -193,9 +249,13 @@
       "english": "cooking at",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -206,9 +266,13 @@
       "english": "cook meals at stone campfire",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -219,9 +283,13 @@
       "english": "cook",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -232,9 +300,13 @@
       "english": "working at",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -245,9 +317,13 @@
       "english": "do bills at stone campfire",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -258,9 +334,13 @@
       "english": "work at",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -271,9 +351,13 @@
       "english": "electronic play",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -284,9 +368,13 @@
       "english": "A bulky, coin-operated arcade cabinet with an aging CRT screen and colorful buttons. Though outdated, it still provides hours of digital entertainment. Classic games never truly die.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -297,9 +385,13 @@
       "english": "arcade machine",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -310,9 +402,13 @@
       "english": "A simple dartboard mounted on a stand. A fun way to practice accuracy and hand-eye coordination. It trains shooting ability.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -323,9 +419,13 @@
       "english": "darts board",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -336,9 +436,13 @@
       "english": "A bulky, outdated computer standing on a small desk. The screen flickers, the keys stick, and it hums with age, but it still runs simple programs. There's always some archaic software waiting to be used.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -349,9 +453,13 @@
       "english": "old computer",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -362,9 +470,13 @@
       "english": "A sleek, high-performance computing station housed on a sturdy desk. Equipped with a fast processor, an ergonomic keyboard, and a crisp, flat-panel display, it offers a vast range of software: whether for research, entertainment, or light interstellar networking.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -375,9 +487,13 @@
       "english": "modern computer",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -388,9 +504,13 @@
       "english": "A compact upright piano designed for musical recreation. A great way to develop artistic skills and entertain others.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -401,9 +521,13 @@
       "english": "upright piano",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -414,9 +538,13 @@
       "english": "A sturdy, stand-mounted punching bag for combat training and stress relief. It trains melee combat ability.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -427,9 +555,13 @@
       "english": "punching bag",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -440,9 +572,13 @@
       "english": "A sophisticated gambling table designed for playing roulette. A thrilling mix of chance and strategy, making it a centerpiece of any high-end casino or social space.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -453,9 +589,13 @@
       "english": "roulette table",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -466,9 +606,13 @@
       "english": "Off due to sufficient sunlight.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -479,9 +623,13 @@
       "english": "An electrical standing lamp that lights an area, good for large outdoor spaces. Will automatically turn off during the day to prevent power consumption.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -492,9 +640,13 @@
       "english": "outdoor lamp",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -505,9 +657,13 @@
       "english": "Build simple furniture like simple beds, basic tables, stools, benches and more.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -518,9 +674,13 @@
       "english": "subject->foundations of comfort",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -531,9 +691,13 @@
       "english": "subject_story->rediscovered ancient techniques for crafting durable, essential furniture",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -544,9 +708,13 @@
       "english": "subject_story->pioneered the use of local materials to create comfortable living spaces",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -557,9 +725,13 @@
       "english": "subject_story->taught the community the value of crafting with nature, not against it",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -570,9 +742,13 @@
       "english": "subject_story->initiated the tradition of communal gatherings around the hearth and table",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -583,9 +759,13 @@
       "english": "subject_gerund->establishing the basics of homely comfort and utility",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -596,9 +776,13 @@
       "english": "basic furniture",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -609,9 +793,13 @@
       "english": "Learn to build furniture of the modern day that is focused on practicality over beauty, such as roulette tables, wardrobes, dart boards, punching bags and ergonomic beds.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -622,9 +810,13 @@
       "english": "subject->practical elegance",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -635,9 +827,13 @@
       "english": "subject_story->embraced the fusion of form and function to suit modern lifestyles",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -648,9 +844,13 @@
       "english": "subject_story->innovated with new materials for durability and comfort",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -661,9 +861,13 @@
       "english": "subject_story->prioritized ergonomic designs to enhance daily living",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -674,9 +878,13 @@
       "english": "subject_story->introduced concepts of modular and space-saving furniture",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -687,9 +895,13 @@
       "english": "subject_story->championed the minimalist aesthetic, focusing on simplicity and practicality",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -700,9 +912,13 @@
       "english": "subject_gerund->redefining living spaces for the contemporary era",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -713,9 +929,13 @@
       "english": "modern furniture",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -726,9 +946,13 @@
       "english": "Build luxury furniture focused strongly on aesthetics and beauty over practicality, usually only seen in the houses of the wealthy elite. Including poster beds, royal chairs, tables and armchairs.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -739,9 +963,13 @@
       "english": "subject->the art of luxury",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -752,9 +980,13 @@
       "english": "subject_story->reclaimed forgotten methods of inlay and marquetry for exquisite pieces",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -765,9 +997,13 @@
       "english": "subject_story->fostered a new age of craftsmanship, blending beauty with utility",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -778,9 +1014,13 @@
       "english": "subject_story->commissioned pieces that would become the envy of visiting dignitaries",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -791,9 +1031,13 @@
       "english": "subject_story->inspired artisans to push the boundaries of design and materials",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -804,9 +1048,13 @@
       "english": "subject_story->created spaces of unparalleled elegance, reflecting the pinnacle of culture",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -817,9 +1065,13 @@
       "english": "subject_gerund->crafting symbols of status and artistry",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -830,9 +1082,13 @@
       "english": "artisan furniture",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -843,9 +1099,13 @@
       "english": "Learn to build small and large bins, objects that slowly clean the environment they are in.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -856,9 +1116,13 @@
       "english": "subject->the cleanliness revolution",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -869,9 +1133,13 @@
       "english": "subject_story->developed efficient waste management solutions to promote hygiene",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -882,9 +1150,13 @@
       "english": "subject_story->introduced the concept of recycling, transforming waste into resources",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -895,9 +1167,13 @@
       "english": "subject_story->engineered bins that integrate seamlessly into both public and private spaces",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -908,9 +1184,13 @@
       "english": "subject_story->pioneered waste processing techniques that minimize environmental impact",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -921,9 +1201,13 @@
       "english": "subject_story->catalyzed a cultural shift towards sustainability and cleanliness",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -934,9 +1218,13 @@
       "english": "subject_gerund->enhancing communities with smart waste solutions",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -947,9 +1235,13 @@
       "english": "waste disposal",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -960,9 +1252,13 @@
       "english": "Increases research speed when placed near a research bench. One research bench can use up to two filing cabinets.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -973,9 +1269,13 @@
       "english": "filing cabinet",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -986,9 +1286,13 @@
       "english": "Mote",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -999,9 +1303,13 @@
       "english": "Mote",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1012,9 +1320,13 @@
       "english": "Mote",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1025,9 +1337,13 @@
       "english": "Mote",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1038,9 +1354,13 @@
       "english": "playing arcade game.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1051,9 +1371,13 @@
       "english": "playing darts.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1064,9 +1388,13 @@
       "english": "playing piano.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1077,9 +1405,13 @@
       "english": "using punching bag.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1090,9 +1422,13 @@
       "english": "playing roulette.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1103,9 +1439,13 @@
       "english": "An industrial-era radio for playing music and spoken broadcasts. Even on the rimworlds, there is often an old transmitter running something at least marginally interesting. Provides passive music recreation to those that can hear it.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1116,9 +1456,13 @@
       "english": "industrial radio",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1129,9 +1473,13 @@
       "english": "A state-of-the-art, high-fidelity radio that uses advanced longwave transmission to deliver crystal-clear music, broadcasts, and interstellar transmissions. Even on the rimworlds, someone out there is always transmitting something - whether it’s news, music, or distant voices from the void..",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1142,9 +1490,13 @@
       "english": "longwave radio",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1155,9 +1507,13 @@
       "english": "A simple long platform on which multiple people may sit at the same time, not very comfortable but much better than nothing. Can be used at tables, work stations, and elsewhere.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1168,9 +1524,13 @@
       "english": "bench",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1181,9 +1541,13 @@
       "english": "A soft cushion designed for sitting. More comfortable than a stool but still a simple seating option.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1194,9 +1558,13 @@
       "english": "sitting cushion",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1207,9 +1575,13 @@
       "english": "A modern, well-designed chair with excellent back support and padding, providing high comfort.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1220,9 +1592,13 @@
       "english": "ergonomic chair",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1233,9 +1609,13 @@
       "english": "A grand, exquisitely crafted armchair with deep cushions, fine upholstery, and ornate detailing. Can be used at tables, work stations, and elsewhere.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1246,9 +1626,13 @@
       "english": "royal armchair",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1259,9 +1643,13 @@
       "english": "A luxurious, high-backed dining chair adorned with fine upholstery and intricate craftsmanship. Can be used at tables, work stations, and elsewhere.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1272,9 +1660,13 @@
       "english": "royal chair",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1285,9 +1677,13 @@
       "english": "An uncomfortable school chair. Can be used at tables, work stations, and elsewhere. Improves the learning rate when adjacent to the school desk.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1298,9 +1694,13 @@
       "english": "school chair",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1311,9 +1711,13 @@
       "english": "A shelf for storing weapons. Items stored in this will not affect room beauty and they won't deteriorate, even if outside.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1324,9 +1728,13 @@
       "english": "weapon rack",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1337,9 +1745,13 @@
       "english": "Cooks meals and produces heat, but burns wood in the process. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1350,9 +1762,13 @@
       "english": "firepit",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1363,9 +1779,13 @@
       "english": "People eat off tables when chairs are placed facing them.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1376,9 +1796,13 @@
       "english": "table (1x1)",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1389,9 +1813,13 @@
       "english": "People eat off counters when chairs are placed facing them",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1402,9 +1830,13 @@
       "english": "counter",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1415,9 +1847,13 @@
       "english": "A finely crafted, gold-trimmed table adorned with intricate carvings and polished surfaces. People eat off tables when chairs are placed facing them.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1428,9 +1864,13 @@
       "english": "royal table (1x1)",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1441,9 +1881,13 @@
       "english": "A finely crafted, gold-trimmed table adorned with intricate carvings and polished surfaces. People eat off tables when chairs are placed facing them.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1454,9 +1898,13 @@
       "english": "royal table (1x2)",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1467,9 +1915,13 @@
       "english": "A finely crafted, gold-trimmed table adorned with intricate carvings and polished surfaces. People eat off tables when chairs are placed facing them.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1480,9 +1932,13 @@
       "english": "royal table (2x2)",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1493,9 +1949,13 @@
       "english": "A finely crafted, gold-trimmed table adorned with intricate carvings and polished surfaces. People eat off tables when chairs are placed facing them.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1506,9 +1966,13 @@
       "english": "royal table (2x4)",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1519,9 +1983,13 @@
       "english": "A finely crafted, gold-trimmed table adorned with intricate carvings and polished surfaces. People eat off tables when chairs are placed facing them.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1532,9 +2000,13 @@
       "english": "royal table (3x3)",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1545,9 +2017,13 @@
       "english": "A luxurious dresser, adorned with solid gold and elegant in design, making nearby beds more comfortable.Placing more than one end table near the same bed has no effect.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1558,9 +2034,13 @@
       "english": "royal dresser",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1571,9 +2051,13 @@
       "english": "A finely crafted bedside table adorned with gold inlays and exquisite detailing. Enhances the comfort of nearby beds, providing a touch of nobility to any sleeping quarters. Must be placed directly adjacent to the head of the bed. Placing more than one near the same bed has no effect.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1584,9 +2068,13 @@
       "english": "royal end table",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1597,9 +2085,13 @@
       "english": "A tall wardrobe for storing clothing and other items. Gives a small comfort bonus to all nearby beds. Placing more than one wardrobe near the same bed has no effect.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1610,9 +2102,13 @@
       "english": "wardrobe",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1623,9 +2119,13 @@
       "english": "used computer",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1636,9 +2136,13 @@
       "english": "tale_noun->[PAWN_nameDef] focusing heavily on the [OBJECT_label] in front of them",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1649,9 +2153,13 @@
       "english": "tale_noun->[PAWN_nameDef] looking angrily at a [OBJECT_label]",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1662,9 +2170,13 @@
       "english": "desc_sentence->In the distance, a [TerrainFeature] is visible.",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1675,9 +2187,13 @@
       "english": "desc_sentence->[PAWN_nameDef] focused on the screen.",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1688,9 +2204,13 @@
       "english": "desc_sentence->[PAWN_nameDef] towers above the scene.",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1701,9 +2221,13 @@
       "english": "tale_noun->[PAWN_nameDef] enjoying [PAWN_objective]self at a [OBJECT_label]",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1714,9 +2238,13 @@
       "english": "image->[PAWN_nameFull] poised over the [OBJECT_label], [circumstance_group]",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1727,9 +2255,13 @@
       "english": "image->[PAWN_nameFull] typing heavily on the [OBJECT_label], [circumstance_group]",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1740,9 +2272,13 @@
       "english": "circumstance_phrase->concentrating",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1753,9 +2289,13 @@
       "english": "circumstance_phrase->[PAWN_possessive] body loose and relaxed",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1766,9 +2306,13 @@
       "english": "circumstance_phrase->leaning back in [PAWN_possessive] chair",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1779,9 +2323,13 @@
       "english": "desc_sentence->A [Color] aurora shines in the background.",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1792,9 +2340,13 @@
       "english": "desc_sentence->In the distance, a [Community] is visible.",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1805,9 +2357,13 @@
       "english": "used punching bag",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1818,9 +2374,13 @@
       "english": "tale_noun->[PAWN_nameDef] taking out his anger on a [OBJECT_label]",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1831,9 +2391,13 @@
       "english": "tale_noun->[PAWN_nameDef] looking angrily at a [OBJECT_label]",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1844,9 +2408,13 @@
       "english": "circumstance_phrase->[angstyverb]",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1857,9 +2425,13 @@
       "english": "desc_sentence->A [Color] aurora shines in the background.",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1870,9 +2442,13 @@
       "english": "desc_sentence->In the distance, a [Community] is visible.",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1883,9 +2459,13 @@
       "english": "desc_sentence->In the distance, a [TerrainFeature] is visible.",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1896,9 +2476,13 @@
       "english": "desc_sentence->[PAWN_nameDef]'s features are exaggerated.",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1909,9 +2493,13 @@
       "english": "desc_sentence->[PAWN_nameDef] towers above the scene.",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1922,9 +2510,13 @@
       "english": "tale_noun->[PAWN_nameDef] enjoying [PAWN_objective]self at a [OBJECT_label]",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1935,9 +2527,13 @@
       "english": "image->[PAWN_nameFull] poised over the [OBJECT_label], [circumstance_group]",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1948,9 +2544,13 @@
       "english": "image->[PAWN_nameFull] punching the [OBJECT_label], [circumstance_group]",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1961,9 +2561,13 @@
       "english": "circumstance_phrase->tense with energy",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1974,9 +2578,13 @@
       "english": "circumstance_phrase->[PAWN_possessive] body loose and relaxed",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1987,9 +2595,13 @@
       "english": "circumstance_phrase->gently massaging [PAWN_possessive] wrists",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2000,9 +2612,13 @@
       "english": "circumstance_phrase->[angstyverb] with a [AdjectiveAngsty] expression",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2013,9 +2629,13 @@
       "english": "circumstance_phrase->wrapping their hands in tape",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2026,9 +2646,13 @@
       "english": "An ornamented burial receptacle for the honored dead animals.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2039,9 +2663,13 @@
       "english": "animal sarcophagus",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2052,9 +2680,13 @@
       "english": "A somewhat comfy net and pillow rested on a sturdy frame that fits two people. Due to the simple construction, quality is not a factor in this bed.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2065,9 +2697,13 @@
       "english": "simple double bed",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2078,9 +2714,13 @@
       "english": "A simple yet beautiful stone slab used for sleeping that fits two people. It offers minimal comfort but is durable and fireproof.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2091,9 +2731,13 @@
       "english": "chiseled double bed",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2104,9 +2748,13 @@
       "english": "cleaning",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2117,9 +2765,13 @@
       "english": "clean bin",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2130,9 +2782,13 @@
       "english": "cleaning TargetA.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2143,9 +2799,13 @@
       "english": "clean",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2156,9 +2816,13 @@
       "english": "A small table which makes nearby armchairs and couches a little bit more comfortable. Must be placed directly adjacent to the couch or an armchair. Placing more than one coffee table near the same couch has no effect.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2169,9 +2833,13 @@
       "english": "coffee table",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2182,9 +2850,13 @@
       "english": "Use educational application, play educational games, watch (or listen) to educational videos. Requires a powered computer with a chair.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2195,9 +2867,13 @@
       "english": "computer using",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2208,9 +2884,13 @@
       "english": "using computer.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2221,9 +2901,13 @@
       "english": "computer usage",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2234,9 +2918,13 @@
       "english": "An electrical desk lamp that lights a small area. People need light to move and work at full speed.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2247,9 +2935,13 @@
       "english": "desk lamp",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2260,9 +2952,13 @@
       "english": "A low-profile light source embedded into the floor. While not as bright as a standing lamp, it provides subtle, even lighting without obstructing movement. Does not short circuit in rain.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2273,9 +2969,13 @@
       "english": "floor lamp",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2286,9 +2986,13 @@
       "english": "listening to music.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2299,9 +3003,13 @@
       "english": "Currently gaining recreation due to listening to music.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2312,9 +3020,13 @@
       "english": "listening to music",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2325,9 +3037,13 @@
       "english": "Plant decorative flowers here to improve the mood of people nearby. Designed to be combined with other plant pots to form various shapes.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2338,9 +3054,13 @@
       "english": "long plant pot",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2351,9 +3071,13 @@
       "english": "A reclining cushioned lounger designed for relaxation. Offers superior comfort but is not ideal for deep, restful sleep. Allows for sunbathing recreation.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2364,9 +3088,13 @@
       "english": "lounger",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2377,9 +3105,13 @@
       "english": "Down-left (Inner)",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2390,9 +3122,13 @@
       "english": "Down-left (Outer)",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2403,9 +3139,13 @@
       "english": "Right-down (Straight)",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2416,9 +3156,13 @@
       "english": "Right-middle (Straight)",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2429,9 +3173,13 @@
       "english": "Right-up (Straight)",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2442,9 +3190,13 @@
       "english": "Up-left (Inner)",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2455,9 +3207,13 @@
       "english": "Up-left (Outer)",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2468,9 +3224,13 @@
       "english": "Up-left (Straight)",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2481,9 +3241,13 @@
       "english": "Up-middle (Straight)",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2494,9 +3258,13 @@
       "english": "Up-right (Inner)",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2507,9 +3275,13 @@
       "english": "Up-right (Outer)",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2520,9 +3292,13 @@
       "english": "Down-left (Straight)",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2533,9 +3309,13 @@
       "english": "Up-right (Straight)",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2546,9 +3326,13 @@
       "english": "Down-middle (Straight)",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2559,9 +3343,13 @@
       "english": "Down-right (Inner)",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2572,9 +3360,13 @@
       "english": "Down-right (Outer)",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2585,9 +3377,13 @@
       "english": "Down-right (Straight)",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2598,9 +3394,13 @@
       "english": "Left-down (Straight)",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2611,9 +3411,13 @@
       "english": "Left-middle (Straight)",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2624,9 +3428,13 @@
       "english": "Left-up (Straight)",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2637,9 +3445,13 @@
       "english": "Set the visuals for the couch to create a seamless seating arrangement.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2650,9 +3462,13 @@
       "english": "A compact, cushioned seat designed to be combined with others to create larger couches or corner seating arrangements. Ideal for large rec rooms, lounges, or social areas.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2663,9 +3479,13 @@
       "english": "modular couch",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2676,9 +3496,13 @@
       "english": "using computer.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2689,9 +3513,13 @@
       "english": "sunbathing.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2702,9 +3530,13 @@
       "english": "A beautifully crafted standing lamp adorned with gold trim and elegant design.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2715,9 +3547,13 @@
       "english": "royal standing lamp",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2728,9 +3564,13 @@
       "english": "A grand, gold-trimmed wardrobe designed for nobility. Gives a small comfort bonus to all nearby beds. Placing more than one royal wardrobe near the same bed has no effect.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2741,9 +3581,13 @@
       "english": "royal wardrobe",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2754,9 +3598,13 @@
       "english": "strength play",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -2764,9 +3612,13 @@
       "key": "VFE.CannotPlaceOnWall",
       "english": "Cannot be place inside a wall.",
       "source": "Keys.xml:10",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -2774,9 +3626,13 @@
       "key": "VFE.ComputerNeedChairs",
       "english": "Computer needs a chair",
       "source": "Keys.xml:13",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -2784,9 +3640,13 @@
       "key": "VFE.ComputerNeedChairsDesc",
       "english": "One of your computers does not have any adjacent chair.\\n\\nBuild adjacent chair or stool to allow your colonists to use the computer.",
       "source": "Keys.xml:14",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -2794,9 +3654,13 @@
       "key": "VFE.FilthStored",
       "english": "Amount of filth stored: {0}\\nContainer filled: {1}",
       "source": "Keys.xml:5",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -2804,9 +3668,13 @@
       "key": "VFE.FilthStoredBeauty",
       "english": "Container filled ({1}): {0}",
       "source": "Keys.xml:6",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -2814,9 +3682,13 @@
       "key": "VFE.RouletteTableOnWall",
       "english": "Roulette needs space",
       "source": "Keys.xml:16",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -2824,9 +3696,13 @@
       "key": "VFE.RouletteTableOnWallDesc",
       "english": "One of your roulette tables is adjacent to an obstruction that will prevent colonists from using it.\\n\\nA roulette table needs clear space around it on all sides to be usable.",
       "source": "Keys.xml:17",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -2834,9 +3710,13 @@
       "key": "VFE.SetTargetCleanup",
       "english": "Container cleanup threshold: {0}",
       "source": "Keys.xml:7",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -2844,9 +3724,13 @@
       "key": "VFE.SunbathingNotPossible",
       "english": "Sunbathing not possible:",
       "source": "Keys.xml:22",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -2854,9 +3738,13 @@
       "key": "VFE.SunbathingNotPossible.BadWeather",
       "english": "bad weather",
       "source": "Keys.xml:24",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -2864,9 +3752,13 @@
       "key": "VFE.SunbathingNotPossible.NotSunny",
       "english": "not sunny enough",
       "source": "Keys.xml:25",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -2874,9 +3766,13 @@
       "key": "VFE.SunbathingNotPossible.PawnComfortableTemperature",
       "english": "not comfortable temperature for {PAWN_labelShort}",
       "source": "Keys.xml:27",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -2884,9 +3780,13 @@
       "key": "VFE.SunbathingNotPossible.PawnOutdoors",
       "english": "{PAWN_labelShort} doesn't enjoy outdoors",
       "source": "Keys.xml:26",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -2894,9 +3794,13 @@
       "key": "VFE.SunbathingNotPossible.UnderRoof",
       "english": "under a roof",
       "source": "Keys.xml:23",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -2904,9 +3808,13 @@
       "key": "VFE.SunbathingPossibleForPawn",
       "english": "Sunbathing possible for {PAWNLIST}",
       "source": "Keys.xml:20",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -2914,9 +3822,13 @@
       "key": "VFE.SunbathingPossibleGeneric",
       "english": "Sunbathing possible, assuming temperature is comfortable and colonists enjoy outdoor activities",
       "source": "Keys.xml:21",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     }
   ]
 }

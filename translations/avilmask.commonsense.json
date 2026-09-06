@@ -10,10 +10,14 @@
       "package_id": "avilmask.commonsense",
       "path": "CooledStoreroom.label",
       "type": "def",
-      "german": "Kühlraum",
-      "review": false,
-      "needed": true,
-      "def_resolution": "resolved"
+      "def_resolution": "resolved",
+      "translations": {
+        "German": {
+          "text": "Kühlraum",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "def_name": "SocialRelaxCommonSense",
@@ -23,10 +27,14 @@
       "package_id": "avilmask.commonsense",
       "path": "SocialRelaxCommonSense.reportString",
       "type": "def",
-      "german": "entspannt sich in Gesellschaft.",
-      "review": false,
-      "needed": true,
-      "def_resolution": "resolved"
+      "def_resolution": "resolved",
+      "translations": {
+        "German": {
+          "text": "entspannt sich in Gesellschaft.",
+          "review": false,
+          "needed": true
+        }
+      }
     }
   ]
 }

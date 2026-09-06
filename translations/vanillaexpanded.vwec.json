@@ -11,9 +11,13 @@
       "english": "gauss lance sabot",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Gausslanzen-Treibspiegelgeschoss",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -24,9 +28,13 @@
       "english": "gauss lance sabot",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Gausslanzen-Treibspiegelgeschoss",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -37,9 +45,13 @@
       "english": "gauss revolver sabot",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Gaussrevolver-Treibspiegelgeschoss",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -50,9 +62,13 @@
       "english": "gauss revolver sabot",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Gaussrevolver-Treibspiegelgeschoss",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -63,9 +79,13 @@
       "english": "gauss rifle sabot",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Gaussgewehr-Treibspiegelgeschoss",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -76,9 +96,13 @@
       "english": "gauss rifle sabot",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Gaussgewehr-Treibspiegelgeschoss",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -89,9 +113,13 @@
       "english": "bullet hole",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Einschussloch",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -102,9 +130,13 @@
       "english": "High-power mode improves penetration capability of the shots, allowing them to penetrate several targets, but increases the warm up time of the weapon. The damage diminishes with each target hit.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Der Hochleistungsmodus verbessert die Durchschlagskraft der Schüsse und ermöglicht es ihnen, mehrere Ziele zu durchdringen, erhöht jedoch die Vorbereitungszeit der Waffe. Der Schaden nimmt mit jedem getroffenen Ziel ab.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -115,9 +147,13 @@
       "english": "High-power mode",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Hochleistungsmodus",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -128,9 +164,13 @@
       "english": "A powerful, long range mass driver lance utilizing magnetic acceleration to launch ferromagnetic sabots. The incredible velocity and specialized ammunition allow it to completely negate most forms of conventional armor.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Eine leistungsstarke Massenbeschleuniger-Lanze mit hoher Reichweite, die ferromagnetische Treibspiegelgeschosse magnetisch beschleunigt. Die enorme Geschwindigkeit und die Spezialmunition machen die meisten Arten herkömmlicher Panzerung praktisch wirkungslos.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -141,9 +181,13 @@
       "english": "gauss lance",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Gausslanze",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -154,9 +198,13 @@
       "english": "barrel",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Lauf",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -167,9 +215,13 @@
       "english": "high power shot",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Hochleistungsschuss",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -180,9 +232,13 @@
       "english": "low power shot",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Niedrigleistungsschuss",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -193,9 +249,13 @@
       "english": "High-power mode improves penetration capability of the shots, allowing them to penetrate several targets, but increases the warm up time of the weapon. The damage diminishes with each target hit.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Der Hochleistungsmodus verbessert die Durchschlagskraft der Schüsse und ermöglicht es ihnen, mehrere Ziele zu durchdringen, erhöht jedoch die Vorbereitungszeit der Waffe. Der Schaden nimmt mit jedem getroffenen Ziel ab.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -206,9 +266,13 @@
       "english": "High-power mode",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Hochleistungsmodus",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -219,9 +283,13 @@
       "english": "A powerful mass driver pistol utilizing magnetic acceleration to launch ferromagnetic sabots. The incredible velocity and specialized ammunition allow it to completely negate most forms of conventional armor.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Eine leistungsstarke Massenbeschleuniger-Pistole, die ferromagnetische Treibspiegelgeschosse magnetisch beschleunigt. Die enorme Geschwindigkeit und die Spezialmunition machen die meisten Arten herkömmlicher Panzerung praktisch wirkungslos.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -232,9 +300,13 @@
       "english": "gauss revolver",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Gaussrevolver",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -245,9 +317,13 @@
       "english": "barrel",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Lauf",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -258,9 +334,13 @@
       "english": "grip",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Griff",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -271,9 +351,13 @@
       "english": "high power shot",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Hochleistungsschuss",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -284,9 +368,13 @@
       "english": "low power shot",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Niedrigleistungsschuss",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -297,9 +385,13 @@
       "english": "High-power mode improves penetration capability of the shots, allowing them to penetrate several targets, but increases the warm up time of the weapon. The damage diminishes with each target hit.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Der Hochleistungsmodus verbessert die Durchschlagskraft der Schüsse und ermöglicht es ihnen, mehrere Ziele zu durchdringen, erhöht jedoch die Vorbereitungszeit der Waffe. Der Schaden nimmt mit jedem getroffenen Ziel ab.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -310,9 +402,13 @@
       "english": "High-power mode",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Hochleistungsmodus",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -323,9 +419,13 @@
       "english": "A powerful mass driver rifle utilizing magnetic acceleration to launch ferromagnetic sabots. The incredible velocity and specialized ammunition allow it to completely negate most forms of conventional armor.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ein leistungsstarkes Massenbeschleuniger-Gewehr, das ferromagnetische Treibspiegelgeschosse magnetisch beschleunigt. Die enorme Geschwindigkeit und die Spezialmunition machen die meisten Arten herkömmlicher Panzerung praktisch wirkungslos.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -336,9 +436,13 @@
       "english": "gauss rifle",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Gaussgewehr",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -349,9 +453,13 @@
       "english": "barrel",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Lauf",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -362,9 +470,13 @@
       "english": "stock",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Schaft",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -375,9 +487,13 @@
       "english": "high power shot",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Hochleistungsschuss",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -388,9 +504,13 @@
       "english": "low power shot",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Niedrigleistungsschuss",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -401,9 +521,13 @@
       "english": "Assemble weapons which utilize electromagnets to catapult sabots up to hypervelocity, penetrating thick armor and piercing through targets alike. Note that these also require advanced components.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ermöglicht die Herstellung von Waffen, die Elektromagnete nutzen, um Treibspiegelgeschosse auf Hypergeschwindigkeit zu beschleunigen. Dadurch können sie dicke Panzerung und mehrere Ziele durchschlagen. Für ihre Herstellung werden außerdem fortschrittliche Komponenten benötigt.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -414,9 +538,13 @@
       "english": "subject->velocity as a weapon",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "subject->Geschwindigkeit als Waffe",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -427,9 +555,13 @@
       "english": "subject_story->mastered the physics of electromagnetic acceleration, creating weapons that launch projectiles at staggering speeds",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "subject_story->beherrschte die Physik elektromagnetischer Beschleunigung und erschuf Waffen, die Geschosse mit gewaltiger Geschwindigkeit abfeuern",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -440,9 +572,13 @@
       "english": "subject_story->engineered mass drivers capable of breaching the most formidable armor, reshaping the principles of warfare and defense",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "subject_story->entwickelte Massenbeschleuniger, die selbst stärkste Panzerungen durchbrechen können und damit die Grundsätze von Kriegführung und Verteidigung neu definierten",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -453,9 +589,13 @@
       "english": "subject_story->unveiled a new era where kinetic energy defines the cutting edge of military technology",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "subject_story->leitete eine neue Ära ein, in der kinetische Energie die Spitze militärischer Technologie bestimmt",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -466,9 +606,13 @@
       "english": "subject_gerund->harnessing the unstoppable force of hypervelocity for unmatched offensive capability",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "subject_gerund->die unaufhaltsame Kraft der Hypergeschwindigkeit für unerreichte offensive Schlagkraft nutzend",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -479,9 +623,13 @@
       "english": "mass drivers",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Massenbeschleuniger",
+          "review": false,
+          "needed": true
+        }
+      }
     }
   ]
 }

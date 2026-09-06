@@ -11,9 +11,13 @@
       "english": "This person has fished something special.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -24,9 +28,13 @@
       "english": "recently fished something special",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -37,9 +45,13 @@
       "english": "fishing",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -50,9 +62,13 @@
       "english": "catch fish",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -63,9 +79,13 @@
       "english": "catch fish",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -76,9 +96,13 @@
       "english": "fishing at TargetA.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -89,9 +113,13 @@
       "english": "{PAWN_nameDef} enjoys the solitude and tranquility inherent to long fishing sessions. {PAWN_pronoun} will prefer fishing above other activities.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -102,9 +130,13 @@
       "english": "fisherman",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -115,9 +147,13 @@
       "english": "Catch fish in designated work zones.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -128,9 +164,13 @@
       "english": "fishing",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -141,9 +181,13 @@
       "english": "Fish",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -154,9 +198,13 @@
       "english": "Fisher",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -167,9 +215,13 @@
       "english": "Fish",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -180,9 +232,13 @@
       "english": "The chance for every fishing attempt to fish a special item instead of a regular fish is increased by this offset.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -193,9 +249,13 @@
       "english": "fishing luck",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -206,9 +266,13 @@
       "english": "The speed at which a person can fish is multiplied by this factor.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -219,9 +283,13 @@
       "english": "fishing speed",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -232,9 +300,13 @@
       "english": "Nothing better to relax than fishing",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -245,9 +317,13 @@
       "english": "relaxing fishing session",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -258,9 +334,13 @@
       "english": "The fishing yield of a person is multiplied by this factor.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -271,9 +351,13 @@
       "english": "fishing yield",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -284,9 +368,13 @@
       "english": "Mote",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -297,9 +385,13 @@
       "english": "Mote",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -310,9 +402,13 @@
       "english": "Mote",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -323,9 +419,13 @@
       "english": "Mote",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -336,9 +436,13 @@
       "english": "Mote",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -349,9 +453,13 @@
       "english": "Mote",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -362,9 +470,13 @@
       "english": "Mote",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -375,9 +487,13 @@
       "english": "Mote",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -388,9 +504,13 @@
       "english": "Mote",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -401,9 +521,13 @@
       "english": "Mote",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -414,9 +538,13 @@
       "english": "Mote",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -427,9 +555,13 @@
       "english": "Mote",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -440,9 +572,13 @@
       "english": "Raw anchovy. A small, common forage fish of the family Engraulidae. Most species are found in marine waters, but several will enter brackish water and some are restricted to fresh water.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -453,9 +589,13 @@
       "english": "anchovy",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -466,9 +606,13 @@
       "english": "Raw angelfish. Angelfish refers to several species of fish, both marine and freshwater, usually sporting bright colours and deep, laterally compressed bodies.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -479,9 +623,13 @@
       "english": "angelfish",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -492,9 +640,13 @@
       "english": "Raw anglerfish. Anglerfish are bony fish named for their characteristic mode of predation, in which, a fleshy growth from the fish's head (the esca or illicium) acts as a lure towards other fish.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -505,9 +657,13 @@
       "english": "anglerfish",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -518,9 +674,13 @@
       "english": "Raw bass. Bass is a name shared by many species of fish. The term encompasses both freshwater and marine species, all belonging to the large order Perciformes.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -531,9 +691,13 @@
       "english": "bass",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -544,9 +708,13 @@
       "english": "Raw catfish. Catfish are a diverse group of ray-finned fish. Named for their prominent barbels, which resemble a cat's whiskers.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -557,9 +725,13 @@
       "english": "catfish",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -570,9 +742,13 @@
       "english": "Raw clownfish. In the wild, clownfish form symbiotic mutualisms with sea anemones. Depending on species, clownfish are overall yellow, orange, or a reddish or blackish color, and many show white bars or patches.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -583,9 +759,13 @@
       "english": "clownfish",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -596,9 +776,13 @@
       "english": "Raw cod. Cod refers to several large species of fish with a voracious appetite, feeding largely on other fishes and various invertebrates. Cod has long been considered a perfect fish for human consumption, with its flaky white flesh, a high protein content and low fat content.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -609,9 +793,13 @@
       "english": "cod",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -622,9 +810,13 @@
       "english": "Raw eel. An eel is any ray-finned fish belonging to the order Anguilliformes. Eels are elongated fish, possessing no pelvic fins, and many species also lacking pectoral fins. Eels swim by generating body waves which travel the length of their bodies.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -635,9 +827,13 @@
       "english": "eel",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -648,9 +844,13 @@
       "english": "raw fish",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -661,9 +861,13 @@
       "english": "Raw goldfish. The goldfish (Carassius auratus) is a freshwater fish in the family Cyprinidae of order Cypriniformes. It is one of the most commonly kept aquarium fish.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -674,9 +878,13 @@
       "english": "goldfish",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -687,9 +895,13 @@
       "english": "Raw guppy. The guppy (Poecilia reticulata), also known as millionfish and rainbow fish, is one of the world's most widely distributed tropical fish, and one of the most popular freshwater aquarium fish species.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -700,9 +912,13 @@
       "english": "guppy",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -713,9 +929,13 @@
       "english": "Raw haddock. The haddock (Melanogrammus aeglefinus) is a saltwater fish from the family Gadidae, the true cods. It is an important food fish and has traditionaly been consumed either fresh or smoked.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -726,9 +946,13 @@
       "english": "haddock",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -739,9 +963,13 @@
       "english": "Raw halibut. Halibut is a common name principally applied to the two flatfish from the family of right-eye flounders. Less commonly, and in some regions only, other species of flatfish are also referred to as being halibuts.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -752,9 +980,13 @@
       "english": "halibut",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -765,9 +997,13 @@
       "english": "Raw herring. Herring are forage fish, mostly belonging to the family Clupeidae. Herring often move in large schools around fishing banks and near the coast.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -778,9 +1014,13 @@
       "english": "herring",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -791,9 +1031,13 @@
       "english": "Raw koi. Koi are colored varieties of the Amur carp (Cyprinus rubrofuscus) that are kept for decorative purposes in outdoor koi ponds or water gardens.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -804,9 +1048,13 @@
       "english": "koi",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -817,9 +1065,13 @@
       "english": "Raw lobster. Lobsters are large marine crustaceans. Lobsters have long bodies with muscular tails. Three of their five pairs of legs have claws, including the first pair, which are usually much larger than the others.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -830,9 +1082,13 @@
       "english": "lobster",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -843,9 +1099,13 @@
       "english": "Raw mackerel. Mackerel is a common name applied to a number of different species of pelagic fish, mostly from the family Scombridae. They are found in both temperate and tropical seas, mostly living along the coast or offshore in the oceanic environment.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -856,9 +1116,13 @@
       "english": "mackerel",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -869,9 +1133,13 @@
       "english": "Raw minnow. Minnow is the common name for a number of species of small freshwater fish, belonging to several genera of the family Cyprinidae.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -882,9 +1150,13 @@
       "english": "minnow",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -895,9 +1167,13 @@
       "english": "Raw perch. Perch is a common name for fish of the genus Perca, freshwater gamefish belonging to the family Percidae. The perch lend their name to a large order of vertebrates: the Perciformes. Many species of freshwater gamefish more or less resemble perch, but belong to different genera.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -908,9 +1184,13 @@
       "english": "perch",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -921,9 +1201,13 @@
       "english": "Raw piranha. A piranha is a freshwater fish that inhabits rivers, floodplains, lakes and reservoirs. Although often described as extremely predatory and mainly feeding on fish, their dietary habits vary extensively, and they will also take plant material, leading to their classification as omnivorous.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -934,9 +1218,13 @@
       "english": "piranha",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -947,9 +1235,13 @@
       "english": "Raw pufferfish. Pufferfish are a family of primarily marine and estuarine fish. The majority of pufferfish species are toxic and some are among the most poisonous vertebrates in the world. In certain species, the internal organs, such as the liver, and sometimes their skin, contain tetrodotoxin and are highly toxic to most animals when eaten; nevertheless, the meat of some species is considered a delicacy when prepared by specially trained chefs.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -960,9 +1252,13 @@
       "english": "pufferfish",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -973,9 +1269,13 @@
       "english": "Raw salmon. Salmon is the common name for several species of ray-finned fish in the family Salmonidae. Typically, salmon are anadromous: they hatch in fresh water, migrate to the ocean, then return to fresh water to reproduce. However, populations of several species are restricted to fresh water through their lives.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -986,9 +1286,13 @@
       "english": "salmon",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -999,9 +1303,13 @@
       "english": "Raw sprat. Sprat is the common name applied to a group of forage fish belonging to the genus Sprattus in the family Clupeidae. Like most forage fishes, sprats are highly active, small, oily fish. They travel in large schools with other fish and swim continuously throughout the day.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1012,9 +1320,13 @@
       "english": "sprat",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1025,9 +1337,13 @@
       "english": "Raw swordfish. Swordfish, also known as broadbills, are large, highly migratory, predatory fish characterized by a long, flat, pointed bill.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1038,9 +1354,13 @@
       "english": "swordfish",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1051,9 +1371,13 @@
       "english": "Raw trout. Trout is the common name for a number of species of freshwater fish. Most species of trout live in freshwater lakes and rivers exclusively, while there are others, such as the steelhead, which can spend two or three years at sea before returning to fresh water to spawn (a habit more typical of salmon).",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1064,9 +1388,13 @@
       "english": "trout",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1077,9 +1405,13 @@
       "english": "Raw tuna. Tuna are large saltwater fish. An active and agile predator, the tuna has a sleek, streamlined body, and is among the fastest-swimming pelagic fish. Tuna has been highly prized as a food fish. Besides their commercial value as food, the great size, speed, and power they display as apex predators has attracted the admiration of fishermen, writers, and scientists.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1090,9 +1422,13 @@
       "english": "tuna",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1103,9 +1439,13 @@
       "english": "You didn't die. This time.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1116,9 +1456,13 @@
       "english": "recently ate raw pufferfish",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1126,9 +1470,13 @@
       "key": "VCEF_CaughtSpecial",
       "english": "While fishing, {0} has caught something special: {1}",
       "source": "Misc_Gameplay.xml:29",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1136,9 +1484,13 @@
       "key": "VCEF_ChooseFish",
       "english": "Choose catch",
       "source": "Misc_Gameplay.xml:9",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1146,9 +1498,13 @@
       "key": "VCEF_ChooseFishDesc",
       "english": "Choose prefered fish size to catch from those inhabiting this biome. Smaller fish take less time but are less nutritive, while larger fish take longer and are more nutritive. Medium fish are balanced between the two extremes. There is always a chance to catch some different fish or special items",
       "source": "Misc_Gameplay.xml:10",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1156,9 +1512,13 @@
       "key": "VCEF_ChooseFishLargeLabel",
       "english": "Catch Large Fish",
       "source": "Misc_Gameplay.xml:15",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1166,9 +1526,13 @@
       "key": "VCEF_ChooseFishMediumLabel",
       "english": "Catch Medium Fish",
       "source": "Misc_Gameplay.xml:14",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1176,9 +1540,13 @@
       "key": "VCEF_ChooseFishSmallLabel",
       "english": "Catch Small Fish",
       "source": "Misc_Gameplay.xml:13",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1186,9 +1554,13 @@
       "key": "VCEF_CommandAllowFishing",
       "english": "Allow Fishing",
       "source": "Misc_Gameplay.xml:17",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1196,9 +1568,13 @@
       "key": "VCEF_CommandAllowFishingDesc",
       "english": "Allow fishing to take place in this fishing zone",
       "source": "Misc_Gameplay.xml:18",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1206,9 +1582,13 @@
       "key": "VCEF_DisableGillRot",
       "english": "Disable Gill Rot",
       "source": "Misc_Gameplay.xml:71",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1216,9 +1596,13 @@
       "key": "VCEF_DisableGillRotDesc",
       "english": "If checked, it will make Gill Rit impossible to happen under any circumstances.",
       "source": "Misc_Gameplay.xml:72",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1226,9 +1610,13 @@
       "key": "VCEF_FishesInThisZone",
       "english": "Fish in this zone: ",
       "source": "Misc_Gameplay.xml:21",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1236,9 +1624,13 @@
       "key": "VCEF_FishingGrowingZone",
       "english": "Fishing Zone",
       "source": "Misc_Gameplay.xml:6",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1246,9 +1638,13 @@
       "key": "VCEF_FishingGrowingZoneDesc",
       "english": "Create a zone where your colonists will try to fish",
       "source": "Misc_Gameplay.xml:7",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1256,9 +1652,13 @@
       "key": "VCEF_IsZoneOceanZone",
       "english": "Oceanic fishing zone: ",
       "source": "Misc_Gameplay.xml:22",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1266,9 +1666,13 @@
       "key": "VCEF_No",
       "english": "No",
       "source": "Misc_Gameplay.xml:24",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1276,9 +1680,13 @@
       "key": "VCEF_NoFish",
       "english": "No fish to catch in this biome (this could happen with modded biomes, ask the owner to add support! Or perhaps you are in a lifeless biome)",
       "source": "Misc_Gameplay.xml:27",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1286,9 +1694,13 @@
       "key": "VCEF_Reset_Plain",
       "english": "Reset all",
       "source": "Misc_Gameplay.xml:69",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1296,9 +1708,13 @@
       "key": "VCEF_TooPolluted",
       "english": "This fishing zone is too polluted to fish",
       "source": "Misc_Gameplay.xml:79",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1306,9 +1722,13 @@
       "key": "VCEF_UseWorktype",
       "english": "Move \"Fish\" work type to the lowest priority (requires game reload)",
       "source": "Misc_Gameplay.xml:74",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1316,9 +1736,13 @@
       "key": "VCEF_UseWorktypeDesc",
       "english": "By default, Odyssey puts the Fish work type on the work priority order between Craft and Haul. With this option Fish will be at priority 90, after Research, which was the way this mod worked without Odyssey.",
       "source": "Misc_Gameplay.xml:75",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1326,9 +1750,13 @@
       "key": "VCEF_Yes",
       "english": "Yes",
       "source": "Misc_Gameplay.xml:23",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1336,9 +1764,13 @@
       "key": "VCEF_ZoneSetTo",
       "english": "This zone of size {0} is set to catch fish of size",
       "source": "Misc_Gameplay.xml:20",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1346,9 +1778,13 @@
       "key": "VCEF_ZoneTooSmall",
       "english": "This zone is too small (size {0}). Fishing zones need to be at least {1} tiles to be valid (this calculation is made every few seconds: unpause to update).",
       "source": "Misc_Gameplay.xml:25",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1356,9 +1792,13 @@
       "key": "VCEF_chanceForNegativeOutcome",
       "english": "Chance for negative outcomes",
       "source": "Misc_Gameplay.xml:64",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1366,9 +1806,13 @@
       "key": "VCEF_chanceForNegativeOutcomeTooltip",
       "english": "By default there is a 2% chance that any fishing will result in a negative outcome.",
       "source": "Misc_Gameplay.xml:65",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1376,9 +1820,13 @@
       "key": "VCEF_chanceForSpecials",
       "english": "Chance to get an special item instead of fish",
       "source": "Misc_Gameplay.xml:39",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1386,9 +1834,13 @@
       "key": "VCEF_chanceForSpecialsTooltip",
       "english": "Chance to get an special item instead of fish. Default is 1% per fishing operation.",
       "source": "Misc_Gameplay.xml:40",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1396,9 +1848,13 @@
       "key": "VCEF_chanceForSpecialsTooltip_Odyssey",
       "english": "Chance to get an special item instead of fish. Default is 1% per fishing operation. Bear in mind in Odyssey there is by default a 5 day timer between \"rare\" catches, that you can tweak via these options too.",
       "source": "Misc_Gameplay.xml:41",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1406,9 +1862,13 @@
       "key": "VCEF_dropFish",
       "english": "Fisher drops fish on the ground instead of hauling to stockpiles",
       "source": "Misc_Gameplay.xml:67",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1416,9 +1876,13 @@
       "key": "VCEF_fishAmountMultiplier",
       "english": "Fish amount (in fishing zone) multiplier",
       "source": "Misc_Gameplay.xml:61",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1426,9 +1890,13 @@
       "key": "VCEF_fishAmountMultiplierTooltip",
       "english": "Amount of fish that will be present on a fishing zone. This multiplier will be applied to that amount.",
       "source": "Misc_Gameplay.xml:62",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1436,9 +1904,13 @@
       "key": "VCEF_fishingSpeedMultiplier",
       "english": "Fishing Speed multiplier",
       "source": "Misc_Gameplay.xml:55",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1446,9 +1918,13 @@
       "key": "VCEF_fishingSpeedMultiplierTooltip",
       "english": "The speed to catch the fish will be scaled by this multiplier.",
       "source": "Misc_Gameplay.xml:56",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1456,9 +1932,13 @@
       "key": "VCEF_fishingYieldMultiplier",
       "english": "Fishing Yield multiplier",
       "source": "Misc_Gameplay.xml:52",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1466,9 +1946,13 @@
       "key": "VCEF_fishingYieldMultiplierTooltip",
       "english": "The amount of fish caught will be scaled by this multiplier.",
       "source": "Misc_Gameplay.xml:53",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1476,9 +1960,13 @@
       "key": "VCEF_maxFishPopulationMultiplier",
       "english": "Max fish population multiplier",
       "source": "Misc_Gameplay.xml:58",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1486,9 +1974,13 @@
       "key": "VCEF_maxFishPopulationMultiplierTooltip",
       "english": "In Odyssey, max fish population in a body of water is defined per biome. This multiplier will be applied to that limit.",
       "source": "Misc_Gameplay.xml:59",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1496,9 +1988,13 @@
       "key": "VCEF_maxMapTempForLowFish",
       "english": "Maximum map temperature for reduced fish yield",
       "source": "Misc_Gameplay.xml:49",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1506,9 +2002,13 @@
       "key": "VCEF_maxMapTempForLowFishTooltip",
       "english": "Maximum map temperature for reduced fish yield. Above this temperature fish yield will be greatly reduced. Default is 50ºC.",
       "source": "Misc_Gameplay.xml:50",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1516,9 +2016,13 @@
       "key": "VCEF_minDaysBetweenRareCatches",
       "english": "Minimum days between rare catches",
       "source": "Misc_Gameplay.xml:43",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1526,9 +2030,13 @@
       "key": "VCEF_minDaysBetweenRareCatchesTooltip",
       "english": "By default in Odyssey \"rare\" catches can only happen when 5 days have passed since the last \"rare\" catch. You can change that minimum interval here.",
       "source": "Misc_Gameplay.xml:44",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1536,9 +2044,13 @@
       "key": "VCEF_minMapTempForLowFish",
       "english": "Minimum map temperature for reduced fish yield",
       "source": "Misc_Gameplay.xml:46",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1546,9 +2058,13 @@
       "key": "VCEF_minMapTempForLowFishTooltip",
       "english": "Minimum map temperature for reduced fish yield. Below this temperature fish yield will be greatly reduced. Default is 0ºC.",
       "source": "Misc_Gameplay.xml:47",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1556,9 +2072,13 @@
       "key": "VCEF_minimumZoneSize",
       "english": "Minimum Fishing Zone size",
       "source": "Misc_Gameplay.xml:33",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1566,9 +2086,13 @@
       "key": "VCEF_minimumZoneSizeTooltip",
       "english": "Minimum Fishing Zone size, default is 25 tiles",
       "source": "Misc_Gameplay.xml:34",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1576,9 +2100,13 @@
       "key": "VCEF_smallFishDurationFactor",
       "english": "Base Fishing Duration in ticks",
       "source": "Misc_Gameplay.xml:36",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1586,9 +2114,13 @@
       "key": "VCEF_smallFishDurationFactorTooltip",
       "english": "Base Fishing Duration in ticks. Default is 4500 for small fish. Medium fish take double this time, while large fish take three times as much. Decreasing this increases food yield per day, and viceversa.",
       "source": "Misc_Gameplay.xml:37",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     }
   ]
 }

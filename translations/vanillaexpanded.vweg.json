@@ -11,9 +11,13 @@
       "english": "EMP",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "EMP",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -24,9 +28,13 @@
       "english": "on cooldown",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Abklingzeit aktiv",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -37,9 +45,13 @@
       "english": "Electromagnetic pulse grenades damaging to electronic equipment strapped to a belt. They can be thrown a short distance, where they'll explode, disabling any electronics for a brief duration.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Elektromagnetische Impulsgranaten, die elektronische Geräte beschädigen, an einem Gürtel befestigt. Sie können über eine kurze Distanz geworfen werden und explodieren beim Aufprall, wodurch Elektronik für kurze Zeit außer Gefecht gesetzt wird.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -50,9 +62,13 @@
       "english": "EMP grenade belt",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "EMP-Granatengürtel",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -63,9 +79,13 @@
       "english": "throw EMP grenade",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "EMP-Granate werfen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -75,10 +95,14 @@
       "path": "VWE_Apparel_GrenadeFlashBelt.comps.CompApparelReloadable.chargeNoun",
       "english": "flash",
       "hint": null,
-      "def_resolution": "missing",
-      "needed": true,
-      "german": "",
-      "review": false
+      "def_resolution": "resolved",
+      "translations": {
+        "German": {
+          "text": "Blendgranate",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -88,10 +112,14 @@
       "path": "VWE_Apparel_GrenadeFlashBelt.comps.CompApparelReloadable.cooldownGerund",
       "english": "on cooldown",
       "hint": null,
-      "def_resolution": "missing",
-      "needed": true,
-      "german": "",
-      "review": false
+      "def_resolution": "resolved",
+      "translations": {
+        "German": {
+          "text": "Abklingzeit aktiv",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -101,10 +129,14 @@
       "path": "VWE_Apparel_GrenadeFlashBelt.description",
       "english": "A belt of flash grenades. Temporarily stuns organic enemies allowing users to close the distance. Can be reloaded using flash grenades.",
       "hint": null,
-      "def_resolution": "missing",
-      "needed": true,
-      "german": "",
-      "review": false
+      "def_resolution": "resolved",
+      "translations": {
+        "German": {
+          "text": "Ein Gürtel mit Blendgranaten. Sie betäuben organische Gegner vorübergehend und ermöglichen es dem Träger, die Distanz zu überbrücken. Kann mit Blendgranaten nachgeladen werden.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -114,10 +146,14 @@
       "path": "VWE_Apparel_GrenadeFlashBelt.label",
       "english": "flash grenade belt",
       "hint": null,
-      "def_resolution": "missing",
-      "needed": true,
-      "german": "",
-      "review": false
+      "def_resolution": "resolved",
+      "translations": {
+        "German": {
+          "text": "Blendgranatengürtel",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -127,10 +163,14 @@
       "path": "VWE_Apparel_GrenadeFlashBelt.verbs.throw_flash_grenade.label",
       "english": "throw flash grenade",
       "hint": null,
-      "def_resolution": "missing",
-      "needed": true,
-      "german": "",
-      "review": false
+      "def_resolution": "resolved",
+      "translations": {
+        "German": {
+          "text": "Blendgranate werfen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -141,9 +181,13 @@
       "english": "frag",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Splittergranate",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -154,9 +198,13 @@
       "english": "on cooldown",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Abklingzeit aktiv",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -167,9 +215,13 @@
       "english": "Old-school fragmentation grenades strapped to a belt. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby. Can be reloaded using frag grenades.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Klassische Splittergranaten, die an einem Gürtel befestigt sind. Sie können über eine kurze Distanz geworfen werden und explodieren beim Aufprall, wobei sie alles und jeden in der Nähe verletzen. Kann mit Splittergranaten nachgeladen werden.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -180,9 +232,13 @@
       "english": "frag grenade belt",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Splittergranatengürtel",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -193,9 +249,13 @@
       "english": "throw frag grenade",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Splittergranate werfen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -206,9 +266,13 @@
       "english": "molotov",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Molotowcocktail",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -219,9 +283,13 @@
       "english": "on cooldown",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Abklingzeit aktiv",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -232,9 +300,13 @@
       "english": "Glass bottles filled with flammable liquid, with a burning cloth in the neck, strapped to a belt. A favorite weapon of hooligans and desperate warriors from rim to rim. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby, setting chemfuel on fire. Can be reloaded using molotovs.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Mit brennbarer Flüssigkeit gefüllte Glasflaschen, aus deren Hals ein brennender Stofffetzen ragt, an einem Gürtel befestigt. Eine beliebte Waffe von Randalierern und verzweifelten Kämpfern auf Welten im ganzen Randgebiet. Sie können über eine kurze Distanz geworfen werden und zerbersten beim Aufprall, verletzen alles und jeden in der Nähe und setzen Chemietreibstoff in Brand. Kann mit Molotowcocktails nachgeladen werden.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -245,9 +317,13 @@
       "english": "molotov belt",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Molotowgürtel",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -258,9 +334,13 @@
       "english": "throw molotov",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Molotowcocktail werfen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -270,10 +350,14 @@
       "path": "VWE_Apparel_GrenadeSmokeBelt.comps.CompApparelReloadable.chargeNoun",
       "english": "smoke",
       "hint": null,
-      "def_resolution": "missing",
-      "needed": true,
-      "german": "",
-      "review": false
+      "def_resolution": "resolved",
+      "translations": {
+        "German": {
+          "text": "Rauchgranate",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -283,10 +367,14 @@
       "path": "VWE_Apparel_GrenadeSmokeBelt.comps.CompApparelReloadable.cooldownGerund",
       "english": "on cooldown",
       "hint": null,
-      "def_resolution": "missing",
-      "needed": true,
-      "german": "",
-      "review": false
+      "def_resolution": "resolved",
+      "translations": {
+        "German": {
+          "text": "Abklingzeit aktiv",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -296,10 +384,14 @@
       "path": "VWE_Apparel_GrenadeSmokeBelt.description",
       "english": "Old school condensed smoke canisters that explodes into a smoke wall on impact, strapped to a belt. Can be reloaded using smoke grenades.",
       "hint": null,
-      "def_resolution": "missing",
-      "needed": true,
-      "german": "",
-      "review": false
+      "def_resolution": "resolved",
+      "translations": {
+        "German": {
+          "text": "Klassische Behälter mit verdichtetem Rauch, die an einem Gürtel befestigt sind und beim Aufprall zu einer Rauchwand explodieren. Kann mit Rauchgranaten nachgeladen werden.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -309,10 +401,14 @@
       "path": "VWE_Apparel_GrenadeSmokeBelt.label",
       "english": "smoke grenade belt",
       "hint": null,
-      "def_resolution": "missing",
-      "needed": true,
-      "german": "",
-      "review": false
+      "def_resolution": "resolved",
+      "translations": {
+        "German": {
+          "text": "Rauchgranatengürtel",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -322,10 +418,14 @@
       "path": "VWE_Apparel_GrenadeSmokeBelt.verbs.throw_smoke_grenade.label",
       "english": "throw smoke grenade",
       "hint": null,
-      "def_resolution": "missing",
-      "needed": true,
-      "german": "",
-      "review": false
+      "def_resolution": "resolved",
+      "translations": {
+        "German": {
+          "text": "Rauchgranate werfen",
+          "review": false,
+          "needed": true
+        }
+      }
     }
   ]
 }

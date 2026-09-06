@@ -11,9 +11,13 @@
       "english": "A medical that uses partial cryptosleep to slow down the degredation of wounds and help the body heal, although with the same side effects of cryptosleep, albeit at a lesser severity.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ein medizinisches Bett, das partiellen Kryptoschlaf nutzt, um die Verschlechterung von Wunden zu verlangsamen und die Heilung des Körpers zu unterstützen. Dabei treten dieselben Nebenwirkungen wie beim Kryptoschlaf auf, allerdings in abgeschwächter Form.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -24,9 +28,13 @@
       "english": "cryptosleep suspender",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Kryptoschlaf-Stasebett",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -37,9 +45,13 @@
       "english": "A crude table cluttered with instruments that supposedly make surgery easier, the cleanliness of the table is questionable though. Slightly improves medical outcomes over normal beds.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ein einfacher Tisch voller Instrumente, die Operationen angeblich erleichtern sollen. Die Sauberkeit des Tisches lässt allerdings zu wünschen übrig. Verbessert medizinische Ergebnisse geringfügig gegenüber normalen Betten.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -50,9 +62,13 @@
       "english": "operating table",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Operationstisch",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -63,9 +79,13 @@
       "english": "An intravenous drip stand for quickly delivering lost fluids to a patient, helping the immune system and blood loss recovery when placed directly adjacent to a hospital bed or surgical table. Only works for hospital beds or surgical tables - normal beds will not benefit. Attaching more than one stand to the same bed will have no effect.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ein Infusionsständer zur schnellen Zufuhr verlorener Flüssigkeit. Er unterstützt das Immunsystem und die Erholung von Blutverlust, wenn er direkt neben einem Krankenhausbett oder Operationstisch aufgestellt wird. Funktioniert nur bei Krankenhausbetten oder Operationstischen – normale Betten profitieren nicht davon. Mehr als ein Infusionsständer am selben Bett hat keinen zusätzlichen Effekt.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -76,9 +96,13 @@
       "english": "intravenous drip stand",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Infusionsständer",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -89,9 +113,13 @@
       "english": "A waist high sterilised surface for performing sensitive research on. Gives a small boost to nearby research benches as well as helping to keep the area clean. Stacks up to 20 times.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Eine hüfthohe, sterilisierte Arbeitsfläche für empfindliche Forschungsarbeiten. Sie verbessert nahe gelegene Forschungstische geringfügig und hilft dabei, den Bereich sauber zu halten. Der Effekt ist bis zu 20-mal stapelbar.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -102,9 +130,13 @@
       "english": "research counter",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Forschungsarbeitsfläche",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -115,9 +147,13 @@
       "english": "A large centre for monitoring the vitals of several patients at once, increasing medical tend quality, surgery success chance and immunity gain speed when placed in the vicinity of a hospital bed or surgical table. Only works for hospital beds or surgical tables - normal beds will not benefit.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Eine große Zentrale zur Überwachung der Vitalwerte mehrerer Patienten gleichzeitig. Sie erhöht die Behandlungsqualität, die Erfolgschance von Operationen und die Geschwindigkeit des Immunitätsgewinns, wenn sie in der Nähe eines Krankenhausbetts oder Operationstischs aufgestellt wird. Funktioniert nur bei Krankenhausbetten oder Operationstischen – normale Betten profitieren nicht davon.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -128,9 +164,13 @@
       "english": "vitals centre",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Vitaldatenzentrale",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -141,9 +181,13 @@
       "english": "minor cryptosleep sickness",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Leichte Kryptoschlafkrankheit.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -154,9 +198,13 @@
       "english": "cryptosleep sickness (minor)",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Kryptoschlafkrankheit (leicht)",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -167,9 +215,13 @@
       "english": "An impassable wall. Capable of holding up a roof. Fitted with special cleanliness-enhancing properties to create a sterile environment.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Eine unpassierbare Wand, die ein Dach tragen kann. Sie verfügt über besondere sauberkeitsfördernde Eigenschaften, um eine sterile Umgebung zu schaffen.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -180,9 +232,13 @@
       "english": "sterile wall",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Sterile Wand",
+          "review": false,
+          "needed": true
+        }
+      }
     }
   ]
 }

@@ -8,9 +8,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Base.xml:6",
       "type": "keyed",
-      "german": "{0} {1}",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "{0} {1}",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Show HUD",
@@ -18,9 +22,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Base.xml:8",
       "type": "keyed",
-      "german": "HUD anzeigen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "HUD anzeigen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Rules: {0}",
@@ -28,9 +36,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Integration.xml:4",
       "type": "keyed",
-      "german": "Regeln: {0}",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Regeln: {0}",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "RimHUD",
@@ -38,9 +50,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:11",
       "type": "keyed",
-      "german": "RimHUD",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "RimHUD",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Use default",
@@ -48,9 +64,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:12",
       "type": "keyed",
-      "german": "Standard verwenden",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Standard verwenden",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Config folder",
@@ -58,9 +78,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:13",
       "type": "keyed",
-      "german": "Konfigurationsordner",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Konfigurationsordner",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "(Modified)",
@@ -68,9 +92,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:14",
       "type": "keyed",
-      "german": "(Geändert)",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "(Geändert)",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Design",
@@ -78,9 +106,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:16",
       "type": "keyed",
-      "german": "Design",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Design",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Colors",
@@ -88,9 +120,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:18",
       "type": "keyed",
-      "german": "Farben",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Farben",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Edit color for {0}",
@@ -98,9 +134,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:19",
       "type": "keyed",
-      "german": "Farbe für {0} bearbeiten",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Farbe für {0} bearbeiten",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Hue",
@@ -108,9 +148,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:20",
       "type": "keyed",
-      "german": "Farbton",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Farbton",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Saturation",
@@ -118,9 +162,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:21",
       "type": "keyed",
-      "german": "Sättigung",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Sättigung",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Lightness",
@@ -128,9 +176,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:22",
       "type": "keyed",
-      "german": "Helligkeit",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Helligkeit",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Alpha",
@@ -138,9 +190,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:23",
       "type": "keyed",
-      "german": "Alpha",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Alpha",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "RGBA",
@@ -148,9 +204,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:24",
       "type": "keyed",
-      "german": "RGBA",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "RGBA",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Content",
@@ -158,9 +218,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:26",
       "type": "keyed",
-      "german": "Inhalt",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Inhalt",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Docked layers",
@@ -168,9 +232,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:28",
       "type": "keyed",
-      "german": "Angedockte Ebenen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Angedockte Ebenen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Floating layers",
@@ -178,9 +246,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:29",
       "type": "keyed",
-      "german": "Schwebende Ebenen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Schwebende Ebenen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Presets",
@@ -188,9 +260,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:31",
       "type": "keyed",
-      "german": "Voreinstellungen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Voreinstellungen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Select preset...",
@@ -198,9 +274,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:32",
       "type": "keyed",
-      "german": "Voreinstellung auswählen...",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Voreinstellung auswählen...",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Save preset",
@@ -208,9 +288,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:33",
       "type": "keyed",
-      "german": "Voreinstellung speichern",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Voreinstellung speichern",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Manage presets",
@@ -218,9 +302,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:34",
       "type": "keyed",
-      "german": "Voreinstellungen verwalten",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Voreinstellungen verwalten",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "[Default]",
@@ -228,9 +316,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:35",
       "type": "keyed",
-      "german": "[Standard]",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "[Standard]",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Layer",
@@ -238,9 +330,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:37",
       "type": "keyed",
-      "german": "Ebene",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Ebene",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Move up",
@@ -248,9 +344,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:38",
       "type": "keyed",
-      "german": "Nach oben",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Nach oben",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Move down",
@@ -258,9 +358,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:39",
       "type": "keyed",
-      "german": "Nach unten",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Nach unten",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "OK",
@@ -268,9 +372,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:4",
       "type": "keyed",
-      "german": "OK",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "OK",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Remove",
@@ -278,9 +386,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:40",
       "type": "keyed",
-      "german": "Entfernen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Entfernen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Add stack",
@@ -288,9 +400,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:41",
       "type": "keyed",
-      "german": "Stapel hinzufügen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Stapel hinzufügen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "A stack can contain other stacks or panels. The contents of the stack will be evenly distributed horizontally or vertically depending on the stack type chosen.",
@@ -298,9 +414,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:42",
       "type": "keyed",
-      "german": "Ein Stapel kann weitere Stapel oder Panels enthalten. Der Inhalt des Stapels wird je nach gewähltem Stapeltyp gleichmäßig horizontal oder vertikal verteilt.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Ein Stapel kann weitere Stapel oder Panels enthalten. Der Inhalt des Stapels wird je nach gewähltem Stapeltyp gleichmäßig horizontal oder vertikal verteilt.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Add panel",
@@ -308,9 +428,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:43",
       "type": "keyed",
-      "german": "Panel hinzufügen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Panel hinzufügen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "A panel evenly displays rows of elements vertically.",
@@ -318,9 +442,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:44",
       "type": "keyed",
-      "german": "Ein Panel zeigt Zeilen mit Elementen gleichmäßig vertikal an.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Ein Panel zeigt Zeilen mit Elementen gleichmäßig vertikal an.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Add row",
@@ -328,9 +456,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:45",
       "type": "keyed",
-      "german": "Zeile hinzufügen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Zeile hinzufügen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "A row holds elements and if contains more than one they will be displayed evenly horizontally.",
@@ -338,9 +470,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:46",
       "type": "keyed",
-      "german": "Eine Zeile enthält Elemente. Enthält sie mehr als ein Element, werden diese gleichmäßig horizontal verteilt.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Eine Zeile enthält Elemente. Enthält sie mehr als ein Element, werden diese gleichmäßig horizontal verteilt.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Add common",
@@ -348,9 +484,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:48",
       "type": "keyed",
-      "german": "Allgemeines hinzufügen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Allgemeines hinzufügen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Add third-party",
@@ -358,9 +498,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:49",
       "type": "keyed",
-      "german": "Drittanbieter hinzufügen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Drittanbieter hinzufügen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Yes",
@@ -368,9 +512,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:5",
       "type": "keyed",
-      "german": "Ja",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Ja",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Add stat",
@@ -378,9 +526,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:50",
       "type": "keyed",
-      "german": "Statistik hinzufügen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Statistik hinzufügen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Add record",
@@ -388,9 +540,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:51",
       "type": "keyed",
-      "german": "Aufzeichnung hinzufügen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Aufzeichnung hinzufügen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Add bar",
@@ -398,9 +554,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:52",
       "type": "keyed",
-      "german": "Balken hinzufügen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Balken hinzufügen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Add skill/training",
@@ -408,9 +568,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:53",
       "type": "keyed",
-      "german": "Fähigkeit/Training hinzufügen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Fähigkeit/Training hinzufügen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Selected: ",
@@ -418,9 +582,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:55",
       "type": "keyed",
-      "german": "Ausgewählt: ",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Ausgewählt: ",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Fill height",
@@ -428,9 +596,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:56",
       "type": "keyed",
-      "german": "Höhe ausfüllen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Höhe ausfüllen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "If checked the panel or stack will stretch to fill the remaining vertical space.\\n\\nIf unchecked it will size the height to its content",
@@ -438,9 +610,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:57",
       "type": "keyed",
-      "german": "Wenn aktiviert, wird das Panel oder der Stapel gestreckt, um den verbleibenden vertikalen Platz auszufüllen.\\n\\nWenn deaktiviert, richtet sich die Höhe nach dem Inhalt.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Wenn aktiviert, wird das Panel oder der Stapel gestreckt, um den verbleibenden vertikalen Platz auszufüllen.\\n\\nWenn deaktiviert, richtet sich die Höhe nach dem Inhalt.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "User presets",
@@ -448,9 +624,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:59",
       "type": "keyed",
-      "german": "Benutzer-Voreinstellungen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Benutzer-Voreinstellungen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "No",
@@ -458,9 +638,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:6",
       "type": "keyed",
-      "german": "Nein",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Nein",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Delete selected",
@@ -468,9 +652,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:60",
       "type": "keyed",
-      "german": "Auswahl löschen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Auswahl löschen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Save preset",
@@ -478,9 +666,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:62",
       "type": "keyed",
-      "german": "Voreinstellung speichern",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Voreinstellung speichern",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Name",
@@ -488,9 +680,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:63",
       "type": "keyed",
-      "german": "Name",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Name",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Include docked",
@@ -498,9 +694,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:64",
       "type": "keyed",
-      "german": "Angedockte einbeziehen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Angedockte einbeziehen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Include floating",
@@ -508,9 +708,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:65",
       "type": "keyed",
-      "german": "Schwebende einbeziehen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Schwebende einbeziehen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Include height",
@@ -518,9 +722,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:66",
       "type": "keyed",
-      "german": "Höhe einbeziehen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Höhe einbeziehen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Include width",
@@ -528,9 +736,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:67",
       "type": "keyed",
-      "german": "Breite einbeziehen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Breite einbeziehen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Include minimum tabs",
@@ -538,9 +750,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:68",
       "type": "keyed",
-      "german": "Mindestanzahl Tabs einbeziehen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Mindestanzahl Tabs einbeziehen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Include text sizes",
@@ -548,9 +764,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:69",
       "type": "keyed",
-      "german": "Textgrößen einbeziehen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Textgrößen einbeziehen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Cancel",
@@ -558,9 +778,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:7",
       "type": "keyed",
-      "german": "Abbrechen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Abbrechen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "RimHUD updated to version {0} and required that its configuration be reset to default.",
@@ -568,9 +792,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:71",
       "type": "keyed",
-      "german": "RimHUD wurde auf Version {0} aktualisiert und musste seine Konfiguration auf die Standardwerte zurücksetzen.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "RimHUD wurde auf Version {0} aktualisiert und musste seine Konfiguration auf die Standardwerte zurücksetzen.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Are you sure you want to revert all settings to default?",
@@ -578,9 +806,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:72",
       "type": "keyed",
-      "german": "Möchtest du wirklich alle Einstellungen auf die Standardwerte zurücksetzen?",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Möchtest du wirklich alle Einstellungen auf die Standardwerte zurücksetzen?",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "This preset contained invalid elements or elements from third-party mods that are no longer active.\\n\\nThe active layout has been reset to default.",
@@ -588,9 +820,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:73",
       "type": "keyed",
-      "german": "Diese Voreinstellung enthielt ungültige Elemente oder Elemente von Drittanbieter-Mods, die nicht mehr aktiv sind.\\n\\nDas aktive Layout wurde auf die Standardwerte zurückgesetzt.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Diese Voreinstellung enthielt ungültige Elemente oder Elemente von Drittanbieter-Mods, die nicht mehr aktiv sind.\\n\\nDas aktive Layout wurde auf die Standardwerte zurückgesetzt.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Preset reset to default.",
@@ -598,9 +834,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:74",
       "type": "keyed",
-      "german": "Voreinstellung auf Standard zurückgesetzt.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Voreinstellung auf Standard zurückgesetzt.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Preset for '{0}' loaded.",
@@ -608,9 +848,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:75",
       "type": "keyed",
-      "german": "Voreinstellung für '{0}' geladen.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Voreinstellung für '{0}' geladen.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Preset '{0}' saved.",
@@ -618,9 +862,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:76",
       "type": "keyed",
-      "german": "Voreinstellung '{0}' gespeichert.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Voreinstellung '{0}' gespeichert.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Are you sure you want to delete the preset '{0}'?",
@@ -628,9 +876,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:77",
       "type": "keyed",
-      "german": "Möchtest du die Voreinstellung '{0}' wirklich löschen?",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Möchtest du die Voreinstellung '{0}' wirklich löschen?",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "This feature is not yet implemented",
@@ -638,9 +890,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:78",
       "type": "keyed",
-      "german": "Diese Funktion ist noch nicht implementiert",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Diese Funktion ist noch nicht implementiert",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "More features coming soon™",
@@ -648,9 +904,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:79",
       "type": "keyed",
-      "german": "Weitere Funktionen folgen bald™",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Weitere Funktionen folgen bald™",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Close",
@@ -658,9 +918,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:8",
       "type": "keyed",
-      "german": "Schließen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Schließen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "To access RimHUD's configuration, hover over the inspect pane while a character is selected and click the gear button.",
@@ -668,9 +932,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:81",
       "type": "keyed",
-      "german": "Um die RimHUD-Konfiguration zu öffnen, fahre bei ausgewähltem Charakter mit der Maus über den Inspektionsbereich und klicke auf die Zahnrad-Schaltfläche.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Um die RimHUD-Konfiguration zu öffnen, fahre bei ausgewähltem Charakter mit der Maus über den Inspektionsbereich und klicke auf die Zahnrad-Schaltfläche.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "You should see a short tutorial on how to do this in game as soon as the inspect pane is displayed.",
@@ -678,9 +946,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:82",
       "type": "keyed",
-      "german": "Sobald der Inspektionsbereich angezeigt wird, solltest du im Spiel eine kurze Anleitung dazu sehen.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Sobald der Inspektionsbereich angezeigt wird, solltest du im Spiel eine kurze Anleitung dazu sehen.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "For a reminder on how to do this, click the button below.",
@@ -688,9 +960,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:83",
       "type": "keyed",
-      "german": "Klicke zur Erinnerung auf die Schaltfläche unten.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Klicke zur Erinnerung auf die Schaltfläche unten.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Reset tutorial",
@@ -698,9 +974,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:84",
       "type": "keyed",
-      "german": "Anleitung zurücksetzen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Anleitung zurücksetzen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "click this gear icon to access this mod's config",
@@ -708,9 +988,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:86",
       "type": "keyed",
-      "german": "Klicke auf dieses Zahnradsymbol, um die Konfiguration dieser Mod zu öffnen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Klicke auf dieses Zahnradsymbol, um die Konfiguration dieser Mod zu öffnen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "hover over this pane to see the config button",
@@ -718,9 +1002,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:87",
       "type": "keyed",
-      "german": "Fahre mit der Maus über diesen Bereich, um die Konfigurationsschaltfläche anzuzeigen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Fahre mit der Maus über diesen Bereich, um die Konfigurationsschaltfläche anzuzeigen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Here are all of RimHUD's settings allowing modification of the style and content displayed.",
@@ -728,9 +1016,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:88",
       "type": "keyed",
-      "german": "Hier findest du alle RimHUD-Einstellungen, mit denen sich Stil und angezeigte Inhalte anpassen lassen.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Hier findest du alle RimHUD-Einstellungen, mit denen sich Stil und angezeigte Inhalte anpassen lassen.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "In the content tab, you can save and load layout presets and there may be pre-built presets included for other mods you are using.",
@@ -738,9 +1030,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:89",
       "type": "keyed",
-      "german": "Im Tab „Inhalt“ kannst du Layout-Voreinstellungen speichern und laden. Für andere von dir verwendete Mods können bereits fertige Voreinstellungen enthalten sein.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Im Tab „Inhalt“ kannst du Layout-Voreinstellungen speichern und laden. Für andere von dir verwendete Mods können bereits fertige Voreinstellungen enthalten sein.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Save",
@@ -748,9 +1044,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:9",
       "type": "keyed",
-      "german": "Speichern",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Speichern",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "When you are finished here, click here to close the window.",
@@ -758,9 +1058,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:90",
       "type": "keyed",
-      "german": "Wenn du hier fertig bist, klicke hier, um das Fenster zu schließen.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Wenn du hier fertig bist, klicke hier, um das Fenster zu schließen.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Click to continue...",
@@ -768,9 +1072,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:91",
       "type": "keyed",
-      "german": "Zum Fortfahren klicken...",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Zum Fortfahren klicken...",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "No more notifications like this will appear to ensure a vanilla-like experience. Enjoy!",
@@ -778,9 +1086,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Interface.xml:92",
       "type": "keyed",
-      "german": "Es werden keine weiteren Hinweise dieser Art angezeigt, damit das Spielerlebnis möglichst wie im Basisspiel bleibt. Viel Spaß!",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Es werden keine weiteren Hinweise dieser Art angezeigt, damit das Spielerlebnis möglichst wie im Basisspiel bleibt. Viel Spaß!",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Horizontal stack",
@@ -788,9 +1100,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:10",
       "type": "keyed",
-      "german": "Horizontaler Stapel",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Horizontaler Stapel",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Horizontal stack (filled)",
@@ -798,9 +1114,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:11",
       "type": "keyed",
-      "german": "Horizontaler Stapel (ausgefüllt)",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Horizontaler Stapel (ausgefüllt)",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Panel",
@@ -808,9 +1128,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:12",
       "type": "keyed",
-      "german": "Panel",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Panel",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Panel (filled)",
@@ -818,9 +1142,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:13",
       "type": "keyed",
-      "german": "Panel (ausgefüllt)",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Panel (ausgefüllt)",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Row",
@@ -828,9 +1156,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:14",
       "type": "keyed",
-      "german": "Zeile",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Zeile",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Filled",
@@ -838,9 +1170,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:15",
       "type": "keyed",
-      "german": "Ausgefüllt",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Ausgefüllt",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Blank",
@@ -848,9 +1184,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:17",
       "type": "keyed",
-      "german": "Leer",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Leer",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Line separator",
@@ -858,9 +1198,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:18",
       "type": "keyed",
-      "german": "Linientrenner",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Linientrenner",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Name as header",
@@ -868,9 +1212,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:19",
       "type": "keyed",
-      "german": "Name als Überschrift",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Name als Überschrift",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Food selector",
@@ -878,9 +1226,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:20",
       "type": "keyed",
-      "german": "Nahrungsauswahl",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Nahrungsauswahl",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Outfit selector",
@@ -888,9 +1240,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:21",
       "type": "keyed",
-      "german": "Kleidungsauswahl",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Kleidungsauswahl",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Rules selector",
@@ -898,9 +1254,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:22",
       "type": "keyed",
-      "german": "Regelauswahl",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Regelauswahl",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Area selector",
@@ -908,9 +1268,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:23",
       "type": "keyed",
-      "german": "Bereichsauswahl",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Bereichsauswahl",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Timetable selector",
@@ -918,9 +1282,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:24",
       "type": "keyed",
-      "german": "Zeitplanauswahl",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Zeitplanauswahl",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Relation, kind and faction",
@@ -928,9 +1296,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:25",
       "type": "keyed",
-      "german": "Beziehung, Art und Fraktion",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Beziehung, Art und Fraktion",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Gender, race and age",
@@ -938,9 +1310,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:26",
       "type": "keyed",
-      "german": "Geschlecht, Spezies und Alter",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Geschlecht, Spezies und Alter",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Health bar",
@@ -948,9 +1324,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:27",
       "type": "keyed",
-      "german": "Gesundheitsbalken",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Gesundheitsbalken",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Health condition",
@@ -958,9 +1338,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:28",
       "type": "keyed",
-      "german": "Gesundheitszustand",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Gesundheitszustand",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Mental condition",
@@ -968,9 +1352,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:29",
       "type": "keyed",
-      "german": "Psychischer Zustand",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Psychischer Zustand",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "{0} bar",
@@ -978,9 +1366,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:31",
       "type": "keyed",
-      "german": "{0}-Balken",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "{0}-Balken",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Mood bar",
@@ -988,9 +1380,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:32",
       "type": "keyed",
-      "german": "Stimmungsbalken",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Stimmungsbalken",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Food bar",
@@ -998,9 +1394,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:33",
       "type": "keyed",
-      "german": "Nahrungsbalken",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Nahrungsbalken",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Sleep bar",
@@ -1008,9 +1408,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:34",
       "type": "keyed",
-      "german": "Schlafbalken",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Schlafbalken",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Energy bar [Biotech DLC]",
@@ -1018,9 +1422,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:35",
       "type": "keyed",
-      "german": "Energiebalken [Biotech-DLC]",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Energiebalken [Biotech-DLC]",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Recreation bar",
@@ -1028,9 +1436,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:36",
       "type": "keyed",
-      "german": "Erholungsbalken",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Erholungsbalken",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Suppression bar [Ideology DLC]",
@@ -1038,9 +1450,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:37",
       "type": "keyed",
-      "german": "Unterdrückungsbalken [Ideology-DLC]",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Unterdrückungsbalken [Ideology-DLC]",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "{0} skill",
@@ -1048,9 +1464,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:39",
       "type": "keyed",
-      "german": "Fähigkeit {0}",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Fähigkeit {0}",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "User",
@@ -1058,9 +1478,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:4",
       "type": "keyed",
-      "german": "Benutzer",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Benutzer",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Shooting skill",
@@ -1068,9 +1492,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:40",
       "type": "keyed",
-      "german": "Schießen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Schießen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Melee skill",
@@ -1078,9 +1506,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:41",
       "type": "keyed",
-      "german": "Nahkampf",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Nahkampf",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Construction skill",
@@ -1088,9 +1520,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:42",
       "type": "keyed",
-      "german": "Bauen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Bauen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Mining skill",
@@ -1098,9 +1534,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:43",
       "type": "keyed",
-      "german": "Bergbau",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Bergbau",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Cooking skill",
@@ -1108,9 +1548,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:44",
       "type": "keyed",
-      "german": "Kochen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Kochen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Plants skill",
@@ -1118,9 +1562,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:45",
       "type": "keyed",
-      "german": "Pflanzen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Pflanzen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Animals skill",
@@ -1128,9 +1576,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:46",
       "type": "keyed",
-      "german": "Tiere",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Tiere",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Crafting skill",
@@ -1138,9 +1590,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:47",
       "type": "keyed",
-      "german": "Herstellen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Herstellen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Artistic skill",
@@ -1148,9 +1604,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:48",
       "type": "keyed",
-      "german": "Kunst",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Kunst",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Medicine skill",
@@ -1158,9 +1618,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:49",
       "type": "keyed",
-      "german": "Medizin",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Medizin",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Integrated",
@@ -1168,9 +1632,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:5",
       "type": "keyed",
-      "german": "Integriert",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Integriert",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Social skill",
@@ -1178,9 +1646,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:50",
       "type": "keyed",
-      "german": "Sozial",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Sozial",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Intellectual skill",
@@ -1188,9 +1660,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:51",
       "type": "keyed",
-      "german": "Intellekt",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Intellekt",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "{0} training",
@@ -1198,9 +1674,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:53",
       "type": "keyed",
-      "german": "Training: {0}",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Training: {0}",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Tameness training",
@@ -1208,9 +1688,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:54",
       "type": "keyed",
-      "german": "Zähmtraining",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Zähmtraining",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Obedience training",
@@ -1218,9 +1702,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:55",
       "type": "keyed",
-      "german": "Gehorsamstraining",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Gehorsamstraining",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Release training",
@@ -1228,9 +1716,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:56",
       "type": "keyed",
-      "german": "Freilass-Training",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Freilass-Training",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Rescue training",
@@ -1238,9 +1730,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:57",
       "type": "keyed",
-      "german": "Rettungstraining",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Rettungstraining",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Haul training",
@@ -1248,9 +1744,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:58",
       "type": "keyed",
-      "german": "Transporttraining",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Transporttraining",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Attack Target training [Odyssey DLC]",
@@ -1258,9 +1758,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:59",
       "type": "keyed",
-      "german": "Angriffsziel-Training [Odyssey-DLC]",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Angriffsziel-Training [Odyssey-DLC]",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Comfort training [Odyssey DLC]",
@@ -1268,9 +1772,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:60",
       "type": "keyed",
-      "german": "Komforttraining [Odyssey-DLC]",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Komforttraining [Odyssey-DLC]",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Dig training [Odyssey DLC]",
@@ -1278,9 +1786,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:61",
       "type": "keyed",
-      "german": "Grabtraining [Odyssey-DLC]",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Grabtraining [Odyssey-DLC]",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Egg Spew training [Odyssey DLC]",
@@ -1288,9 +1800,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:62",
       "type": "keyed",
-      "german": "Eierspeien-Training [Odyssey-DLC]",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Eierspeien-Training [Odyssey-DLC]",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Forage training [Odyssey DLC]",
@@ -1298,9 +1814,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:63",
       "type": "keyed",
-      "german": "Nahrungssuche-Training [Odyssey-DLC]",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Nahrungssuche-Training [Odyssey-DLC]",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Sludge Spew training [Odyssey DLC]",
@@ -1308,9 +1828,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:64",
       "type": "keyed",
-      "german": "Schlammspeien-Training [Odyssey-DLC]",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Schlammspeien-Training [Odyssey-DLC]",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Terror Roar training [Odyssey DLC]",
@@ -1318,9 +1842,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:65",
       "type": "keyed",
-      "german": "Schreckensbrüllen-Training [Odyssey-DLC]",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Schreckensbrüllen-Training [Odyssey-DLC]",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Thrumbo Roar training [Odyssey DLC]",
@@ -1328,9 +1856,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:66",
       "type": "keyed",
-      "german": "Thrumbo-Brüllen-Training [Odyssey-DLC]",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Thrumbo-Brüllen-Training [Odyssey-DLC]",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "War Trumpet training [Odyssey DLC]",
@@ -1338,9 +1870,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:67",
       "type": "keyed",
-      "german": "Kriegstrompeten-Training [Odyssey-DLC]",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Kriegstrompeten-Training [Odyssey-DLC]",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "{0} stat",
@@ -1348,9 +1884,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:69",
       "type": "keyed",
-      "german": "Statistik: {0}",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Statistik: {0}",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Root",
@@ -1358,9 +1898,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:7",
       "type": "keyed",
-      "german": "Wurzel",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Wurzel",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "{0} record",
@@ -1368,9 +1912,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:70",
       "type": "keyed",
-      "german": "Aufzeichnung: {0}",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Aufzeichnung: {0}",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Master",
@@ -1378,9 +1926,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:72",
       "type": "keyed",
-      "german": "Meister",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Meister",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Activity",
@@ -1388,9 +1940,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:73",
       "type": "keyed",
-      "german": "Aktivität",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Aktivität",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Queued",
@@ -1398,9 +1954,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:74",
       "type": "keyed",
-      "german": "In Warteschlange",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "In Warteschlange",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Equipped",
@@ -1408,9 +1968,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:75",
       "type": "keyed",
-      "german": "Ausgerüstet",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Ausgerüstet",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Carrying",
@@ -1418,9 +1982,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:76",
       "type": "keyed",
-      "german": "Trägt",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Trägt",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Traits",
@@ -1428,9 +1996,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:77",
       "type": "keyed",
-      "german": "Eigenschaften",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Eigenschaften",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Component information",
@@ -1438,9 +2010,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:78",
       "type": "keyed",
-      "german": "Komponenteninformationen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Komponenteninformationen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Prisoner information",
@@ -1448,9 +2024,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:79",
       "type": "keyed",
-      "german": "Gefangeneninformationen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Gefangeneninformationen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Vertical stack",
@@ -1458,9 +2038,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:8",
       "type": "keyed",
-      "german": "Vertikaler Stapel",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Vertikaler Stapel",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Player Humanlike",
@@ -1468,9 +2052,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:81",
       "type": "keyed",
-      "german": "Spieler-Mensch",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Spieler-Mensch",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Other Humanlike",
@@ -1478,9 +2066,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:82",
       "type": "keyed",
-      "german": "Anderer Mensch",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Anderer Mensch",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Player Creature",
@@ -1488,9 +2080,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:83",
       "type": "keyed",
-      "german": "Spieler-Kreatur",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Spieler-Kreatur",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Other Creature",
@@ -1498,9 +2094,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:84",
       "type": "keyed",
-      "german": "Andere Kreatur",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Andere Kreatur",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Low to Main color (Default)",
@@ -1508,9 +2108,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:86",
       "type": "keyed",
-      "german": "Niedrige bis Hauptfarbe (Standard)",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Niedrige bis Hauptfarbe (Standard)",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Low color only",
@@ -1518,9 +2122,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:87",
       "type": "keyed",
-      "german": "Nur niedrige Farbe",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Nur niedrige Farbe",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Main to Low color",
@@ -1528,9 +2136,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:88",
       "type": "keyed",
-      "german": "Haupt- bis niedrige Farbe",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Haupt- bis niedrige Farbe",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Main color only",
@@ -1538,9 +2150,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:89",
       "type": "keyed",
-      "german": "Nur Hauptfarbe",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Nur Hauptfarbe",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Vertical stack (filled)",
@@ -1548,9 +2164,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Layout.xml:9",
       "type": "keyed",
-      "german": "Vertikaler Stapel (ausgefüllt)",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Vertikaler Stapel (ausgefüllt)",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "former {0}",
@@ -1558,9 +2178,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:10",
       "type": "keyed",
-      "german": "ehemals {0}",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "ehemals {0}",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "wild",
@@ -1568,9 +2192,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:12",
       "type": "keyed",
-      "german": "wild",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "wild",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "allied",
@@ -1578,9 +2206,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:13",
       "type": "keyed",
-      "german": "verbündet",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "verbündet",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "enemy",
@@ -1588,9 +2220,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:14",
       "type": "keyed",
-      "german": "Feind",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Feind",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "hostile",
@@ -1598,9 +2234,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:15",
       "type": "keyed",
-      "german": "feindlich",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "feindlich",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "independent",
@@ -1608,9 +2248,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:16",
       "type": "keyed",
-      "german": "unabhängig",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "unabhängig",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "captured",
@@ -1618,9 +2262,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:17",
       "type": "keyed",
-      "german": "gefangen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "gefangen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "enslaved",
@@ -1628,9 +2276,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:18",
       "type": "keyed",
-      "german": "versklavt",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "versklavt",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "creature",
@@ -1638,9 +2290,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:20",
       "type": "keyed",
-      "german": "Kreatur",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Kreatur",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "animal",
@@ -1648,9 +2304,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:21",
       "type": "keyed",
-      "german": "Tier",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Tier",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "stray",
@@ -1658,9 +2318,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:22",
       "type": "keyed",
-      "german": "streunend",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "streunend",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "pet",
@@ -1668,9 +2332,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:23",
       "type": "keyed",
-      "german": "Haustier",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Haustier",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "exotic pet",
@@ -1678,9 +2346,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:24",
       "type": "keyed",
-      "german": "exotisches Haustier",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "exotisches Haustier",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "predator",
@@ -1688,9 +2360,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:25",
       "type": "keyed",
-      "german": "Raubtier",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Raubtier",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "hunting animal",
@@ -1698,9 +2374,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:26",
       "type": "keyed",
-      "german": "Jagdtier",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Jagdtier",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "pack animal",
@@ -1708,9 +2388,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:27",
       "type": "keyed",
-      "german": "Lasttier",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Lasttier",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "farm animal",
@@ -1718,9 +2402,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:28",
       "type": "keyed",
-      "german": "Nutztier",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Nutztier",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "herd animal",
@@ -1728,9 +2416,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:29",
       "type": "keyed",
-      "german": "Herdentier",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Herdentier",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "insect",
@@ -1738,9 +2430,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:30",
       "type": "keyed",
-      "german": "Insekt",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Insekt",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "mechanoid",
@@ -1748,9 +2444,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:31",
       "type": "keyed",
-      "german": "Mechanoid",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Mechanoid",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "unit",
@@ -1758,9 +2458,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:32",
       "type": "keyed",
-      "german": "Einheit",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Einheit",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "entity",
@@ -1768,9 +2472,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:33",
       "type": "keyed",
-      "german": "Entität",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Entität",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "{0}, aged {1}",
@@ -1778,9 +2486,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:35",
       "type": "keyed",
-      "german": "{0}, Alter: {1}",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "{0}, Alter: {1}",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "today",
@@ -1788,9 +2500,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:36",
       "type": "keyed",
-      "german": "heute",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "heute",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "and one day",
@@ -1798,9 +2514,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:37",
       "type": "keyed",
-      "german": "und ein Tag",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "und ein Tag",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "and {0} days",
@@ -1808,9 +2528,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:38",
       "type": "keyed",
-      "german": "und {0} Tage",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "und {0} Tage",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Lifestage",
@@ -1818,9 +2542,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:4",
       "type": "keyed",
-      "german": "Lebensphase",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Lebensphase",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Bleeding out in {0}",
@@ -1828,9 +2556,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:40",
       "type": "keyed",
-      "german": "Verblutet in {0}",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Verblutet in {0}",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "{0} needs tending",
@@ -1838,9 +2570,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:41",
       "type": "keyed",
-      "german": "{0} muss behandelt werden",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "{0} muss behandelt werden",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "{0} conditions need tending",
@@ -1848,9 +2584,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:42",
       "type": "keyed",
-      "german": "{0} Zustände müssen behandelt werden",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "{0} Zustände müssen behandelt werden",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Has life-threatening {0}",
@@ -1858,9 +2598,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:43",
       "type": "keyed",
-      "german": "Lebensbedrohlicher Zustand: {0}",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Lebensbedrohlicher Zustand: {0}",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Has {0} life-threatening conditions",
@@ -1868,9 +2612,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:44",
       "type": "keyed",
-      "german": "{0} lebensbedrohliche Zustände",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "{0} lebensbedrohliche Zustände",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Affected by {0}",
@@ -1878,9 +2626,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:45",
       "type": "keyed",
-      "german": "Beeinträchtigt durch {0}",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Beeinträchtigt durch {0}",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Affected by {0} and 1 other condition",
@@ -1888,9 +2640,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:46",
       "type": "keyed",
-      "german": "Beeinträchtigt durch {0} und 1 weiteren Zustand",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Beeinträchtigt durch {0} und 1 weiteren Zustand",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Affected by {0} and {1} other conditions",
@@ -1898,9 +2654,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:47",
       "type": "keyed",
-      "german": "Beeinträchtigt durch {0} und {1} weitere Zustände",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Beeinträchtigt durch {0} und {1} weitere Zustände",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "In good condition",
@@ -1908,9 +2668,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:49",
       "type": "keyed",
-      "german": "In gutem Zustand",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "In gutem Zustand",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Trainability",
@@ -1918,9 +2682,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:5",
       "type": "keyed",
-      "german": "Trainierbarkeit",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Trainierbarkeit",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "In stable condition",
@@ -1928,9 +2696,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:50",
       "type": "keyed",
-      "german": "In stabilem Zustand",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "In stabilem Zustand",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "In poor condition",
@@ -1938,9 +2710,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:51",
       "type": "keyed",
-      "german": "In schlechtem Zustand",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "In schlechtem Zustand",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "In critical condition",
@@ -1948,9 +2724,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:52",
       "type": "keyed",
-      "german": "In kritischem Zustand",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "In kritischem Zustand",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Change the level of medical care given to this {0}.\\n\\nCurrent level: {1}",
@@ -1958,9 +2738,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:54",
       "type": "keyed",
-      "german": "Ändere die Stufe der medizinischen Versorgung für {0}.\\n\\nAktuelle Stufe: {1}",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Ändere die Stufe der medizinischen Versorgung für {0}.\\n\\nAktuelle Stufe: {1}",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Feeling depressed",
@@ -1968,9 +2752,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:56",
       "type": "keyed",
-      "german": "Fühlt sich deprimiert",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Fühlt sich deprimiert",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Feeling stressed",
@@ -1978,9 +2766,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:57",
       "type": "keyed",
-      "german": "Fühlt sich gestresst",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Fühlt sich gestresst",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Feeling anxious",
@@ -1988,9 +2780,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:58",
       "type": "keyed",
-      "german": "Fühlt sich ängstlich",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Fühlt sich ängstlich",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Feeling confident",
@@ -1998,9 +2794,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:59",
       "type": "keyed",
-      "german": "Fühlt sich zuversichtlich",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Fühlt sich zuversichtlich",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Petness",
@@ -2008,9 +2808,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:6",
       "type": "keyed",
-      "german": "Haustiereignung",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Haustiereignung",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Feeling composed",
@@ -2018,9 +2822,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:60",
       "type": "keyed",
-      "german": "Fühlt sich gefasst",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Fühlt sich gefasst",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Feeling steady",
@@ -2028,9 +2836,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:61",
       "type": "keyed",
-      "german": "Fühlt sich ausgeglichen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Fühlt sich ausgeglichen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "{0} for {1}",
@@ -2038,9 +2850,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:63",
       "type": "keyed",
-      "german": "{0} für {1}",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "{0} für {1}",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Stunned for {0}",
@@ -2048,9 +2864,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:64",
       "type": "keyed",
-      "german": "Betäubt für {0}",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Betäubt für {0}",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Staggered for {0}",
@@ -2058,9 +2878,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:65",
       "type": "keyed",
-      "german": "Taumelt für {0}",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Taumelt für {0}",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Activity",
@@ -2068,9 +2892,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:67",
       "type": "keyed",
-      "german": "Aktivität",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Aktivität",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "{0}\\n\\n{1}\\n\\n{2}",
@@ -2078,9 +2906,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:68",
       "type": "keyed",
-      "german": "{0}\\n\\n{1}\\n\\n{2}",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "{0}\\n\\n{1}\\n\\n{2}",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Work type",
@@ -2088,9 +2920,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:69",
       "type": "keyed",
-      "german": "Arbeitsart",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Arbeitsart",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Relevant skills",
@@ -2098,9 +2934,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:70",
       "type": "keyed",
-      "german": "Relevante Fähigkeiten",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Relevante Fähigkeiten",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Attacking {0}",
@@ -2108,9 +2948,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:71",
       "type": "keyed",
-      "german": "Greift {0} an",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Greift {0} an",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Food",
@@ -2118,9 +2962,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:73",
       "type": "keyed",
-      "german": "Nahrung",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Nahrung",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Outfit",
@@ -2128,9 +2976,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:74",
       "type": "keyed",
-      "german": "Kleidung",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Kleidung",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Area",
@@ -2138,9 +2990,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:75",
       "type": "keyed",
-      "german": "Bereich",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Bereich",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Schedule",
@@ -2148,9 +3004,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:76",
       "type": "keyed",
-      "german": "Zeitplan",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Zeitplan",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Set hour {0} to {1}",
@@ -2158,9 +3018,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:77",
       "type": "keyed",
-      "german": "Stunde {0} auf {1} setzen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Stunde {0} auf {1} setzen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Manage...",
@@ -2168,9 +3032,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:78",
       "type": "keyed",
-      "german": "Verwalten...",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Verwalten...",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "{0} {1}",
@@ -2178,9 +3046,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:8",
       "type": "keyed",
-      "german": "{0} {1}",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "{0} {1}",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "★",
@@ -2188,9 +3060,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:80",
       "type": "keyed",
-      "german": "★",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "★",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "of {0}",
@@ -2198,9 +3074,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Model.xml:9",
       "type": "keyed",
-      "german": "von {0}",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "von {0}",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Docks the HUD to the Inspect Pane.",
@@ -2208,9 +3088,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:10",
       "type": "keyed",
-      "german": "Dockt das HUD an den Inspektionsbereich an.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Dockt das HUD an den Inspektionsbereich an.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Modify",
@@ -2218,9 +3102,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:11",
       "type": "keyed",
-      "german": "Ändern",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Ändern",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "This is required for docked mode.",
@@ -2228,9 +3116,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:12",
       "type": "keyed",
-      "german": "Dies ist für den angedockten Modus erforderlich.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Dies ist für den angedockten Modus erforderlich.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Show character log",
@@ -2238,9 +3130,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:13",
       "type": "keyed",
-      "german": "Charakterprotokoll anzeigen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Charakterprotokoll anzeigen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Fills the inspect pane with the log for the selected character. Not available for docked mode.",
@@ -2248,9 +3144,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:14",
       "type": "keyed",
-      "german": "Füllt den Inspektionsbereich mit dem Protokoll des ausgewählten Charakters. Im angedockten Modus nicht verfügbar.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Füllt den Inspektionsbereich mit dem Protokoll des ausgewählten Charakters. Im angedockten Modus nicht verfügbar.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Pane Height",
@@ -2258,9 +3158,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:15",
       "type": "keyed",
-      "german": "Bereichshöhe",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Bereichshöhe",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Minimum Tabs",
@@ -2268,9 +3172,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:16",
       "type": "keyed",
-      "german": "Mindestanzahl Tabs",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Mindestanzahl Tabs",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Tab Width",
@@ -2278,9 +3186,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:17",
       "type": "keyed",
-      "german": "Tab-Breite",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Tab-Breite",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Floating Mode",
@@ -2288,9 +3200,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:19",
       "type": "keyed",
-      "german": "Schwebender Modus",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Schwebender Modus",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Anchor",
@@ -2298,9 +3214,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:20",
       "type": "keyed",
-      "german": "Anker",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Anker",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Top Left|Top Center|Top Right|Center Left|Center|Center Right|Bottom Left|Bottom Center|Bottom Right",
@@ -2308,9 +3228,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:21",
       "type": "keyed",
-      "german": "Oben links|Oben Mitte|Oben rechts|Mitte links|Mitte|Mitte rechts|Unten links|Unten Mitte|Unten rechts",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Oben links|Oben Mitte|Oben rechts|Mitte links|Mitte|Mitte rechts|Unten links|Unten Mitte|Unten rechts",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "X",
@@ -2318,9 +3242,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:22",
       "type": "keyed",
-      "german": "X",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "X",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Y",
@@ -2328,9 +3256,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:23",
       "type": "keyed",
-      "german": "Y",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Y",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Width",
@@ -2338,9 +3270,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:24",
       "type": "keyed",
-      "german": "Breite",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Breite",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Height",
@@ -2348,9 +3284,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:25",
       "type": "keyed",
-      "german": "Höhe",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Höhe",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Size",
@@ -2358,9 +3298,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:27",
       "type": "keyed",
-      "german": "Größe",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Größe",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Line Height",
@@ -2368,9 +3312,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:28",
       "type": "keyed",
-      "german": "Zeilenhöhe",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Zeilenhöhe",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Regular Text",
@@ -2378,9 +3326,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:30",
       "type": "keyed",
-      "german": "Normaler Text",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Normaler Text",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Header Text",
@@ -2388,9 +3340,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:31",
       "type": "keyed",
-      "german": "Überschriftentext",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Überschriftentext",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Description Text",
@@ -2398,9 +3354,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:32",
       "type": "keyed",
-      "german": "Beschreibungstext",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Beschreibungstext",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Label Width",
@@ -2408,9 +3368,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:34",
       "type": "keyed",
-      "german": "Beschriftungsbreite",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Beschriftungsbreite",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Value Width",
@@ -2418,9 +3382,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:35",
       "type": "keyed",
-      "german": "Wertbreite",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Wertbreite",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Miscellaneous",
@@ -2428,9 +3396,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:37",
       "type": "keyed",
-      "german": "Sonstiges",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Sonstiges",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Show Faction Icon",
@@ -2438,9 +3410,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:39",
       "type": "keyed",
-      "german": "Fraktionssymbol anzeigen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Fraktionssymbol anzeigen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Refresh rate",
@@ -2448,9 +3424,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:4",
       "type": "keyed",
-      "german": "Aktualisierungsintervall",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Aktualisierungsintervall",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Show Ideoligion Icon",
@@ -2458,9 +3438,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:40",
       "type": "keyed",
-      "german": "Ideoligionssymbol anzeigen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Ideoligionssymbol anzeigen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Show Decimals",
@@ -2468,9 +3452,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:41",
       "type": "keyed",
-      "german": "Dezimalstellen anzeigen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Dezimalstellen anzeigen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Letter Padding",
@@ -2478,9 +3466,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:43",
       "type": "keyed",
-      "german": "Meldungsabstand",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Meldungsabstand",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Changes the distance between the letter notifications that appear on the right side of the screen. Vanilla: 12",
@@ -2488,9 +3480,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:44",
       "type": "keyed",
-      "german": "Ändert den Abstand zwischen den Meldungen, die auf der rechten Bildschirmseite erscheinen. Basisspiel: 12",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Ändert den Abstand zwischen den Meldungen, die auf der rechten Bildschirmseite erscheinen. Basisspiel: 12",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Compress Notifications",
@@ -2498,9 +3494,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:45",
       "type": "keyed",
-      "german": "Benachrichtigungen komprimieren",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Benachrichtigungen komprimieren",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Will compress any letters and alerts on the right side of the screen if they overlap with the HUD.",
@@ -2508,9 +3508,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:46",
       "type": "keyed",
-      "german": "Komprimiert Briefe und Warnungen auf der rechten Bildschirmseite, wenn sie sich mit dem HUD überschneiden.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Komprimiert Briefe und Warnungen auf der rechten Bildschirmseite, wenn sie sich mit dem HUD überschneiden.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "HUD Colors",
@@ -2518,9 +3522,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:48",
       "type": "keyed",
-      "german": "HUD-Farben",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "HUD-Farben",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "How often the HUD will refresh. Set this higher if experiencing any frame rate drop.",
@@ -2528,9 +3536,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:5",
       "type": "keyed",
-      "german": "Wie oft das HUD aktualisiert wird. Erhöhe diesen Wert, wenn die Bildrate einbricht.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Wie oft das HUD aktualisiert wird. Erhöhe diesen Wert, wenn die Bildrate einbricht.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Main text",
@@ -2538,9 +3550,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:50",
       "type": "keyed",
-      "german": "Haupttext",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Haupttext",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Info text",
@@ -2548,9 +3564,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:51",
       "type": "keyed",
-      "german": "Infotext",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Infotext",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Disabled text",
@@ -2558,9 +3578,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:52",
       "type": "keyed",
-      "german": "Deaktivierter Text",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Deaktivierter Text",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Critical text",
@@ -2568,9 +3592,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:53",
       "type": "keyed",
-      "german": "Kritischer Text",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Kritischer Text",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Warning text",
@@ -2578,9 +3606,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:54",
       "type": "keyed",
-      "german": "Warntext",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Warntext",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Neutral text",
@@ -2588,9 +3620,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:55",
       "type": "keyed",
-      "german": "Neutraler Text",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Neutraler Text",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Good text",
@@ -2598,9 +3634,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:56",
       "type": "keyed",
-      "german": "Guter Text",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Guter Text",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Excellent text",
@@ -2608,9 +3648,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:57",
       "type": "keyed",
-      "german": "Ausgezeichneter Text",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Ausgezeichneter Text",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Bar background",
@@ -2618,9 +3662,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:58",
       "type": "keyed",
-      "german": "Balkenhintergrund",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Balkenhintergrund",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Bar main",
@@ -2628,9 +3676,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:59",
       "type": "keyed",
-      "german": "Balken-Hauptfarbe",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Balken-Hauptfarbe",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "ms",
@@ -2638,9 +3690,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:6",
       "type": "keyed",
-      "german": "ms",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "ms",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Bar low",
@@ -2648,9 +3704,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:60",
       "type": "keyed",
-      "german": "Balken-Niedrigfarbe",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Balken-Niedrigfarbe",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Bar threshold",
@@ -2658,9 +3718,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:61",
       "type": "keyed",
-      "german": "Balken-Schwellenfarbe",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Balken-Schwellenfarbe",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Selector Background",
@@ -2668,9 +3732,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:62",
       "type": "keyed",
-      "german": "Auswahl-Hintergrund",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Auswahl-Hintergrund",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Selector Text",
@@ -2678,9 +3746,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:63",
       "type": "keyed",
-      "german": "Auswahltext",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Auswahltext",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Line",
@@ -2688,9 +3760,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:64",
       "type": "keyed",
-      "german": "Linie",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Linie",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Faction Colors",
@@ -2698,9 +3774,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:66",
       "type": "keyed",
-      "german": "Fraktionsfarben",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Fraktionsfarben",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Own",
@@ -2708,9 +3788,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:67",
       "type": "keyed",
-      "german": "Eigene",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Eigene",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Allied",
@@ -2718,9 +3802,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:68",
       "type": "keyed",
-      "german": "Verbündet",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Verbündet",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Independent",
@@ -2728,9 +3816,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:69",
       "type": "keyed",
-      "german": "Unabhängig",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Unabhängig",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Hostile",
@@ -2738,9 +3830,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:70",
       "type": "keyed",
-      "german": "Feindlich",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Feindlich",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Wild",
@@ -2748,9 +3844,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:71",
       "type": "keyed",
-      "german": "Wild",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Wild",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Prisoner",
@@ -2758,9 +3858,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:72",
       "type": "keyed",
-      "german": "Gefangener",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Gefangener",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Slave",
@@ -2768,9 +3872,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:73",
       "type": "keyed",
-      "german": "Sklave",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Sklave",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Skill Colors",
@@ -2778,9 +3886,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:75",
       "type": "keyed",
-      "german": "Fähigkeitsfarben",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Fähigkeitsfarben",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Minor passion",
@@ -2788,9 +3900,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:76",
       "type": "keyed",
-      "german": "Kleine Leidenschaft",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Kleine Leidenschaft",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Major passion",
@@ -2798,9 +3914,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:77",
       "type": "keyed",
-      "german": "Große Leidenschaft",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Große Leidenschaft",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Learning saturated",
@@ -2808,9 +3928,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:78",
       "type": "keyed",
-      "german": "Lernlimit erreicht",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Lernlimit erreicht",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Currently active",
@@ -2818,9 +3942,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:79",
       "type": "keyed",
-      "german": "Derzeit aktiv",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Derzeit aktiv",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Inspect Pane",
@@ -2828,9 +3956,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:8",
       "type": "keyed",
-      "german": "Inspektionsbereich",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Inspektionsbereich",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Docked Mode",
@@ -2838,9 +3970,13 @@
       "package_id": "jaxe.rimhud",
       "source": "Theme.xml:9",
       "type": "keyed",
-      "german": "Angedockter Modus",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Angedockter Modus",
+          "review": false,
+          "needed": true
+        }
+      }
     }
   ]
 }

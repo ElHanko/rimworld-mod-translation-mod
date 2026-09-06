@@ -11,9 +11,13 @@
       "english": "A workbench equipped with advanced tools to produce components.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Eine Werkbank mit fortschrittlichen Werkzeugen zur Herstellung von Komponenten.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -24,9 +28,13 @@
       "english": "assembly bench",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Montagewerkbank",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -37,9 +45,13 @@
       "english": "Increases work speed when placed near a drug lab. One workbench links up to two drug cabinets.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Erhöht die Arbeitsgeschwindigkeit, wenn der Schrank in der Nähe eines Drogenlabors aufgestellt wird. Mit einer Werkbank können bis zu zwei Drogenschränke verbunden werden.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -50,9 +62,13 @@
       "english": "drug cabinet",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Drogenschrank",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -63,9 +79,13 @@
       "english": "Increases work speed when placed near a fabrication bench. One workbench can link up to two fabrication cabinets.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Erhöht die Arbeitsgeschwindigkeit, wenn der Schrank in der Nähe einer Fertigungsbank aufgestellt wird. Mit einer Werkbank können bis zu zwei Fertigungsschränke verbunden werden.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -76,9 +96,13 @@
       "english": "fabrication cabinet",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Fertigungsschrank",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -89,9 +113,13 @@
       "english": "A wood-fueled station for smelting. Extracts usable metal from slag chunks and other mixed metal items.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Eine mit Holz befeuerte Schmelzstation. Gewinnt nutzbares Metall aus Schlackebrocken und anderen Gegenständen aus gemischten Metallen.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -102,9 +130,13 @@
       "english": "fueled smelter",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "befeuerter Schmelzofen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -115,9 +147,13 @@
       "english": "Increases work speed when placed nearby a cooking stove.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Erhöht die Arbeitsgeschwindigkeit, wenn der Schrank in der Nähe eines Herds aufgestellt wird.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -128,9 +164,13 @@
       "english": "kitchen sink cabinet",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Spülenschrank",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -141,9 +181,13 @@
       "english": "Increases work speed when placed near a machining table. One workbench links up to two machining cabinets.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Erhöht die Arbeitsgeschwindigkeit, wenn der Schrank in der Nähe eines Maschinentischs aufgestellt wird. Mit einer Werkbank können bis zu zwei Maschinenschränke verbunden werden.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -154,9 +198,13 @@
       "english": "machining cabinet",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Maschinenschrank",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -167,9 +215,13 @@
       "english": "Build manufacturing benches and efficient work center.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ermöglicht den Bau von Fertigungswerkbänken und einem effizienten Arbeitszentrum.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -180,9 +232,13 @@
       "english": "subject->the dawn of industry",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "subject->der Beginn der Industrialisierung",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -193,9 +249,13 @@
       "english": "subject_story->pioneered the integration of complex machinery for mass production, heralding a new era of efficiency",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "subject_story->führte komplexe Maschinen in die Massenproduktion ein und läutete damit eine neue Ära der Effizienz ein",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -206,9 +266,13 @@
       "english": "subject_story->transformed raw materials into marvels of utility, fueling the expansion of civilization",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "subject_story->verwandelte Rohstoffe in nützliche technische Errungenschaften und trieb damit die Ausbreitung der Zivilisation voran",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -219,9 +283,13 @@
       "english": "subject_story->devised systems of assembly that became the heartbeat of the community's economic engine",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "subject_story->entwickelte Fertigungssysteme, die zum Herzstück der wirtschaftlichen Leistungsfähigkeit der Gemeinschaft wurden",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -232,9 +300,13 @@
       "english": "subject_story->cultivated a culture of innovation, where every tool and machine is a step towards the future",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "subject_story->förderte eine Kultur der Innovation, in der jedes Werkzeug und jede Maschine einen weiteren Schritt in Richtung Zukunft darstellt",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -245,9 +317,13 @@
       "english": "subject_story->founded the principles of modern manufacturing, blending craftsmanship with the precision of technology",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "subject_story->legte die Grundlagen moderner Fertigung, indem handwerkliches Können mit der Präzision moderner Technik verbunden wurde",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -258,9 +334,13 @@
       "english": "subject_gerund->carving the path towards a self-sustaining society with the power of industrial manufacturing",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "subject_gerund->mit der Kraft industrieller Fertigung den Weg zu einer selbstversorgenden Gesellschaft ebnend",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -271,9 +351,13 @@
       "english": "Manufacturing",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Fertigung",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -284,9 +368,13 @@
       "english": "Increases work speed when placed near a smithy. One workbench links up to two smithy cabinets.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Erhöht die Arbeitsgeschwindigkeit, wenn der Schrank in der Nähe einer Schmiede aufgestellt wird. Mit einer Werkbank können bis zu zwei Schmiedeschränke verbunden werden.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -297,9 +385,13 @@
       "english": "smithing cabinet",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Schmiedeschrank",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -310,9 +402,13 @@
       "english": "A motorized table with a rotating saw blade for butchering dead creatures quicker into precise slices of raw meat. Consumes a lot of power.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ein motorisierter Tisch mit rotierendem Sägeblatt, mit dem tote Kreaturen schneller und präziser in rohes Fleisch zerlegt werden können. Verbraucht viel Strom.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -323,9 +419,13 @@
       "english": "electric butcher",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "elektrischer Schlachttisch",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -336,9 +436,13 @@
       "english": "An advanced work bench equipped with containers, heaters, and measurement devices for producing various drugs with more efficiency. Consumes a lot of power.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Eine fortschrittliche Werkbank mit Behältern, Heizgeräten und Messinstrumenten, mit denen verschiedene Drogen effizienter hergestellt werden können. Verbraucht viel Strom.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -349,9 +453,13 @@
       "english": "electric drug lab",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "elektrisches Drogenlabor",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -362,9 +470,13 @@
       "english": "A workbench equipped with advanced tools and enough space to produce technological marvels from simpler materials in shorter amounts of time. Consumes power.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Eine Werkbank mit fortschrittlichen Werkzeugen und ausreichend Platz, um technische Erzeugnisse aus einfacheren Materialien in kürzerer Zeit herzustellen. Verbraucht Strom.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -375,9 +487,13 @@
       "english": "large machining table",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "großer Maschinentisch",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -388,9 +504,13 @@
       "english": "An electric-powered work center for smithing non-mechanical weapons and tools. Consumes a lot of power.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ein elektrisch betriebenes Arbeitszentrum zum Schmieden nichtmechanischer Waffen und Werkzeuge. Verbraucht viel Strom.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -401,9 +521,13 @@
       "english": "large electric smithy",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "große elektrische Schmiede",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -414,9 +538,13 @@
       "english": "An advanced work table with electrical saws and holders for cutting stone chunks into usable blocks in shorter duration of time on an assembly line. Consumes a lot of power.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ein fortschrittlicher Arbeitstisch mit elektrischen Sägen und Halterungen, mit dem Steinbrocken in einer Art Fließbandfertigung schneller zu nutzbaren Steinblöcken verarbeitet werden können. Verbraucht viel Strom.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -427,9 +555,13 @@
       "english": "electric stonecutter's table",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "elektrischer Steinmetztisch",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -440,9 +572,13 @@
       "english": "A large size manufacturing stove as well as multiple ovens to prepare meals and cook significantly faster.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ein großer Produktionsherd mit mehreren Öfen, mit dem Mahlzeiten deutlich schneller zubereitet und gekocht werden können.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -453,9 +589,13 @@
       "english": "large stove",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "großer Herd",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -466,9 +606,13 @@
       "english": "A large size manufacturing workbench with several tools for designers and a sewing machine for rapid tailoring of clothes. Can work without electricity at 33% of normal speed.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Eine große Fertigungswerkbank mit mehreren Werkzeugen für Schneider und einer Nähmaschine zur schnellen Herstellung von Kleidung. Kann ohne Strom mit 33 % der normalen Geschwindigkeit betrieben werden.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -479,9 +623,13 @@
       "english": "large tailoring table",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "großer Schneidertisch",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -492,9 +640,13 @@
       "english": "Increases work speed when placed near a tailoring table. One workbench links up to two tailor cabinets.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Erhöht die Arbeitsgeschwindigkeit, wenn der Schrank in der Nähe eines Schneidertischs aufgestellt wird. Mit einer Werkbank können bis zu zwei Schneiderschränke verbunden werden.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -505,9 +657,13 @@
       "english": "tailor cabinet",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Schneiderschrank",
+          "review": false,
+          "needed": true
+        }
+      }
     }
   ]
 }

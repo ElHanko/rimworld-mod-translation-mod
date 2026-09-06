@@ -10,10 +10,14 @@
       "package_id": "unlimitedhugs.allowtool",
       "path": "AllowTool_2_3_0.content",
       "type": "def",
-      "german": "Es wurden Optionen im Spiel hinzugefügt, um nicht verwendete Werkzeuge auszublenden (siehe Optionen > Mod-Einstellungen).|Das Werkzeug <b>Ähnliches auswählen</b> ist deutlich nützlicher geworden. Hältst du Strg gedrückt (Wahltaste auf dem Mac), werden nur Dinge desselben Typs ausgewählt wie die bereits ausgewählten. Das ist ideal, um Stromleitungen unter Wänden, Wände aus einem bestimmten Material, alle Tiere einer bestimmten Art und vieles mehr auszuwählen.",
-      "review": false,
-      "needed": true,
-      "def_resolution": "resolved"
+      "def_resolution": "resolved",
+      "translations": {
+        "German": {
+          "text": "Es wurden Optionen im Spiel hinzugefügt, um nicht verwendete Werkzeuge auszublenden (siehe Optionen > Mod-Einstellungen).|Das Werkzeug <b>Ähnliches auswählen</b> ist deutlich nützlicher geworden. Hältst du Strg gedrückt (Wahltaste auf dem Mac), werden nur Dinge desselben Typs ausgewählt wie die bereits ausgewählten. Das ist ideal, um Stromleitungen unter Wänden, Wände aus einem bestimmten Material, alle Tiere einer bestimmten Art und vieles mehr auszuwählen.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "def_name": "AllowTool_2_3_0",
@@ -23,10 +27,14 @@
       "package_id": "unlimitedhugs.allowtool",
       "path": "AllowTool_2_3_0.modNameReadable",
       "type": "def",
-      "german": "Allow Tool",
-      "review": false,
-      "needed": true,
-      "def_resolution": "resolved"
+      "def_resolution": "resolved",
+      "translations": {
+        "German": {
+          "text": "Allow Tool",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "def_name": "AllowTool_2_4_0",
@@ -36,10 +44,14 @@
       "package_id": "unlimitedhugs.allowtool",
       "path": "AllowTool_2_4_0.content",
       "type": "def",
-      "german": "Das Werkzeug „Ähnliches auswählen“ kann jetzt alle Gegenstände oder Bauern desselben Typs auf der gesamten Karte auswählen (Alt gedrückt halten und klicken).",
-      "review": false,
-      "needed": true,
-      "def_resolution": "resolved"
+      "def_resolution": "resolved",
+      "translations": {
+        "German": {
+          "text": "Das Werkzeug „Ähnliches auswählen“ kann jetzt alle Gegenstände oder Bauern desselben Typs auf der gesamten Karte auswählen (Alt gedrückt halten und klicken).",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "def_name": "AllowTool_2_4_0",
@@ -49,10 +61,14 @@
       "package_id": "unlimitedhugs.allowtool",
       "path": "AllowTool_2_4_0.modNameReadable",
       "type": "def",
-      "german": "Allow Tool",
-      "review": false,
-      "needed": true,
-      "def_resolution": "resolved"
+      "def_resolution": "resolved",
+      "translations": {
+        "German": {
+          "text": "Allow Tool",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "def_name": "AllowTool_3_0_0",
@@ -62,10 +78,14 @@
       "package_id": "unlimitedhugs.allowtool",
       "path": "AllowTool_3_0_0.content",
       "type": "def",
-      "german": "<b>Großes Update!</b>|<b>Neue Werkzeuge:</b>|img:images/selectSimilar|caption:„Ähnliches auswählen“ (früher Massenauswahl) ermöglicht es, schnell nur Dinge zu finden und auszuwählen, die den bereits ausgewählten ähneln. Ideal zum Abreißen und zum Auffinden von Dingen auf der Karte.|img:images/haulUrgently|caption:„Dringend wegtragen“ sorgt dafür, dass markierte Gegenstände vor allen anderen Arbeiten weggetragen werden. Wird dabei die Umschalttaste gehalten, unterbrechen Kolonisten ihre aktuelle Arbeit und beginnen sofort mit dem Transport.|<b>Rechtsklickmenüs für Werkzeuge:</b>|img:images/contextMenuExample|caption:Werkzeuge mit dem kleinen Maussymbol verfügen jetzt über ein Kontextmenü, mit dem sie auf die gesamte Karte angewendet werden können. Um die Kontextmenü-Aktion des gerade ausgewählten Werkzeugs auszuführen, kannst du auch die Taste „Kontextaktion“ drücken (standardmäßig „Gleichheitszeichen“).",
-      "review": false,
-      "needed": true,
-      "def_resolution": "resolved"
+      "def_resolution": "resolved",
+      "translations": {
+        "German": {
+          "text": "<b>Großes Update!</b>|<b>Neue Werkzeuge:</b>|img:images/selectSimilar|caption:„Ähnliches auswählen“ (früher Massenauswahl) ermöglicht es, schnell nur Dinge zu finden und auszuwählen, die den bereits ausgewählten ähneln. Ideal zum Abreißen und zum Auffinden von Dingen auf der Karte.|img:images/haulUrgently|caption:„Dringend wegtragen“ sorgt dafür, dass markierte Gegenstände vor allen anderen Arbeiten weggetragen werden. Wird dabei die Umschalttaste gehalten, unterbrechen Kolonisten ihre aktuelle Arbeit und beginnen sofort mit dem Transport.|<b>Rechtsklickmenüs für Werkzeuge:</b>|img:images/contextMenuExample|caption:Werkzeuge mit dem kleinen Maussymbol verfügen jetzt über ein Kontextmenü, mit dem sie auf die gesamte Karte angewendet werden können. Um die Kontextmenü-Aktion des gerade ausgewählten Werkzeugs auszuführen, kannst du auch die Taste „Kontextaktion“ drücken (standardmäßig „Gleichheitszeichen“).",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "def_name": "AllowTool_3_0_0",
@@ -75,10 +95,14 @@
       "package_id": "unlimitedhugs.allowtool",
       "path": "AllowTool_3_0_0.modNameReadable",
       "type": "def",
-      "german": "Allow Tool",
-      "review": false,
-      "needed": true,
-      "def_resolution": "resolved"
+      "def_resolution": "resolved",
+      "translations": {
+        "German": {
+          "text": "Allow Tool",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "def_name": "AllowTool_3_10_0",
@@ -88,10 +112,14 @@
       "package_id": "unlimitedhugs.allowtool",
       "path": "AllowTool_3_10_0.content",
       "type": "def",
-      "german": "\\n\t\t<b>Verbesserter „Erlauben“-Schalter:</b> Wenn etwas ausgewählt ist, kannst du jetzt mit Umschalt-Klick auf die Schaltfläche „Erlauben“ das Werkzeug aufnehmen und mit einem Rechtsklick Kartenaktionen öffnen.|\\n\t\t<b>Neue Werkzeugaktionen:</b> „Sichtbare Objekte erlauben/verbieten“ und „Ähnliche Objekte im Heimatgebiet auswählen“ wurden den Rechtsklickmenüs der jeweiligen Werkzeuge hinzugefügt.|\\n\t\t<b>Anima-Baum fällen:</b> Auf vielfachen Wunsch ignorieren die Werkzeuge „Pflanzen schneiden“, „Bäume fällen“ und „Vollreife Pflanzen ernten“ jetzt den Anima-Baum, sofern er nicht ausdrücklich angewiesen wird.|\\n\t\t<b>Leistungsverbesserungen:</b> Die internen Abläufe der Mod wurden überarbeitet, sodass sie deutlich weniger Ressourcen benötigt. Kolonien im späteren Spielverlauf sollten eine merkliche Verbesserung der Bildrate feststellen.\\n\t\t",
-      "review": false,
-      "needed": true,
-      "def_resolution": "resolved"
+      "def_resolution": "resolved",
+      "translations": {
+        "German": {
+          "text": "\\n\t\t<b>Verbesserter „Erlauben“-Schalter:</b> Wenn etwas ausgewählt ist, kannst du jetzt mit Umschalt-Klick auf die Schaltfläche „Erlauben“ das Werkzeug aufnehmen und mit einem Rechtsklick Kartenaktionen öffnen.|\\n\t\t<b>Neue Werkzeugaktionen:</b> „Sichtbare Objekte erlauben/verbieten“ und „Ähnliche Objekte im Heimatgebiet auswählen“ wurden den Rechtsklickmenüs der jeweiligen Werkzeuge hinzugefügt.|\\n\t\t<b>Anima-Baum fällen:</b> Auf vielfachen Wunsch ignorieren die Werkzeuge „Pflanzen schneiden“, „Bäume fällen“ und „Vollreife Pflanzen ernten“ jetzt den Anima-Baum, sofern er nicht ausdrücklich angewiesen wird.|\\n\t\t<b>Leistungsverbesserungen:</b> Die internen Abläufe der Mod wurden überarbeitet, sodass sie deutlich weniger Ressourcen benötigt. Kolonien im späteren Spielverlauf sollten eine merkliche Verbesserung der Bildrate feststellen.\\n\t\t",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "def_name": "AllowTool_3_10_0",
@@ -101,10 +129,14 @@
       "package_id": "unlimitedhugs.allowtool",
       "path": "AllowTool_3_10_0.modNameReadable",
       "type": "def",
-      "german": "Allow Tool",
-      "review": false,
-      "needed": true,
-      "def_resolution": "resolved"
+      "def_resolution": "resolved",
+      "translations": {
+        "German": {
+          "text": "Allow Tool",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "def_name": "AllowTool_3_2_0",
@@ -114,10 +146,14 @@
       "package_id": "unlimitedhugs.allowtool",
       "path": "AllowTool_3_2_0.content",
       "type": "def",
-      "german": "<b>Neues Werkzeug:</b>|img:images/finishOff|caption:„Sofort töten“ ermöglicht es, am Boden liegende Tiere und Überlebende von Überfällen schnell und human zu töten. Für die Ausführung des Befehls wird ein Kolonist mit ausreichender Nahkampffähigkeit benötigt.",
-      "review": false,
-      "needed": true,
-      "def_resolution": "resolved"
+      "def_resolution": "resolved",
+      "translations": {
+        "German": {
+          "text": "<b>Neues Werkzeug:</b>|img:images/finishOff|caption:„Sofort töten“ ermöglicht es, am Boden liegende Tiere und Überlebende von Überfällen schnell und human zu töten. Für die Ausführung des Befehls wird ein Kolonist mit ausreichender Nahkampffähigkeit benötigt.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "def_name": "AllowTool_3_2_0",
@@ -127,10 +163,14 @@
       "package_id": "unlimitedhugs.allowtool",
       "path": "AllowTool_3_2_0.modNameReadable",
       "type": "def",
-      "german": "Allow Tool",
-      "review": false,
-      "needed": true,
-      "def_resolution": "resolved"
+      "def_resolution": "resolved",
+      "translations": {
+        "German": {
+          "text": "Allow Tool",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "def_name": "AllowTool_3_4_0",
@@ -140,10 +180,14 @@
       "package_id": "unlimitedhugs.allowtool",
       "path": "AllowTool_3_4_0.content",
       "type": "def",
-      "german": "<b>Befallene Pflanzen entfernen:</b> Markiert alle befallenen Pflanzen auf der Karte zum Schneiden. Rechtsklicke auf das Werkzeug „Pflanzen schneiden“, um die Funktion zu verwenden.|<b>Alle dieser Art abbrechen:</b> Bricht auf der gesamten Karte alle Befehle ab, die dem auf dem ausgewählten Objekt gefundenen Befehl entsprechen. Nützlich, um versehentlich erteilte Befehle rückgängig zu machen, die die ganze Karte betreffen.",
-      "review": false,
-      "needed": true,
-      "def_resolution": "resolved"
+      "def_resolution": "resolved",
+      "translations": {
+        "German": {
+          "text": "<b>Befallene Pflanzen entfernen:</b> Markiert alle befallenen Pflanzen auf der Karte zum Schneiden. Rechtsklicke auf das Werkzeug „Pflanzen schneiden“, um die Funktion zu verwenden.|<b>Alle dieser Art abbrechen:</b> Bricht auf der gesamten Karte alle Befehle ab, die dem auf dem ausgewählten Objekt gefundenen Befehl entsprechen. Nützlich, um versehentlich erteilte Befehle rückgängig zu machen, die die ganze Karte betreffen.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "def_name": "AllowTool_3_4_0",
@@ -153,10 +197,14 @@
       "package_id": "unlimitedhugs.allowtool",
       "path": "AllowTool_3_4_0.modNameReadable",
       "type": "def",
-      "german": "Allow Tool",
-      "review": false,
-      "needed": true,
-      "def_resolution": "resolved"
+      "def_resolution": "resolved",
+      "translations": {
+        "German": {
+          "text": "Allow Tool",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "def_name": "AllowTool_3_5_0",
@@ -166,10 +214,14 @@
       "package_id": "unlimitedhugs.allowtool",
       "path": "AllowTool_3_5_0.content",
       "type": "def",
-      "german": "<b>Neue Werkzeuge:</b>|img:images/draftedHunt|caption:<b>Jagen im Kampfmodus</b> ist ein Werkzeug für die manuelle Jagd. Wenn es aktiviert ist, können Kolonisten automatisch Wildtiere anvisieren und sofort töten. Versetze einen Kolonisten in den Kampfmodus, um es zu verwenden; per Rechtsklick lassen sich die Einstellungen ändern.|<b>Vollreif ernten/fällen</b>: Werkzeuge, mit denen nur vollreife Pflanzen zum Ernten bzw. Fällen markiert werden. Dadurch lässt sich der Ressourcenertrag verbessern. Rechtsklicke auf die Werkzeuge „Ernten“ oder „Bäume fällen“, um sie zu verwenden.",
-      "review": false,
-      "needed": true,
-      "def_resolution": "resolved"
+      "def_resolution": "resolved",
+      "translations": {
+        "German": {
+          "text": "<b>Neue Werkzeuge:</b>|img:images/draftedHunt|caption:<b>Jagen im Kampfmodus</b> ist ein Werkzeug für die manuelle Jagd. Wenn es aktiviert ist, können Kolonisten automatisch Wildtiere anvisieren und sofort töten. Versetze einen Kolonisten in den Kampfmodus, um es zu verwenden; per Rechtsklick lassen sich die Einstellungen ändern.|<b>Vollreif ernten/fällen</b>: Werkzeuge, mit denen nur vollreife Pflanzen zum Ernten bzw. Fällen markiert werden. Dadurch lässt sich der Ressourcenertrag verbessern. Rechtsklicke auf die Werkzeuge „Ernten“ oder „Bäume fällen“, um sie zu verwenden.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "def_name": "AllowTool_3_5_0",
@@ -179,10 +231,14 @@
       "package_id": "unlimitedhugs.allowtool",
       "path": "AllowTool_3_5_0.modNameReadable",
       "type": "def",
-      "german": "Allow Tool",
-      "review": false,
-      "needed": true,
-      "def_resolution": "resolved"
+      "def_resolution": "resolved",
+      "translations": {
+        "German": {
+          "text": "Allow Tool",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "def_name": "AllowTool_3_6_0",
@@ -192,10 +248,14 @@
       "package_id": "unlimitedhugs.allowtool",
       "path": "AllowTool_3_6_0.content",
       "type": "def",
-      "german": "<b>Aktionen für das Fällwerkzeug:</b> „Alles Holz fällen“ und „Alles Holz im Heimatgebiet fällen“ wurden dem Rechtsklickmenü des Fällwerkzeugs hinzugefügt.|<b>Kompatibilität mit Pick Up And Haul:</b> „Dringend wegtragen“ verwendet jetzt die eigene, effektivere Transportlogik, wenn die Mod Pick Up And Haul installiert ist.",
-      "review": false,
-      "needed": true,
-      "def_resolution": "resolved"
+      "def_resolution": "resolved",
+      "translations": {
+        "German": {
+          "text": "<b>Aktionen für das Fällwerkzeug:</b> „Alles Holz fällen“ und „Alles Holz im Heimatgebiet fällen“ wurden dem Rechtsklickmenü des Fällwerkzeugs hinzugefügt.|<b>Kompatibilität mit Pick Up And Haul:</b> „Dringend wegtragen“ verwendet jetzt die eigene, effektivere Transportlogik, wenn die Mod Pick Up And Haul installiert ist.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "def_name": "AllowTool_3_6_0",
@@ -205,10 +265,14 @@
       "package_id": "unlimitedhugs.allowtool",
       "path": "AllowTool_3_6_0.modNameReadable",
       "type": "def",
-      "german": "Allow Tool",
-      "review": false,
-      "needed": true,
-      "def_resolution": "resolved"
+      "def_resolution": "resolved",
+      "translations": {
+        "German": {
+          "text": "Allow Tool",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "def_name": "AllowTool_3_7_0",
@@ -218,10 +282,14 @@
       "package_id": "unlimitedhugs.allowtool",
       "path": "AllowTool_3_7_0.content",
       "type": "def",
-      "german": "<b>Neue Werkzeuge:</b>|img:images/harvestGrown|caption:<b>Vollreife Pflanzen ernten:</b> Das Ernten vollreifer Pflanzen ist jetzt ein eigenes Werkzeug, das mit „Ähnliches auswählen“ kombiniert werden kann. Durch Halten von Umschalt oder Strg können gezielt nur Nutzpflanzen oder nur Bäume markiert werden.|img:images/stripMine|caption:<b>Gitterförmiges Abbauen:</b> Ein neues Werkzeug, mit dem sich Abbaubefehle einfach in einem Gitter anlegen lassen, um die Chance zu maximieren, Erze zu finden.|<b>Weitere Ergänzungen:</b>|<b>Ähnliche Objekte im sichtbaren Bereich auswählen:</b> wurde dem Rechtsklickmenü von „Ähnliches auswählen“ hinzugefügt.|<b>Anpassbare Werkzeugplatzierung:</b> Andere Mods können jetzt beeinflussen, wo die Werkzeuge im Menü erscheinen (insbesondere RIMMSqol).",
-      "review": false,
-      "needed": true,
-      "def_resolution": "resolved"
+      "def_resolution": "resolved",
+      "translations": {
+        "German": {
+          "text": "<b>Neue Werkzeuge:</b>|img:images/harvestGrown|caption:<b>Vollreife Pflanzen ernten:</b> Das Ernten vollreifer Pflanzen ist jetzt ein eigenes Werkzeug, das mit „Ähnliches auswählen“ kombiniert werden kann. Durch Halten von Umschalt oder Strg können gezielt nur Nutzpflanzen oder nur Bäume markiert werden.|img:images/stripMine|caption:<b>Gitterförmiges Abbauen:</b> Ein neues Werkzeug, mit dem sich Abbaubefehle einfach in einem Gitter anlegen lassen, um die Chance zu maximieren, Erze zu finden.|<b>Weitere Ergänzungen:</b>|<b>Ähnliche Objekte im sichtbaren Bereich auswählen:</b> wurde dem Rechtsklickmenü von „Ähnliches auswählen“ hinzugefügt.|<b>Anpassbare Werkzeugplatzierung:</b> Andere Mods können jetzt beeinflussen, wo die Werkzeuge im Menü erscheinen (insbesondere RIMMSqol).",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "def_name": "AllowTool_3_7_0",
@@ -231,10 +299,14 @@
       "package_id": "unlimitedhugs.allowtool",
       "path": "AllowTool_3_7_0.modNameReadable",
       "type": "def",
-      "german": "Allow Tool",
-      "review": false,
-      "needed": true,
-      "def_resolution": "resolved"
+      "def_resolution": "resolved",
+      "translations": {
+        "German": {
+          "text": "Allow Tool",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "def_name": "MoteWeaponGlint",
@@ -244,10 +316,14 @@
       "package_id": "unlimitedhugs.allowtool",
       "path": "MoteWeaponGlint.label",
       "type": "def",
-      "german": "Waffenglanz-Partikel",
-      "review": false,
-      "needed": true,
-      "def_resolution": "resolved"
+      "def_resolution": "resolved",
+      "translations": {
+        "German": {
+          "text": "Waffenglanz-Partikel",
+          "review": false,
+          "needed": true
+        }
+      }
     }
   ]
 }

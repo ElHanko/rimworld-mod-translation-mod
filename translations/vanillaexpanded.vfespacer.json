@@ -11,9 +11,13 @@
       "english": "A cutting-edge, fully motorized bed equipped with pressure-adjusting surfaces, biometric monitoring, and tech-assisted sleep tracking. It offers unmatched comfort, rest efficiency, and surgical support.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ein hochmodernes, voll motorisiertes Bett mit druckregulierenden Liegeflächen, biometrischer Überwachung und technikgestützter Schlafanalyse. Es bietet unübertroffenen Komfort, besonders erholsamen Schlaf und optimale Unterstützung bei medizinischen Eingriffen.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -24,9 +28,13 @@
       "english": "advanced bed",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "fortschrittliches Bett",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -37,9 +45,13 @@
       "english": "A cutting-edge, fully motorized bed that fits two people, equipped with pressure-adjusting surfaces, biometric monitoring, and tech-assisted sleep tracking. It offers unmatched comfort, rest efficiency, and surgical support.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ein hochmodernes, voll motorisiertes Bett für zwei Personen mit druckregulierenden Liegeflächen, biometrischer Überwachung und technikgestützter Schlafanalyse. Es bietet unübertroffenen Komfort, besonders erholsamen Schlaf und optimale Unterstützung bei medizinischen Eingriffen.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -50,9 +62,13 @@
       "english": "advanced double bed",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "fortschrittliches Doppelbett",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -63,9 +79,13 @@
       "english": "A high-end, spacer-era seating solution with adaptive cushioning, posture calibration, and breathable smart fabrics. Designed for maximum long-term comfort and sleek modern interiors.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ein hochwertiger Stuhl aus dem Raumfahrtzeitalter mit adaptiver Polsterung, automatischer Haltungseinstellung und atmungsaktiven intelligenten Textilien. Entwickelt für höchsten Langzeitkomfort und moderne Innenräume.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -76,9 +96,13 @@
       "english": "advanced chair",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "fortschrittlicher Stuhl",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -89,9 +113,13 @@
       "english": "A high-tech shelf for storing apparel or weapons. Items stored on this shelf will benefit from nanoswarms of mechanites that will slowly repair any damage and deterioration. The process requires a large amount of power and takes a significant amount of time.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ein Hightech-Regal zur Aufbewahrung von Kleidung oder Waffen. Darauf gelagerte Gegenstände werden von Nanoschwärmen aus Mechaniten langsam repariert und von Verschleißschäden befreit. Der Vorgang benötigt viel Strom und nimmt beträchtliche Zeit in Anspruch.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -102,9 +130,13 @@
       "english": "mechanite repair shelf",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Mechaniten-Reparaturregal",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -115,9 +147,13 @@
       "english": "Build advanced electronics usually only seen in advanced colonies and glitterworld buildings.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ermöglicht den Bau fortschrittlicher Elektronik, wie sie normalerweise nur in hochentwickelten Kolonien und Gebäuden auf Glitterwelten zu finden ist.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -128,9 +164,13 @@
       "english": "subject->circuitry of the cosmos",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "subject->Schaltkreise des Kosmos",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -141,9 +181,13 @@
       "english": "subject_story->engineered electronics that push the boundaries of what's possible, powering devices that were once the realm of science fiction",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "subject_story->entwickelte Elektronik, die die Grenzen des Möglichen erweitert und Geräte antreibt, die einst nur der Science-Fiction vorbehalten waren",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -154,9 +198,13 @@
       "english": "subject_story->brought glitterworld technologies to the hands of the colonists, elevating everyday experiences with unparalleled efficiency and ease",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "subject_story->brachte Technologien der Glitterwelten in die Hände der Kolonisten und bereicherte den Alltag mit unerreichter Effizienz und Einfachheit",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -167,9 +215,13 @@
       "english": "subject_gerund->unlocking the ultimate potential of electronic innovation",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "subject_gerund->das volle Potenzial elektronischer Innovation erschließend",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -180,9 +232,13 @@
       "english": "spacer electronics",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Raumfahrtelektronik",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -193,9 +249,13 @@
       "english": "Build advanced furniture usually only seen in advanced colonies and glitterworld buildings.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ermöglicht den Bau fortschrittlicher Möbel, wie sie normalerweise nur in hochentwickelten Kolonien und Gebäuden auf Glitterwelten zu finden sind.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -206,9 +266,13 @@
       "english": "subject->furnishing the future",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "subject->die Zukunft einrichten",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -219,9 +283,13 @@
       "english": "subject_story->unveiled furniture designs that blend elegance with advanced functionality, suitable for the most sophisticated of colonies",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "subject_story->enthüllte Möbeldesigns, die Eleganz mit fortschrittlicher Funktionalität verbinden und selbst den anspruchsvollsten Kolonien gerecht werden",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -232,9 +300,13 @@
       "english": "subject_story->introduced living solutions that adapt to their users, combining comfort with cutting-edge technology",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "subject_story->führte Wohnlösungen ein, die sich ihren Nutzern anpassen und Komfort mit modernster Technologie verbinden",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -245,9 +317,13 @@
       "english": "subject_gerund->redefining space with furniture that's as smart as it is stylish",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "subject_gerund->Wohnräume mit Möbeln neu definierend, die ebenso intelligent wie stilvoll sind",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -258,9 +334,13 @@
       "english": "spacer furniture",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Raumfahrtmöbel",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -271,9 +351,13 @@
       "english": "Off due to being under a roof.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ausgeschaltet, da sie unter einem Dach steht.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -284,9 +368,13 @@
       "english": "Off due to sufficient sunlight.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ausgeschaltet, da ausreichend Sonnenlicht vorhanden ist.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -297,9 +385,13 @@
       "english": "An electrical standing lamp that lights an area, good for large outdoor spaces, with a small solar panel mounted on top. Stores electrical charge during the day, when it’s off, and automatically turns on at night.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Eine elektrische Stehlampe zur Beleuchtung großer Außenbereiche mit einem kleinen Solarpanel auf der Oberseite. Tagsüber speichert sie im ausgeschalteten Zustand elektrische Energie und schaltet sich nachts automatisch ein.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -310,9 +402,13 @@
       "english": "outdoor solar lamp",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Solar-Außenlampe",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -323,9 +419,13 @@
       "english": "A sleek, modern dresser with an integrated soft-glow lamp. Gives a small comfort bonus to all nearby beds. Placing more than one dresser near the same bed has no effect.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Eine elegante, moderne Kommode mit integrierter Lampe, die ein sanftes Licht abgibt. Gewährt allen Betten in der Nähe einen kleinen Komfortbonus. Mehrere Kommoden in der Nähe desselben Bettes haben keinen zusätzlichen Effekt.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -336,9 +436,13 @@
       "english": "illuminated dresser",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "beleuchtete Kommode",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -349,9 +453,13 @@
       "english": "A sleek bedside table with an integrated soft-glow lamp. Must be placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ein eleganter Nachttisch mit integrierter Lampe, die ein sanftes Licht abgibt. Muss direkt neben dem Kopfende eines Bettes aufgestellt werden. Mehrere Nachttische am selben Bett haben keinen zusätzlichen Effekt.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -362,9 +470,13 @@
       "english": "illuminated end table",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "beleuchteter Nachttisch",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -375,9 +487,13 @@
       "english": "A sleek spacer table with an embedded smart display. When seated at this table, colonists enjoy passive television-style recreation alongside meals or work. People eat off tables when chairs are placed facing them.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ein eleganter Tisch aus dem Raumfahrtzeitalter mit integriertem Smart-Display. Kolonisten, die an diesem Tisch sitzen, erhalten beim Essen oder Arbeiten zusätzlich passive Unterhaltung ähnlich dem Fernsehen. Kolonisten essen an Tischen, wenn Stühle auf diese ausgerichtet sind.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -388,9 +504,13 @@
       "english": "interactive table (1x1)",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "interaktiver Tisch (1x1)",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -401,9 +521,13 @@
       "english": "A sleek spacer table with an embedded smart display. When seated at this table, colonists enjoy passive television-style recreation alongside meals or work. People eat off tables when chairs are placed facing them.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ein eleganter Tisch aus dem Raumfahrtzeitalter mit integriertem Smart-Display. Kolonisten, die an diesem Tisch sitzen, erhalten beim Essen oder Arbeiten zusätzlich passive Unterhaltung ähnlich dem Fernsehen. Kolonisten essen an Tischen, wenn Stühle auf diese ausgerichtet sind.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -414,9 +538,13 @@
       "english": "interactive table (2x2)",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "interaktiver Tisch (2x2)",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -427,9 +555,13 @@
       "english": "A colossal, ultra-definition entertainment wall spanning multiple panels. Designed for luxurious colonies, it delivers an overwhelming visual experience with rich sound and vibrant clarity. Streams archived ultranet broadcasts from long-dead satellites and local data arrays.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Eine kolossale Unterhaltungswand in Ultra-HD, die sich über mehrere Bildschirme erstreckt. Für luxuriöse Kolonien entwickelt, bietet sie ein überwältigendes audiovisuelles Erlebnis mit sattem Klang und brillanter Bildschärfe. Sie streamt archivierte Ultranet-Übertragungen von längst verstummten Satelliten und lokalen Datenspeichern.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -440,9 +572,13 @@
       "english": "hyperscreen television",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Hyperscreen-Fernseher",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -453,9 +589,13 @@
       "english": "A compact, high-efficiency air purifier that filters out dust, allergens, smoke, and other unwanted particulates while circulating clean, scented air. Improves room cleanliness, slightly boosts mood, and enhances the overall environment.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ein kompakter, hocheffizienter Luftreiniger, der Staub, Allergene, Rauch und andere unerwünschte Partikel herausfiltert und zugleich saubere, angenehm duftende Luft umwälzt. Verbessert die Sauberkeit des Raums, hebt leicht die Stimmung und verbessert das Raumklima insgesamt.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -466,9 +606,13 @@
       "english": "air purifier",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Luftreiniger",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -479,9 +623,13 @@
       "english": "The air feels fresh and smells nice!",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Die Luft fühlt sich frisch an und riecht angenehm!",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -492,9 +640,13 @@
       "english": "clean air",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "saubere Luft",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -505,9 +657,13 @@
       "english": "The air feels fresh and smells nice!",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Die Luft fühlt sich frisch an und riecht angenehm!",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -518,9 +674,13 @@
       "english": "clean air",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "saubere Luft",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -531,9 +691,13 @@
       "english": "A sleek, spacer-era armchair. Built with memory foam, smart-fabric upholstery, and ergonomic design, it provides superior comfort and aesthetics.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ein eleganter Sessel aus dem Raumfahrtzeitalter. Memory-Schaum, intelligente Stoffbezüge und ergonomisches Design sorgen für hohen Komfort und eine moderne Optik.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -544,9 +708,13 @@
       "english": "modern armchair",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "moderner Sessel",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -557,9 +725,13 @@
       "english": "A sleek, double-wide spacer-era couch. Memory foam, ergonomic design and smart-fabric upholstery provide maximum comfort.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ein elegantes, doppelt breites Sofa aus dem Raumfahrtzeitalter. Memory-Schaum, ergonomisches Design und intelligente Stoffbezüge sorgen für maximalen Komfort.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -570,9 +742,13 @@
       "english": "modern couch",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "modernes Sofa",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -583,9 +759,13 @@
       "english": "A sleek, modern wardrobe with an integrated soft-glow lamp. Gives a small comfort and rest effectiveness bonus to all nearby beds. Placing more than one wardrobe near the same bed has no effect.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ein eleganter, moderner Kleiderschrank mit integrierter Lampe, die ein sanftes Licht abgibt. Gewährt allen Betten in der Nähe einen kleinen Bonus auf Komfort und Erholungseffektivität. Mehrere Kleiderschränke am selben Bett haben keinen zusätzlichen Effekt.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -596,9 +776,13 @@
       "english": "illuminated wardrobe",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "beleuchteter Kleiderschrank",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -609,9 +793,13 @@
       "english": "A high-fidelity audio system designed to enhance the viewing experience of nearby televisions. When placed near a television, it links with the screen to deliver immersive sound, increasing the recreation gain of any colonist watching.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ein hochwertiges Audiosystem, das das Fernseherlebnis verbessert. Wird es in der Nähe eines Fernsehers aufgestellt, verbindet es sich mit dem Bildschirm und erzeugt raumfüllenden Klang, wodurch Kolonisten beim Fernsehen mehr Erholung erhalten.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -622,9 +810,13 @@
       "english": "television speaker",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Fernsehlautsprecher",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -635,9 +827,13 @@
       "english": "using interactive table.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "benutzt einen interaktiven Tisch.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -648,9 +844,13 @@
       "english": "A sleek, high-tech flat-screen television. Its slim profile saves floor space while delivering the same rich color and clarity as traditional flat-screen units. It doesn’t have a huge viewing space, but can be mounted on walls.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ein eleganter Hightech-Flachbildfernseher. Sein schlankes Profil spart Bodenfläche und bietet dennoch dieselben satten Farben und die gleiche Bildschärfe wie herkömmliche Flachbildfernseher. Der Sichtbereich ist nicht besonders groß, dafür kann er an einer Wand montiert werden.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -661,9 +861,13 @@
       "english": "wall-mounted television",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Wandfernseher",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -671,9 +875,13 @@
       "key": "CommandLowerLightIntDesc",
       "english": "Lower the current intensity.",
       "source": "Misc_Gameplay.xml:11",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Verringert die aktuelle Intensität.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -681,9 +889,13 @@
       "key": "CommandLowerLightRDesc",
       "english": "Decrease the current radius.",
       "source": "Misc_Gameplay.xml:8",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Verringert den aktuellen Radius.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -691,9 +903,13 @@
       "key": "CommandRaiseLightIntDesc",
       "english": "Increase the current intensity.",
       "source": "Misc_Gameplay.xml:10",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Erhöht die aktuelle Intensität.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -701,9 +917,13 @@
       "key": "CommandRaiseLightRDesc",
       "english": "Increase the current radius.",
       "source": "Misc_Gameplay.xml:7",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Erhöht den aktuellen Radius.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -711,9 +931,13 @@
       "key": "CurrentLightOpacity",
       "english": "Current intensity",
       "source": "Misc_Gameplay.xml:5",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Aktuelle Intensität",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -721,9 +945,13 @@
       "key": "EnableAutoForbid",
       "english": "Enable auto-forbid",
       "source": "Misc_Gameplay.xml:22",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Automatisches Verbieten aktivieren",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -731,9 +959,13 @@
       "key": "EnableAutoForbidExplanation",
       "english": "Weapons and apparel stored here will be automatically forbidden until they reach their full HP",
       "source": "Misc_Gameplay.xml:23",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Hier gelagerte Waffen und Kleidung werden automatisch verboten, bis sie wieder ihre vollen Trefferpunkte erreicht haben.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -741,9 +973,13 @@
       "key": "LightColourBlue",
       "english": "Blue",
       "source": "Misc_Gameplay.xml:19",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Blau",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -751,9 +987,13 @@
       "key": "LightColourGreen",
       "english": "Green",
       "source": "Misc_Gameplay.xml:18",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Grün",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -761,9 +1001,13 @@
       "key": "LightColourRed",
       "english": "Red",
       "source": "Misc_Gameplay.xml:17",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Rot",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -771,9 +1015,13 @@
       "key": "LightColourWhite",
       "english": "White",
       "source": "Misc_Gameplay.xml:20",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Weiß",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -781,9 +1029,13 @@
       "key": "LightIntensityPercent",
       "english": "% Intensity.",
       "source": "Misc_Gameplay.xml:13",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "% Intensität.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -791,9 +1043,13 @@
       "key": "LightRadiusCells",
       "english": " Cell radius.",
       "source": "Misc_Gameplay.xml:14",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": " Zellen Radius.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -801,9 +1057,13 @@
       "key": "SwitchedColourDesc",
       "english": "Switch light colour to ",
       "source": "Misc_Gameplay.xml:16",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Lichtfarbe wechseln zu ",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -811,9 +1071,13 @@
       "key": "TargetLightRadius",
       "english": "Current light radius",
       "source": "Misc_Gameplay.xml:4",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Aktueller Lichtradius",
+          "review": false,
+          "needed": true
+        }
+      }
     }
   ]
 }

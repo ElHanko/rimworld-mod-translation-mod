@@ -10,10 +10,14 @@
       "package_id": "unlimitedhugs.defensivepositions",
       "path": "DPPositionMote.label",
       "type": "def",
-      "german": "Partikel",
-      "review": false,
-      "needed": true,
-      "def_resolution": "resolved"
+      "def_resolution": "resolved",
+      "translations": {
+        "German": {
+          "text": "Partikel",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "def_name": "DefensivePositions_1_13_1",
@@ -23,10 +27,14 @@
       "package_id": "unlimitedhugs.defensivepositions",
       "path": "DefensivePositions_1_13_1.content",
       "type": "def",
-      "german": "\\nSpielergesteuerten Ghulen und Mechanoiden können jetzt Defensivpositionen zugewiesen werden, und sie können dorthin geschickt werden.\\n\t\t",
-      "review": false,
-      "needed": true,
-      "def_resolution": "resolved"
+      "def_resolution": "resolved",
+      "translations": {
+        "German": {
+          "text": "\\nSpielergesteuerten Ghulen und Mechanoiden können jetzt Defensivpositionen zugewiesen werden, und sie können dorthin geschickt werden.\\n\t\t",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "def_name": "DefensivePositions_1_13_1",
@@ -36,10 +44,14 @@
       "package_id": "unlimitedhugs.defensivepositions",
       "path": "DefensivePositions_1_13_1.modNameReadable",
       "type": "def",
-      "german": "Defensive Positions",
-      "review": false,
-      "needed": true,
-      "def_resolution": "resolved"
+      "def_resolution": "resolved",
+      "translations": {
+        "German": {
+          "text": "Defensive Positions",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "def_name": "DefensivePositions_1_2_0",
@@ -49,10 +61,14 @@
       "package_id": "unlimitedhugs.defensivepositions",
       "path": "DefensivePositions_1_2_0.content",
       "type": "def",
-      "german": "img:images/keypad|caption: Kolonisten können jetzt Gruppen zugewiesen werden, um sie schnell über die Zifferntasten auszuwählen. Zusätzlich gibt es jetzt Tastenkürzel für alle Kolonisten: alle auswählen, bei allen den Kampfmodus beenden und alle zu ihrer Defensivposition schicken. Die Tasten können unter Optionen > Tastenbelegungen konfigurieren neu zugewiesen werden.|img:images/assign_squad|caption:Weise eine neue Gruppe zu, indem du deine Kolonisten auswählst, Strg gedrückt hältst und eine Zifferntaste von 1 bis 9 drückst.|img:images/select_squad|caption:Wähle alle Kolonisten einer Gruppe aus, indem du die zugewiesene Taste drückst.|img:images/send_everyone|caption:Mit 0 auf dem Ziffernblock kannst du alle Kolonisten zu ihren zugewiesenen Defensivpositionen schicken, ohne sie vorher auszuwählen.|img:images/select_everyone|caption:Mit der Dezimaltaste auf dem Ziffernblock kannst du alle Kolonisten mit einem Tastendruck auswählen.|img:images/undraft_everyone|caption:Drücke die Dividieren-Taste (Schrägstrich) auf dem Ziffernblock, um bei allen Kolonisten den Kampfmodus zu beenden.|Außerdem bemannen Kolonisten jetzt automatisch Geschütze und Mörser, wenn du ihre Defensivposition auf dem Interaktionsfeld der Waffe festlegst. Viel Erfolg bei der Verteidigung!",
-      "review": false,
-      "needed": true,
-      "def_resolution": "resolved"
+      "def_resolution": "resolved",
+      "translations": {
+        "German": {
+          "text": "img:images/keypad|caption: Kolonisten können jetzt Gruppen zugewiesen werden, um sie schnell über die Zifferntasten auszuwählen. Zusätzlich gibt es jetzt Tastenkürzel für alle Kolonisten: alle auswählen, bei allen den Kampfmodus beenden und alle zu ihrer Defensivposition schicken. Die Tasten können unter Optionen > Tastenbelegungen konfigurieren neu zugewiesen werden.|img:images/assign_squad|caption:Weise eine neue Gruppe zu, indem du deine Kolonisten auswählst, Strg gedrückt hältst und eine Zifferntaste von 1 bis 9 drückst.|img:images/select_squad|caption:Wähle alle Kolonisten einer Gruppe aus, indem du die zugewiesene Taste drückst.|img:images/send_everyone|caption:Mit 0 auf dem Ziffernblock kannst du alle Kolonisten zu ihren zugewiesenen Defensivpositionen schicken, ohne sie vorher auszuwählen.|img:images/select_everyone|caption:Mit der Dezimaltaste auf dem Ziffernblock kannst du alle Kolonisten mit einem Tastendruck auswählen.|img:images/undraft_everyone|caption:Drücke die Dividieren-Taste (Schrägstrich) auf dem Ziffernblock, um bei allen Kolonisten den Kampfmodus zu beenden.|Außerdem bemannen Kolonisten jetzt automatisch Geschütze und Mörser, wenn du ihre Defensivposition auf dem Interaktionsfeld der Waffe festlegst. Viel Erfolg bei der Verteidigung!",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "def_name": "DefensivePositions_1_2_0",
@@ -62,10 +78,14 @@
       "package_id": "unlimitedhugs.defensivepositions",
       "path": "DefensivePositions_1_2_0.modNameReadable",
       "type": "def",
-      "german": "Defensive Positions",
-      "review": false,
-      "needed": true,
-      "def_resolution": "resolved"
+      "def_resolution": "resolved",
+      "translations": {
+        "German": {
+          "text": "Defensive Positions",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "def_name": "DefensivePositions_1_8_0",
@@ -75,10 +95,14 @@
       "package_id": "unlimitedhugs.defensivepositions",
       "path": "DefensivePositions_1_8_0.content",
       "type": "def",
-      "german": "- Defensive Positions ist jetzt mit Zetriths Multiplayer-Mod kompatibel.|- Mit der Umschalttaste können Bewegungsbefehle jetzt in eine Warteschlange eingereiht werden. Dies kann unter Optionen > Mod-Einstellungen aktiviert werden.",
-      "review": false,
-      "needed": true,
-      "def_resolution": "resolved"
+      "def_resolution": "resolved",
+      "translations": {
+        "German": {
+          "text": "- Defensive Positions ist jetzt mit Zetriths Multiplayer-Mod kompatibel.|- Mit der Umschalttaste können Bewegungsbefehle jetzt in eine Warteschlange eingereiht werden. Dies kann unter Optionen > Mod-Einstellungen aktiviert werden.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "def_name": "DefensivePositions_1_8_0",
@@ -88,10 +112,14 @@
       "package_id": "unlimitedhugs.defensivepositions",
       "path": "DefensivePositions_1_8_0.modNameReadable",
       "type": "def",
-      "german": "Defensive Positions",
-      "review": false,
-      "needed": true,
-      "def_resolution": "resolved"
+      "def_resolution": "resolved",
+      "translations": {
+        "German": {
+          "text": "Defensive Positions",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "def_name": "DefensivePositions_1_9_1",
@@ -101,10 +129,14 @@
       "package_id": "unlimitedhugs.defensivepositions",
       "path": "DefensivePositions_1_9_1.content",
       "type": "def",
-      "german": "\\n- Karawanen können jetzt auf der Weltkarte Gruppen zugewiesen werden.|\\n- Durch wiederholtes Drücken einer Gruppentaste wird zwischen allen Orten gewechselt, an denen sich Mitglieder der Gruppe befinden. Funktioniert auch mit Karawanen und auf mehreren Karten.\\n\t\t",
-      "review": false,
-      "needed": true,
-      "def_resolution": "resolved"
+      "def_resolution": "resolved",
+      "translations": {
+        "German": {
+          "text": "\\n- Karawanen können jetzt auf der Weltkarte Gruppen zugewiesen werden.|\\n- Durch wiederholtes Drücken einer Gruppentaste wird zwischen allen Orten gewechselt, an denen sich Mitglieder der Gruppe befinden. Funktioniert auch mit Karawanen und auf mehreren Karten.\\n\t\t",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "def_name": "DefensivePositions_1_9_1",
@@ -114,10 +146,14 @@
       "package_id": "unlimitedhugs.defensivepositions",
       "path": "DefensivePositions_1_9_1.modNameReadable",
       "type": "def",
-      "german": "Defensive Positions",
-      "review": false,
-      "needed": true,
-      "def_resolution": "resolved"
+      "def_resolution": "resolved",
+      "translations": {
+        "German": {
+          "text": "Defensive Positions",
+          "review": false,
+          "needed": true
+        }
+      }
     }
   ]
 }

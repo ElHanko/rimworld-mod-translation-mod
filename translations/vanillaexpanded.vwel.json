@@ -11,9 +11,13 @@
       "english": "Mote",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -24,9 +28,13 @@
       "english": "A bunch of components that when assembled can create a salvaged laser weapon.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -37,9 +45,13 @@
       "english": "salvaged laser weapon",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -50,9 +62,13 @@
       "english": "mercenary marine",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -63,9 +79,13 @@
       "english": "mercenary marines",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -76,9 +96,13 @@
       "english": "Mote",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -89,9 +113,13 @@
       "english": "Salvage a random laser weapon from advanced components.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -102,9 +130,13 @@
       "english": "Salvaging laser weapon.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -115,9 +147,13 @@
       "english": "salvage laser weapon",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -128,9 +164,13 @@
       "english": "unfinished laser gun",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -141,9 +181,13 @@
       "english": "laser beam",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -154,9 +198,13 @@
       "english": "A narrow, focused laser beam from a multibarrel weapon.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -167,9 +215,13 @@
       "english": "laser minigun shot",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -180,9 +232,13 @@
       "english": "laser pistol shot",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -193,9 +249,13 @@
       "english": "A focused laser beam.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -206,9 +266,13 @@
       "english": "laser shot",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -219,9 +283,13 @@
       "english": "A broken down laser beam.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -232,9 +300,13 @@
       "english": "laser scatter shot",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -245,9 +317,13 @@
       "english": "A focused, long range laser beam.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -258,9 +334,13 @@
       "english": "precise laser shot",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -271,9 +351,13 @@
       "english": "unstable laser pistol shot",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -284,9 +368,13 @@
       "english": "An unstable laser beam.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -297,9 +385,13 @@
       "english": "unstable laser shot",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -310,9 +402,13 @@
       "english": "Am unstable, broken down laser beam.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -323,9 +419,13 @@
       "english": "unstable laser scatter shot",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -336,9 +436,13 @@
       "english": "An unstable long range laser beam.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -349,9 +453,13 @@
       "english": "unstable precise laser shot",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -362,9 +470,13 @@
       "english": "A lightning bolt emitted by a Tesla device.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -375,9 +487,13 @@
       "english": "tesla shot",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -388,9 +504,13 @@
       "english": "An ultratech multi-barrel device capable of emitting a concentrated beam of light with enough power to deal considerable damage with a long, continuous firing mode.\\n\\nBy using advanced battery cells, this weapon is capable of warming up, boosting the firing speed with each consecutive shot when standing still.\\n\\nThis weapon can overheat when fully warmed up, resulting in a small battery explosion around the user.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -401,9 +521,13 @@
       "english": "laser minigun",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -414,9 +538,13 @@
       "english": "barrel",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -427,9 +555,13 @@
       "english": "grip",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -440,9 +572,13 @@
       "english": "Standard",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -453,9 +589,13 @@
       "english": "An ultratech pistol capable of emitting a concentrated beam of light with enough power to deal considerable damage.\\n\\nBy using advanced battery cells, this weapon is capable of warming up, boosting the firing speed with each consecutive shot when standing still.\\n\\nThis weapon can overheat when fully warmed up, resulting in a small battery explosion around the user.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -466,9 +606,13 @@
       "english": "laser pistol",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -479,9 +623,13 @@
       "english": "barrel",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -492,9 +640,13 @@
       "english": "grip",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -505,9 +657,13 @@
       "english": "Standard",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -518,9 +674,13 @@
       "english": "An ultratech rifle capable of emitting a concentrated beam of light with enough power to deal considerable damage over medium distance.\\n\\nBy using advanced battery cells, this weapon is capable of warming up, boosting the firing speed with each consecutive shot when standing still.\\n\\nThis weapon can overheat when fully warmed up, resulting in a small battery explosion around the user.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -531,9 +691,13 @@
       "english": "laser rifle",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -544,9 +708,13 @@
       "english": "barrel",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -557,9 +725,13 @@
       "english": "grip",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -570,9 +742,13 @@
       "english": "Standard",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -583,9 +759,13 @@
       "english": "An ultratech submachine gun capable of emitting a concentrated beam of light with enough power to deal considerable damage.\\n\\nBy using advanced battery cells, this weapon is capable of warming up, boosting the firing speed with each consecutive shot when standing still.\\n\\nThis weapon can overheat when fully warmed up, resulting in a small battery explosion around the user.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -596,9 +776,13 @@
       "english": "laser SMG",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -609,9 +793,13 @@
       "english": "barrel",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -622,9 +810,13 @@
       "english": "grip",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -635,9 +827,13 @@
       "english": "Standard",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -648,9 +844,13 @@
       "english": "An ultratech scatter gun capable of emitting several beams of light with enough power to deal considerable damage.\\n\\nBy using advanced battery cells, this weapon is capable of warming up, boosting the firing speed with each consecutive shot when standing still.\\n\\nThis weapon can overheat when fully warmed up, resulting in a small battery explosion around the user.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -661,9 +861,13 @@
       "english": "laser shotgun",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -674,9 +878,13 @@
       "english": "barrel",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -687,9 +895,13 @@
       "english": "grip",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -700,9 +912,13 @@
       "english": "Standard",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -713,9 +929,13 @@
       "english": "An ultratech sniper rifle capable of emitting a concentrated beam of light with enough power to deal considerable damage over long range.\\n\\nBy using advanced battery cells, this weapon is capable of warming up, boosting the firing speed with each consecutive shot when standing still.\\n\\nThis weapon can overheat when fully warmed up, resulting in a small battery explosion around the user.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -726,9 +946,13 @@
       "english": "laser sniper rifle",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -739,9 +963,13 @@
       "english": "barrel",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -752,9 +980,13 @@
       "english": "grip",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -765,9 +997,13 @@
       "english": "Standard",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -778,9 +1014,13 @@
       "english": "A salvaged pistol capable of emitting an unstable beam of light with enough power to deal moderate damage.\\n\\nBy using makeshift battery cells, this weapon is capable of quickly warming up, boosting the firing speed with each consecutive shot when standing still.\\n\\nThis weapon can overheat quickly when fully warmed up, resulting in a small battery explosion around the user.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -791,9 +1031,13 @@
       "english": "salvaged laser pistol",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -804,9 +1048,13 @@
       "english": "barrel",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -817,9 +1065,13 @@
       "english": "grip",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -830,9 +1082,13 @@
       "english": "Standard",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -843,9 +1099,13 @@
       "english": "A salvaged rifle capable of emitting an unstable beam of light with enough power to deal moderate damage over medium distance.\\n\\nBy using makeshift battery cells, this weapon is capable of quickly warming up, boosting the firing speed with each consecutive shot when standing still.\\n\\nThis weapon can overheat quickly when fully warmed up, resulting in a small battery explosion around the user.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -856,9 +1116,13 @@
       "english": "salvaged laser rifle",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -869,9 +1133,13 @@
       "english": "barrel",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -882,9 +1150,13 @@
       "english": "grip",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -895,9 +1167,13 @@
       "english": "Standard",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -908,9 +1184,13 @@
       "english": "A salvaged scattergun capable of emitting several unstable beams of light with enough power to deal moderate damage.\\n\\nBy using makeshift battery cells, this weapon is capable of quickly warming up, boosting the firing speed with each consecutive shot when standing still.\\n\\nThis weapon can overheat quickly when fully warmed up, resulting in a small battery explosion around the user.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -921,9 +1201,13 @@
       "english": "salvaged laser shotgun",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -934,9 +1218,13 @@
       "english": "barrel",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -947,9 +1235,13 @@
       "english": "grip",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -960,9 +1252,13 @@
       "english": "Standard",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -973,9 +1269,13 @@
       "english": "A salvaged sniper rifle capable of emitting an unstable beam of light with enough power to deal moderate damage over long distances.\\n\\nBy using makeshift battery cells, this weapon is capable of quickly warming up, boosting the firing speed with each consecutive shot when standing still.\\n\\nThis weapon can overheat quickly when fully warmed up, resulting in a small battery explosion around the user.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -986,9 +1286,13 @@
       "english": "salvaged laser sniper rifle",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -999,9 +1303,13 @@
       "english": "barrel",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1012,9 +1320,13 @@
       "english": "grip",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1025,9 +1337,13 @@
       "english": "Standard",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1038,9 +1354,13 @@
       "english": "An ultratech arc lightning device capable of emitting a lightning bolt that disable electronic systems and sets enemies on fire.\\n\\nBy using advanced battery cells, this weapon is capable of warming up, boosting the firing speed with each consecutive shot when standing still.\\n\\nUsed widely by ultratech marines during mechanoid wars.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1051,9 +1371,13 @@
       "english": "tesla gun",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1064,9 +1388,13 @@
       "english": "barrel",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1077,9 +1405,13 @@
       "english": "grip",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1090,9 +1422,13 @@
       "english": "Standard",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1103,9 +1439,13 @@
       "english": "An ultratech device consisting of a handle and an extendable laser blade. A weapon of gentlemen.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1116,9 +1456,13 @@
       "english": "laser sword",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1129,9 +1473,13 @@
       "english": "blade",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1142,9 +1490,13 @@
       "english": "handle",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1155,9 +1507,13 @@
       "english": "point",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1168,9 +1524,13 @@
       "english": "Mote",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1181,9 +1541,13 @@
       "english": "Learn to break down and salvage advanced components into unstable, experimental laser weaponry.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1194,9 +1558,13 @@
       "english": "subject->the beacon of innovation",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1207,9 +1575,13 @@
       "english": "subject_story->ventured into the unknown by dismantling advanced technology to forge experimental laser weapons",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1220,9 +1592,13 @@
       "english": "subject_story->combined salvaged components with cutting-edge research, creating armaments that blaze with the power of controlled light",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1233,9 +1609,13 @@
       "english": "subject_gerund->illuminating the path to superiority with the brilliance of salvaged laser weaponry",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1246,9 +1626,13 @@
       "english": "salvaged laser weapons",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     }
   ]
 }

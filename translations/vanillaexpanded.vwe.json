@@ -11,9 +11,13 @@
       "english": "anti-materiel impact shell",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -24,9 +28,13 @@
       "english": "charge sniper slug",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -37,9 +45,13 @@
       "english": "marksman rifle bullet",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -50,9 +62,13 @@
       "english": "crossbow bolt",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -63,9 +79,13 @@
       "english": "compound bow arrow",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -76,9 +96,13 @@
       "english": "longbow arrow",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -89,9 +113,13 @@
       "english": "A compact, sophisticated compound hunting bow. Its cam system stores high energy, providing superior accuracy and launching armor-piercing, high-velocity arrows. The reduced sound signature makes it ideal for stealthy hunting.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -102,9 +130,13 @@
       "english": "compound bow",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -115,9 +147,13 @@
       "english": "limb",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -128,9 +164,13 @@
       "english": "compound bow",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -141,9 +181,13 @@
       "english": "A simple crossbow. It fires a standard bolt with decent accuracy and firing rate, making it a reliable mid-tier anti-armor ranged weapon.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -154,9 +198,13 @@
       "english": "crossbow",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -167,9 +215,13 @@
       "english": "limb",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -180,9 +232,13 @@
       "english": "poke",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -193,9 +249,13 @@
       "english": "crossbow",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -206,9 +266,13 @@
       "english": "A tall, powerful bow requiring great strength to draw. It launches high velocity arrows at extreme range.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -219,9 +283,13 @@
       "english": "longbow",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -232,9 +300,13 @@
       "english": "limb",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -245,9 +317,13 @@
       "english": "longbow",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -258,9 +334,13 @@
       "english": "battle rifle bullet",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -271,9 +351,13 @@
       "english": "carbine bullet",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -284,9 +368,13 @@
       "english": "charge blaster shot",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -297,9 +385,13 @@
       "english": "heavy charge blaster shot",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -310,9 +402,13 @@
       "english": "charge pistol shot",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -323,9 +419,13 @@
       "english": "charge SMG shot",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -336,9 +436,13 @@
       "english": "charge shotgun blast",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -349,9 +453,13 @@
       "english": "combat handgun bullet",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -362,9 +470,13 @@
       "english": "flamethrower shot",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -375,9 +487,13 @@
       "english": "frag grenade",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -388,9 +504,13 @@
       "english": "HMG bullet",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -401,9 +521,13 @@
       "english": "heavy revolver bullet",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -414,9 +538,13 @@
       "english": "lever-action rifle bullet",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -427,9 +555,13 @@
       "english": "light SMG bullet",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -440,9 +572,13 @@
       "english": "rocket",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -453,9 +589,13 @@
       "english": "SMG bullet",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -466,9 +606,13 @@
       "english": "shotgun blast",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -479,9 +623,13 @@
       "english": "semi-automatic rifle bullet",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -492,9 +640,13 @@
       "english": "service rifle bullet",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -505,9 +657,13 @@
       "english": "trench gun blast",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -518,9 +674,13 @@
       "english": "A modern, blowback-operated self-loading pistol designed for close-quarters engagement. It can be fired rapidly for superior short-range lethality and is slightly more accurate than standard autopistols.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -531,9 +691,13 @@
       "english": "combat handgun",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -544,9 +708,13 @@
       "english": "barrel",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -557,9 +725,13 @@
       "english": "grip",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -570,9 +742,13 @@
       "english": "combat handgun",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -583,9 +759,13 @@
       "english": "A non-lethal tactical grenade designed to temporarily incapacitate enemies. Upon detonation, it emits a powerful flash of light and a loud sound, disorienting and stunning enemies in a radius, buying time for tactical advances or retreats.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -596,9 +776,13 @@
       "english": "stun grenades",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -609,9 +793,13 @@
       "english": "throw flash grenade",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -622,9 +810,13 @@
       "english": "small knife",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -635,9 +827,13 @@
       "english": "Devastating, heavy-caliber bolt-action rifle designed to engage fortified positions and armored targets. It fires an exceptionally large round for superior damage and penetration at extreme ranges. Due to its weight and recoil, it's physically demanding and requires a long aiming period before it can be accurately fired.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -648,9 +844,13 @@
       "english": "anti-materiel rifle",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -661,9 +861,13 @@
       "english": "barrel",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -674,9 +878,13 @@
       "english": "stock",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -687,9 +895,13 @@
       "english": "anti-materiel rifle",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -700,9 +912,13 @@
       "english": "A gas-operated rifle designed to deliver a powerful, accurate shot in medium-to-long-range engagements. It uses a heavier caliber round than a standard assault rifle, sacrificing burst size for superior damage and armor penetration.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -713,9 +929,13 @@
       "english": "battle rifle",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -726,9 +946,13 @@
       "english": "barrel",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -739,9 +963,13 @@
       "english": "stock",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -752,9 +980,13 @@
       "english": "battle rifle",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -765,9 +997,13 @@
       "english": "A general-purpose gas-operated assault rifle, slightly shortened and lighter for enhanced maneuverability. It fires an intermediate-caliber round in a long burst, offering good close-to-medium range accuracy but sacrificing long-range precision for superior handling.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -778,9 +1014,13 @@
       "english": "carbine",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -791,9 +1031,13 @@
       "english": "barrel",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -804,9 +1048,13 @@
       "english": "stock",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -817,9 +1065,13 @@
       "english": "carbine",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -830,9 +1082,13 @@
       "english": "A massive, portable charge weapon designed for sustained, suppressive fire. It uses advanced pulse-charge technology to channel and release devastating shots charged with unstable energy through its heavy-duty barrel. This design sacrifices spread for sheer focused power, making it capable of tearing apart multiple enemies or structures in a single, prolonged burst.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -843,9 +1099,13 @@
       "english": "charge blaster",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -856,9 +1116,13 @@
       "english": "barrel",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -869,9 +1133,13 @@
       "english": "charge blaster",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -882,9 +1150,13 @@
       "english": "A colossal charge weapon adapted for portable use. It channels immense pulse-charge energy into heavy-caliber slugs, firing them in devastating, sustained bursts. While its mass makes it difficult to handle, it is unrivaled in its capacity to tear through hardened targets and armored columns.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -895,9 +1167,13 @@
       "english": "heavy charge blaster",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -908,9 +1184,13 @@
       "english": "barrel",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -921,9 +1201,13 @@
       "english": "heavy charge blaster",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -934,9 +1218,13 @@
       "english": "This high-tech, self-loading pistol uses pulse-charge technology to channel unstable energy into each shot. The charged energy is released on impact, delivering superior damage and armor penetration. Its compact size and reliability make it an ideal backup weapon in high-tech combat.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -947,9 +1235,13 @@
       "english": "charge pistol",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -960,9 +1252,13 @@
       "english": "barrel",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -973,9 +1269,13 @@
       "english": "stock",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -986,9 +1286,13 @@
       "english": "charge pistol",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -999,9 +1303,13 @@
       "english": "A portable, shoulder-fired launcher that uses laser targeting to fire an explosive, charged missile high into the air. The projectile follows a ballistic arc, allowing it to bypass cover and strike targets without needing a direct line of sight. Must be used in an unroofed area.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1012,9 +1320,13 @@
       "english": "charge missile launcher",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1025,9 +1337,13 @@
       "english": "barrel",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1038,9 +1354,13 @@
       "english": "stock",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1051,9 +1371,13 @@
       "english": "charge missile launcher",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1064,9 +1388,13 @@
       "english": "A compact submachine gun built using advanced pulse-charge technology. It fires a rapid burst of kinetic rounds charged with unstable energy, trading long-range precision for devastating, high-penetration firepower at close quarters. Its speed and size make it an exceptional weapon for clearing enclosed spaces.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1077,9 +1405,13 @@
       "english": "charge SMG",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1090,9 +1422,13 @@
       "english": "barrel",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1103,9 +1439,13 @@
       "english": "stock",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1116,9 +1456,13 @@
       "english": "charge SMG",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1129,9 +1473,13 @@
       "english": "A sophisticated, high-tech scattergun utilizing pulse-charge technology. The energy is channeled into a single, high-impact slug, delivering devastating damage and superior armor penetration at close range. Its integrated pump-action mechanism cycles rounds rapidly, making it the ultimate tool for close-quarters breach and clear operations.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1142,9 +1490,13 @@
       "english": "charge shotgun",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1155,9 +1507,13 @@
       "english": "barrel",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1168,9 +1524,13 @@
       "english": "stock",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1181,9 +1541,13 @@
       "english": "charge shotgun",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1194,9 +1558,13 @@
       "english": "A specialized, high-velocity charge rifle designed for extreme-range engagement with anti-armor capabilities. It channels immense pulse-charge energy into a single, kinetic slug, delivering extremely high damage and armor penetration with pinpoint accuracy at maximum distance. Its bulk requires a stable firing position.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1207,9 +1575,13 @@
       "english": "charge sniper rifle",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1220,9 +1592,13 @@
       "english": "barrel",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1233,9 +1609,13 @@
       "english": "stock",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1246,9 +1626,13 @@
       "english": "charge sniper rifle",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1259,9 +1643,13 @@
       "english": "A specialized, man-portable incendiary weapon. It projects a stream of searing hot fuel that ignites on contact, rapidly spreading flame across a short-to-medium range. Highly effective against unarmored targets and excellent for clearing enclosed spaces or burning away flammable cover.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1272,9 +1660,13 @@
       "english": "flamethrower",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1285,9 +1677,13 @@
       "english": "barrel",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1298,9 +1694,13 @@
       "english": "stock",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1311,9 +1711,13 @@
       "english": "flamethrower",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1324,9 +1728,13 @@
       "english": "A lightweight, breech-loaded launcher that fires fragmentation grenades. It projects a frag grenade a moderate distance, inflicting damage in a small blast radius.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1337,9 +1745,13 @@
       "english": "grenade launcher",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1350,9 +1762,13 @@
       "english": "barrel",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1363,9 +1779,13 @@
       "english": "stock",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1376,9 +1796,13 @@
       "english": "grenade launcher",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1389,9 +1813,13 @@
       "english": "A gas-operated heavy machine gun. Its massive frame and long barrel make it extremely heavy and slow to maneuver, but it delivers devastatingly long bursts of heavy-caliber fire, designed to suppress and tear through armored targets and groups of enemies.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1402,9 +1830,13 @@
       "english": "HMG",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1415,9 +1847,13 @@
       "english": "barrel",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1428,9 +1864,13 @@
       "english": "stock",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1441,9 +1881,13 @@
       "english": "HMG",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1454,9 +1898,13 @@
       "english": "A massive, high-caliber revolver, designed to deliver a devastating single punch. Its heavy frame and long barrel manage the immense recoil, making it slow to draw but highly effective at putting down targets with its powerful, armor-piercing rounds.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1467,9 +1915,13 @@
       "english": "heavy revolver",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1480,9 +1932,13 @@
       "english": "barrel",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1493,9 +1949,13 @@
       "english": "grip",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1506,9 +1966,13 @@
       "english": "heavy revolver",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1519,9 +1983,13 @@
       "english": "A traditional hunting rifle utilizing a lever-action mechanism. It offers a balance of moderate firepower, decent accuracy, and a fast follow-up shot compared to bolt-action designs, making it a reliable weapon for medium-range engagements.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1532,9 +2000,13 @@
       "english": "lever-action rifle",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1545,9 +2017,13 @@
       "english": "barrel",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1558,9 +2034,13 @@
       "english": "stock",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1571,9 +2051,13 @@
       "english": "lever-action rifle",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1584,9 +2068,13 @@
       "english": "A small, lightweight submachine gun designed for maneuverability in close-quarters combat. It fires a rapid burst of small-caliber rounds, making it highly effective at short range but quickly losing accuracy over distance.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1597,9 +2085,13 @@
       "english": "light SMG",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1610,9 +2102,13 @@
       "english": "barrel",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1623,9 +2119,13 @@
       "english": "grip",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1636,9 +2136,13 @@
       "english": "light SMG",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1649,9 +2153,13 @@
       "english": "A specialized, semi-automatic rifle. It fires a powerful round with higher velocity than a standard assault rifle, offering an excellent balance of long-range precision and a faster rate of follow-up shots.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1662,9 +2170,13 @@
       "english": "marksman rifle",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1675,9 +2187,13 @@
       "english": "barrel",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1688,9 +2204,13 @@
       "english": "stock",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1701,9 +2221,13 @@
       "english": "marksman rifle",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1714,9 +2238,13 @@
       "english": "A single-use rocket launcher firing a massive, high-explosive warhead. Slow to aim with a significant minimum range due to its power, it excels against structures, mechanoids, and armored foes. Its unwieldiness, single-use nature, and sheer destruction make it a rare and scary sight in combat.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1727,9 +2255,13 @@
       "english": "rocket launcher",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1740,9 +2272,13 @@
       "english": "barrel",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1753,9 +2289,13 @@
       "english": "rocket launcher",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1766,9 +2306,13 @@
       "english": "Modern, magazine-fed SMG built for overwhelming close-quarters fire. It uses small-caliber rounds in a long burst, sacrificing long-range accuracy for sheer, close-up firepower.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1779,9 +2323,13 @@
       "english": "SMG",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1792,9 +2340,13 @@
       "english": "barrel",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1805,9 +2357,13 @@
       "english": "grip",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1818,9 +2374,13 @@
       "english": "SMG",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1831,9 +2391,13 @@
       "english": "A durable, self-loading rifle designed for rapid, controlled fire at medium-to-long ranges. Its mechanism allows for a high rate of fire compared to bolt-action models, making it ideal for maintaining continuous pressure on an enemy.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1844,9 +2408,13 @@
       "english": "semi-automatic rifle",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1857,9 +2425,13 @@
       "english": "barrel",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1870,9 +2442,13 @@
       "english": "stock",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1883,9 +2459,13 @@
       "english": "semi-automatic rifle",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1896,9 +2476,13 @@
       "english": "A versatile and rugged assault rifle widely used around the galaxy by militia forces and mercenaries.\\n\\nNot as powerful as an assault rifle, but deliver 4 shot bursts.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1909,9 +2493,13 @@
       "english": "service rifle",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1922,9 +2510,13 @@
       "english": "barrel",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1935,9 +2527,13 @@
       "english": "stock",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1948,9 +2544,13 @@
       "english": "service rifle",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1961,9 +2561,13 @@
       "english": "Construct heavy weapons that offer superior firepower, at the cost of being very physically demanding.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1974,9 +2578,13 @@
       "english": "subject->the weight of power",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1987,9 +2595,13 @@
       "english": "subject_story->developed weapons that bring unparalleled firepower to the battlefield",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2000,9 +2612,13 @@
       "english": "subject_story->balanced the scales of warfare with heavy, decisive armaments",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2013,9 +2629,13 @@
       "english": "subject_story->created training programs for specialized units to operate these weapons",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2026,9 +2646,13 @@
       "english": "subject_story->engineered mobility solutions to transport and deploy heavy armaments",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2039,9 +2663,13 @@
       "english": "subject_gerund->mastering the art of destruction with heavy weapons",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2052,9 +2680,13 @@
       "english": "heavy weapons",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2065,9 +2697,13 @@
       "english": "Adapt laser targeting systems for accurate and swift delivery of charged payloads.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2078,9 +2714,13 @@
       "english": "subject->pinpoint accuracy",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2091,9 +2731,13 @@
       "english": "subject_story->revolutionized precision strikes with advanced laser guidance",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2104,9 +2748,13 @@
       "english": "subject_story->enabled real-time target acquisition and adjustment",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2117,9 +2765,13 @@
       "english": "subject_story->integrated systems with existing weaponry for enhanced combat effectiveness",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2130,9 +2782,13 @@
       "english": "subject_story->developed compact, portable laser designators for field operations",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2143,9 +2799,13 @@
       "english": "subject_gerund->honing the edge of warfare with technology",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2156,9 +2816,13 @@
       "english": "laser targeting systems",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2169,9 +2833,13 @@
       "english": "Chip rock chunks into usable weapons.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2182,9 +2850,13 @@
       "english": "Chipping rock chunks into usable weapon.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2195,9 +2867,13 @@
       "english": "make throwing rocks",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2208,9 +2884,13 @@
       "english": "A small, single-handed axe designed for quick, repeated strikes. Its light weight and short handle allow for fast swinging speed. Using a hatchet increases the plant harvest yield slightly.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2221,9 +2901,13 @@
       "english": "hatchet",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2234,9 +2918,13 @@
       "english": "edge",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2247,9 +2935,13 @@
       "english": "handle",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2260,9 +2952,13 @@
       "english": "A sturdy, weighted club used for incapacitation and crowd control. Its dense construction delivers powerful blunt force trauma, favored by police and security forces for non-lethal (and sometimes lethal) engagements.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2273,9 +2969,13 @@
       "english": "baton",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2286,9 +2986,13 @@
       "english": "handle",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2299,9 +3003,13 @@
       "english": "head",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2312,9 +3020,13 @@
       "english": "A hefty, two-handed axe designed for cleaving through foes. Its wide, sharp blade delivers devastating cutting damage, while its mass allows for powerful but slow strikes.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2325,9 +3037,13 @@
       "english": "battle axe",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2338,9 +3054,13 @@
       "english": "edge",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2351,9 +3071,13 @@
       "english": "handle",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2364,9 +3088,13 @@
       "english": "OA refined and deadly tool, the military combat knife has taken many forms, but the concept has always remained the same: A handle for a sure grip and a sharp edge for cutting and thrusting, optimized for battlefield use.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2377,9 +3105,13 @@
       "english": "combat knife",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2390,9 +3122,13 @@
       "english": "blade",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2403,9 +3139,13 @@
       "english": "handle",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2416,9 +3156,13 @@
       "english": "point",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2429,9 +3173,13 @@
       "english": "A versatile polearm featuring a sharp axe head and a back spike, designed for rapid, decisive blows against armored foes. The reach of the poleaxe allows to strike enemies much further away.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2442,9 +3190,13 @@
       "english": "poleaxe",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2455,9 +3207,13 @@
       "english": "edge",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2468,9 +3224,13 @@
       "english": "shaft",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2481,9 +3241,13 @@
       "english": "spike",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2494,9 +3258,13 @@
       "english": "A simple, single-handed weapon with a heavy head, designed to deliver powerful blunt force to crush enemies. Using a hammer increases the construction speed slightly.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2507,9 +3275,13 @@
       "english": "hammer",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2520,9 +3292,13 @@
       "english": "handle",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2533,9 +3309,13 @@
       "english": "head",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2546,9 +3326,13 @@
       "english": "One of the most versatile tools for a soldier, the entrenching tool is a simple but effective weapon. With a sturdy handle and a sharpened, heavy blade, it serves equally well for digging a trench or bludgeoning an enemy.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2559,9 +3343,13 @@
       "english": "shovel",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2572,9 +3360,13 @@
       "english": "edge",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2585,9 +3377,13 @@
       "english": "handle",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2598,9 +3394,13 @@
       "english": "flash grenade",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2611,9 +3411,13 @@
       "english": "smoke grenade",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2624,9 +3428,13 @@
       "english": "small rock",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2637,9 +3445,13 @@
       "english": "antigrain rocket",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2650,9 +3462,13 @@
       "english": "A compact, double-barreled shotgun with a shortened stock and barrel. Designed for close-quarters engagements, it delivers a devastating, wide-spread blast at extremely short range, making it a terrifying ambush weapon.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2663,9 +3479,13 @@
       "english": "sawn-off shotgun",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2676,9 +3496,13 @@
       "english": "barrel",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2689,9 +3513,13 @@
       "english": "stock",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2702,9 +3530,13 @@
       "english": "sawn-off shotgun",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2715,9 +3547,13 @@
       "english": "Grenades loaded with liquified blind smoke. Upon landing, they instantly release their smoke payload. The non-toxic smoke covers an area, greatly reducing ranged accuracy and completely blocking automated turret targeting. It provides tactical cover for about a minute before dissipating.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2728,9 +3564,13 @@
       "english": "smoke grenades",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2741,9 +3581,13 @@
       "english": "throw smoke grenade",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2754,9 +3598,13 @@
       "english": "A small bundle of light, balanced knives designed to be thrown rapidly. Ineffective against armor, but capable of high close-range damage.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2767,9 +3615,13 @@
       "english": "throwing knives",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2780,9 +3632,13 @@
       "english": "blade",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2793,9 +3649,13 @@
       "english": "handle",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2806,9 +3666,13 @@
       "english": "throwing knives",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2819,9 +3683,13 @@
       "english": "A handful of rocks. Can inflict minor injuries in close range. Doesn't drop on death. Simple but effective.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2832,9 +3700,13 @@
       "english": "throwing rocks",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2845,9 +3717,13 @@
       "english": "rock",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2858,9 +3734,13 @@
       "english": "throwing rocks",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2871,9 +3751,13 @@
       "english": "A modernized pump-action shotgun for close-quarters trench warfare. Solid construction and a short barrel enable rapid firing and maneuvering, delivering a devastating blast of buckshot at short range.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2884,9 +3768,13 @@
       "english": "trench gun",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2897,9 +3785,13 @@
       "english": "barrel",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2910,9 +3802,13 @@
       "english": "stock",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -2923,9 +3819,13 @@
       "english": "trench gun",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -2933,9 +3833,13 @@
       "key": "VWE_ShotRemaining",
       "english": "Shots remaining: {0}",
       "source": "Keys.xml:7",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -2943,9 +3847,13 @@
       "key": "VWE_WeaponDeterioratedMessage",
       "english": "{0}, equipped by {1}, has fully deteriorated.",
       "source": "Keys.xml:5",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -2953,9 +3861,13 @@
       "key": "VWE_WeaponDeteriorationInfo",
       "english": "This weapon will deteriorate after a certain number of shots.",
       "source": "Keys.xml:6",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     }
   ]
 }

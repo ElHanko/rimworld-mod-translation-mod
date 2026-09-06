@@ -11,9 +11,13 @@
       "english": "A leather or cloth apron covering legs, waist and chest.\\n\\nApron like that is often used by craftsmen, doctors and chefs due to useful pockets and protection it provides.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -24,9 +28,13 @@
       "english": "apron",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -37,9 +45,13 @@
       "english": "Very light and thin blouse, great for hot climates.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -50,9 +62,13 @@
       "english": "blouse",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -63,9 +79,13 @@
       "english": "A jacket with highly reflective properties and a colour that is easily discernible from any background.\\n\\nMost industrial employees wear it as part of their personal protective equipment.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -76,9 +96,13 @@
       "english": "builder's jacket",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -89,9 +113,13 @@
       "english": "A casual T-shirt with a cool sticker on it.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -102,9 +130,13 @@
       "english": "casual T-shirt",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -115,9 +147,13 @@
       "english": "A thick cloth coat protects from the heat of stoves and splattering of boiling liquids.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -128,9 +164,13 @@
       "english": "chef's uniform",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -141,9 +181,13 @@
       "english": "Sanitary clothing worn by surgeons, nurses and other workers involved in patient care. They are designed to be simple, easy to launder and cheap to replace if damaged or stained.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -154,9 +198,13 @@
       "english": "doctor scrubs",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -167,9 +215,13 @@
       "english": "A soft, checkered, breathable shirt perfect for working in the field.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -180,9 +232,13 @@
       "english": "fleece shirt",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -193,9 +249,13 @@
       "english": "A warm casual hoodie that doesn’t limit wearer’s movement.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -206,9 +266,13 @@
       "english": "hoodie",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -219,9 +283,13 @@
       "english": "A pair of thick enough jeans to provide some degree of protection from damage and cold.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -232,9 +300,13 @@
       "english": "jeans",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -245,9 +317,13 @@
       "english": "A full body jumpsuit made out of thick fabric or leather. Excellent for general body protection and manual labour.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -258,9 +334,13 @@
       "english": "jumpsuit",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -271,9 +351,13 @@
       "english": "A light coat worn to protect clothing from substances used in a lab.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -284,9 +368,13 @@
       "english": "lab coat",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -297,9 +385,13 @@
       "english": "A thick fabric military formal jacket used for certain ceremonies, receptions and celebrations. It contains orders, medals insignia and campaign ribbons. It is considered a symbol of courage and valor.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -310,9 +402,13 @@
       "english": "military jacket",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -323,9 +419,13 @@
       "english": "A thick, protective coverall with a military camouflage.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -336,9 +436,13 @@
       "english": "military uniform",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -349,9 +453,13 @@
       "english": "A pair of bib-and-brace overalls perfect for working in the field.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -362,9 +470,13 @@
       "english": "overalls",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -375,9 +487,13 @@
       "english": "A heavy coat insulated due to animal pelt, providing warmth and armor.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -388,9 +504,13 @@
       "english": "pelt coat",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -401,9 +521,13 @@
       "english": "A formal, thick buttoned-down shirt with a sheriff star on the chest. Provides wearer with a sense of pride and accomplishment.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -414,9 +538,13 @@
       "english": "sheriff shirt",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -427,9 +555,13 @@
       "english": "A nice looking collared shirt with buttons and a tie.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -440,9 +572,13 @@
       "english": "shirt and tie",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -453,9 +589,13 @@
       "english": "A pair of shorts, perfect for hot summer days.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -466,9 +606,13 @@
       "english": "shorts",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -479,9 +623,13 @@
       "english": "A short skirt.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -492,9 +640,13 @@
       "english": "skirt",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -505,9 +657,13 @@
       "english": "A nice looking suit jacket.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -518,9 +674,13 @@
       "english": "suit jacket",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -531,9 +691,13 @@
       "english": "A sleeveless type of T-shirt, useful during prolonged exercise.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -544,9 +708,13 @@
       "english": "tank top",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -557,9 +725,13 @@
       "english": "A kilt crafted using neolithic tools. While it may look primitive, it is effective at insulating the wearer.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -570,9 +742,13 @@
       "english": "tribal kilt",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -583,9 +759,13 @@
       "english": "A poncho crafted using neolithic tools. While it may look primitive, it is effective at insulating the wearer.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -596,9 +776,13 @@
       "english": "tribal poncho",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -609,9 +793,13 @@
       "english": "A nice looking set of suit trousers.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -622,9 +810,13 @@
       "english": "trousers",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -635,9 +827,13 @@
       "english": "Slightly heavier than a normal shirt, a tunic is a great isolation against cold weather.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -648,9 +844,13 @@
       "english": "tunic",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -661,9 +861,13 @@
       "english": "Craft casual wear with handy features for any life situation.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -674,9 +878,13 @@
       "english": "subject->everyday comfort",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -687,9 +895,13 @@
       "english": "subject_story->revolutionized daily attire with pockets for every gadget",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -700,9 +912,13 @@
       "english": "subject_story->created clothes that adapt to both social gatherings and solitude",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -713,9 +929,13 @@
       "english": "subject_story->crafted the ultimate leisure outfit, blending fashion with utility",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -726,9 +946,13 @@
       "english": "subject_gerund->designing versatile casual wear",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -739,9 +963,13 @@
       "english": "casual wear",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -752,9 +980,13 @@
       "english": "A simple pair of leather boots.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -765,9 +997,13 @@
       "english": "boots",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -778,9 +1014,13 @@
       "english": "A fancy pair of leather shoes.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -791,9 +1031,13 @@
       "english": "shoes",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -804,9 +1048,13 @@
       "english": "Craft suits and formal wear.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -817,9 +1065,13 @@
       "english": "subject->elegant dressing",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -830,9 +1082,13 @@
       "english": "subject_story->designed the most sought-after gala attire",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -843,9 +1099,13 @@
       "english": "subject_story->brought back vintage styles with a modern twist",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -856,9 +1116,13 @@
       "english": "subject_story->tailored suits that became the standard in high diplomacy",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -869,9 +1133,13 @@
       "english": "subject_gerund->crafting exquisite formal wear",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -882,9 +1150,13 @@
       "english": "formal wear",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -895,9 +1167,13 @@
       "english": "A simple pair of gloves.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -908,9 +1184,13 @@
       "english": "gloves",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -921,9 +1201,13 @@
       "english": "A type of soft cap with a rounded crown and a stiff peak protecting the front.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -934,9 +1218,13 @@
       "english": "baseball cap",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -947,9 +1235,13 @@
       "english": "A soft, flat crowned hat. Often worn by the military as a symbol of valor.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -960,9 +1252,13 @@
       "english": "military beret",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -973,9 +1269,13 @@
       "english": "A tall, round, pleated hat usually worn by the chefs.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -986,9 +1286,13 @@
       "english": "chef's toque",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -999,9 +1303,13 @@
       "english": "A nice looking hat with a soft brim and indented crown.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1012,9 +1320,13 @@
       "english": "fedora",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1025,9 +1337,13 @@
       "english": "A pair of correction glasses, providing users with some degree of psychic immunity.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1038,9 +1354,13 @@
       "english": "glasses",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1051,9 +1371,13 @@
       "english": "A type of helmet predominantly used in a work environment. Provides high protection against blunt trauma.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1064,9 +1388,13 @@
       "english": "hardhat",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1077,9 +1405,13 @@
       "english": "A warm and long piece of fabric protecting the neck from exposure to cold.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1090,9 +1422,13 @@
       "english": "scarf",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1103,9 +1439,13 @@
       "english": "A pair of sunglasses protecting the wearer from dangerous UV rays. Often considered to be ‘cool’.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1116,9 +1456,13 @@
       "english": "sunglasses",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1129,9 +1473,13 @@
       "english": "Sanitary mask worn by the surgeons, nurses and other workers involved in patient care.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1142,9 +1490,13 @@
       "english": "surgical mask",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1155,9 +1507,13 @@
       "english": "Craft sterile attire used by doctors and scientists.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1168,9 +1524,13 @@
       "english": "subject->hygienic wear",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1181,9 +1541,13 @@
       "english": "subject_story->developed a fabric that repels 99.9% of microbes",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1194,9 +1558,13 @@
       "english": "subject_story->pioneered the self-cleaning lab coat",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1207,9 +1575,13 @@
       "english": "subject_story->introduced color-coded uniforms for different lab sectors",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1220,9 +1592,13 @@
       "english": "subject_gerund->producing sterile clothing",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1233,9 +1609,13 @@
       "english": "sterile attire",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1246,9 +1626,13 @@
       "english": "Craft comfortable and and functional attire for any kind of work.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1259,9 +1643,13 @@
       "english": "subject->functional fashion",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1272,9 +1660,13 @@
       "english": "subject_story->introduced durable fabrics that withstand any job",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1285,9 +1677,13 @@
       "english": "subject_story->innovated with multi-tool belts integrated into work pants",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1298,9 +1694,13 @@
       "english": "subject_story->set the new norm with climate-adaptive work clothes",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1311,9 +1711,13 @@
       "english": "subject_gerund->sewing specialized work attire",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1324,9 +1728,13 @@
       "english": "work attire",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     }
   ]
 }

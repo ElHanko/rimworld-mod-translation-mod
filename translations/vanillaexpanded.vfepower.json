@@ -11,9 +11,13 @@
       "english": "Build spacertech batteries, capable of efficiently storing large amounts of energy.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -24,9 +28,13 @@
       "english": "subject->the capacitors of tomorrow",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -37,9 +45,13 @@
       "english": "subject_story->broke new ground in energy storage, with batteries that hold the promise of tomorrow",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -50,9 +62,13 @@
       "english": "subject_story->crafted compact yet powerful storage solutions, harnessing spacertech to leap forward in efficiency",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -63,9 +79,13 @@
       "english": "subject_story->pioneered systems that safeguard against power fluctuations, securing energy for critical moments",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -76,9 +96,13 @@
       "english": "subject_story->transformed the way civilizations store and manage their power, making energy scarcity a tale of the past",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -89,9 +113,13 @@
       "english": "subject_gerund->storing the pulse of progress in advanced batteries",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -102,9 +130,13 @@
       "english": "advanced battery",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -115,9 +147,13 @@
       "english": "Stores electricity for later use. Due to technological advancements, this battery unit is significantly more efficient. Charged advanced batteries are waterproof and don't explode when exposed to rain.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -128,9 +164,13 @@
       "english": "advanced battery",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -141,9 +181,13 @@
       "english": "Construct spacertech green power generators, including advanced solar panels and wind turbines.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -154,9 +198,13 @@
       "english": "subject->harvesting the elements",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -167,9 +215,13 @@
       "english": "subject_story->harnessed the power of the sun and wind with unprecedented efficiency, through advanced solar panels and turbines",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -180,9 +232,13 @@
       "english": "subject_story->elevated green power technologies to new heights, combining sustainability with high performance",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -193,9 +249,13 @@
       "english": "subject_story->initiated a green revolution in energy production, reducing reliance on finite resources",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -206,9 +266,13 @@
       "english": "subject_story->integrated smart technologies to optimize energy capture and utilization, even in the most challenging environments",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -219,9 +283,13 @@
       "english": "subject_gerund->leading the charge towards a sustainable future with green power",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -232,9 +300,13 @@
       "english": "advanced power sources",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -245,9 +317,13 @@
       "english": "This spacertech solar generator is capable of extracting significantly more energy from sunlight. Does not work in the dark or under artificial light.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -258,9 +334,13 @@
       "english": "advanced solar generator",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -271,9 +351,13 @@
       "english": "A spacertech building that produces electricity from a river. Must be placed with its wheel in moving water. If watermills are placed too close together, the turbulence they generate will interfere and reduce power generation.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -284,9 +368,13 @@
       "english": "advanced watermill generator",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -297,9 +385,13 @@
       "english": "A spacertech, advanced wind-powered electrical generator. Requires a large clear space in front and behind for optimal air flow.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -310,9 +402,13 @@
       "english": "advanced wind turbine",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -323,9 +419,13 @@
       "english": "Produces a large amount of power by consuming chemfuel. Must be periodically refueled by hand.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -336,9 +436,13 @@
       "english": "industrial chemfuel powered generator",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -349,9 +453,13 @@
       "english": "Build industrial-grade generators, capable of storing significantly more fuel and producing higher power.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -362,9 +470,13 @@
       "english": "subject->the era of industrial power",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -375,9 +487,13 @@
       "english": "subject_story->ushered in robust solutions to meet the growing energy demands of burgeoning industries",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -388,9 +504,13 @@
       "english": "subject_story->developed generators with unparalleled fuel efficiency and output, powering the machinery of progress",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -401,9 +521,13 @@
       "english": "subject_story->overcame the limitations of earlier power sources, setting the stage for an era of expansion and invention",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -414,9 +538,13 @@
       "english": "subject_story->engineered durability and reliability into every unit, ensuring the wheels of industry never slow",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -427,9 +555,13 @@
       "english": "subject_gerund->fueling the industrial revolution with advanced power generation",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -440,9 +572,13 @@
       "english": "industrial generators",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -453,9 +589,13 @@
       "english": "Produces a large amount of power by consuming wood. Must be periodically loaded with wood fuel by hand.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -466,9 +606,13 @@
       "english": "industrial wood-fired generator",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -479,9 +623,13 @@
       "english": "Stores large amounts of electricity for later use. Due to technological advancements, this battery unit is significantly more efficient. Charged large advanced batteries are waterproof and don't explode when exposed to rain.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -492,9 +640,13 @@
       "english": "large advanced battery",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -505,9 +657,13 @@
       "english": "Stores a large amount of electricity for later use. Charged large batteries explode when exposed to rain or fire.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -518,9 +674,13 @@
       "english": "large battery",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -531,9 +691,13 @@
       "english": "Generates a large amount of free energy, forever, without using fuel. This technology is developed by archotechs, and is beyond even most glitterworld societies. While nobody knows exactly how it works, scholars believe it somehow extracts energy directly from fluctuations in the quantum foam.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -544,9 +708,13 @@
       "english": "large vanometric power cell",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -557,9 +725,13 @@
       "english": "The ultimate power generation method, nuclear power is as sufficient as it is deadly.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -570,9 +742,13 @@
       "english": "subject->the atomic frontier",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -583,9 +759,13 @@
       "english": "subject_story->unlocked the atom's heart, unleashing a torrent of power sufficient to light cities and drive the engines of industry",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -596,9 +776,13 @@
       "english": "subject_story->balanced the immense potential with rigorous safety protocols, ensuring the boon of nuclear power wasn't overshadowed by its risks",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -609,9 +793,13 @@
       "english": "subject_story->catalyzed a shift in power generation, where the atom's quiet hum underpins the bustling life of civilizations",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -622,9 +810,13 @@
       "english": "subject_story->led a scientific and engineering marvel, making nuclear power the cornerstone of a new era of energy sufficiency",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -635,9 +827,13 @@
       "english": "subject_gerund->embracing the nucleus of progress with nuclear power",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -648,9 +844,13 @@
       "english": "nuclear power",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -661,9 +861,13 @@
       "english": "Produces a small amount of power by consuming chemfuel. Must be periodically refueled by hand. This generator is light enough to be carried around.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -674,9 +878,13 @@
       "english": "portable chemfuel powered generator",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -687,9 +895,13 @@
       "english": "Produces a small amount of power by consuming wood. Must be periodically loaded with wood fuel by hand. This generator is light enough to be carried around.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -700,9 +912,13 @@
       "english": "portable wood-fired generator",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -713,9 +929,13 @@
       "english": "Stores a small amount of electricity for later use. Charged batteries explode when exposed to rain or fire.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -726,9 +946,13 @@
       "english": "small battery",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -739,9 +963,13 @@
       "english": "Generates a very small amount of free energy, forever, without using fuel. This technology is developed by archotechs, and is beyond even most glitterworld societies. While nobody knows exactly how it works, scholars believe it somehow extracts energy directly from fluctuations in the quantum foam.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -752,9 +980,13 @@
       "english": "small vanometric power cell",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -765,9 +997,13 @@
       "english": "Produces electricity from moving masses of water, particularly tides. Must be placed on water.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -778,9 +1014,13 @@
       "english": "tidal generator",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -791,9 +1031,13 @@
       "english": "Build tidal generators on water to produce a large volume of sustainable green energy.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -804,9 +1048,13 @@
       "english": "subject->the rhythm of the seas",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -817,9 +1065,13 @@
       "english": "subject_story->tapped into the ceaseless motion of the oceans, converting the tides into a vast, unending source of power",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -830,9 +1082,13 @@
       "english": "subject_story->innovated with underwater turbines that dance with the currents, generating clean energy in harmony with nature",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -843,9 +1099,13 @@
       "english": "subject_story->overcame the challenges of marine power generation, protecting ecosystems while harnessing their strength",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -856,9 +1116,13 @@
       "english": "subject_story->showcased the potential of the planet's largest renewable resource, leading by example in the pursuit of sustainability",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -869,9 +1133,13 @@
       "english": "subject_gerund->syncing civilization's heartbeat with the tides",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -882,9 +1150,13 @@
       "english": "tidal power",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -895,9 +1167,13 @@
       "english": "This advanced, spacertech generator produces electricity from geothermal steam geysers. Must be placed on a steam geyser.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -908,9 +1184,13 @@
       "english": "advanced geothermal generator",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -921,9 +1201,13 @@
       "english": "This device taps into psychic energy leaving the bodies of surrounding humanoids, changing it directly into usable energy. This technology is developed by archotechs, and is beyond even most glitterworld societies.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -934,9 +1218,13 @@
       "english": "archotech violence generator",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -947,9 +1235,13 @@
       "english": "Mote",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -960,9 +1252,13 @@
       "english": "A large nuclear reactor repurposed from a ship power core. Consumes uranium to produce large amounts of power. Can be overloaded, resulting in even larger power output at the cost of local radiation.\\n\\nNuclear reactor will quickly overheat and should be cooled at all times.\\n\\nCannot be placed outdoors.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -973,9 +1269,13 @@
       "english": "nuclear reactor",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -986,9 +1286,13 @@
       "english": "A Nuclear reactor's meltdown has freed a cloud of radioactive material. This fog will hinder ranged attacks until it dissipates.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -999,9 +1303,13 @@
       "english": "radioactive fog",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1012,9 +1320,13 @@
       "english": "Reactor Room",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1022,9 +1334,13 @@
       "key": "Fluffy.GasNetwork.BufferOff",
       "english": "Gas storage turned off.",
       "source": "Misc_Gameplay.xml:35",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1032,9 +1348,13 @@
       "key": "Fluffy.GasNetwork.CommandToggleGas.Desc",
       "english": "Designate gas flow to be toggle on or off. A colonist will come soon to flick the switch.",
       "source": "Misc_Gameplay.xml:33",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1042,9 +1362,13 @@
       "key": "Fluffy.GasNetwork.CommandToggleGas.Label",
       "english": "Toggle gas flow",
       "source": "Misc_Gameplay.xml:32",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1052,9 +1376,13 @@
       "key": "Fluffy.GasNetwork.Consumption",
       "english": "Gas consumed: {0}",
       "source": "Misc_Gameplay.xml:27",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1062,9 +1390,13 @@
       "key": "Fluffy.GasNetwork.DesiredBuffer",
       "english": "Target gas storage: {0}/{1}",
       "source": "Misc_Gameplay.xml:34",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1072,9 +1404,13 @@
       "key": "Fluffy.GasNetwork.GasNetworkInspectString",
       "english": "Gas excess (stored) in network: {0} ({1})",
       "source": "Misc_Gameplay.xml:24",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1082,9 +1418,13 @@
       "key": "Fluffy.GasNetwork.GasOff",
       "english": "Gas turned off.",
       "source": "Misc_Gameplay.xml:28",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1092,9 +1432,13 @@
       "key": "Fluffy.GasNetwork.NoNetwork",
       "english": "Not connected to gas network.",
       "source": "Misc_Gameplay.xml:29",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1102,9 +1446,13 @@
       "key": "Fluffy.GasNetwork.Production",
       "english": "Gas produced: {0}",
       "source": "Misc_Gameplay.xml:26",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1112,9 +1460,13 @@
       "key": "Fluffy.GasNetwork.Settings.Wind.Category",
       "english": "Wind Simulation",
       "source": "Misc_Gameplay.xml:38",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1122,9 +1474,13 @@
       "key": "Fluffy.GasNetwork.Settings.Wind.WindSpeedUnit",
       "english": "Preferred unit of wind speed",
       "source": "Misc_Gameplay.xml:37",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1132,9 +1488,13 @@
       "key": "Fluffy.GasNetwork.Stored",
       "english": "Gas stored: {0}/{1}",
       "source": "Misc_Gameplay.xml:25",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1142,9 +1502,13 @@
       "key": "Fluffy.GasNetwork.ValveClosed",
       "english": "Valve is closed.",
       "source": "Misc_Gameplay.xml:31",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1152,9 +1516,13 @@
       "key": "Fluffy.GasNetwork.ValveOpen",
       "english": "Valve is open.",
       "source": "Misc_Gameplay.xml:30",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1162,9 +1530,13 @@
       "key": "VPE_AGasPipe",
       "english": "a gas pipe",
       "source": "Misc_Gameplay.xml:67",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1172,9 +1544,13 @@
       "key": "VPE_AdvGeoHeader",
       "english": "Advanced geothermal generator",
       "source": "Misc_Gameplay.xml:124",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1182,9 +1558,13 @@
       "key": "VPE_AdvGeoOutputMultiplier",
       "english": "Advanced geothermal generator output multiplier",
       "source": "Misc_Gameplay.xml:125",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1192,9 +1572,13 @@
       "key": "VPE_AdvGeoOutputMultiplierTooltip",
       "english": "The amount of power produced by an advanced geothermal generator will be multiplied by this amount.",
       "source": "Misc_Gameplay.xml:126",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1202,9 +1586,13 @@
       "key": "VPE_AdvSolarOutputMultiplier",
       "english": "Adv. Solar output multiplier",
       "source": "Misc_Gameplay.xml:103",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1212,9 +1600,13 @@
       "key": "VPE_AdvSolarOutputMultiplierTooltip",
       "english": "The amount of power produced by an advanced solar generator will be multiplied by this amount.",
       "source": "Misc_Gameplay.xml:104",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1222,9 +1614,13 @@
       "key": "VPE_AdvWatermillOutputMultiplier",
       "english": "Advanced watermill generator output multiplier",
       "source": "Misc_Gameplay.xml:121",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1232,9 +1628,13 @@
       "key": "VPE_AdvWatermillOutputMultiplierTooltip",
       "english": "The amount of power produced by an advanced watermill generator will be multiplied by this amount.",
       "source": "Misc_Gameplay.xml:122",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1242,9 +1642,13 @@
       "key": "VPE_AdvWindmillOutputMultiplier",
       "english": "Advanced wind turbine output multiplier",
       "source": "Misc_Gameplay.xml:117",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1252,9 +1656,13 @@
       "key": "VPE_AdvWindmillOutputMultiplierTooltip",
       "english": "The amount of power produced by an advanced wind turbine will be multiplied by this amount.",
       "source": "Misc_Gameplay.xml:118",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1262,9 +1670,13 @@
       "key": "VPE_CancelPlugHole",
       "english": "Cancel fill hole",
       "source": "Misc_Gameplay.xml:16",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1272,9 +1684,13 @@
       "key": "VPE_CancelPlugHoleDesc",
       "english": "Cancels the hole filling job.",
       "source": "Misc_Gameplay.xml:17",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1282,9 +1698,13 @@
       "key": "VPE_DeconstructGasPipes",
       "english": "Deconstruct Gas Network",
       "source": "Misc_Gameplay.xml:19",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1292,9 +1712,13 @@
       "key": "VPE_DeconstructGasPipesDesc",
       "english": "Deconstruct only gas pipes and subterranean gas pipes",
       "source": "Misc_Gameplay.xml:20",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1302,9 +1726,13 @@
       "key": "VPE_DisableGasPathCalculations",
       "english": "Disable Helixien gas path calculations (use to reduce lag)",
       "source": "Misc_Gameplay.xml:21",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1312,9 +1740,13 @@
       "key": "VPE_DisableNuclearMeltdowns",
       "english": "Disable Nuclear Meltdowns",
       "source": "Misc_Gameplay.xml:99",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1322,9 +1754,13 @@
       "key": "VPE_DisableNuclearMeltdownsDesc",
       "english": "If activated, nuclear plants won't ever meltdown, even if reaching critical temperature.",
       "source": "Misc_Gameplay.xml:100",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1332,9 +1768,13 @@
       "key": "VPE_GasExplosion",
       "english": "A fault in {0} has caused a gas explosion.",
       "source": "Misc_Gameplay.xml:68",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1342,9 +1782,13 @@
       "key": "VPE_GasExplosionLWasHuge",
       "english": "That really is a huge explosion. Wow.",
       "source": "Misc_Gameplay.xml:72",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1352,9 +1796,13 @@
       "key": "VPE_GasExplosionLWasLarge",
       "english": "This large amount of gas has created an explosion of considerable size.",
       "source": "Misc_Gameplay.xml:71",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1362,9 +1810,13 @@
       "key": "VPE_GasExplosionLostGas",
       "english": "All {0} l-d of gas in the connected gas tanks has been discharged in a violent explosion.",
       "source": "Misc_Gameplay.xml:70",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1372,9 +1824,13 @@
       "key": "VPE_GasExplosionStartedFire",
       "english": "A fault in {0} has caused a gas explosion which started a fire.",
       "source": "Misc_Gameplay.xml:69",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1382,9 +1838,13 @@
       "key": "VPE_GasUpdateNoticeLetterLabel",
       "english": "Power Mod Update",
       "source": "Misc_Gameplay.xml:89",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1392,9 +1852,13 @@
       "key": "VPE_GasUpdateNoticeLetterText",
       "english": "The Vanilla Furniture Expanded: Power mod has been updated with a very important update regarding the Helixien Gas Network.\\n\\nThe original code was made by me (Sarg Bjornson) and it was quite sloppy, causing a lot of bugs and inconsistent behaviour. Thanks to the amazing Fluffy, the whole gas network code has been rewritten, and it should work perfectly now.\\n\\nNOTE: since most of the classes controlling the Gas Network have changed, you should re-make any gas network components you have on an existing save. You can replace buildings without cost by accessing dev mode and turning on God mode. Then simply deconstruct your current gas network (with all gas-based objects), and replace it, for free.",
       "source": "Misc_Gameplay.xml:90",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1402,9 +1866,13 @@
       "key": "VPE_GeneratorIsOff",
       "english": "Violence generator is toggled off and inactive right now",
       "source": "Misc_Gameplay.xml:58",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1412,9 +1880,13 @@
       "key": "VPE_LetterLabelGasExplosion",
       "english": "Kaboom!",
       "source": "Misc_Gameplay.xml:73",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1422,9 +1894,13 @@
       "key": "VPE_LightningTime",
       "english": "Lightning energy stored for: ",
       "source": "Misc_Gameplay.xml:61",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1432,9 +1908,13 @@
       "key": "VPE_LiquidOutput",
       "english": "Gas output",
       "source": "Misc_Gameplay.xml:12",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1442,9 +1922,13 @@
       "key": "VPE_LiquidTankEfficiency",
       "english": "Tank efficiency",
       "source": "Misc_Gameplay.xml:9",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1452,9 +1936,13 @@
       "key": "VPE_LiquidTankStored",
       "english": "Gas stored",
       "source": "Misc_Gameplay.xml:8",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1462,9 +1950,13 @@
       "key": "VPE_Meltdown",
       "english": "Warning: Meltdown due to high temperature. Until repaired, reactor will kill all life in a radius of",
       "source": "Misc_Gameplay.xml:44",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1472,9 +1964,13 @@
       "key": "VPE_MeltdownLetter",
       "english": "A partial reactor meltdown has occured due to high temperature in the reactor room! Until repaired, this reactor will be extremely harmful to life in an extended radius.\\n\\nIgnoring this may very well be the end of your colony in a few hours.",
       "source": "Misc_Gameplay.xml:46",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1482,9 +1978,13 @@
       "key": "VPE_MeltdownLetterLabel",
       "english": "Reactor Meltdown",
       "source": "Misc_Gameplay.xml:45",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1492,9 +1992,13 @@
       "key": "VPE_MustPlaceAdjacentToPipe",
       "english": "Gas powered buildings must be placed adjacent to gas pipes, not on top",
       "source": "Misc_Gameplay.xml:18",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1502,9 +2006,13 @@
       "key": "VPE_MustPlaceOnChemfuelPond",
       "english": "The chemfuel pump needs to be built on top of a chemfuel pond",
       "source": "Misc_Gameplay.xml:79",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1512,9 +2020,13 @@
       "key": "VPE_MustPlaceOnGasGeyser",
       "english": "This building must be placed on top of a helixien gas geyser",
       "source": "Misc_Gameplay.xml:13",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1522,9 +2034,13 @@
       "key": "VPE_MustPlaceRoofed",
       "english": "This building needs to be placed in an indoors, roofed area",
       "source": "Misc_Gameplay.xml:50",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1532,9 +2048,13 @@
       "key": "VPE_NeedsDistance",
       "english": "Tidal power plants must be built with at least 40 tiles of separation of each other",
       "source": "Misc_Gameplay.xml:85",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1542,9 +2062,13 @@
       "key": "VPE_NeedsWater",
       "english": "This power plant must be built on water",
       "source": "Misc_Gameplay.xml:84",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1552,9 +2076,13 @@
       "key": "VPE_NoReactorRoom",
       "english": "Reactor room must be a roofed, enclosed space",
       "source": "Misc_Gameplay.xml:47",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1562,9 +2090,13 @@
       "key": "VPE_NotLightningProducing",
       "english": "Lightning electricity depleted. Looks like you'll have to wait for the next thunderstorm.",
       "source": "Misc_Gameplay.xml:63",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1572,9 +2104,13 @@
       "key": "VPE_NotProducing",
       "english": "No souls absorbed. The Machine Gods are hungry for human souls.",
       "source": "Misc_Gameplay.xml:55",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1582,9 +2118,13 @@
       "key": "VPE_NuclearPlantHeader",
       "english": "Nuclear Plant",
       "source": "Misc_Gameplay.xml:94",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1592,9 +2132,13 @@
       "key": "VPE_NuclearPlantMultiplier",
       "english": "Nuclear plant output multiplier",
       "source": "Misc_Gameplay.xml:95",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1602,9 +2146,13 @@
       "key": "VPE_NuclearPlantMultiplierTooltip",
       "english": "The amount of power produced by a nuclear plant will be multiplied by this amount.",
       "source": "Misc_Gameplay.xml:96",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1612,9 +2160,13 @@
       "key": "VPE_NuclearPlantRadiationMultiplier",
       "english": "Radiation radius multiplier",
       "source": "Misc_Gameplay.xml:97",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1622,9 +2174,13 @@
       "key": "VPE_NuclearPlantRadiationMultiplierTooltip",
       "english": "The radius of the radiation produced by the nuclear plant if fuel is over 50% or if in meltdown will be multiplied by this amount.",
       "source": "Misc_Gameplay.xml:98",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1632,9 +2188,13 @@
       "key": "VPE_NutrientNeeded",
       "english": "Gas needed",
       "source": "Misc_Gameplay.xml:11",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1642,9 +2202,13 @@
       "key": "VPE_PipeConnectedRateStored",
       "english": "Pipe grid excess/stored: {0} ml / {1} ml-d",
       "source": "Misc_Gameplay.xml:7",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1652,9 +2216,13 @@
       "key": "VPE_PipesNotConnected",
       "english": "Pipes not connected to generator or tanks",
       "source": "Misc_Gameplay.xml:6",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1662,9 +2230,13 @@
       "key": "VPE_PlugHole",
       "english": "Fill hole",
       "source": "Misc_Gameplay.xml:14",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1672,9 +2244,13 @@
       "key": "VPE_PlugHoleDesc",
       "english": "Fill hole with dirt. WARNING: this will destroy the geyser or pond. Only do this if it is no longer useable or if you need the space.",
       "source": "Misc_Gameplay.xml:15",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1682,9 +2258,13 @@
       "key": "VPE_PondHasFuel",
       "english": "This chemfuel pond has {0} units of chemfuel left",
       "source": "Misc_Gameplay.xml:77",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1692,9 +2272,13 @@
       "key": "VPE_PondNoFuel",
       "english": "This chemfuel pond is depleted",
       "source": "Misc_Gameplay.xml:78",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1702,9 +2286,13 @@
       "key": "VPE_Producing",
       "english": "Producing {0} W of electricity",
       "source": "Misc_Gameplay.xml:54",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1712,9 +2300,13 @@
       "key": "VPE_PumpProducing",
       "english": "The pump will produce {0} units of chemfuel in {1}",
       "source": "Misc_Gameplay.xml:80",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1722,9 +2314,13 @@
       "key": "VPE_RadiationProduced",
       "english": "Warning: Reactor producing radiation in a {0} meters radius",
       "source": "Misc_Gameplay.xml:41",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1732,9 +2328,13 @@
       "key": "VPE_Reset",
       "english": "Reset",
       "source": "Misc_Gameplay.xml:93",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1742,9 +2342,13 @@
       "key": "VPE_SolarHeader",
       "english": "Advanced Solar",
       "source": "Misc_Gameplay.xml:102",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1752,9 +2356,13 @@
       "key": "VPE_SoulHeader",
       "english": "Archotech violence generator",
       "source": "Misc_Gameplay.xml:106",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1762,9 +2370,13 @@
       "key": "VPE_SoulMultiplier",
       "english": "Hours of power per corpse consumed",
       "source": "Misc_Gameplay.xml:107",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1772,9 +2384,13 @@
       "key": "VPE_SoulMultiplierTooltip",
       "english": "By default, every corpse consumed by the reactor produces 2 hours of power. This will be multiplied by this factor.",
       "source": "Misc_Gameplay.xml:108",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1782,9 +2398,13 @@
       "key": "VPE_SoulsTime",
       "english": "Souls stored for: ",
       "source": "Misc_Gameplay.xml:53",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1792,9 +2412,13 @@
       "key": "VPE_TankLeakage",
       "english": "Minimum sealant leakage",
       "source": "Misc_Gameplay.xml:10",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1802,9 +2426,13 @@
       "key": "VPE_TempInReactorRoom",
       "english": "Temperature in reactor room: {0}ºC",
       "source": "Misc_Gameplay.xml:42",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1812,9 +2440,13 @@
       "key": "VPE_TempInReactorRoomCritical",
       "english": "Warning: Temperature in reactor room: {0}ºC",
       "source": "Misc_Gameplay.xml:43",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1822,9 +2454,13 @@
       "key": "VPE_TidalHeader",
       "english": "Tidal generator",
       "source": "Misc_Gameplay.xml:110",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1832,9 +2468,13 @@
       "key": "VPE_TidalMultiplier",
       "english": "Tidal generator output multiplier",
       "source": "Misc_Gameplay.xml:111",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1842,9 +2482,13 @@
       "key": "VPE_TidalMultiplierTooltip",
       "english": "The amount of power produced by a tidal generator will be multiplied by this amount.",
       "source": "Misc_Gameplay.xml:112",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1852,9 +2496,13 @@
       "key": "VPE_TidalSeparation",
       "english": "Tidal generator separation",
       "source": "Misc_Gameplay.xml:113",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1862,9 +2510,13 @@
       "key": "VPE_TidalSeparationTooltip",
       "english": "By default tidal generators need 40 tiles between them, but this can be changed with this setting.",
       "source": "Misc_Gameplay.xml:114",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1872,9 +2524,13 @@
       "key": "VPE_ToggleViolenceGenerator",
       "english": "Switch Generator",
       "source": "Misc_Gameplay.xml:56",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1882,9 +2538,13 @@
       "key": "VPE_ToggleViolenceGeneratorDesc",
       "english": "Switch Generator between a working and an inactive state",
       "source": "Misc_Gameplay.xml:57",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1892,9 +2552,13 @@
       "key": "VPE_WatermillHeader",
       "english": "Advanced watermill generator",
       "source": "Misc_Gameplay.xml:120",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -1902,9 +2566,13 @@
       "key": "VPE_WindmillHeader",
       "english": "Advanced wind turbine",
       "source": "Misc_Gameplay.xml:116",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     }
   ]
 }

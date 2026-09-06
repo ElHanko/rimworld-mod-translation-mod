@@ -11,9 +11,13 @@
       "english": "accessories",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Zubehör",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -24,9 +28,13 @@
       "english": "utility_a",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Gürtel",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -37,9 +45,13 @@
       "english": "ears",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ohren",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -50,9 +62,13 @@
       "english": "middle_a",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Mittlere Schicht",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -63,9 +79,13 @@
       "english": "skin_a",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Hautschicht",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -76,9 +96,13 @@
       "english": "headgear_a",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Kopfbedeckung",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -89,9 +113,13 @@
       "english": "outer_a",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Außenschicht",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -102,9 +130,13 @@
       "english": "Shield",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Schild",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -115,9 +147,13 @@
       "english": "underwear",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Unterwäsche",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -128,9 +164,13 @@
       "english": "underwear top",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Unterwäsche-Oberteil",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -138,9 +178,13 @@
       "key": "RPG_Inventory_Awful",
       "english": "Awful",
       "source": "Sandy_RPG_Gear.xml:29",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Furchtbar",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -148,9 +192,13 @@
       "key": "RPG_Inventory_Color_Selector",
       "english": "Select",
       "source": "Sandy_RPG_Gear.xml:21",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Auswählen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -158,9 +206,13 @@
       "key": "RPG_Inventory_Color_Setting",
       "english": "QUALITY COLOR SETTINGS",
       "source": "Sandy_RPG_Gear.xml:20",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "QUALITÄTSFARBEN",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -168,9 +220,13 @@
       "key": "RPG_Inventory_Excellent",
       "english": "Excellent",
       "source": "Sandy_RPG_Gear.xml:25",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ausgezeichnet",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -178,9 +234,13 @@
       "key": "RPG_Inventory_Good",
       "english": "Good",
       "source": "Sandy_RPG_Gear.xml:26",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Gut",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -188,9 +248,13 @@
       "key": "RPG_Inventory_Height",
       "english": "Gear Tab - Height",
       "source": "Sandy_RPG_Gear.xml:15",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ausrüstungsreiter – Höhe",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -198,9 +262,13 @@
       "key": "RPG_Inventory_Legendary",
       "english": "Legendary",
       "source": "Sandy_RPG_Gear.xml:23",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Legendär",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -208,9 +276,13 @@
       "key": "RPG_Inventory_Masterwork",
       "english": "Masterwork",
       "source": "Sandy_RPG_Gear.xml:24",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Meisterwerk",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -218,9 +290,13 @@
       "key": "RPG_Inventory_Normal",
       "english": "Normal",
       "source": "Sandy_RPG_Gear.xml:27",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Normal",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -228,9 +304,13 @@
       "key": "RPG_Inventory_Poor",
       "english": "Poor",
       "source": "Sandy_RPG_Gear.xml:28",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Schlecht",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -238,9 +318,13 @@
       "key": "RPG_Inventory_Width",
       "english": "Gear Tab - Width",
       "source": "Sandy_RPG_Gear.xml:14",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ausrüstungsreiter – Breite",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -248,9 +332,13 @@
       "key": "RPG_Style_Inventory_Title",
       "english": "RPG Style Inventory",
       "source": "Sandy_RPG_Gear.xml:16",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "RPG Style Inventory",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -258,9 +346,13 @@
       "key": "RWoM_ArmorHarmony",
       "english": "Magic Defense",
       "source": "Sandy_RPG_Gear.xml:18",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Magische Verteidigung",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -268,9 +360,13 @@
       "key": "SandyMassCarried",
       "english": "Mass Carried",
       "source": "Sandy_RPG_Gear.xml:5",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Getragene Masse",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -278,9 +374,13 @@
       "key": "SandyMassValue",
       "english": " {0} / {1} kg",
       "source": "Sandy_RPG_Gear.xml:6",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": " {0} / {1} kg",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -288,9 +388,13 @@
       "key": "Sandy_Belt",
       "english": "Belt",
       "source": "Sandy_RPG_Gear.xml:12",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Gürtel",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -298,9 +402,13 @@
       "key": "Sandy_Head",
       "english": "Head Overhead",
       "source": "Sandy_RPG_Gear.xml:8",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Kopf – Kopfbedeckung",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -308,9 +416,13 @@
       "key": "Sandy_Pants",
       "english": "Legs OnSkin",
       "source": "Sandy_RPG_Gear.xml:13",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Beine – Hautschicht",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -318,9 +430,13 @@
       "key": "Sandy_TorsoMiddle",
       "english": "Torso Middle",
       "source": "Sandy_RPG_Gear.xml:9",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Rumpf – Mittlere Schicht",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -328,9 +444,13 @@
       "key": "Sandy_TorsoOnSkin",
       "english": "Torso OnSkin",
       "source": "Sandy_RPG_Gear.xml:10",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Rumpf – Hautschicht",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -338,9 +458,13 @@
       "key": "Sandy_TorsoShell",
       "english": "Torso Shell",
       "source": "Sandy_RPG_Gear.xml:11",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Rumpf – Außenschicht",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -348,9 +472,13 @@
       "key": "Sandy_ViewList",
       "english": "Show List",
       "source": "Sandy_RPG_Gear.xml:7",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Liste anzeigen",
+          "review": false,
+          "needed": true
+        }
+      }
     }
   ]
 }

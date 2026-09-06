@@ -11,9 +11,13 @@
       "english": "View all bills.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -24,9 +28,13 @@
       "english": "mint bill menu",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -37,9 +45,13 @@
       "english": "Quick select designators.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -50,9 +62,13 @@
       "english": "mint designators",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -63,9 +79,13 @@
       "english": "View all pawns gear.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -76,9 +96,13 @@
       "english": "mint gear menu",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -90,9 +114,13 @@
       "hint": null,
       "def_resolution": "resolved",
       "identity_scope": "KeyBindingCategoryDef",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -104,9 +132,13 @@
       "hint": null,
       "def_resolution": "resolved",
       "identity_scope": "MainButtonDef",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -118,9 +150,13 @@
       "hint": null,
       "def_resolution": "resolved",
       "identity_scope": "KeyBindingCategoryDef",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -132,9 +168,13 @@
       "hint": null,
       "def_resolution": "resolved",
       "identity_scope": "MainButtonDef",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -145,9 +185,13 @@
       "english": "Mint Build Menu",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -158,9 +202,13 @@
       "english": "Mint Bill Menu",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -171,9 +219,13 @@
       "english": "Mint Gear Menu",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -184,9 +236,13 @@
       "english": "Mint Research Menu",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -197,9 +253,13 @@
       "english": "Mint Wheel",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -210,9 +270,13 @@
       "english": "Hide resource readout (except pins)",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -223,9 +287,13 @@
       "english": "Search research projects.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -236,9 +304,13 @@
       "english": "mint research",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -246,9 +318,13 @@
       "key": "AutoCloseArchitect",
       "english": "Close on select",
       "source": "MintMenus.xml:24",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -256,9 +332,13 @@
       "key": "AutoCloseArchitectDesc",
       "english": "Closes the architect menu when a designator is selected",
       "source": "MintMenus.xml:25",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -266,9 +346,13 @@
       "key": "AutoFocusSearch",
       "english": "Auto focus search box",
       "source": "MintMenus.xml:51",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -276,9 +360,13 @@
       "key": "AutoFocusSearchDesc",
       "english": "Automatically focus the search box to start typing each time the build menu is opened",
       "source": "MintMenus.xml:52",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -286,9 +374,13 @@
       "key": "Autoprojectstep",
       "english": "Auto project step",
       "source": "MintMenus.xml:65",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -296,9 +388,13 @@
       "key": "AutoprojectstepDesc",
       "english": "Automatically start the next research project step to complete the target project",
       "source": "MintMenus.xml:66",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -306,9 +402,13 @@
       "key": "BillSearchTip",
       "english": "Searchable words include:\\n\\nAny words in bill labels or product labels e.g. pants\\n\\nStuff catagories e.g. leather\\n\\nBody part groups e.g. head\\n\\nTags e.g. industrial\\n\\nLayers e.g. overhead",
       "source": "MintMenus.xml:41",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -316,9 +416,13 @@
       "key": "BoxSizeX",
       "english": "Box Width",
       "source": "MintMenus.xml:74",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -326,9 +430,13 @@
       "key": "BoxSizeY",
       "english": "Box Height",
       "source": "MintMenus.xml:75",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -336,9 +444,13 @@
       "key": "EnablePinningResources",
       "english": "Enable Resource pinning",
       "source": "MintMenus.xml:28",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -346,9 +458,13 @@
       "key": "EnablePinningResourcesTip",
       "english": "Ctrl click on things in the resource readout to pin them to the top (category mode only)",
       "source": "MintMenus.xml:29",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -356,9 +472,13 @@
       "key": "HideFinishedProjects",
       "english": "Hide finished research projects",
       "source": "MintMenus.xml:60",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -366,9 +486,13 @@
       "key": "HideLockedProjects",
       "english": "Hide locked research projects",
       "source": "MintMenus.xml:61",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -376,9 +500,13 @@
       "key": "InfocardWidth",
       "english": "Infocard Width",
       "source": "MintMenus.xml:70",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -386,9 +514,13 @@
       "key": "ListWidth",
       "english": "List Width",
       "source": "MintMenus.xml:68",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -396,9 +528,13 @@
       "key": "MaxHeight",
       "english": "Max Height",
       "source": "MintMenus.xml:72",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -406,9 +542,13 @@
       "key": "MessageCantEquipWhileDowned",
       "english": "Can't equip while downed",
       "source": "MintMenus.xml:9",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -416,9 +556,13 @@
       "key": "Mint.AssignMenu",
       "english": "Mint Assign Menu",
       "source": "MintMenus.xml:7",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -426,9 +570,13 @@
       "key": "Mint.AssignMenuDesc",
       "english": "Replace the default assign menu with a mint version",
       "source": "MintMenus.xml:8",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -436,9 +584,13 @@
       "key": "Mint.Bills",
       "english": "Bills",
       "source": "MintMenus.xml:18",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -446,9 +598,13 @@
       "key": "Mint.CloneBills",
       "english": "Clone Bills",
       "source": "MintMenus.xml:20",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -456,9 +612,13 @@
       "key": "Mint.CloneWorktable",
       "english": "Clone the bill stack from this worktable",
       "source": "MintMenus.xml:22",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -466,9 +626,13 @@
       "key": "Mint.Clones",
       "english": "Clones",
       "source": "MintMenus.xml:17",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -476,9 +640,13 @@
       "key": "Mint.ConfirmDeleteTemplate",
       "english": "Confirm delete clone",
       "source": "MintMenus.xml:15",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -486,9 +654,13 @@
       "key": "Mint.DeleteTemplate",
       "english": "Delete Template",
       "source": "MintMenus.xml:21",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -496,9 +668,13 @@
       "key": "Mint.GearMenu",
       "english": "Mint Gear Menu (Experimental)",
       "source": "MintMenus.xml:3",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -506,9 +682,13 @@
       "key": "Mint.GearMenuDesc",
       "english": "Activate a button to open a gear management menu which allows you to drag and drop available gear onto any pawn",
       "source": "MintMenus.xml:5",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -516,9 +696,13 @@
       "key": "Mint.GearMenuVisible",
       "english": "Main button visible",
       "source": "MintMenus.xml:4",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -526,9 +710,13 @@
       "key": "Mint.PasteTemplateTip",
       "english": "Paste bill stack to table",
       "source": "MintMenus.xml:19",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -536,9 +724,13 @@
       "key": "Mint.RenameTemplateTip",
       "english": "Rename",
       "source": "MintMenus.xml:16",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -546,9 +738,13 @@
       "key": "Mint.SelectABenchToAddBills",
       "english": "Select a bench to add a bill",
       "source": "MintMenus.xml:23",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -556,9 +752,13 @@
       "key": "Mint.Setup",
       "english": "Setup",
       "source": "MintMenus.xml:6",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -566,9 +766,13 @@
       "key": "Mint.ShowBillIngredientIcons",
       "english": "Show ingredient icons",
       "source": "MintMenus.xml:14",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -576,9 +780,13 @@
       "key": "Mint.ShowBillWorkIcons",
       "english": "Show work to make icons",
       "source": "MintMenus.xml:13",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -586,9 +794,13 @@
       "key": "Mint.ShowMintBillsButton",
       "english": "Show mint bills main button",
       "source": "MintMenus.xml:10",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -596,9 +808,13 @@
       "key": "Mint.ShowMintBillsButtonTip",
       "english": "Show the mint bills button on the main tabs list along the bottom of the screen",
       "source": "MintMenus.xml:11",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -606,9 +822,13 @@
       "key": "MintBills",
       "english": "Bills",
       "source": "MintMenus.xml:67",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -616,9 +836,13 @@
       "key": "MintBuildMenu",
       "english": "Build menu",
       "source": "MintMenus.xml:50",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -626,9 +850,13 @@
       "key": "MintDiscord",
       "english": "Dubs Mods Discord",
       "source": "MintMenus.xml:36",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -636,9 +864,13 @@
       "key": "MintExperimental",
       "english": "Extras",
       "source": "MintMenus.xml:64",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -646,9 +878,13 @@
       "key": "MintHelpLinks",
       "english": "Support Links",
       "source": "MintMenus.xml:35",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -656,9 +892,13 @@
       "key": "MintListWidth",
       "english": "List width",
       "source": "MintMenus.xml:56",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -666,9 +906,13 @@
       "key": "MintPlants",
       "english": "Plants",
       "source": "MintMenus.xml:73",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -676,9 +920,13 @@
       "key": "MintResetAll",
       "english": "Reset All",
       "source": "MintMenus.xml:76",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -686,9 +934,13 @@
       "key": "MintResourceReadout",
       "english": "Mint Resource Readout",
       "source": "MintMenus.xml:63",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -696,9 +948,13 @@
       "key": "MintWheel",
       "english": "Mint wheel",
       "source": "MintMenus.xml:49",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -706,9 +962,13 @@
       "key": "MintWheelDesc",
       "english": "Mint Wheel {0}/{1} Ctrl+Click to assign",
       "source": "MintMenus.xml:45",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -716,9 +976,13 @@
       "key": "MintWheelEditMode",
       "english": "Click designators in the architect menu to add them to the wheel\\nDrag and drop to arrange in the wheel",
       "source": "MintMenus.xml:44",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -726,9 +990,13 @@
       "key": "MintWheelMenu",
       "english": "Mint Wheel Menu",
       "source": "MintMenus.xml:46",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -736,9 +1004,13 @@
       "key": "MintWheelRightClickDesc",
       "english": "Open the Mint wheel on right click instead of opening the architect menu",
       "source": "MintMenus.xml:48",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -746,9 +1018,13 @@
       "key": "MintWheelonrightclick",
       "english": "Mint Wheel on right click",
       "source": "MintMenus.xml:47",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -756,9 +1032,13 @@
       "key": "MintWiki",
       "english": "Mint Menus Wiki",
       "source": "MintMenus.xml:39",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -766,9 +1046,13 @@
       "key": "NoActiveProject",
       "english": "No Active Project",
       "source": "MintMenus.xml:42",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -776,9 +1060,13 @@
       "key": "OverrideArchitectTab",
       "english": "Override architect tab",
       "source": "MintMenus.xml:53",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -786,9 +1074,13 @@
       "key": "OverrideArchitectTabDesc",
       "english": "Make the mint build menu the default architect tab (hold ctrl for default)",
       "source": "MintMenus.xml:54",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -796,9 +1088,13 @@
       "key": "OverrideResearchTab",
       "english": "Override research tab",
       "source": "MintMenus.xml:57",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -806,9 +1102,13 @@
       "key": "OverrideResearchTabDesc",
       "english": "Make the mint research menu the default research tab (hold ctrl for default)",
       "source": "MintMenus.xml:58",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -816,9 +1116,13 @@
       "key": "PinnedRes",
       "english": "Pinned",
       "source": "MintMenus.xml:62",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -826,9 +1130,13 @@
       "key": "ProjectStalled",
       "english": "Research project requirements are not met",
       "source": "MintMenus.xml:37",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -836,9 +1144,13 @@
       "key": "ProjectStopped",
       "english": "Project stopped",
       "source": "MintMenus.xml:38",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -846,9 +1158,13 @@
       "key": "QueueResearchProj",
       "english": "Queue",
       "source": "MintMenus.xml:27",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -856,9 +1172,13 @@
       "key": "ReplacePlantMenu",
       "english": "Mint Plant Menu",
       "source": "MintMenus.xml:33",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -866,9 +1186,13 @@
       "key": "ReplacePlantMenuTip",
       "english": "Open the mint plant menu instead of vanilla drop down, if disabled you can ctrl click to open the mint menu instead",
       "source": "MintMenus.xml:12",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -876,9 +1200,13 @@
       "key": "ResearchCompletionMode",
       "english": "Research Completion Mode",
       "source": "MintMenus.xml:34",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -886,9 +1214,13 @@
       "key": "ResearchMenu",
       "english": "Research",
       "source": "MintMenus.xml:55",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -896,9 +1228,13 @@
       "key": "ResearchQueueTip",
       "english": "Research Queue - Drag to order",
       "source": "MintMenus.xml:26",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -906,9 +1242,13 @@
       "key": "RowHeight",
       "english": "Row Height",
       "source": "MintMenus.xml:69",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -916,9 +1256,13 @@
       "key": "SetButtonsFromBuildo",
       "english": "Add buttons using the Mint build menu (ctrl click architect menu)",
       "source": "MintMenus.xml:40",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -926,9 +1270,13 @@
       "key": "ShowHideResourceList",
       "english": "Hide resource readout",
       "source": "MintMenus.xml:30",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -936,9 +1284,13 @@
       "key": "ShowHideResourceListTip",
       "english": "Hide the resource readout on the left of the screen",
       "source": "MintMenus.xml:31",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -946,9 +1298,13 @@
       "key": "TargetProject",
       "english": "Target Project: {0}",
       "source": "MintMenus.xml:43",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -956,9 +1312,13 @@
       "key": "TopOffset",
       "english": "Top Offset",
       "source": "MintMenus.xml:71",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -966,9 +1326,13 @@
       "key": "UnlockedThings",
       "english": "Unlocks Things",
       "source": "MintMenus.xml:59",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -976,9 +1340,13 @@
       "key": "dragdropdes",
       "english": "Drag\\n&\\nDrop",
       "source": "MintMenus.xml:32",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "",
+          "review": false,
+          "needed": true
+        }
+      }
     }
   ]
 }

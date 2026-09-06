@@ -10,10 +10,14 @@
       "package_id": "memegoddess.replacestuff",
       "path": "Uuugggg_ReplaceStuff_1_1_0.content",
       "type": "def",
-      "german": "Replace Stuff platziert nun bei Bedarf auch von Mods hinzugefügte Brücken.\\nIn den Einstellungen kannst du festlegen, welche Brücke bevorzugt gebaut werden soll.\\n(Brücken, für die du die benötigten Ressourcen hast, werden weiterhin bevorzugt.)",
-      "review": false,
-      "needed": true,
-      "def_resolution": "resolved"
+      "def_resolution": "resolved",
+      "translations": {
+        "German": {
+          "text": "Replace Stuff platziert nun bei Bedarf auch von Mods hinzugefügte Brücken.\\nIn den Einstellungen kannst du festlegen, welche Brücke bevorzugt gebaut werden soll.\\n(Brücken, für die du die benötigten Ressourcen hast, werden weiterhin bevorzugt.)",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "def_name": "Uuugggg_ReplaceStuff_1_1_0",
@@ -23,10 +27,14 @@
       "package_id": "memegoddess.replacestuff",
       "path": "Uuugggg_ReplaceStuff_1_1_0.modNameReadable",
       "type": "def",
-      "german": "Replace Stuff",
-      "review": false,
-      "needed": true,
-      "def_resolution": "resolved"
+      "def_resolution": "resolved",
+      "translations": {
+        "German": {
+          "text": "Replace Stuff",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "def_name": "Vent_Over2W",
@@ -36,10 +44,14 @@
       "package_id": "memegoddess.replacestuff",
       "path": "Vent_Over2W.description",
       "type": "def",
-      "german": "Ein Lüfter zum Ausgleichen der Temperatur zwischen zwei Räumen, ohne dass Personen zwischen ihnen hindurchgehen können.",
-      "review": false,
-      "needed": true,
-      "def_resolution": "resolved"
+      "def_resolution": "resolved",
+      "translations": {
+        "German": {
+          "text": "Ein Lüfter zum Ausgleichen der Temperatur zwischen zwei Räumen, ohne dass Personen zwischen ihnen hindurchgehen können.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "def_name": "Vent_Over2W",
@@ -49,10 +61,14 @@
       "package_id": "memegoddess.replacestuff",
       "path": "Vent_Over2W.label",
       "type": "def",
-      "german": "breiter Wandlüfter",
-      "review": false,
-      "needed": true,
-      "def_resolution": "resolved"
+      "def_resolution": "resolved",
+      "translations": {
+        "German": {
+          "text": "breiter Wandlüfter",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Preferred Bridge order to place when needed:",
@@ -60,9 +76,13 @@
       "package_id": "memegoddess.replacestuff",
       "source": "AutoEnglish.xml:15",
       "type": "keyed",
-      "german": "Bevorzugte Reihenfolge der bei Bedarf zu platzierenden Brücken:",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Bevorzugte Reihenfolge der bei Bedarf zu platzierenden Brücken:",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "(First priority is bridges you have resources for ; Second priority is this list order - drag-and-drop to re-order)",
@@ -70,9 +90,13 @@
       "package_id": "memegoddess.replacestuff",
       "source": "AutoEnglish.xml:16",
       "type": "keyed",
-      "german": "(Erste Priorität haben Brücken, für die du die benötigten Ressourcen hast; zweite Priorität ist die Reihenfolge dieser Liste – zum Ändern per Drag-and-drop verschieben)",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "(Erste Priorität haben Brücken, für die du die benötigten Ressourcen hast; zweite Priorität ist die Reihenfolge dieser Liste – zum Ändern per Drag-and-drop verschieben)",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Replacement already in progess.",
@@ -80,9 +104,13 @@
       "package_id": "memegoddess.replacestuff",
       "source": "AutoEnglish.xml:17",
       "type": "keyed",
-      "german": "Ersetzung läuft bereits.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Ersetzung läuft bereits.",
+          "review": false,
+          "needed": true
+        }
+      }
     }
   ]
 }

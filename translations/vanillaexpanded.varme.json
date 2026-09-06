@@ -11,9 +11,13 @@
       "english": "A coat of armor made out of small metal rings linked together forming a mesh, separated from the body with cloth padding.\\n\\nBeing quite heavy, this piece of armor slows down the wearer.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Eine Rüstung aus kleinen, miteinander verbundenen Metallringen, die ein Geflecht bilden und durch eine Stoffpolsterung vom Körper getrennt sind.\n\nDa diese Rüstung recht schwer ist, verlangsamt sie ihren Träger.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -24,9 +28,13 @@
       "english": "chainmail",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Kettenhemd",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -37,9 +45,13 @@
       "english": "A metal chest plate providing the wearer with a high protection against most damage but limiting the movement considerably.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Eine Brustplatte aus Metall, die hohen Schutz gegen die meisten Schadensarten bietet, die Bewegungsfreiheit jedoch erheblich einschränkt.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -50,9 +62,13 @@
       "english": "chestplate",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Brustplatte",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -63,9 +79,13 @@
       "english": "A padded defensive jacket providing medium isolation from cold temperatures.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Eine gepolsterte Schutzjacke, die mittleren Schutz gegen Kälte bietet.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -76,9 +96,13 @@
       "english": "gambeson",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Gambeson",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -89,9 +113,13 @@
       "english": "A camouflage clothing designed to resemble the environment. Gives user more time to aim precisely, but provides little to no defence.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Eine Tarnbekleidung, die so gestaltet ist, dass sie mit der Umgebung verschmilzt. Sie ermöglicht ihrem Träger präziseres Zielen, bietet jedoch nur wenig bis gar keinen Schutz.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -102,9 +130,13 @@
       "english": "ghillie suit",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ghillie-Anzug",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -115,9 +147,13 @@
       "english": "A full body, impermeable piece of protective equipment providing a full protection against psychic and toxic effect.\\n\\nIt limits the movement and manipulation of the wearer as well as provides no defense against any form of attack.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ein undurchlässiger Ganzkörper-Schutzanzug, der vollständigen Schutz vor psychischen und toxischen Effekten bietet.\n\nEr schränkt sowohl die Bewegung als auch die Manipulationsfähigkeit des Trägers ein und bietet keinerlei Schutz gegen Angriffe.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -128,9 +164,13 @@
       "english": "HAZMAT suit",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Gefahrstoffanzug",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -141,9 +181,13 @@
       "english": "A suit of heavy powered armor, built for increased protection while still maintaining mobility. Heavy layered plasteel-weave plates paired with a built-in energy shield emitter stop most attacks. Neuro-memetic assistors allow a human to wear this armor without immobilizing them entirely.\\n\\nArmor like this is often used by imperial stormtroopers and glitterworld peacekeepers.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Eine schwere Powerrüstung, die für erhöhten Schutz bei weiterhin guter Beweglichkeit entwickelt wurde. Schwere, mehrschichtige Platten aus Plasteelgewebe in Verbindung mit einem integrierten Energieschild-Emitter halten die meisten Angriffe auf. Neuro-memetische Assistenzsysteme ermöglichen es einem Menschen, diese Rüstung zu tragen, ohne dabei nahezu bewegungsunfähig zu werden.\n\nRüstungen dieser Art werden häufig von imperialen Sturmtruppen und Friedenswächtern auf Glitterwelten eingesetzt.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -154,9 +198,13 @@
       "english": "siegebreaker armor",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Belagerungsbrecher-Rüstung",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -167,9 +215,13 @@
       "english": "Overlapping solid plates of armor covering the chest and shoulders.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Überlappende massive Panzerplatten, die Brust und Schultern bedecken.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -180,9 +232,13 @@
       "english": "light plate armor",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "leichte Plattenrüstung",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -193,9 +249,13 @@
       "english": "A plate helmet which gives moderate protection against sharp attacks.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ein Plattenhelm, der mäßigen Schutz gegen scharfe Angriffe bietet.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -206,9 +266,13 @@
       "english": "plate helmet",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Plattenhelm",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -219,9 +283,13 @@
       "english": "A pair of simple metal shoulder plates.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ein Paar einfacher Schulterplatten aus Metall.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -232,9 +300,13 @@
       "english": "plate shoulderpads",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Plattenschulterstücke",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -245,9 +317,13 @@
       "english": "A quilted defensive vest to be worn under armour for extra protection.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Eine gesteppte Schutzweste, die unter einer Rüstung getragen wird und zusätzlichen Schutz bietet.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -258,9 +334,13 @@
       "english": "quilted vest",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Steppweste",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -271,9 +351,13 @@
       "english": "A thick jacket with armor plates inserted on chests, arms, legs and back. Very effective at protecting against blunt trauma, this kind of armor is often used by riot police and heavy infantry alike.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Eine dicke Jacke mit eingearbeiteten Panzerplatten an Brust, Armen, Beinen und Rücken. Sie schützt besonders wirksam gegen stumpfe Gewalteinwirkung und wird daher sowohl von Einheiten zur Aufstandsbekämpfung als auch von schwerer Infanterie eingesetzt.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -284,9 +368,13 @@
       "english": "riot armor",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Aufstandsbekämpfungsrüstung",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -297,9 +385,13 @@
       "english": "A heavy combat helmet with a face covering plate. Often used by riot police units due to its effectiveness at protecting against blunt trauma.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ein schwerer Kampfhelm mit schützender Gesichtsplatte. Wegen seines guten Schutzes gegen stumpfe Gewalteinwirkung wird er häufig von Einheiten zur Aufstandsbekämpfung verwendet.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -310,9 +402,13 @@
       "english": "riot helmet",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Aufstandshelm",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -323,9 +419,13 @@
       "english": "An industrial heavy shield made out of reinforced steel. Provides a lot of protection against blunt damage, which makes it ideal for urbworld riot police.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ein schwerer Industrieschild aus verstärktem Stahl. Er bietet hohen Schutz gegen stumpfen Schaden und eignet sich dadurch besonders für Einheiten zur Aufstandsbekämpfung auf Urbwelten.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -336,9 +436,13 @@
       "english": "riot shield",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Aufstandsschild",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -349,9 +453,13 @@
       "english": "centre",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Mitte",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -362,9 +470,13 @@
       "english": "A suit of light minimally-powered armor. Lightweight plasteel-weave plates block attacks, and neuro-memetic assistors in the lower body redistribute weight carried by its user. It is slimmer than other powered armor and can fit under clothes.\\n\\nArmor like this is often used by imperial conscripts and late-midworld military forces.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Eine leichte, minimal unterstützte Powerrüstung. Leichte Platten aus Plasteelgewebe halten Angriffe ab, während neuro-memetische Assistenzsysteme im Unterkörper das vom Träger transportierte Gewicht besser verteilen. Sie ist schlanker als andere Powerrüstungen und kann unter Kleidung getragen werden.\n\nRüstungen dieser Art werden häufig von imperialen Rekruten und Streitkräften fortgeschrittener Mittelwelten eingesetzt.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -375,9 +487,13 @@
       "english": "trooper armor",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Truppenrüstung",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -388,9 +504,13 @@
       "english": "A vest with wooden logs and planks covering the front and back. Quite effective against small calibre gunshots and sharp melee weapons, but completely useless against blunt hits and rifle shots.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Eine Weste, deren Vorder- und Rückseite mit Holzscheiten und Brettern bedeckt ist. Sie schützt recht gut gegen Schüsse kleinen Kalibers und scharfe Nahkampfwaffen, ist jedoch gegen stumpfe Treffer und Gewehrschüsse praktisch nutzlos.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -401,9 +521,13 @@
       "english": "wooden armor",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Holzrüstung",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -414,9 +538,13 @@
       "english": "A pair of marine boots with layered plasteel plates and enhanced servomotors.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ein Paar Marinestiefel mit mehrschichtigen Plasteelplatten und verbesserten Servomotoren.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -427,9 +555,13 @@
       "english": "marine boots",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Marinestiefel",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -440,9 +572,13 @@
       "english": "A pair of simple plate boots. Due to their weight, they slow down the wearer.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ein Paar einfache Plattenstiefel. Aufgrund ihres Gewichts verlangsamen sie den Träger.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -453,9 +589,13 @@
       "english": "plate boots",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Plattenstiefel",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -466,9 +606,13 @@
       "english": "A pair of marine gloves with enhanced grip assistance and set of embedded recoil stabilisers.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ein Paar Marinehandschuhe mit verstärkter Griffunterstützung und integrierten Rückstoßstabilisatoren.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -479,9 +623,13 @@
       "english": "marine gloves",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Marinehandschuhe",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -492,9 +640,13 @@
       "english": "A pair of simple metal gloves. Due to the thickness of the material, they reduce general work speed of the wearer.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ein Paar einfache Metallhandschuhe. Aufgrund der Materialstärke verringern sie die allgemeine Arbeitsgeschwindigkeit des Trägers.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -505,9 +657,13 @@
       "english": "plate gloves",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Plattenhandschuhe",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -518,9 +674,13 @@
       "english": "Develop suits resistant to high toxicity and radiation.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Entwickelt Schutzanzüge, die hoher Giftbelastung und Strahlung widerstehen.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -531,9 +691,13 @@
       "english": "subject->environmental safeguarding",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "subject->Schutz vor Umweltgefahren",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -544,9 +708,13 @@
       "english": "subject_story->engineered suits that turn toxic wastelands into walkable lands",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "subject_story->entwickelte Schutzanzüge, die selbst giftige Ödlande sicher begehbar machen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -557,9 +725,13 @@
       "english": "subject_story->developed radiation shields woven into the fabric of uniforms",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "subject_story->entwickelte Strahlenschutzschichten, die direkt in Uniformstoffe eingewebt werden",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -570,9 +742,13 @@
       "english": "subject_story->created attire that allows safe research in deadly environments",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "subject_story->schuf Schutzkleidung, die sichere Forschung selbst in tödlichen Umgebungen ermöglicht",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -583,9 +759,13 @@
       "english": "subject_gerund->enhancing hazard resistance",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "subject_gerund->den Schutz vor Umweltgefahren verbessernd",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -596,9 +776,13 @@
       "english": "hazard protection",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Gefahrenschutz",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -609,9 +793,13 @@
       "english": "A full face textile mask. Hides the identity of the wearer while providing warmth.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Eine textile Vollgesichtsmaske. Sie verbirgt die Identität des Trägers und hält zugleich warm.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -622,9 +810,13 @@
       "english": "balaclava",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Sturmhaube",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -635,9 +827,13 @@
       "english": "A camouflage hood designed to resemble the environment. Gives user more time to aim precisely, but provides little to no defence.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Eine Tarnkapuze, die so gestaltet ist, dass sie mit der Umgebung verschmilzt. Sie ermöglicht ihrem Träger präziseres Zielen, bietet jedoch nur wenig bis gar keinen Schutz.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -648,9 +844,13 @@
       "english": "ghillie hood",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ghillie-Kapuze",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -661,9 +861,13 @@
       "english": "A full head gas mask, which alongside the HAZMAT suit provides a full protection from toxic and psychic effects.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Eine Vollkopf-Gasmaske, die zusammen mit dem Gefahrstoffanzug vollständigen Schutz vor toxischen und psychischen Effekten bietet.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -674,9 +878,13 @@
       "english": "HAZMAT hood",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Gefahrstoffhaube",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -687,9 +895,13 @@
       "english": "A heavily-armored high-tech helmet, with a solid plasteel-weave shell and omni-spectrum camera.\\n\\nArmor like this is often used by imperial stormtroopers and glitterworld peacekeepers.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ein schwer gepanzerter Hightech-Helm mit einer robusten Hülle aus Plasteelgewebe und einer Omni-Spektrum-Kamera.\n\nRüstungen dieser Art werden häufig von imperialen Sturmtruppen und Friedenswächtern auf Glitterwelten eingesetzt.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -700,9 +912,13 @@
       "english": "siegebreaker helmet",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Belagerungsbrecher-Helm",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -713,9 +929,13 @@
       "english": "An artistically terrifying war mask. Hides the wearer's face and makes them more confident. Being made out of stone, it is very durable but also incredibly heavy.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Eine kunstvoll gestaltete und furchteinflößende Kriegsmaske. Sie verbirgt das Gesicht des Trägers und stärkt sein Selbstvertrauen. Da sie aus Stein besteht, ist sie sehr widerstandsfähig, aber auch außerordentlich schwer.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -726,9 +946,13 @@
       "english": "stone war mask",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Stein-Kriegsmaske",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -739,9 +963,13 @@
       "english": "A high-tech and lightweight armored helmet with a protective plasteel-weave plate.\\n\\nArmor like this is often used by imperial conscripts and late-midworld military forces.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ein leichter Hightech-Panzerhelm mit einer schützenden Platte aus Plasteelgewebe.\n\nRüstungen dieser Art werden häufig von imperialen Rekruten und Streitkräften fortgeschrittener Mittelwelten eingesetzt.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -752,9 +980,13 @@
       "english": "trooper helmet",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Truppenhelm",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -765,9 +997,13 @@
       "english": "Learn the process of tanning to craft more thicker and durable armors.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Erlernt das Gerben von Leder, um dickere und widerstandsfähigere Rüstungen herzustellen.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -778,9 +1014,13 @@
       "english": "subject->art of leathercraft",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "subject->die Kunst der Lederverarbeitung",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -791,9 +1031,13 @@
       "english": "subject_story->rediscovered ancient tanning recipes for unmatched durability",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "subject_story->entdeckte alte Gerbrezepte wieder, die Leder außergewöhnlich widerstandsfähig machen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -804,9 +1048,13 @@
       "english": "subject_story->introduced waterproofing techniques that defy harsh weathers",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "subject_story->führte Imprägnierungstechniken ein, die selbst widrigem Wetter standhalten",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -817,9 +1065,13 @@
       "english": "subject_story->crafted armors that blend tradition with battlefield necessity",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "subject_story->fertigte Rüstungen, die Tradition mit den Anforderungen des Schlachtfelds verbinden",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -830,9 +1082,13 @@
       "english": "subject_gerund->mastering leather tanning",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "subject_gerund->die Ledergerbung meisternd",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -843,9 +1099,13 @@
       "english": "leather tanning",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ledergerbung",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -856,9 +1116,13 @@
       "english": "Craft special military apparel allowing users to resemble the background environment such as foliage.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ermöglicht die Herstellung spezieller Militärkleidung, mit der sich Träger an ihre Umgebung, etwa die Vegetation, anpassen und tarnen können.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -869,9 +1133,13 @@
       "english": "subject->stealth and mimicry",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "subject->Tarnung und Nachahmung",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -882,9 +1150,13 @@
       "english": "subject_story->designed gear that mimics the environment, making soldiers invisible",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "subject_story->entwickelte Ausrüstung, die ihre Umgebung nachahmt und Soldaten nahezu unsichtbar macht",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -895,9 +1167,13 @@
       "english": "subject_story->studied animals' camouflage to apply their patterns to military apparel",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "subject_story->untersuchte die Tarnung von Tieren, um deren Muster auf militärische Kleidung zu übertragen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -908,9 +1184,13 @@
       "english": "subject_story->outfitted scouts with wear that blends seamlessly into surroundings",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "subject_story->stattete Späher mit Kleidung aus, die nahtlos mit der Umgebung verschmilzt",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -921,9 +1201,13 @@
       "english": "subject_gerund->camouflaging the forces",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "subject_gerund->die Truppen tarnend",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -934,9 +1218,13 @@
       "english": "military camouflage",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Militärtarnung",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -947,9 +1235,13 @@
       "english": "Craft siegebreaker armor, heavy powered armor that significantly slows the user but provides advanced protection at range. Note that these also require advanced components.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ermöglicht die Herstellung von Belagerungsbrecher-Rüstungen, schweren Powerrüstungen, die ihren Träger deutlich verlangsamen, dafür aber hervorragenden Schutz gegen Fernkampfangriffe bieten. Für ihre Herstellung werden außerdem fortschrittliche Komponenten benötigt.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -960,9 +1252,13 @@
       "english": "subject->fortified march",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "subject->gepanzert voranschreiten",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -973,9 +1269,13 @@
       "english": "subject_story->forged armor that withstands artillery, turning soldiers into walking tanks",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "subject_story->schmiedete Rüstungen, die Artilleriebeschuss standhalten und Soldaten in wandelnde Panzer verwandeln",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -986,9 +1286,13 @@
       "english": "subject_story->integrated advanced tech for unmatched endurance on the battlefield",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "subject_story->integrierte fortschrittliche Technologie für beispiellose Widerstandsfähigkeit auf dem Schlachtfeld",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -999,9 +1303,13 @@
       "english": "subject_story->developed exoskeletons that bear the brunt, safeguarding the wearer",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "subject_story->entwickelte Exoskelette, die die Hauptlast von Treffern aufnehmen und ihren Träger schützen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1012,9 +1320,13 @@
       "english": "subject_gerund->constructing siegebreaker defenses",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "subject_gerund->Belagerungsbrecher-Verteidigung errichtend",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1025,9 +1337,13 @@
       "english": "siegebreaker armor",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Belagerungsbrecher-Rüstung",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1038,9 +1354,13 @@
       "english": "Craft trooper armor, a light semi-powered armor that is lightweight and cheap to produce. Note that these also require advanced components.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ermöglicht die Herstellung von Truppenrüstungen, leichten teilunterstützten Rüstungen, die wenig wiegen und kostengünstig herzustellen sind. Für ihre Herstellung werden außerdem fortschrittliche Komponenten benötigt.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1051,9 +1371,13 @@
       "english": "subject->agile protection",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "subject->beweglicher Schutz",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1064,9 +1388,13 @@
       "english": "subject_story->innovated with lightweight materials for rapid troop deployment",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "subject_story->entwickelte leichte Materialien für den schnellen Einsatz von Truppen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1077,9 +1405,13 @@
       "english": "subject_story->balanced protection with mobility, setting new standards for combat gear",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "subject_story->brachte Schutz und Beweglichkeit in Einklang und setzte damit neue Maßstäbe für Kampfausrüstung",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1090,9 +1422,13 @@
       "english": "subject_story->pioneered the use of semi-powered armor in skirmishes",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "subject_story->leistete Pionierarbeit beim Einsatz teilunterstützter Rüstungen in Gefechten",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1103,9 +1439,13 @@
       "english": "subject_gerund->equipping rapid response units",
       "hint": " this list allows full-list translation by using <li> nodes",
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "subject_gerund->Schnelleinsatzkräfte ausrüstend",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -1116,9 +1456,13 @@
       "english": "trooper armor",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Truppenrüstung",
+          "review": false,
+          "needed": true
+        }
+      }
     }
   ]
 }

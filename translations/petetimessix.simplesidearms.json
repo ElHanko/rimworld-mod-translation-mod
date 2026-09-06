@@ -11,9 +11,13 @@
       "english": "Combat Extended is loaded. SimpleSidearms inventory management functionality is disabled.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Combat Extended ist geladen. Die Inventarverwaltung von Simple Sidearms ist deaktiviert.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -24,9 +28,13 @@
       "english": "SS: CE patch",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "SS: CE-Patch",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -37,9 +45,13 @@
       "english": "Sidearms with a gray background are currently in a colonists inventory and eligible for use. Right click to drop.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Seitenwaffen mit grauem Hintergrund befinden sich derzeit im Inventar eines Kolonisten und können verwendet werden. Mit Rechtsklick ablegen.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -50,9 +62,13 @@
       "english": "SS: Dropping sidearms",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "SS: Seitenwaffen ablegen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -63,9 +79,13 @@
       "english": "Sidearms with a dark purple background are currently missing from a colonists loadout. They will attempt to replace them at earliest opportunity, assuming any can be found. Right click to forget about the sidearm.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Seitenwaffen mit dunkelviolettem Hintergrund fehlen derzeit in der Ausrüstung eines Kolonisten. Der Kolonist wird versuchen, sie bei der nächsten Gelegenheit zu ersetzen, sofern eine entsprechende Waffe gefunden werden kann. Mit Rechtsklick die Seitenwaffe vergessen.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -76,9 +96,13 @@
       "english": "SS: Missing sidearms",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "SS: Fehlende Seitenwaffen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -89,9 +113,13 @@
       "english": "Left click a carried weapon while drafted to force its use until end of combat. \\n\\nNote that most changes to sidearm loadout require the pawn to not be drafted.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Klicke mit der linken Maustaste auf eine mitgeführte Waffe, während der Kolonist eingezogen ist, um ihre Verwendung bis zum Ende des Kampfes zu erzwingen.\n\nBeachte, dass für die meisten Änderungen an der Seitenwaffenausrüstung der Kolonist nicht eingezogen sein darf.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -102,9 +130,13 @@
       "english": "SS: Advanced controls (drafted)",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "SS: Erweiterte Steuerung (eingezogen)",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -115,9 +147,13 @@
       "english": "Left click a carried melee weapon to set it as the preferred ranged weapon. The colonist will always use this weapon when weapon preference is set to melee (or skill on a colonist more skilled with melee weapons) and when forced into close combat. \\n\\nClick a preferred melee weapon again to force its use at all times. \\n\\nRight click to remove forced use/preference.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Klicke mit der linken Maustaste auf eine mitgeführte Nahkampfwaffe, um sie als bevorzugte Nahkampfwaffe festzulegen. Der Kolonist verwendet diese Waffe immer dann, wenn die Waffenpräferenz auf Nahkampf eingestellt ist (oder auf Fähigkeit bei einem Kolonisten, der besser im Nahkampf ist) und wenn er in den Nahkampf gezwungen wird.\n\nKlicke erneut auf eine bevorzugte Nahkampfwaffe, um ihre Verwendung jederzeit zu erzwingen.\n\nMit Rechtsklick die erzwungene Verwendung bzw. Bevorzugung aufheben.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -128,9 +164,13 @@
       "english": "SS: Advanced controls (melee)",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "SS: Erweiterte Steuerung (Nahkampf)",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -141,9 +181,13 @@
       "english": "Left click a carried ranged weapon to set it as the default ranged weapon. If the colonist weapon preference is set to ranged (or skill on a colonist more skilled with ranged weapons), this weapon will be what the colonist equips when not in active combat. It will also be used while hunting. \\n\\nClick a default ranged weapon again to force its use regardless of range/DPS. \\n\\nRight click to remove forced use/default status.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Klicke mit der linken Maustaste auf eine mitgeführte Fernkampfwaffe, um sie als Standard-Fernkampfwaffe festzulegen. Wenn die Waffenpräferenz des Kolonisten auf Fernkampf eingestellt ist (oder auf Fähigkeit bei einem Kolonisten, der besser im Fernkampf ist), rüstet der Kolonist diese Waffe außerhalb eines aktiven Kampfes aus. Sie wird außerdem bei der Jagd verwendet.\n\nKlicke erneut auf eine Standard-Fernkampfwaffe, um ihre Verwendung unabhängig von Reichweite oder DPS zu erzwingen.\n\nMit Rechtsklick die erzwungene Verwendung bzw. den Standardstatus aufheben.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -154,9 +198,13 @@
       "english": "SS: Advanced controls (ranged)",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "SS: Erweiterte Steuerung (Fernkampf)",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -167,9 +215,13 @@
       "english": "Simple Sidearms\\n\\nIn order to equip weapons as sidearms, rightclick them and select the Equip as sidearm option.\\n\\nBy default, colonists will use whichever weapon type they are best skilled with or passionate about. Ranged weapon users will also switch to a melee weapon when engaged in close combat. This behaviour can be altered in the mod settings.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Simple Sidearms\n\nUm Waffen als Seitenwaffen auszurüsten, klicke mit der rechten Maustaste auf sie und wähle die Option „Als Seitenwaffe ausrüsten“.\n\nStandardmäßig verwenden Kolonisten die Waffenart, mit der sie am besten umgehen können oder für die sie eine Leidenschaft besitzen. Fernkämpfer wechseln außerdem zu einer Nahkampfwaffe, wenn sie in einen Nahkampf verwickelt werden. Dieses Verhalten kann in den Mod-Einstellungen geändert werden.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -180,9 +232,13 @@
       "english": "SS: Sidearms",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "SS: Seitenwaffen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -193,9 +249,13 @@
       "english": "Depending on the settings, Simple Sidearms can cause colonists to drop their weapons in a variety of situations (default is attacks in melee). Don't worry - your colonists will retrieve their weapons after the fight. \\n\\nThis is a customizable feature - take a look in the mod settings dialog to learn more.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Abhängig von den Einstellungen kann Simple Sidearms dazu führen, dass Kolonisten ihre Waffen in verschiedenen Situationen fallen lassen (standardmäßig bei Angriffen im Nahkampf). Keine Sorge – deine Kolonisten holen ihre Waffen nach dem Kampf wieder.\n\nDiese Funktion kann angepasst werden. Weitere Informationen findest du in den Mod-Einstellungen.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -206,9 +266,13 @@
       "english": "SS: Losing weapons",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "SS: Waffen verlieren",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -219,9 +283,13 @@
       "english": "Colonists can have sidearm use configured on an individual basis. The options are: \\nUse ranged weapons\\nUse weapons colonist is passionate about or skilled with \\nUse melee weapons",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Die Verwendung von Seitenwaffen kann für jeden Kolonisten individuell eingestellt werden. Folgende Optionen stehen zur Verfügung:\nFernkampfwaffen verwenden\nWaffen verwenden, für die der Kolonist eine Leidenschaft oder hohe Fähigkeit besitzt\nNahkampfwaffen verwenden",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -232,9 +300,13 @@
       "english": "SS: Weapon preference",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "SS: Waffenpräferenz",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -245,9 +317,13 @@
       "english": "equipping TargetA as sidearm.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "rüstet TargetA als Seitenwaffe aus.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -258,9 +334,13 @@
       "english": "re-equipping TargetA as sidearm.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "rüstet TargetA erneut als Seitenwaffe aus.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -271,9 +351,13 @@
       "english": "re-equipping TargetA as sidearm.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "rüstet TargetA erneut als Seitenwaffe aus.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -281,9 +365,13 @@
       "key": "AllowBlockedWeaponUse_desc",
       "english": "Allow usage of weapons that are normally blocked (such as persona weapons, biocoded weapons, and Ideology role-restricted weapons) - see XKCD #1172",
       "source": "English.xml:58",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Erlaubt die Verwendung von Waffen, die normalerweise gesperrt sind (z. B. Personawaffen, biocodierte Waffen und durch Ideologie-Rollen eingeschränkte Waffen) – siehe XKCD #1172",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -291,9 +379,13 @@
       "key": "AllowBlockedWeaponUse_title",
       "english": "Allow use of blocked weapons",
       "source": "English.xml:59",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Gesperrte Waffen erlauben",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -301,9 +393,13 @@
       "key": "AsTool",
       "english": " as tool",
       "source": "English.xml:203",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": " als Werkzeug",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -311,9 +407,13 @@
       "key": "DrawSidearm_blocked",
       "english": "Weapon unusable",
       "source": "English.xml:254",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Waffe nicht verwendbar",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -321,9 +421,13 @@
       "key": "FirstTimeSettingsWarning",
       "english": "First time running Simple Sidearms?\\n\\nThis icon indicates the mod's settings have not been configured yet. It will go away when the settings menu is first accessed.\\n\\nClick to go to settings now.",
       "source": "English.xml:6",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Verwendest du Simple Sidearms zum ersten Mal?\n\nDieses Symbol zeigt an, dass die Mod-Einstellungen noch nicht konfiguriert wurden. Es verschwindet, sobald das Einstellungsmenü zum ersten Mal geöffnet wurde.\n\nKlicke hier, um jetzt die Einstellungen zu öffnen.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -331,9 +435,13 @@
       "key": "FumbleRecoveryChance_hint",
       "english": "Vertical axis is chance to avoid fumbling\\nHorizontal axis is melee or ranged skill (whichever is better)",
       "source": "English.xml:28",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Vertikale Achse: Chance, einen Waffenpatzer zu vermeiden\nHorizontale Achse: Nahkampf- oder Fernkampffähigkeit, je nachdem, welche höher ist",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -341,9 +449,13 @@
       "key": "FumbleRecoveryChance_title",
       "english": "Chance to avoid weapon fumble",
       "source": "English.xml:27",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Chance, einen Waffenpatzer zu vermeiden",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -351,9 +463,13 @@
       "key": "Fumbled",
       "english": "Fumble!",
       "source": "English.xml:152",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Patzer!",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -361,9 +477,13 @@
       "key": "Fumbled_dev",
       "english": "Fumble! ({0})",
       "source": "English.xml:153",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Patzer! ({0})",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -371,9 +491,13 @@
       "key": "HideSidearmsInCaravanDialogs_desc",
       "english": "Hide sideams in caravan dialogs, to prevent accidentaly selling them. (Experimental, implemented by XT-0xFF @Github)",
       "source": "English.xml:46",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Blendet Seitenwaffen in Karawanendialogen aus, damit sie nicht versehentlich verkauft werden. (Experimentell, implementiert von XT-0xFF @GitHub)",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -381,9 +505,13 @@
       "key": "HideSidearmsInCaravanDialogs_title",
       "english": "Hide sidearms in caravan dialogs",
       "source": "English.xml:47",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Seitenwaffen in Karawanendialogen ausblenden",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -391,9 +519,13 @@
       "key": "MaximumMassAmountRelative_hint",
       "english": "Listing assumes standard carry capacity of 35 kg",
       "source": "English.xml:109",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Die Auflistung geht von einer normalen Tragfähigkeit von 35 kg aus",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -401,9 +533,13 @@
       "key": "PreserveInventoryInCaravans_desc",
       "english": "Keep sidearms in the right inventory when returning from caravans. (Experimental, implemented by XT-0xFF @Github)",
       "source": "English.xml:43",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Behält Seitenwaffen bei der Rückkehr von Karawanen im richtigen Inventar. (Experimentell, implementiert von XT-0xFF @GitHub)",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -411,9 +547,13 @@
       "key": "PreserveInventoryInCaravans_title",
       "english": "Preserve sideams through caravans",
       "source": "English.xml:44",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Seitenwaffen bei Karawanen beibehalten",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -421,9 +561,13 @@
       "key": "ReEquipInCombat_desc",
       "english": "Auto-re-equip weapons even in combat, when not actively fighting.",
       "source": "English.xml:35",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Rüstet Waffen auch während eines Kampfes automatisch wieder aus, solange der Kolonist gerade nicht aktiv kämpft.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -431,9 +575,13 @@
       "key": "ReEquipInCombat_title",
       "english": "Re-equip during combat",
       "source": "English.xml:36",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Während des Kampfes wieder ausrüsten",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -441,9 +589,13 @@
       "key": "ReEquipOutOfCombat_desc",
       "english": "After having dropped a weapon, auto-re-equip it after combat once out of immediate danger.",
       "source": "English.xml:31",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Rüstet eine zuvor abgelegte Waffe nach dem Kampf automatisch wieder aus, sobald keine unmittelbare Gefahr mehr besteht.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -451,9 +603,13 @@
       "key": "ReEquipOutOfCombat_title",
       "english": "Re-equip dropped weapons",
       "source": "English.xml:32",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Abgelegte Waffen wieder ausrüsten",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -461,9 +617,13 @@
       "key": "SS_CanEquipAsOffand",
       "english": "Left click on the offhand icon to equip {0} as offhand weapon.",
       "source": "English.xml:268",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Klicke mit der linken Maustaste auf das Nebenhandsymbol, um {0} als Nebenhandwaffe auszurüsten.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -471,9 +631,13 @@
       "key": "SS_EquipAsOffand",
       "english": "Left click on the offhand icon to equip {0} as offhand weapon.",
       "source": "English.xml:267",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Klicke mit der linken Maustaste auf das Nebenhandsymbol, um {0} als Nebenhandwaffe auszurüsten.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -481,9 +645,13 @@
       "key": "SS_EquipOffandFail_AlreadyHoldingShield",
       "english": "Cannot equip {0} as offhand weapon - already holding {1}.",
       "source": "English.xml:266",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "{0} kann nicht als Nebenhandwaffe ausgerüstet werden – {1} wird bereits gehalten.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -491,9 +659,13 @@
       "key": "SS_EquipOffandFail_NoPrimary",
       "english": "Cannot equip {0} as offhand weapon - need a primary weapon to pair it with first.",
       "source": "English.xml:264",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "{0} kann nicht als Nebenhandwaffe ausgerüstet werden – zuerst wird eine passende Hauptwaffe benötigt.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -501,9 +673,13 @@
       "key": "SS_EquipOffandFail_PrimaryTwoHanded",
       "english": "Cannot equip {0} as offhand weapon - {1} is a two-handed weapon.",
       "source": "English.xml:265",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "{0} kann nicht als Nebenhandwaffe ausgerüstet werden – {1} ist eine Zweihandwaffe.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -511,9 +687,13 @@
       "key": "SS_EquipWarning_CannotUseWithShield",
       "english": "Using {0} will prevent use of {1}.",
       "source": "English.xml:262",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Die Verwendung von {0} verhindert die Verwendung von {1}.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -521,9 +701,13 @@
       "key": "SS_EquipWarning_WillUnequipOffhand",
       "english": "Equipping {0} will unequip offhand {1}.",
       "source": "English.xml:263",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Beim Ausrüsten von {0} wird die Nebenhandwaffe {1} abgelegt.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -531,9 +715,13 @@
       "key": "ShowAlertsMissingSidearm_desc",
       "english": "Show alerts for colonists that remember having sidearms that they no longer have and can't find a replacement for.",
       "source": "English.xml:49",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Zeigt Warnungen für Kolonisten an, die sich an eine Seitenwaffe erinnern, die sie nicht mehr besitzen und für die sie keinen Ersatz finden können.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -541,9 +729,13 @@
       "key": "ShowAlertsMissingSidearm_title",
       "english": "Show missing sidearm alerts",
       "source": "English.xml:50",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Warnungen bei fehlenden Seitenwaffen anzeigen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -551,9 +743,13 @@
       "key": "ShowBrainscope_desc",
       "english": "Show a dev tool gizmo that reveals the selected pawns internal state.",
       "source": "English.xml:55",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Zeigt ein Entwickler-Gizmo an, das den internen Zustand des ausgewählten Kolonisten offenlegt.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -561,9 +757,13 @@
       "key": "ShowBrainscope_title",
       "english": "Show Brainscope",
       "source": "English.xml:56",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Brainscope anzeigen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -571,9 +771,13 @@
       "key": "SidearmPickupFail_NotAToolForPacifist",
       "english": "Not a tool. {0} is incapable of violence.",
       "source": "English.xml:199",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Kein Werkzeug. {0} ist zu Gewalt nicht fähig.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -581,9 +785,13 @@
       "key": "SidearmPickupFail_NotYetBladelinkBonded",
       "english": "Not yet bonded",
       "source": "English.xml:200",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Noch nicht gebunden",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -591,9 +799,13 @@
       "key": "SidearmsPlaySounds_desc",
       "english": "Play sounds when swapping weapons.",
       "source": "English.xml:52",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Spielt beim Wechseln von Waffen Geräusche ab.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -601,9 +813,13 @@
       "key": "SidearmsPlaySounds_title",
       "english": "Play sounds",
       "source": "English.xml:53",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Geräusche abspielen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -611,9 +827,13 @@
       "key": "SkipDangerousWeapons_desc",
       "english": "Disallow auto-equip of dangerous weapons (molotov cocktails, frag grenades, rocket launchers, etc.)",
       "source": "English.xml:38",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Verhindert das automatische Ausrüsten gefährlicher Waffen (Molotowcocktails, Splittergranaten, Raketenwerfer usw.).",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -621,9 +841,13 @@
       "key": "SkipDangerousWeapons_title",
       "english": "Skip dangerous weapons",
       "source": "English.xml:39",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Gefährliche Waffen überspringen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -631,9 +855,13 @@
       "key": "SkipEMPWeapons_desc",
       "english": "Disallow auto-equip of EMP weapons (note that pawns will only consider auto-equipping these when fighting mechanoids anyway).",
       "source": "English.xml:40",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Verhindert das automatische Ausrüsten von EMP-Waffen (Kolonisten ziehen diese ohnehin nur im Kampf gegen Mechanoiden in Betracht).",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -641,9 +869,13 @@
       "key": "SkipEMPWeapons_title",
       "english": "Skip EMP weapons",
       "source": "English.xml:41",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "EMP-Waffen überspringen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -651,9 +883,13 @@
       "key": "ToolAutoSwitch_desc",
       "english": "Should pawns switch tools/weapons with statboosts for their current job?",
       "source": "English.xml:14",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Sollen Kolonisten für ihre aktuelle Arbeit automatisch zu Werkzeugen oder Waffen wechseln, die dafür relevante Werte verbessern?",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -661,9 +897,13 @@
       "key": "ToolAutoSwitch_title",
       "english": "Tool use autoswitch",
       "source": "English.xml:15",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Werkzeuge automatisch wechseln",
+          "review": false,
+          "needed": true
+        }
+      }
     }
   ]
 }

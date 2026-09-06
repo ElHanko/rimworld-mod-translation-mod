@@ -8,9 +8,13 @@
       "package_id": "revolus.whatsmissing",
       "source": "Keyed.xml:11",
       "type": "keyed",
-      "german": "Benötigt (siehe Tooltips, Zutaten können angeklickt werden):",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Benötigt (siehe Tooltips, Zutaten können angeklickt werden):",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "work",
@@ -18,9 +22,13 @@
       "package_id": "revolus.whatsmissing",
       "source": "Keyed.xml:12",
       "type": "keyed",
-      "german": "Arbeit",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Arbeit",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "You have / needed:",
@@ -28,9 +36,13 @@
       "package_id": "revolus.whatsmissing",
       "source": "Keyed.xml:13",
       "type": "keyed",
-      "german": "Vorhanden / benötigt:",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Vorhanden / benötigt:",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "(mixing ingredients is possible)",
@@ -38,9 +50,13 @@
       "package_id": "revolus.whatsmissing",
       "source": "Keyed.xml:14",
       "type": "keyed",
-      "german": "(Zutaten können gemischt werden)",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "(Zutaten können gemischt werden)",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Not allowed:",
@@ -48,9 +64,13 @@
       "package_id": "revolus.whatsmissing",
       "source": "Keyed.xml:15",
       "type": "keyed",
-      "german": "Nicht erlaubt:",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Nicht erlaubt:",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "nutrition",
@@ -58,9 +78,13 @@
       "package_id": "revolus.whatsmissing",
       "source": "Keyed.xml:16",
       "type": "keyed",
-      "german": "Nährwert",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Nährwert",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Hide zero count ingredients",
@@ -68,9 +92,13 @@
       "package_id": "revolus.whatsmissing",
       "source": "Keyed.xml:4",
       "type": "keyed",
-      "german": "Nicht vorhandene Zutaten ausblenden",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Nicht vorhandene Zutaten ausblenden",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Max tooltips width",
@@ -78,9 +106,13 @@
       "package_id": "revolus.whatsmissing",
       "source": "Keyed.xml:5",
       "type": "keyed",
-      "german": "Maximale Tooltip-Breite",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Maximale Tooltip-Breite",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Fix this bill window at its current position and size",
@@ -88,9 +120,13 @@
       "package_id": "revolus.whatsmissing",
       "source": "Keyed.xml:6",
       "type": "keyed",
-      "german": "Dieses Auftragsfenster an seiner aktuellen Position und Größe fixieren",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Dieses Auftragsfenster an seiner aktuellen Position und Größe fixieren",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Unfix this bill window",
@@ -98,9 +134,13 @@
       "package_id": "revolus.whatsmissing",
       "source": "Keyed.xml:7",
       "type": "keyed",
-      "german": "Fixierung dieses Auftragsfensters aufheben",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Fixierung dieses Auftragsfensters aufheben",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Pin window",
@@ -108,9 +148,13 @@
       "package_id": "revolus.whatsmissing",
       "source": "Keyed.xml:8",
       "type": "keyed",
-      "german": "Fenster fixieren",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Fenster fixieren",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Unpin window",
@@ -118,9 +162,13 @@
       "package_id": "revolus.whatsmissing",
       "source": "Keyed.xml:9",
       "type": "keyed",
-      "german": "Fensterfixierung aufheben",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Fensterfixierung aufheben",
+          "review": false,
+          "needed": true
+        }
+      }
     }
   ]
 }

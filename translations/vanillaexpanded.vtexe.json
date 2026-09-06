@@ -10,10 +10,14 @@
       "package_id": "vanillaexpanded.vtexe",
       "path": "VTE_General.label",
       "type": "def",
-      "german": "Allgemein",
-      "review": false,
-      "needed": true,
-      "def_resolution": "resolved"
+      "def_resolution": "resolved",
+      "translations": {
+        "German": {
+          "text": "Allgemein",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Vanilla Textures Expanded",
@@ -21,9 +25,13 @@
       "package_id": "vanillaexpanded.vtexe",
       "source": "Settings.xml:4",
       "type": "keyed",
-      "german": "Vanilla Textures Expanded",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Vanilla Textures Expanded",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Menu button render mode",
@@ -31,9 +39,13 @@
       "package_id": "vanillaexpanded.vtexe",
       "source": "Settings.xml:6",
       "type": "keyed",
-      "german": "Darstellungsmodus der Menüschaltflächen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Darstellungsmodus der Menüschaltflächen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Icons and text (new)",
@@ -41,9 +53,13 @@
       "package_id": "vanillaexpanded.vtexe",
       "source": "Settings.xml:7",
       "type": "keyed",
-      "german": "Symbole und Text (neu)",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Symbole und Text (neu)",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Icons where possible (vanilla)",
@@ -51,9 +67,13 @@
       "package_id": "vanillaexpanded.vtexe",
       "source": "Settings.xml:8",
       "type": "keyed",
-      "german": "Symbole, wenn möglich (Vanilla)",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Symbole, wenn möglich (Vanilla)",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Text only (classic)",
@@ -61,9 +81,13 @@
       "package_id": "vanillaexpanded.vtexe",
       "source": "Settings.xml:9",
       "type": "keyed",
-      "german": "Nur Text (klassisch)",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Nur Text (klassisch)",
+          "review": false,
+          "needed": true
+        }
+      }
     }
   ]
 }

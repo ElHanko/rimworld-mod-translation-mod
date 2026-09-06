@@ -8,9 +8,13 @@
       "package_id": "brrainz.cameraplus",
       "source": "Text.xml:130",
       "type": "keyed",
-      "german": "Blendet allgemeine schwebende Kartentexte außerhalb von RimWorlds nächster Zoomstufe aus. Dazu gehören vorübergehende Rückmeldungen wie Schadens- und Ereignistexte, nicht nur statische Beschriftungen.\\n\\nDie Option „Maus enthüllt Schilder“ zeigt bei aktivierter Unterdrückung auch schwebende Texte in der Nähe der Maus wieder an. Deaktiviere diese Einstellung, um alle schwebenden Rückmeldungen sichtbar zu lassen.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Blendet allgemeine schwebende Kartentexte außerhalb von RimWorlds nächster Zoomstufe aus. Dazu gehören vorübergehende Rückmeldungen wie Schadens- und Ereignistexte, nicht nur statische Beschriftungen.\\n\\nDie Option „Maus enthüllt Schilder“ zeigt bei aktivierter Unterdrückung auch schwebende Texte in der Nähe der Maus wieder an. Deaktiviere diese Einstellung, um alle schwebenden Rückmeldungen sichtbar zu lassen.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Suppress floating text when zoomed out",
@@ -18,9 +22,13 @@
       "package_id": "brrainz.cameraplus",
       "source": "Text.xml:37",
       "type": "keyed",
-      "german": "Schwebenden Text beim Herauszoomen ausblenden",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Schwebenden Text beim Herauszoomen ausblenden",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Disabled: choose at least one modifier.",
@@ -28,9 +36,13 @@
       "package_id": "brrainz.cameraplus",
       "source": "Text.xml:76",
       "type": "keyed",
-      "german": "Deaktiviert: Wähle mindestens eine Modifikatortaste.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Deaktiviert: Wähle mindestens eine Modifikatortaste.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Load and save use the same modifiers.",
@@ -38,9 +50,13 @@
       "package_id": "brrainz.cameraplus",
       "source": "Text.xml:77",
       "type": "keyed",
-      "german": "Laden und Speichern verwenden dieselben Modifikatortasten.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Laden und Speichern verwenden dieselben Modifikatortasten.",
+          "review": false,
+          "needed": true
+        }
+      }
     }
   ]
 }

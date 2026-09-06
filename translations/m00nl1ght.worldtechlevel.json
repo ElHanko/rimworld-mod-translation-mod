@@ -10,10 +10,14 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "path": "WorldTechLevel.label",
       "type": "def",
-      "german": "Standard-Welt-Techstufe",
-      "review": false,
-      "needed": true,
-      "def_resolution": "resolved"
+      "def_resolution": "resolved",
+      "translations": {
+        "German": {
+          "text": "Standard-Welt-Techstufe",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "current tech level",
@@ -21,9 +25,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:10",
       "type": "keyed",
-      "german": "aktuelle Techstufe",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "aktuelle Techstufe",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Allow at tech level Archotech",
@@ -31,9 +39,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:100",
       "type": "keyed",
-      "german": "Ab Techstufe Archotech erlauben",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Ab Techstufe Archotech erlauben",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Reset to default",
@@ -41,9 +53,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:101",
       "type": "keyed",
-      "german": "Auf Standard zurücksetzen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Auf Standard zurücksetzen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Allow technology obtained from space to exceed the world's tech level",
@@ -51,9 +67,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:103",
       "type": "keyed",
-      "german": "Technologie aus dem All darf die Welt-Techstufe überschreiten",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Technologie aus dem All darf die Welt-Techstufe überschreiten",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Always default world tech level slider to Unrestricted regardless of scenario",
@@ -61,9 +81,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:104",
       "type": "keyed",
-      "german": "Regler für die Welt-Techstufe unabhängig vom Szenario immer standardmäßig auf „Uneingeschränkt“ setzen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Regler für die Welt-Techstufe unabhängig vom Szenario immer standardmäßig auf „Uneingeschränkt“ setzen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Factions excluded from all filters ({0} selected)",
@@ -71,9 +95,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:106",
       "type": "keyed",
-      "german": "Von allen Filtern ausgeschlossene Fraktionen ({0} ausgewählt)",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Von allen Filtern ausgeschlossene Fraktionen ({0} ausgewählt)",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Select",
@@ -81,9 +109,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:107",
       "type": "keyed",
-      "german": "Auswählen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Auswählen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "World tech level for dev quick test",
@@ -91,9 +123,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:109",
       "type": "keyed",
-      "german": "Welt-Techstufe für Entwickler-Schnelltest",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Welt-Techstufe für Entwickler-Schnelltest",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "original tech level",
@@ -101,9 +137,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:11",
       "type": "keyed",
-      "german": "ursprüngliche Techstufe",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "ursprüngliche Techstufe",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Warning: The player faction in your selected scenario \"{0}\" exceeds the selected world tech level. This means you are starting with equipment and knowledge that is more advanced than the rest of the world.\\n\\nAre you sure?\\n\\nScenario: {1}\\nWorld: {2}\\n\\nStarting research from scenario:\\n\\n{3}",
@@ -111,9 +151,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:111",
       "type": "keyed",
-      "german": "Warnung: Die Spielerfraktion im ausgewählten Szenario „{0}“ überschreitet die gewählte Welt-Techstufe. Das bedeutet, dass du mit Ausrüstung und Wissen beginnst, die fortschrittlicher sind als im Rest der Welt.\\n\\nBist du sicher?\\n\\nSzenario: {1}\\nWelt: {2}\\n\\nStartforschung aus dem Szenario:\\n\\n{3}",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Warnung: Die Spielerfraktion im ausgewählten Szenario „{0}“ überschreitet die gewählte Welt-Techstufe. Das bedeutet, dass du mit Ausrüstung und Wissen beginnst, die fortschrittlicher sind als im Rest der Welt.\\n\\nBist du sicher?\\n\\nSzenario: {1}\\nWelt: {2}\\n\\nStartforschung aus dem Szenario:\\n\\n{3}",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "New factions are available at this tech level. Select factions to add:",
@@ -121,9 +165,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:113",
       "type": "keyed",
-      "german": "Auf dieser Techstufe sind neue Fraktionen verfügbar. Wähle Fraktionen zum Hinzufügen aus:",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Auf dieser Techstufe sind neue Fraktionen verfügbar. Wähle Fraktionen zum Hinzufügen aus:",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Successfully added {0} new factions.",
@@ -131,9 +179,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:114",
       "type": "keyed",
-      "german": "{0} neue Fraktionen erfolgreich hinzugefügt.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "{0} neue Fraktionen erfolgreich hinzugefügt.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Failed to add faction: {0}",
@@ -141,9 +193,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:115",
       "type": "keyed",
-      "german": "Fraktion konnte nicht hinzugefügt werden: {0}",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Fraktion konnte nicht hinzugefügt werden: {0}",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Filters",
@@ -151,9 +207,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:13",
       "type": "keyed",
-      "german": "Filter",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Filter",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Overrides",
@@ -161,9 +221,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:14",
       "type": "keyed",
-      "german": "Überschreibungen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Überschreibungen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Misc",
@@ -171,9 +235,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:15",
       "type": "keyed",
-      "german": "Sonstiges",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Sonstiges",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Factions",
@@ -181,9 +249,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:17",
       "type": "keyed",
-      "german": "Fraktionen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Fraktionen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Research",
@@ -191,9 +263,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:18",
       "type": "keyed",
-      "german": "Forschung",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Forschung",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Items",
@@ -201,9 +277,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:19",
       "type": "keyed",
-      "german": "Gegenstände",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Gegenstände",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Quests",
@@ -211,9 +291,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:20",
       "type": "keyed",
-      "german": "Quests",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Quests",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Incidents",
@@ -221,9 +305,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:21",
       "type": "keyed",
-      "german": "Ereignisse",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Ereignisse",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Creatures",
@@ -231,9 +319,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:22",
       "type": "keyed",
-      "german": "Kreaturen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Kreaturen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Apparel",
@@ -241,9 +333,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:23",
       "type": "keyed",
-      "german": "Kleidung",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Kleidung",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Weapons",
@@ -251,9 +347,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:24",
       "type": "keyed",
-      "german": "Waffen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Waffen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Possessions",
@@ -261,9 +361,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:25",
       "type": "keyed",
-      "german": "Besitz",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Besitz",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Prosthetics",
@@ -271,9 +375,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:26",
       "type": "keyed",
-      "german": "Prothesen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Prothesen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Backstories",
@@ -281,9 +389,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:27",
       "type": "keyed",
-      "german": "Hintergrundgeschichten",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Hintergrundgeschichten",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Traits",
@@ -291,9 +403,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:28",
       "type": "keyed",
-      "german": "Eigenschaften",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Eigenschaften",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Diseases",
@@ -301,9 +417,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:29",
       "type": "keyed",
-      "german": "Krankheiten",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Krankheiten",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Addictions",
@@ -311,9 +431,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:30",
       "type": "keyed",
-      "german": "Abhängigkeiten",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Abhängigkeiten",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Damage types",
@@ -321,9 +445,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:31",
       "type": "keyed",
-      "german": "Schadensarten",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Schadensarten",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Ideoligions",
@@ -331,9 +459,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:32",
       "type": "keyed",
-      "german": "Ideologien",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Ideologien",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Xenotypes",
@@ -341,9 +473,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:33",
       "type": "keyed",
-      "german": "Xenotypen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Xenotypen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Building materials",
@@ -351,9 +487,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:34",
       "type": "keyed",
-      "german": "Baumaterialien",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Baumaterialien",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Mineable resources",
@@ -361,9 +501,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:35",
       "type": "keyed",
-      "german": "Abbaubare Ressourcen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Abbaubare Ressourcen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Ancient debris",
@@ -371,9 +515,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:36",
       "type": "keyed",
-      "german": "Antike Trümmer",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Antike Trümmer",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Ancient facilities and roads",
@@ -381,9 +529,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:37",
       "type": "keyed",
-      "german": "Antike Anlagen und Straßen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Antike Anlagen und Straßen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "User interface",
@@ -391,9 +543,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:38",
       "type": "keyed",
-      "german": "Benutzeroberfläche",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Benutzeroberfläche",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "world tech level",
@@ -401,9 +557,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:4",
       "type": "keyed",
-      "german": "Welt-Techstufe",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Welt-Techstufe",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Filters factions based on the tech level defined by their author. Also applies to temporary factions generated for quests.",
@@ -411,9 +571,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:40",
       "type": "keyed",
-      "german": "Filtert Fraktionen anhand der von ihrem Autor festgelegten Techstufe. Gilt auch für temporäre Fraktionen, die für Quests erzeugt werden.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Filtert Fraktionen anhand der von ihrem Autor festgelegten Techstufe. Gilt auch für temporäre Fraktionen, die für Quests erzeugt werden.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Filters research projects available to the player. Also filters the corresponding techprints.",
@@ -421,9 +585,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:41",
       "type": "keyed",
-      "german": "Filtert Forschungsprojekte, die dem Spieler zur Verfügung stehen. Filtert außerdem die zugehörigen Techpläne.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Filtert Forschungsprojekte, die dem Spieler zur Verfügung stehen. Filtert außerdem die zugehörigen Techpläne.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Filters quest rewards, trader stock and other randomly generated sources of items in the world.",
@@ -431,9 +599,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:42",
       "type": "keyed",
-      "german": "Filtert Questbelohnungen, Händlerbestände und andere zufällig erzeugte Quellen für Gegenstände in der Welt.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Filtert Questbelohnungen, Händlerbestände und andere zufällig erzeugte Quellen für Gegenstände in der Welt.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Filters out quests and quest sub nodes that contain content exceeding the world's tech level. Only filters vanilla and DLC quests, mod-added quests are not filtered. Does not reduce the overall amount of quests given.",
@@ -441,9 +613,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:43",
       "type": "keyed",
-      "german": "Filtert Quests und Quest-Unterknoten heraus, deren Inhalte die Welt-Techstufe überschreiten. Es werden nur Quests aus dem Basisspiel und den DLCs gefiltert; von Mods hinzugefügte Quests werden nicht gefiltert. Die Gesamtzahl der vergebenen Quests wird dadurch nicht verringert.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Filtert Quests und Quest-Unterknoten heraus, deren Inhalte die Welt-Techstufe überschreiten. Es werden nur Quests aus dem Basisspiel und den DLCs gefiltert; von Mods hinzugefügte Quests werden nicht gefiltert. Die Gesamtzahl der vergebenen Quests wird dadurch nicht verringert.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Filters out storyteller-triggered incidents that contain content exceeding the world's tech level, for example mech clusters or toxic fallout in a medieval world. Only filters vanilla and DLC incidents, mod-added incidents are not filtered.",
@@ -451,9 +627,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:44",
       "type": "keyed",
-      "german": "Filtert vom Geschichtenerzähler ausgelöste Ereignisse heraus, deren Inhalte die Welt-Techstufe überschreiten, zum Beispiel Mech-Cluster oder toxischen Fallout in einer mittelalterlichen Welt. Es werden nur Ereignisse aus dem Basisspiel und den DLCs gefiltert; von Mods hinzugefügte Ereignisse werden nicht gefiltert.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Filtert vom Geschichtenerzähler ausgelöste Ereignisse heraus, deren Inhalte die Welt-Techstufe überschreiten, zum Beispiel Mech-Cluster oder toxischen Fallout in einer mittelalterlichen Welt. Es werden nur Ereignisse aus dem Basisspiel und den DLCs gefiltert; von Mods hinzugefügte Ereignisse werden nicht gefiltert.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Replaces creatures that exceed the world's tech level with the closest alternatives that do not. For example, ensures that quest sites and incidents such as visitor arrival generate with appropriate creatures. Only affects vanilla and DLC creatures. Does not affect anything added by other mods, unless specifically configured to do so by their authors.",
@@ -461,9 +641,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:45",
       "type": "keyed",
-      "german": "Ersetzt Kreaturen, die die Welt-Techstufe überschreiten, durch die ähnlichsten Alternativen, die sie nicht überschreiten. So wird zum Beispiel sichergestellt, dass Quest-Orte und Ereignisse wie die Ankunft von Besuchern mit passenden Kreaturen erzeugt werden. Betrifft nur Kreaturen aus dem Basisspiel und den DLCs. Inhalte anderer Mods werden nicht beeinflusst, sofern deren Autoren dies nicht ausdrücklich entsprechend konfiguriert haben.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Ersetzt Kreaturen, die die Welt-Techstufe überschreiten, durch die ähnlichsten Alternativen, die sie nicht überschreiten. So wird zum Beispiel sichergestellt, dass Quest-Orte und Ereignisse wie die Ankunft von Besuchern mit passenden Kreaturen erzeugt werden. Betrifft nur Kreaturen aus dem Basisspiel und den DLCs. Inhalte anderer Mods werden nicht beeinflusst, sofern deren Autoren dies nicht ausdrücklich entsprechend konfiguriert haben.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Checks worn apparel after a creature is newly generated. If any piece of apparel exceeds the world's tech level, that specific piece is replaced with the equivalent of lower tech level, for example Flak Jacket -> Plate Armor.\\n\\nOnly ever affects creatures that would have generated with apparel that exceeds the world's tech level, does not mess with anything else.",
@@ -471,9 +655,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:46",
       "type": "keyed",
-      "german": "Prüft die getragene Kleidung, nachdem eine Kreatur neu erzeugt wurde. Überschreitet ein Kleidungsstück die Welt-Techstufe, wird genau dieses Stück durch eine entsprechende Variante mit niedrigerer Techstufe ersetzt, zum Beispiel Flakweste -> Plattenrüstung.\\n\\nBetrifft ausschließlich Kreaturen, die mit Kleidung oberhalb der Welt-Techstufe erzeugt worden wären, und verändert sonst nichts.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Prüft die getragene Kleidung, nachdem eine Kreatur neu erzeugt wurde. Überschreitet ein Kleidungsstück die Welt-Techstufe, wird genau dieses Stück durch eine entsprechende Variante mit niedrigerer Techstufe ersetzt, zum Beispiel Flakweste -> Plattenrüstung.\\n\\nBetrifft ausschließlich Kreaturen, die mit Kleidung oberhalb der Welt-Techstufe erzeugt worden wären, und verändert sonst nichts.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Checks equipped weapons after a creature is newly generated. If the weapon exceeds the world's tech level, it is replaced with the lower tech level equivalent of the same weapon class, for example Assault Rifle -> Recurve Bow.\\n\\nOnly ever affects creatures that would have generated with weapons that exceed the world's tech level, does not mess with anything else.",
@@ -481,9 +669,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:47",
       "type": "keyed",
-      "german": "Prüft ausgerüstete Waffen, nachdem eine Kreatur neu erzeugt wurde. Überschreitet die Waffe die Welt-Techstufe, wird sie durch eine entsprechende Waffe derselben Klasse mit niedrigerer Techstufe ersetzt, zum Beispiel Sturmgewehr -> Recurvebogen.\\n\\nBetrifft ausschließlich Kreaturen, die mit Waffen oberhalb der Welt-Techstufe erzeugt worden wären, und verändert sonst nichts.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Prüft ausgerüstete Waffen, nachdem eine Kreatur neu erzeugt wurde. Überschreitet die Waffe die Welt-Techstufe, wird sie durch eine entsprechende Waffe derselben Klasse mit niedrigerer Techstufe ersetzt, zum Beispiel Sturmgewehr -> Recurvebogen.\\n\\nBetrifft ausschließlich Kreaturen, die mit Waffen oberhalb der Welt-Techstufe erzeugt worden wären, und verändert sonst nichts.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Filters initial inventory items that colonists and enemies can generate with, such as food, medicine and drugs.",
@@ -491,9 +683,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:48",
       "type": "keyed",
-      "german": "Filtert Gegenstände im Startinventar, mit denen Kolonisten und Feinde erzeugt werden können, etwa Nahrung, Medizin und Drogen.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Filtert Gegenstände im Startinventar, mit denen Kolonisten und Feinde erzeugt werden können, etwa Nahrung, Medizin und Drogen.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Filters artificial body parts and prosthetics already installed in the bodies of colonists and enemies when they are generated.",
@@ -501,9 +697,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:49",
       "type": "keyed",
-      "german": "Filtert künstliche Körperteile und Prothesen, die bei der Erzeugung bereits in den Körpern von Kolonisten und Feinden installiert sind.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Filtert künstliche Körperteile und Prothesen, die bei der Erzeugung bereits in den Körpern von Kolonisten und Feinden installiert sind.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "tech level",
@@ -511,9 +711,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:5",
       "type": "keyed",
-      "german": "Techstufe",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Techstufe",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Filters backstories based on assumed tech level. Note that the classification is keyword based and not perfect. If you spot any backstory that slipped through, please report it in the Bug Reports section on the Steam workshop page.",
@@ -521,9 +725,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:50",
       "type": "keyed",
-      "german": "Filtert Hintergrundgeschichten anhand einer angenommenen Techstufe. Die Einstufung basiert auf Schlüsselwörtern und ist nicht perfekt. Wenn dir eine Hintergrundgeschichte auffällt, die durchgerutscht ist, melde sie bitte im Bereich „Bug Reports“ auf der Steam-Workshop-Seite.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Filtert Hintergrundgeschichten anhand einer angenommenen Techstufe. Die Einstufung basiert auf Schlüsselwörtern und ist nicht perfekt. Wenn dir eine Hintergrundgeschichte auffällt, die durchgerutscht ist, melde sie bitte im Bereich „Bug Reports“ auf der Steam-Workshop-Seite.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Prevents creatures from generating with traits that conflict with the word's tech level, such as the Transhumanist trait in a medieval world.",
@@ -531,9 +739,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:51",
       "type": "keyed",
-      "german": "Verhindert, dass Kreaturen mit Eigenschaften erzeugt werden, die der Welt-Techstufe widersprechen, zum Beispiel mit der Eigenschaft „Transhumanist“ in einer mittelalterlichen Welt.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Verhindert, dass Kreaturen mit Eigenschaften erzeugt werden, die der Welt-Techstufe widersprechen, zum Beispiel mit der Eigenschaft „Transhumanist“ in einer mittelalterlichen Welt.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Filters technology related diseases such as Sensory Mechanites if the world's tech level is below Ultra.",
@@ -541,9 +753,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:52",
       "type": "keyed",
-      "german": "Filtert technologiebezogene Krankheiten wie sensorische Mechaniten, wenn die Welt-Techstufe unter Ultra liegt.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Filtert technologiebezogene Krankheiten wie sensorische Mechaniten, wenn die Welt-Techstufe unter Ultra liegt.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Prevents addictions from randomly being applied to generated creatures if the corresponding drug would be unobtainable because it exceeds the world's tech level.",
@@ -551,9 +767,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:53",
       "type": "keyed",
-      "german": "Verhindert, dass erzeugten Kreaturen zufällig Abhängigkeiten zugewiesen werden, wenn die entsprechende Droge nicht erhältlich wäre, weil sie die Welt-Techstufe überschreitet.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Verhindert, dass erzeugten Kreaturen zufällig Abhängigkeiten zugewiesen werden, wenn die entsprechende Droge nicht erhältlich wäre, weil sie die Welt-Techstufe überschreitet.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "If the world's tech level is below Industrial, prevents gunshot wounds/scars from randomly being applied to creatures when they are generated.",
@@ -561,9 +781,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:54",
       "type": "keyed",
-      "german": "Liegt die Welt-Techstufe unter industriell, verhindert dies, dass erzeugten Kreaturen zufällig Schusswunden oder Schussnarben zugewiesen werden.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Liegt die Welt-Techstufe unter industriell, verhindert dies, dass erzeugten Kreaturen zufällig Schusswunden oder Schussnarben zugewiesen werden.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Filters possible memes and precepts of ideoligions. Affects both randomly generated faction ideoligions and the player ideoligion editor.",
@@ -571,9 +795,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:55",
       "type": "keyed",
-      "german": "Filtert mögliche Glaubensgrundlagen und Gebote von Ideologien. Betrifft sowohl zufällig erzeugte Fraktionsideologien als auch den Ideologie-Editor des Spielers.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Filtert mögliche Glaubensgrundlagen und Gebote von Ideologien. Betrifft sowohl zufällig erzeugte Fraktionsideologien als auch den Ideologie-Editor des Spielers.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Filters possible options when a xenotype is randomly assigned to a creature. Does not affect creatures that are generated with a fixed xenotype, for example as part of some quests.",
@@ -581,9 +809,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:56",
       "type": "keyed",
-      "german": "Filtert die möglichen Optionen, wenn einer Kreatur zufällig ein Xenotyp zugewiesen wird. Kreaturen mit fest vorgegebenem Xenotyp werden nicht beeinflusst, zum Beispiel wenn sie als Teil bestimmter Quests erzeugt werden.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Filtert die möglichen Optionen, wenn einer Kreatur zufällig ein Xenotyp zugewiesen wird. Kreaturen mit fest vorgegebenem Xenotyp werden nicht beeinflusst, zum Beispiel wenn sie als Teil bestimmter Quests erzeugt werden.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Filters the materials of ruins and other structures on the map. Only affects map generation.",
@@ -591,9 +823,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:57",
       "type": "keyed",
-      "german": "Filtert die Materialien von Ruinen und anderen Strukturen auf der Karte. Betrifft nur die Kartengenerierung.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Filtert die Materialien von Ruinen und anderen Strukturen auf der Karte. Betrifft nur die Kartengenerierung.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Filters mineable ores generated on the map. For example, Compacted Components will not appear if the world's tech level is below Industrial. Also affects meteors.",
@@ -601,9 +837,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:58",
       "type": "keyed",
-      "german": "Filtert abbaubare Erze, die auf der Karte erzeugt werden. Beispielsweise erscheinen verdichtete Komponenten nicht, wenn die Welt-Techstufe unter industriell liegt. Betrifft außerdem Meteoriten.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Filtert abbaubare Erze, die auf der Karte erzeugt werden. Beispielsweise erscheinen verdichtete Komponenten nicht, wenn die Welt-Techstufe unter industriell liegt. Betrifft außerdem Meteoriten.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Filters ancient structures and debris on the map, such as derelict vehicles, mechanoid parts and other junk.",
@@ -611,9 +851,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:59",
       "type": "keyed",
-      "german": "Filtert antike Strukturen und Trümmer auf der Karte, etwa verlassene Fahrzeuge, Mechanoidteile und anderen Schrott.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Filtert antike Strukturen und Trümmer auf der Karte, etwa verlassene Fahrzeuge, Mechanoidteile und anderen Schrott.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "world tech level",
@@ -621,9 +865,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:6",
       "type": "keyed",
-      "german": "Welt-Techstufe",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Welt-Techstufe",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Prevents asphalt roads and landmarks with old industrial facilities from being generated into the world if tech level is below Industrial.",
@@ -631,9 +879,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:60",
       "type": "keyed",
-      "german": "Verhindert die Erzeugung von Asphaltstraßen und Landmarken mit alten Industrieanlagen in der Welt, wenn die Techstufe unter industriell liegt.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Verhindert die Erzeugung von Asphaltstraßen und Landmarken mit alten Industrieanlagen in der Welt, wenn die Techstufe unter industriell liegt.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Filters items displayed in stockpile settings and other places in the user interface. In some places, the items will appear as \"(undiscovered)\" or grouped into an \"Undiscovered\" category.",
@@ -641,9 +893,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:61",
       "type": "keyed",
-      "german": "Filtert Gegenstände, die in Lagerzoneneinstellungen und an anderen Stellen der Benutzeroberfläche angezeigt werden. An einigen Stellen erscheinen diese Gegenstände als „(unentdeckt)“ oder werden in einer Kategorie „Unentdeckt“ zusammengefasst.",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Filtert Gegenstände, die in Lagerzoneneinstellungen und an anderen Stellen der Benutzeroberfläche angezeigt werden. An einigen Stellen erscheinen diese Gegenstände als „(unentdeckt)“ oder werden in einer Kategorie „Unentdeckt“ zusammengefasst.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "floors",
@@ -651,9 +907,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:63",
       "type": "keyed",
-      "german": "Böden",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Böden",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "research projects",
@@ -661,9 +921,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:64",
       "type": "keyed",
-      "german": "Forschungsprojekte",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Forschungsprojekte",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "ideoligion presets",
@@ -671,9 +935,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:65",
       "type": "keyed",
-      "german": "Ideologie-Voreinstellungen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Ideologie-Voreinstellungen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "ideoligion memes",
@@ -681,9 +949,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:66",
       "type": "keyed",
-      "german": "Ideologie-Glaubensgrundlagen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Ideologie-Glaubensgrundlagen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "ideoligion precepts",
@@ -691,9 +963,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:67",
       "type": "keyed",
-      "german": "Ideologie-Gebote",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Ideologie-Gebote",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "ideoligion ritual rewards",
@@ -701,9 +977,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:68",
       "type": "keyed",
-      "german": "Ideologie-Ritualbelohnungen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Ideologie-Ritualbelohnungen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "incidents",
@@ -711,9 +991,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:69",
       "type": "keyed",
-      "german": "Ereignisse",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Ereignisse",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "unrestricted",
@@ -721,9 +1005,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:7",
       "type": "keyed",
-      "german": "uneingeschränkt",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "uneingeschränkt",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "quests",
@@ -731,9 +1019,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:70",
       "type": "keyed",
-      "german": "Quests",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Quests",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "quest site parts",
@@ -741,9 +1033,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:71",
       "type": "keyed",
-      "german": "Quest-Ortsteile",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Quest-Ortsteile",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "complex threats",
@@ -751,9 +1047,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:72",
       "type": "keyed",
-      "german": "komplexe Bedrohungen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "komplexe Bedrohungen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "map generation",
@@ -761,9 +1061,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:73",
       "type": "keyed",
-      "german": "Kartengenerierung",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Kartengenerierung",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "structure generation",
@@ -771,9 +1075,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:74",
       "type": "keyed",
-      "german": "Strukturgenerierung",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Strukturgenerierung",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "world generation",
@@ -781,9 +1089,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:75",
       "type": "keyed",
-      "german": "Weltgenerierung",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Weltgenerierung",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "traits",
@@ -791,9 +1103,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:76",
       "type": "keyed",
-      "german": "Eigenschaften",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Eigenschaften",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "creatures",
@@ -801,9 +1117,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:77",
       "type": "keyed",
-      "german": "Kreaturen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Kreaturen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "backstories",
@@ -811,9 +1131,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:78",
       "type": "keyed",
-      "german": "Hintergrundgeschichten",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Hintergrundgeschichten",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "xenotypes",
@@ -821,9 +1145,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:79",
       "type": "keyed",
-      "german": "Xenotypen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Xenotypen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "change tech level",
@@ -831,9 +1159,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:8",
       "type": "keyed",
-      "german": "Techstufe ändern",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Techstufe ändern",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "factions",
@@ -841,9 +1173,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:80",
       "type": "keyed",
-      "german": "Fraktionen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Fraktionen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "raid strategies",
@@ -851,9 +1187,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:81",
       "type": "keyed",
-      "german": "Überfallstrategien",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Überfallstrategien",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "map features",
@@ -861,9 +1201,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:82",
       "type": "keyed",
-      "german": "Kartenmerkmale",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Kartenmerkmale",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Show with and without user override",
@@ -871,9 +1215,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:84",
       "type": "keyed",
-      "german": "Mit und ohne Benutzerüberschreibung anzeigen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Mit und ohne Benutzerüberschreibung anzeigen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Show only defs with user override",
@@ -881,9 +1229,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:85",
       "type": "keyed",
-      "german": "Nur Definitionen mit Benutzerüberschreibung anzeigen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Nur Definitionen mit Benutzerüberschreibung anzeigen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Sort by name",
@@ -891,9 +1243,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:86",
       "type": "keyed",
-      "german": "Nach Name sortieren",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Nach Name sortieren",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Sort by tech level",
@@ -901,9 +1257,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:87",
       "type": "keyed",
-      "german": "Nach Techstufe sortieren",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Nach Techstufe sortieren",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "(any content source)",
@@ -911,9 +1271,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:88",
       "type": "keyed",
-      "german": "(beliebige Inhaltsquelle)",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "(beliebige Inhaltsquelle)",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Set all listed defs to {0}",
@@ -921,9 +1285,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:89",
       "type": "keyed",
-      "german": "Alle aufgeführten Definitionen auf {0} setzen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Alle aufgeführten Definitionen auf {0} setzen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Reset all listed defs to default",
@@ -931,9 +1299,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:90",
       "type": "keyed",
-      "german": "Alle aufgeführten Definitionen auf Standard zurücksetzen",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Alle aufgeführten Definitionen auf Standard zurücksetzen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Do you really want to override the tech level for all the currently listed defs?",
@@ -941,9 +1313,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:91",
       "type": "keyed",
-      "german": "Möchtest du die Techstufe wirklich für alle derzeit aufgeführten Definitionen überschreiben?",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Möchtest du die Techstufe wirklich für alle derzeit aufgeführten Definitionen überschreiben?",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Do you really want to reset all the currently listed defs to default?",
@@ -951,9 +1327,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:92",
       "type": "keyed",
-      "german": "Möchtest du wirklich alle derzeit aufgeführten Definitionen auf Standard zurücksetzen?",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Möchtest du wirklich alle derzeit aufgeführten Definitionen auf Standard zurücksetzen?",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Allow at any tech level",
@@ -961,9 +1341,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:94",
       "type": "keyed",
-      "german": "Auf jeder Techstufe erlauben",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Auf jeder Techstufe erlauben",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Allow at tech level Neolithic or above",
@@ -971,9 +1355,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:95",
       "type": "keyed",
-      "german": "Ab Techstufe neolithisch erlauben",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Ab Techstufe neolithisch erlauben",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Allow at tech level Medieval or above",
@@ -981,9 +1369,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:96",
       "type": "keyed",
-      "german": "Ab Techstufe mittelalterlich erlauben",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Ab Techstufe mittelalterlich erlauben",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Allow at tech level Industrial or above",
@@ -991,9 +1383,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:97",
       "type": "keyed",
-      "german": "Ab Techstufe industriell erlauben",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Ab Techstufe industriell erlauben",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Allow at tech level Spacer or above",
@@ -1001,9 +1397,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:98",
       "type": "keyed",
-      "german": "Ab Techstufe Raumfahrt erlauben",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Ab Techstufe Raumfahrt erlauben",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "english": "Allow at tech level Ultra or above",
@@ -1011,9 +1411,13 @@
       "package_id": "m00nl1ght.worldtechlevel",
       "source": "Keys.xml:99",
       "type": "keyed",
-      "german": "Ab Techstufe Ultra erlauben",
-      "review": false,
-      "needed": true
+      "translations": {
+        "German": {
+          "text": "Ab Techstufe Ultra erlauben",
+          "review": false,
+          "needed": true
+        }
+      }
     }
   ]
 }

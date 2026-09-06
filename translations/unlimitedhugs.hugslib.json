@@ -8,9 +8,13 @@
       "key": "HugsLib_logs_github_token",
       "english": "GitHub access token",
       "source": "English.xml:66",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "GitHub-Zugriffstoken",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "keyed",
@@ -18,9 +22,13 @@
       "key": "HugsLib_logs_github_token_tip",
       "english": "Publishes logs to your own GitHub account when set. Paste a token from GitHub > Settings > Developer Settings > Personal access tokens. Leave blank to publish to the public HugsLib account.\\n\\nLogs published to your account can only be viewed by others using a link.",
       "source": "English.xml:67",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Veröffentlicht Logs in deinem eigenen GitHub-Konto, wenn ein Token eingetragen ist. Füge ein Token aus GitHub > Settings > Developer settings > Personal access tokens ein. Leer lassen, um über das öffentliche HugsLib-Konto zu veröffentlichen.\n\nLogs, die in deinem Konto veröffentlicht wurden, können von anderen nur über einen Link aufgerufen werden.",
+          "review": false,
+          "needed": true
+        }
+      }
     }
   ]
 }

@@ -11,9 +11,13 @@
       "english": "A wearable frame, powered by a system of hydraulics, electric motors, levers and pneumatics, designed to permit quick movement. Whilst it does not provide any protection, it allows the user to walk faster, lift heavier objects and maintain balance more easily.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ein tragbarer Rahmen, der durch ein System aus Hydraulik, Elektromotoren, Hebeln und Pneumatik angetrieben wird und schnelle Bewegungen ermöglicht. Er bietet zwar keinerlei Schutz, erlaubt dem Träger jedoch, schneller zu gehen, schwerere Gegenstände zu heben und leichter das Gleichgewicht zu halten.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -24,9 +28,13 @@
       "english": "exoskeleton frame",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Exoskelett-Rahmen",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -37,9 +45,13 @@
       "english": "heavy flamer shot",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Schuss des schweren Flammenwerfers",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -50,9 +62,13 @@
       "english": "swarm rocket",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Schwarmrakete",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -63,9 +79,13 @@
       "english": "A self-loading large-bore cannon. Its large-caliber shells do heavy damage over significant ranges. It's slow to aim and it cannot fire at close-up targets.\\n\\nBeing an extremely heavy weapon, this gun requires a power armor to be effectively used.\\n\\nThis weapon has limited number of uses.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Eine selbstladende großkalibrige Kanone. Ihre großkalibrigen Geschosse verursachen auf beträchtliche Entfernung schweren Schaden. Das Zielen dauert lange und Ziele in unmittelbarer Nähe können nicht beschossen werden.\n\nDa es sich um eine extrem schwere Waffe handelt, ist für ihren effektiven Einsatz eine Powerrüstung erforderlich.\n\nDiese Waffe kann nur begrenzt oft eingesetzt werden.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -76,9 +96,13 @@
       "english": "autocannon",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Autokanone",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -89,9 +113,13 @@
       "english": "barrel",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Lauf",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -102,9 +130,13 @@
       "english": "grip",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Griff",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -115,9 +147,13 @@
       "english": "autocannon",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Autokanone",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -128,9 +164,13 @@
       "english": "Mortar launcher. Lobs bombs over walls. Very inaccurate but long-ranged. It's slow to aim and it cannot fire at close-up targets.\\n\\nBeing an extremely heavy weapon, this gun requires a power armor to be effectively used.\\n\\nThis weapon has limited number of uses.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ein tragbarer Mörserwerfer. Verschießt Granaten in hohem Bogen über Mauern hinweg. Sehr ungenau, besitzt dafür aber eine hohe Reichweite. Das Zielen dauert lange und Ziele in unmittelbarer Nähe können nicht beschossen werden.\n\nDa es sich um eine extrem schwere Waffe handelt, ist für ihren effektiven Einsatz eine Powerrüstung erforderlich.\n\nDiese Waffe kann nur begrenzt oft eingesetzt werden.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -141,9 +181,13 @@
       "english": "handheld mortar",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "tragbarer Mörser",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -154,9 +198,13 @@
       "english": "barrel",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Lauf",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -167,9 +215,13 @@
       "english": "grip",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Griff",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -180,9 +232,13 @@
       "english": "handheld mortar",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "tragbarer Mörser",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -193,9 +249,13 @@
       "english": "A powerful, military-grade flamer based on mechanoid inferno spewers. It can cover the entire area in front of the user in flames.\\n\\nBeing an extremely heavy weapon, this gun requires a power armor to be effectively used.\\n\\nThis weapon has limited number of uses.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ein leistungsstarker militärischer Flammenwerfer, der auf den Inferno-Speiern der Mechanoiden basiert. Er kann den gesamten Bereich vor dem Träger in Flammen hüllen.\n\nDa es sich um eine extrem schwere Waffe handelt, ist für ihren effektiven Einsatz eine Powerrüstung erforderlich.\n\nDiese Waffe kann nur begrenzt oft eingesetzt werden.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -206,9 +266,13 @@
       "english": "heavy flamer",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "schwerer Flammenwerfer",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -219,9 +283,13 @@
       "english": "barrel",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Lauf",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -232,9 +300,13 @@
       "english": "grip",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Griff",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -245,9 +317,13 @@
       "english": "heavy flamer",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "schwerer Flammenwerfer",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -258,9 +334,13 @@
       "english": "A rocket launcher that fires eight small-bore explosive missiles that track different targets.\\n\\nBeing an extremely heavy weapon, this gun requires a power armor to be effectively used.\\n\\nThis weapon has limited number of uses.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Ein Raketenwerfer, der acht kleinkalibrige explosive Raketen abfeuert, die unterschiedliche Ziele verfolgen.\n\nDa es sich um eine extrem schwere Waffe handelt, ist für ihren effektiven Einsatz eine Powerrüstung erforderlich.\n\nDiese Waffe kann nur begrenzt oft eingesetzt werden.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -271,9 +351,13 @@
       "english": "swarm missile launcher",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Schwarmraketenwerfer",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -284,9 +368,13 @@
       "english": "barrel",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Lauf",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -297,9 +385,13 @@
       "english": "grip",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Griff",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -310,9 +402,13 @@
       "english": "swarm missile launcher",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Schwarmraketenwerfer",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -323,9 +419,13 @@
       "english": "A self-loading uranium slug cannon. Its ultra-dense uranium shells can punch through heavy armor. It's more accurate at longer ranges, and can't fire at all close up.\\n\\nBeing an extremely heavy weapon, this gun requires a power armor to be effectively used.\\n\\nThis weapon has limited number of uses.",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Eine selbstladende Uranprojektilkanone. Ihre ultradichten Urangeschosse können selbst schwere Panzerung durchschlagen. Auf größere Entfernungen ist sie präziser, kann jedoch Ziele in unmittelbarer Nähe überhaupt nicht beschießen.\n\nDa es sich um eine extrem schwere Waffe handelt, ist für ihren effektiven Einsatz eine Powerrüstung erforderlich.\n\nDiese Waffe kann nur begrenzt oft eingesetzt werden.",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -336,9 +436,13 @@
       "english": "uranium slug rifle",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Uranprojektilgewehr",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -349,9 +453,13 @@
       "english": "barrel",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Lauf",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -362,9 +470,13 @@
       "english": "grip",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Griff",
+          "review": false,
+          "needed": true
+        }
+      }
     },
     {
       "type": "def",
@@ -375,9 +487,13 @@
       "english": "uranium slug rifle",
       "hint": null,
       "def_resolution": "resolved",
-      "needed": true,
-      "german": "",
-      "review": false
+      "translations": {
+        "German": {
+          "text": "Uranprojektilgewehr",
+          "review": false,
+          "needed": true
+        }
+      }
     }
   ]
 }
