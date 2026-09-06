@@ -9,6 +9,7 @@ import subprocess
 import sys
 from pathlib import Path
 import tempfile
+import zipfile
 import unittest
 from unittest.mock import patch
 import xml.etree.ElementTree as ET
@@ -1015,6 +1016,7 @@ class ExportTests(unittest.TestCase):
                 'test.mod',
             )
         ]
+        drafts[0][1]['workshop_id'] = '1234567890'
 
         with tempfile.TemporaryDirectory() as directory, \
                 patch.object(config, 'ROOT', Path(directory)), \
@@ -1048,7 +1050,7 @@ class ExportTests(unittest.TestCase):
 
             self.assertEqual(
                 {p.name for p in target.iterdir()},
-                {'About', 'LICENSE', 'Languages'},
+                {'About', 'LICENSE', 'Languages', 'SUPPORTED-MODS.txt'},
             )
             self.assertEqual(
                 len(
@@ -1067,9 +1069,28 @@ class ExportTests(unittest.TestCase):
                 (root / 'LICENSE').read_bytes(),
             )
 
+            supported = (
+                target / 'SUPPORTED-MODS.txt'
+            ).read_text(encoding='utf-8')
+            self.assertIn('Supported mods: 1', supported)
+            self.assertIn('Test', supported)
+            self.assertIn('Package ID: test.mod', supported)
+            self.assertIn('Workshop ID: 1234567890', supported)
+            self.assertIn(
+                'https://steamcommunity.com/sharedfiles/filedetails/?id=1234567890',
+                supported,
+            )
+            self.assertIn('Languages: German', supported)
+
             archive = root / 'dist/RimWorld-Mod-Translations.zip'
             self.assertTrue(archive.is_file())
             self.assertGreater(archive.stat().st_size, 0)
+
+            with zipfile.ZipFile(archive) as zipped:
+                self.assertIn(
+                    'RimWorld-Mod-Translations/SUPPORTED-MODS.txt',
+                    zipped.namelist(),
+                )
 
     def test_rejects_stale_runtime_build(self):
         drafts = [

@@ -115,6 +115,8 @@ def updated_draft(draft, mod, language=None):
     language = config.select_language(language)
     result = deepcopy(draft)
     result['name'] = mod['name'] if mod else draft['name']
+    if mod and mod.get('workshop_id'):
+        result['workshop_id'] = mod['workshop_id']
     result['entries'] = merge_entries(
         mod['entries'] if mod else [],
         draft['entries'],

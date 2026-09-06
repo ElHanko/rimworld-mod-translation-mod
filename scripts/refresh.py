@@ -237,6 +237,11 @@ def run(language=None):
                     e['identity_scope'] = e['def_type'].rsplit('.', 1)[-1]
         counts = Counter(e['type'] for e in entries)
         rows.append({'package_id': package, 'name': source['name'] if source else package,
+                     'workshop_id': (
+                         source['source']
+                         if source and str(source.get('source', '')).isdigit()
+                         else None
+                     ),
                      'source_found': bool(source), 'entries': entries,
                      'counts': {'open': len(entries), 'keyed': counts['keyed'], 'def': counts['def']},
                      'def_types': {key: sorted(value) for key, value in sorted(index.items())}})

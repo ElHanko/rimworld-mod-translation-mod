@@ -31,7 +31,67 @@ def validate_build(drafts, language):
     return expected, included, excluded
 
 
-def create_export(plans, make_zip=False):
+
+def supported_mods_text(drafts, plans, languages):
+    by_package = {
+        draft['package_id']: draft
+        for _, draft in drafts
+    }
+    supported = {}
+
+    for language in languages:
+        _, included, _ = plans[language]
+        for package_id in included:
+            supported.setdefault(package_id, []).append(language)
+
+    rows = []
+    for package_id, target_languages in supported.items():
+        draft = by_package[package_id]
+        name = draft.get('name') or package_id
+        workshop_id = str(draft.get('workshop_id') or '')
+
+        rows.append((
+            name.casefold(),
+            package_id.casefold(),
+            name,
+            package_id,
+            workshop_id,
+            target_languages,
+        ))
+
+    lines = [
+        'RimWorld Mod Translations',
+        'Supported Mods',
+        '',
+        f"Languages: {', '.join(languages)}",
+        f'Supported mods: {len(rows)}',
+        '',
+        'This export contains complete translations for the following mods:',
+        '',
+    ]
+
+    for _, _, name, package_id, workshop_id, target_languages in sorted(rows):
+        lines.append(name)
+
+        if workshop_id:
+            lines.append(f'  Workshop ID: {workshop_id}')
+            lines.append(
+                '  Workshop: '
+                'https://steamcommunity.com/sharedfiles/filedetails/'
+                f'?id={workshop_id}'
+            )
+
+        lines.append(f'  Package ID: {package_id}')
+        lines.append(
+            '  Languages: '
+            + ', '.join(sorted(target_languages, key=str.casefold))
+        )
+        lines.append('')
+
+    return ('\n'.join(lines).rstrip() + '\n').encode('utf-8')
+
+
+def create_export(plans, supported_mods, make_zip=False):
     dist = config.ROOT / 'dist'
     target = dist / MOD_DIRECTORY
     archive_target = dist / f'{MOD_DIRECTORY}.zip'
@@ -81,6 +141,7 @@ def create_export(plans, make_zip=False):
         (output / 'About').mkdir(parents=True)
         shutil.copy2(about, output / 'About' / 'About.xml')
         shutil.copy2(license_file, output / 'LICENSE')
+        (output / 'SUPPORTED-MODS.txt').write_bytes(supported_mods)
 
         for language, (expected, _, _) in plans.items():
             source = config.language_dir(language)
@@ -147,8 +208,15 @@ def run(language=None, make_zip=False):
         for target_language in languages
     }
 
+    supported_mods = supported_mods_text(
+        drafts,
+        plans,
+        languages,
+    )
+
     target, archive = create_export(
         plans,
+        supported_mods,
         make_zip,
     )
 

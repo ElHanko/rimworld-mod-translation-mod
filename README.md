@@ -468,8 +468,15 @@ The export is written to:
     ├── About/
     │   └── About.xml
     ├── LICENSE
+    ├── SUPPORTED-MODS.txt
     └── Languages/
         └── <Language>/
+
+`SUPPORTED-MODS.txt` is generated deterministically from the durable drafts
+and the actual export build plan. It lists only mods whose translations are
+complete and therefore included in at least one selected export language,
+including name, Workshop ID and URL when known, package ID, and included
+languages. Local installation state does not affect the list.
 
 Only distribution files are included. Development data such as `scripts/`,
 `translations/`, `data/`, local configuration, work files, and Git metadata

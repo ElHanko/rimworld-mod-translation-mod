@@ -104,6 +104,11 @@ def validate_draft(path, draft):
         raise ValueError(f'{path}: Dateiname passt nicht zur Package-ID')
     if not isinstance(draft.get('name'), str) or not isinstance(draft.get('entries'), list):
         raise ValueError(f'{path}: name/entries fehlen oder sind ungültig')
+    if 'workshop_id' in draft and (
+        not isinstance(draft['workshop_id'], str)
+        or not draft['workshop_id'].isdigit()
+    ):
+        raise ValueError(f'{path}: ungültige Workshop-ID')
     for e in draft['entries']:
         if not isinstance(e, dict):
             raise ValueError(f'{path}: Eintrag muss ein Objekt sein')
